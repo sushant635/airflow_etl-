@@ -1,0 +1,7 @@
+{
+    "collection_variables":{
+    "first_name":"string",
+    "start_date":"datetime",
+    "marks":"integer"
+    }
+}

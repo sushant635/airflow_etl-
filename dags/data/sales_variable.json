@@ -1,0 +1,15 @@
+{
+    "sales_variables":{
+        "Type":"string",
+        "Code":"string",
+        "Sales Type":"string",
+        "Sales Code":"integer",
+        "Starting Date":"datetime",
+        "Currency Code":"string",
+        "Variant Code":"string",
+        "Unit of Measure Code":"string",
+        "Minimum Quantity":"integer",
+        "Line Discount":"integer",
+        "Ending Date":"datetime"
+    }
+}

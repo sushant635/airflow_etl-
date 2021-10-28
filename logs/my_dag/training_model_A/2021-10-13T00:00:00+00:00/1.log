@@ -1,0 +1,118 @@
+[2021-10-14 14:39:49,141] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: my_dag.training_model_A scheduled__2021-10-13T00:00:00+00:00 [queued]>
+[2021-10-14 14:39:49,149] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: my_dag.training_model_A scheduled__2021-10-13T00:00:00+00:00 [queued]>
+[2021-10-14 14:39:49,149] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-10-14 14:39:49,149] {taskinstance.py:1242} INFO - Starting attempt 1 of 2
+[2021-10-14 14:39:49,149] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-10-14 14:39:49,160] {taskinstance.py:1262} INFO - Executing <Task(PythonOperator): training_model_A> on 2021-10-13 00:00:00+00:00
+[2021-10-14 14:39:49,162] {standard_task_runner.py:52} INFO - Started process 12353 to run task
+[2021-10-14 14:39:49,165] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'my_dag', 'training_model_A', 'scheduled__2021-10-13T00:00:00+00:00', '--job-id', '19', '--raw', '--subdir', 'DAGS_FOLDER/my_dag.py', '--cfg-path', '/tmp/tmpk4m5r3id', '--error-file', '/tmp/tmpivoi_6lm']
+[2021-10-14 14:39:49,166] {standard_task_runner.py:77} INFO - Job 19: Subtask training_model_A
+[2021-10-14 14:39:49,205] {logging_mixin.py:109} INFO - Running <TaskInstance: my_dag.training_model_A scheduled__2021-10-13T00:00:00+00:00 [running]> on host user-Latitude-3410
+[2021-10-14 14:39:49,270] {taskinstance.py:1414} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=airflow@example.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=my_dag
+AIRFLOW_CTX_TASK_ID=training_model_A
+AIRFLOW_CTX_EXECUTION_DATE=2021-10-13T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-10-13T00:00:00+00:00
+[2021-10-14 14:39:49,271] {python.py:152} INFO - Done. Returned value was: 1
+[2021-10-14 14:39:49,300] {taskinstance.py:1280} INFO - Marking task as SUCCESS. dag_id=my_dag, task_id=training_model_A, execution_date=20211013T000000, start_date=20211014T090949, end_date=20211014T090949
+[2021-10-14 14:39:49,338] {local_task_job.py:154} INFO - Task exited with return code 0
+[2021-10-14 14:39:49,407] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2021-10-14 14:39:58,501] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: my_dag.training_model_A manual__2021-10-14T09:09:53.722625+00:00 [queued]>
+[2021-10-14 14:39:58,509] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: my_dag.training_model_A manual__2021-10-14T09:09:53.722625+00:00 [queued]>
+[2021-10-14 14:39:58,510] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-10-14 14:39:58,511] {taskinstance.py:1242} INFO - Starting attempt 1 of 2
+[2021-10-14 14:39:58,511] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-10-14 14:39:58,534] {taskinstance.py:1262} INFO - Executing <Task(PythonOperator): training_model_A> on 2021-10-14 09:09:53.722625+00:00
+[2021-10-14 14:39:58,537] {standard_task_runner.py:52} INFO - Started process 12522 to run task
+[2021-10-14 14:39:58,541] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'my_dag', 'training_model_A', 'manual__2021-10-14T09:09:53.722625+00:00', '--job-id', '22', '--raw', '--subdir', 'DAGS_FOLDER/my_dag.py', '--cfg-path', '/tmp/tmp8y0w8zv6', '--error-file', '/tmp/tmpp5jry_5u']
+[2021-10-14 14:39:58,543] {standard_task_runner.py:77} INFO - Job 22: Subtask training_model_A
+[2021-10-14 14:39:58,576] {logging_mixin.py:109} INFO - Running <TaskInstance: my_dag.training_model_A manual__2021-10-14T09:09:53.722625+00:00 [running]> on host user-Latitude-3410
+[2021-10-14 14:39:58,625] {taskinstance.py:1414} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=airflow@example.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=my_dag
+AIRFLOW_CTX_TASK_ID=training_model_A
+AIRFLOW_CTX_EXECUTION_DATE=2021-10-14T09:09:53.722625+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2021-10-14T09:09:53.722625+00:00
+[2021-10-14 14:39:58,625] {python.py:152} INFO - Done. Returned value was: 1
+[2021-10-14 14:39:58,641] {taskinstance.py:1280} INFO - Marking task as SUCCESS. dag_id=my_dag, task_id=training_model_A, execution_date=20211014T090953, start_date=20211014T090958, end_date=20211014T090958
+[2021-10-14 14:39:58,714] {local_task_job.py:154} INFO - Task exited with return code 0
+[2021-10-14 14:39:58,745] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2021-10-14 14:47:36,992] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: my_dag.training_model_A manual__2021-10-14T09:17:34.915835+00:00 [queued]>
+[2021-10-14 14:47:37,001] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: my_dag.training_model_A manual__2021-10-14T09:17:34.915835+00:00 [queued]>
+[2021-10-14 14:47:37,001] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-10-14 14:47:37,001] {taskinstance.py:1242} INFO - Starting attempt 1 of 2
+[2021-10-14 14:47:37,001] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-10-14 14:47:37,014] {taskinstance.py:1262} INFO - Executing <Task(PythonOperator): training_model_A> on 2021-10-14 09:17:34.915835+00:00
+[2021-10-14 14:47:37,016] {standard_task_runner.py:52} INFO - Started process 15076 to run task
+[2021-10-14 14:47:37,020] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'my_dag', 'training_model_A', 'manual__2021-10-14T09:17:34.915835+00:00', '--job-id', '30', '--raw', '--subdir', 'DAGS_FOLDER/my_dag.py', '--cfg-path', '/tmp/tmp9xe4aqcs', '--error-file', '/tmp/tmpaucvv6nn']
+[2021-10-14 14:47:37,022] {standard_task_runner.py:77} INFO - Job 30: Subtask training_model_A
+[2021-10-14 14:47:37,051] {logging_mixin.py:109} INFO - Running <TaskInstance: my_dag.training_model_A manual__2021-10-14T09:17:34.915835+00:00 [running]> on host user-Latitude-3410
+[2021-10-14 14:47:37,077] {taskinstance.py:1414} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=airflow@example.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=my_dag
+AIRFLOW_CTX_TASK_ID=training_model_A
+AIRFLOW_CTX_EXECUTION_DATE=2021-10-14T09:17:34.915835+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2021-10-14T09:17:34.915835+00:00
+[2021-10-14 14:47:37,077] {logging_mixin.py:109} INFO - 4
+[2021-10-14 14:47:37,077] {python.py:152} INFO - Done. Returned value was: 3
+[2021-10-14 14:47:37,095] {taskinstance.py:1280} INFO - Marking task as SUCCESS. dag_id=my_dag, task_id=training_model_A, execution_date=20211014T091734, start_date=20211014T091736, end_date=20211014T091737
+[2021-10-14 14:47:37,112] {local_task_job.py:154} INFO - Task exited with return code 0
+[2021-10-14 14:47:37,133] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2021-10-14 14:48:00,739] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: my_dag.training_model_A manual__2021-10-14T09:17:58.165785+00:00 [queued]>
+[2021-10-14 14:48:00,749] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: my_dag.training_model_A manual__2021-10-14T09:17:58.165785+00:00 [queued]>
+[2021-10-14 14:48:00,749] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-10-14 14:48:00,749] {taskinstance.py:1242} INFO - Starting attempt 1 of 2
+[2021-10-14 14:48:00,749] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-10-14 14:48:00,763] {taskinstance.py:1262} INFO - Executing <Task(PythonOperator): training_model_A> on 2021-10-14 09:17:58.165785+00:00
+[2021-10-14 14:48:00,768] {standard_task_runner.py:52} INFO - Started process 15327 to run task
+[2021-10-14 14:48:00,776] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'my_dag', 'training_model_A', 'manual__2021-10-14T09:17:58.165785+00:00', '--job-id', '35', '--raw', '--subdir', 'DAGS_FOLDER/my_dag.py', '--cfg-path', '/tmp/tmpjo3lrt_w', '--error-file', '/tmp/tmpo8dxkfoy']
+[2021-10-14 14:48:00,779] {standard_task_runner.py:77} INFO - Job 35: Subtask training_model_A
+[2021-10-14 14:48:00,851] {logging_mixin.py:109} INFO - Running <TaskInstance: my_dag.training_model_A manual__2021-10-14T09:17:58.165785+00:00 [running]> on host user-Latitude-3410
+[2021-10-14 14:48:00,952] {taskinstance.py:1414} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=airflow@example.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=my_dag
+AIRFLOW_CTX_TASK_ID=training_model_A
+AIRFLOW_CTX_EXECUTION_DATE=2021-10-14T09:17:58.165785+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2021-10-14T09:17:58.165785+00:00
+[2021-10-14 14:48:00,953] {logging_mixin.py:109} INFO - 4
+[2021-10-14 14:48:00,953] {python.py:152} INFO - Done. Returned value was: 8
+[2021-10-14 14:48:01,008] {taskinstance.py:1280} INFO - Marking task as SUCCESS. dag_id=my_dag, task_id=training_model_A, execution_date=20211014T091758, start_date=20211014T091800, end_date=20211014T091801
+[2021-10-14 14:48:01,072] {local_task_job.py:154} INFO - Task exited with return code 0
+[2021-10-14 14:48:01,121] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2021-10-14 14:53:37,963] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: my_dag.training_model_A manual__2021-10-14T09:23:35.802497+00:00 [queued]>
+[2021-10-14 14:53:37,969] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: my_dag.training_model_A manual__2021-10-14T09:23:35.802497+00:00 [queued]>
+[2021-10-14 14:53:37,969] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-10-14 14:53:37,969] {taskinstance.py:1242} INFO - Starting attempt 1 of 2
+[2021-10-14 14:53:37,969] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-10-14 14:53:37,977] {taskinstance.py:1262} INFO - Executing <Task(PythonOperator): training_model_A> on 2021-10-14 09:23:35.802497+00:00
+[2021-10-14 14:53:37,979] {standard_task_runner.py:52} INFO - Started process 16694 to run task
+[2021-10-14 14:53:37,981] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'my_dag', 'training_model_A', 'manual__2021-10-14T09:23:35.802497+00:00', '--job-id', '41', '--raw', '--subdir', 'DAGS_FOLDER/my_dag.py', '--cfg-path', '/tmp/tmpatbhb7du', '--error-file', '/tmp/tmpsolf7k6u']
+[2021-10-14 14:53:37,982] {standard_task_runner.py:77} INFO - Job 41: Subtask training_model_A
+[2021-10-14 14:53:38,004] {logging_mixin.py:109} INFO - Running <TaskInstance: my_dag.training_model_A manual__2021-10-14T09:23:35.802497+00:00 [running]> on host user-Latitude-3410
+[2021-10-14 14:53:38,023] {taskinstance.py:1414} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=airflow@example.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=my_dag
+AIRFLOW_CTX_TASK_ID=training_model_A
+AIRFLOW_CTX_EXECUTION_DATE=2021-10-14T09:23:35.802497+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2021-10-14T09:23:35.802497+00:00
+[2021-10-14 14:53:38,023] {logging_mixin.py:109} INFO - 2
+[2021-10-14 14:53:38,023] {python.py:152} INFO - Done. Returned value was: 10
+[2021-10-14 14:53:38,031] {taskinstance.py:1280} INFO - Marking task as SUCCESS. dag_id=my_dag, task_id=training_model_A, execution_date=20211014T092335, start_date=20211014T092337, end_date=20211014T092338
+[2021-10-14 14:53:38,073] {local_task_job.py:154} INFO - Task exited with return code 0
+[2021-10-14 14:53:38,118] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check

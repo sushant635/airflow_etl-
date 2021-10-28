@@ -1,0 +1,882 @@
+[2021-10-18 17:17:21,314] {processor.py:163} INFO - Started process (PID=22826) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:17:21,315] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:17:21,315] {logging_mixin.py:109} INFO - [2021-10-18 17:17:21,315] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:17:22,024] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:17:22,034] {logging_mixin.py:109} INFO - [2021-10-18 17:17:22,034] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:17:22,047] {logging_mixin.py:109} INFO - [2021-10-18 17:17:22,047] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-14T00:00:00+00:00
+[2021-10-18 17:17:22,056] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.745 seconds
+[2021-10-18 17:18:32,682] {processor.py:163} INFO - Started process (PID=23415) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:18:32,684] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:18:32,685] {logging_mixin.py:109} INFO - [2021-10-18 17:18:32,685] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:18:33,149] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:18:33,156] {logging_mixin.py:109} INFO - [2021-10-18 17:18:33,156] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:18:33,168] {logging_mixin.py:109} INFO - [2021-10-18 17:18:33,168] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:18:33,177] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.501 seconds
+[2021-10-18 17:18:46,711] {processor.py:163} INFO - Started process (PID=23452) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:18:46,712] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:18:46,713] {logging_mixin.py:109} INFO - [2021-10-18 17:18:46,713] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:18:47,224] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:18:47,232] {logging_mixin.py:109} INFO - [2021-10-18 17:18:47,232] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:18:47,245] {logging_mixin.py:109} INFO - [2021-10-18 17:18:47,245] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:18:47,254] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.546 seconds
+[2021-10-18 17:19:04,455] {processor.py:163} INFO - Started process (PID=23543) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:19:04,457] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:19:04,458] {logging_mixin.py:109} INFO - [2021-10-18 17:19:04,458] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:19:04,929] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:19:04,936] {logging_mixin.py:109} INFO - [2021-10-18 17:19:04,936] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:19:04,949] {logging_mixin.py:109} INFO - [2021-10-18 17:19:04,949] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:19:04,956] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.507 seconds
+[2021-10-18 17:19:27,974] {processor.py:163} INFO - Started process (PID=23590) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:19:27,980] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:19:27,981] {logging_mixin.py:109} INFO - [2021-10-18 17:19:27,981] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:19:28,547] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:19:28,557] {logging_mixin.py:109} INFO - [2021-10-18 17:19:28,557] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:19:28,579] {logging_mixin.py:109} INFO - [2021-10-18 17:19:28,579] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:19:28,588] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.623 seconds
+[2021-10-18 17:19:48,164] {processor.py:163} INFO - Started process (PID=23630) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:19:48,167] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:19:48,171] {logging_mixin.py:109} INFO - [2021-10-18 17:19:48,170] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:19:48,918] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:19:48,926] {logging_mixin.py:109} INFO - [2021-10-18 17:19:48,926] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:19:48,938] {logging_mixin.py:109} INFO - [2021-10-18 17:19:48,938] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:19:48,946] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.788 seconds
+[2021-10-18 17:20:07,662] {processor.py:163} INFO - Started process (PID=23672) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:20:07,664] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:20:07,665] {logging_mixin.py:109} INFO - [2021-10-18 17:20:07,665] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:20:08,269] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:20:08,278] {logging_mixin.py:109} INFO - [2021-10-18 17:20:08,277] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:20:08,290] {logging_mixin.py:109} INFO - [2021-10-18 17:20:08,290] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:20:08,298] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.643 seconds
+[2021-10-18 17:20:26,169] {processor.py:163} INFO - Started process (PID=23701) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:20:26,171] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:20:26,173] {logging_mixin.py:109} INFO - [2021-10-18 17:20:26,173] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:20:26,926] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:20:26,935] {logging_mixin.py:109} INFO - [2021-10-18 17:20:26,935] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:20:26,950] {logging_mixin.py:109} INFO - [2021-10-18 17:20:26,950] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:20:26,959] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.796 seconds
+[2021-10-18 17:20:45,193] {processor.py:163} INFO - Started process (PID=23734) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:20:45,195] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:20:45,197] {logging_mixin.py:109} INFO - [2021-10-18 17:20:45,196] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:20:45,703] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:20:45,711] {logging_mixin.py:109} INFO - [2021-10-18 17:20:45,711] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:20:45,730] {logging_mixin.py:109} INFO - [2021-10-18 17:20:45,730] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:20:45,740] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.553 seconds
+[2021-10-18 17:21:03,708] {processor.py:163} INFO - Started process (PID=23761) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:21:03,710] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:21:03,711] {logging_mixin.py:109} INFO - [2021-10-18 17:21:03,711] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:21:04,252] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:21:04,262] {logging_mixin.py:109} INFO - [2021-10-18 17:21:04,262] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:21:04,276] {logging_mixin.py:109} INFO - [2021-10-18 17:21:04,276] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:21:04,285] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.583 seconds
+[2021-10-18 17:21:23,291] {processor.py:163} INFO - Started process (PID=23832) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:21:23,293] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:21:23,294] {logging_mixin.py:109} INFO - [2021-10-18 17:21:23,294] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:21:23,861] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:21:23,872] {logging_mixin.py:109} INFO - [2021-10-18 17:21:23,871] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:21:23,888] {logging_mixin.py:109} INFO - [2021-10-18 17:21:23,887] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:21:23,895] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.610 seconds
+[2021-10-18 17:21:45,208] {processor.py:163} INFO - Started process (PID=23956) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:21:45,210] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:21:45,211] {logging_mixin.py:109} INFO - [2021-10-18 17:21:45,211] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:21:45,701] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:21:45,710] {logging_mixin.py:109} INFO - [2021-10-18 17:21:45,710] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:21:45,721] {logging_mixin.py:109} INFO - [2021-10-18 17:21:45,721] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:21:45,728] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.526 seconds
+[2021-10-18 17:22:04,811] {processor.py:163} INFO - Started process (PID=24021) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:22:04,813] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:22:04,815] {logging_mixin.py:109} INFO - [2021-10-18 17:22:04,814] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:22:05,324] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:22:05,333] {logging_mixin.py:109} INFO - [2021-10-18 17:22:05,333] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:22:05,345] {logging_mixin.py:109} INFO - [2021-10-18 17:22:05,345] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:22:05,352] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.549 seconds
+[2021-10-18 17:22:25,376] {processor.py:163} INFO - Started process (PID=24078) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:22:25,378] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:22:25,379] {logging_mixin.py:109} INFO - [2021-10-18 17:22:25,379] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:22:25,838] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:22:25,845] {logging_mixin.py:109} INFO - [2021-10-18 17:22:25,845] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:22:25,856] {logging_mixin.py:109} INFO - [2021-10-18 17:22:25,856] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:22:25,864] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.493 seconds
+[2021-10-18 17:22:43,801] {processor.py:163} INFO - Started process (PID=24115) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:22:43,803] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:22:43,804] {logging_mixin.py:109} INFO - [2021-10-18 17:22:43,804] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:22:44,264] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:22:44,272] {logging_mixin.py:109} INFO - [2021-10-18 17:22:44,271] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:22:44,282] {logging_mixin.py:109} INFO - [2021-10-18 17:22:44,282] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:22:44,290] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.495 seconds
+[2021-10-18 17:23:02,067] {processor.py:163} INFO - Started process (PID=24157) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:23:02,070] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:23:02,073] {logging_mixin.py:109} INFO - [2021-10-18 17:23:02,073] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:23:02,710] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:23:02,724] {logging_mixin.py:109} INFO - [2021-10-18 17:23:02,724] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:23:02,740] {logging_mixin.py:109} INFO - [2021-10-18 17:23:02,740] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:23:02,749] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.704 seconds
+[2021-10-18 17:23:20,709] {processor.py:163} INFO - Started process (PID=24183) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:23:20,710] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:23:20,711] {logging_mixin.py:109} INFO - [2021-10-18 17:23:20,711] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:23:21,278] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:23:21,286] {logging_mixin.py:109} INFO - [2021-10-18 17:23:21,286] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:23:21,298] {logging_mixin.py:109} INFO - [2021-10-18 17:23:21,298] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:23:21,306] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.599 seconds
+[2021-10-18 17:23:39,752] {processor.py:163} INFO - Started process (PID=24226) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:23:39,757] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:23:39,759] {logging_mixin.py:109} INFO - [2021-10-18 17:23:39,758] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:23:40,368] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:23:40,375] {logging_mixin.py:109} INFO - [2021-10-18 17:23:40,375] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:23:40,387] {logging_mixin.py:109} INFO - [2021-10-18 17:23:40,387] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:23:40,394] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.652 seconds
+[2021-10-18 17:23:56,664] {processor.py:163} INFO - Started process (PID=24258) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:23:56,667] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:23:56,668] {logging_mixin.py:109} INFO - [2021-10-18 17:23:56,668] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:23:57,124] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:23:57,132] {logging_mixin.py:109} INFO - [2021-10-18 17:23:57,132] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:23:57,143] {logging_mixin.py:109} INFO - [2021-10-18 17:23:57,143] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:23:57,150] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.495 seconds
+[2021-10-18 17:24:15,069] {processor.py:163} INFO - Started process (PID=24290) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:24:15,070] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:24:15,071] {logging_mixin.py:109} INFO - [2021-10-18 17:24:15,071] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:24:15,741] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:24:15,755] {logging_mixin.py:109} INFO - [2021-10-18 17:24:15,755] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:24:15,777] {logging_mixin.py:109} INFO - [2021-10-18 17:24:15,777] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:24:15,789] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.723 seconds
+[2021-10-18 17:24:34,956] {processor.py:163} INFO - Started process (PID=24324) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:24:34,960] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:24:34,963] {logging_mixin.py:109} INFO - [2021-10-18 17:24:34,962] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:24:35,655] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:24:35,666] {logging_mixin.py:109} INFO - [2021-10-18 17:24:35,666] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:24:35,685] {logging_mixin.py:109} INFO - [2021-10-18 17:24:35,685] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:24:35,696] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.752 seconds
+[2021-10-18 17:24:57,307] {processor.py:163} INFO - Started process (PID=24380) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:24:57,309] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:24:57,310] {logging_mixin.py:109} INFO - [2021-10-18 17:24:57,310] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:24:57,937] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:24:57,946] {logging_mixin.py:109} INFO - [2021-10-18 17:24:57,946] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:24:57,960] {logging_mixin.py:109} INFO - [2021-10-18 17:24:57,959] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:24:57,968] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.666 seconds
+[2021-10-18 17:25:18,256] {processor.py:163} INFO - Started process (PID=24415) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:25:18,258] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:25:18,260] {logging_mixin.py:109} INFO - [2021-10-18 17:25:18,259] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:25:18,875] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:25:18,884] {logging_mixin.py:109} INFO - [2021-10-18 17:25:18,884] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:25:18,898] {logging_mixin.py:109} INFO - [2021-10-18 17:25:18,898] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:25:18,907] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.657 seconds
+[2021-10-18 17:25:37,838] {processor.py:163} INFO - Started process (PID=24530) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:25:37,840] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:25:37,841] {logging_mixin.py:109} INFO - [2021-10-18 17:25:37,841] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:25:38,586] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:25:38,594] {logging_mixin.py:109} INFO - [2021-10-18 17:25:38,594] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:25:38,612] {logging_mixin.py:109} INFO - [2021-10-18 17:25:38,612] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:25:38,622] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.788 seconds
+[2021-10-18 17:25:55,699] {processor.py:163} INFO - Started process (PID=24564) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:25:55,700] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:25:55,701] {logging_mixin.py:109} INFO - [2021-10-18 17:25:55,700] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:25:56,182] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:25:56,194] {logging_mixin.py:109} INFO - [2021-10-18 17:25:56,194] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:25:56,216] {logging_mixin.py:109} INFO - [2021-10-18 17:25:56,216] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:25:56,229] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.532 seconds
+[2021-10-18 17:26:14,991] {processor.py:163} INFO - Started process (PID=24606) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:26:14,992] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:26:14,992] {logging_mixin.py:109} INFO - [2021-10-18 17:26:14,992] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:26:15,872] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:26:15,886] {logging_mixin.py:109} INFO - [2021-10-18 17:26:15,885] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:26:15,905] {logging_mixin.py:109} INFO - [2021-10-18 17:26:15,904] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:26:15,917] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.928 seconds
+[2021-10-18 17:26:35,018] {processor.py:163} INFO - Started process (PID=24694) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:26:35,020] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:26:35,021] {logging_mixin.py:109} INFO - [2021-10-18 17:26:35,021] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:26:35,535] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:26:35,543] {logging_mixin.py:109} INFO - [2021-10-18 17:26:35,543] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:26:35,556] {logging_mixin.py:109} INFO - [2021-10-18 17:26:35,556] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:26:35,564] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.552 seconds
+[2021-10-18 17:26:54,109] {processor.py:163} INFO - Started process (PID=24743) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:26:54,112] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:26:54,113] {logging_mixin.py:109} INFO - [2021-10-18 17:26:54,112] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:26:54,817] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:26:54,830] {logging_mixin.py:109} INFO - [2021-10-18 17:26:54,829] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:26:54,854] {logging_mixin.py:109} INFO - [2021-10-18 17:26:54,854] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:26:54,878] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.788 seconds
+[2021-10-18 17:27:13,148] {processor.py:163} INFO - Started process (PID=24769) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:27:13,149] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:27:13,150] {logging_mixin.py:109} INFO - [2021-10-18 17:27:13,150] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:27:13,795] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:27:13,806] {logging_mixin.py:109} INFO - [2021-10-18 17:27:13,806] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:27:13,823] {logging_mixin.py:109} INFO - [2021-10-18 17:27:13,822] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:27:13,834] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.717 seconds
+[2021-10-18 17:27:31,583] {processor.py:163} INFO - Started process (PID=24827) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:27:31,584] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:27:31,585] {logging_mixin.py:109} INFO - [2021-10-18 17:27:31,584] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:27:32,159] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:27:32,167] {logging_mixin.py:109} INFO - [2021-10-18 17:27:32,167] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:27:32,186] {logging_mixin.py:109} INFO - [2021-10-18 17:27:32,186] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:27:32,197] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.617 seconds
+[2021-10-18 17:27:51,040] {processor.py:163} INFO - Started process (PID=24871) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:27:51,042] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:27:51,043] {logging_mixin.py:109} INFO - [2021-10-18 17:27:51,043] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:27:51,520] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:27:51,527] {logging_mixin.py:109} INFO - [2021-10-18 17:27:51,527] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:27:51,538] {logging_mixin.py:109} INFO - [2021-10-18 17:27:51,538] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:27:51,546] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.512 seconds
+[2021-10-18 17:28:12,237] {processor.py:163} INFO - Started process (PID=24902) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:28:12,239] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:28:12,241] {logging_mixin.py:109} INFO - [2021-10-18 17:28:12,240] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:28:12,840] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:28:12,850] {logging_mixin.py:109} INFO - [2021-10-18 17:28:12,850] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:28:12,863] {logging_mixin.py:109} INFO - [2021-10-18 17:28:12,863] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:28:12,872] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.642 seconds
+[2021-10-18 17:28:33,299] {processor.py:163} INFO - Started process (PID=25070) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:28:33,312] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:28:33,314] {logging_mixin.py:109} INFO - [2021-10-18 17:28:33,313] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:28:33,943] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:28:33,951] {logging_mixin.py:109} INFO - [2021-10-18 17:28:33,951] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:28:33,963] {logging_mixin.py:109} INFO - [2021-10-18 17:28:33,963] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:28:33,972] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.682 seconds
+[2021-10-18 17:28:54,988] {processor.py:163} INFO - Started process (PID=25114) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:28:54,990] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:28:54,991] {logging_mixin.py:109} INFO - [2021-10-18 17:28:54,991] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:28:55,529] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:28:55,537] {logging_mixin.py:109} INFO - [2021-10-18 17:28:55,537] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:28:55,549] {logging_mixin.py:109} INFO - [2021-10-18 17:28:55,549] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:28:55,557] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.575 seconds
+[2021-10-18 17:29:15,890] {processor.py:163} INFO - Started process (PID=25173) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:29:15,892] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:29:15,893] {logging_mixin.py:109} INFO - [2021-10-18 17:29:15,893] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:29:16,336] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:29:16,343] {logging_mixin.py:109} INFO - [2021-10-18 17:29:16,343] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:29:16,355] {logging_mixin.py:109} INFO - [2021-10-18 17:29:16,354] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:29:16,362] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.478 seconds
+[2021-10-18 17:29:36,801] {processor.py:163} INFO - Started process (PID=25227) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:29:36,814] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:29:36,816] {logging_mixin.py:109} INFO - [2021-10-18 17:29:36,816] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:29:37,411] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:29:37,420] {logging_mixin.py:109} INFO - [2021-10-18 17:29:37,419] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:29:37,432] {logging_mixin.py:109} INFO - [2021-10-18 17:29:37,432] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:29:37,440] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.645 seconds
+[2021-10-18 17:29:56,314] {processor.py:163} INFO - Started process (PID=25266) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:29:56,316] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:29:56,317] {logging_mixin.py:109} INFO - [2021-10-18 17:29:56,317] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:29:56,805] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:29:56,813] {logging_mixin.py:109} INFO - [2021-10-18 17:29:56,813] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:29:56,825] {logging_mixin.py:109} INFO - [2021-10-18 17:29:56,825] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:29:56,833] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.524 seconds
+[2021-10-18 17:30:16,196] {processor.py:163} INFO - Started process (PID=25307) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:30:16,198] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:30:16,199] {logging_mixin.py:109} INFO - [2021-10-18 17:30:16,199] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:30:16,695] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:30:16,705] {logging_mixin.py:109} INFO - [2021-10-18 17:30:16,705] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:30:16,717] {logging_mixin.py:109} INFO - [2021-10-18 17:30:16,717] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:30:16,725] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.534 seconds
+[2021-10-18 17:30:35,360] {processor.py:163} INFO - Started process (PID=25361) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:30:35,363] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:30:35,364] {logging_mixin.py:109} INFO - [2021-10-18 17:30:35,364] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:30:35,935] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:30:35,943] {logging_mixin.py:109} INFO - [2021-10-18 17:30:35,943] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:30:35,954] {logging_mixin.py:109} INFO - [2021-10-18 17:30:35,954] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:30:35,963] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.611 seconds
+[2021-10-18 17:30:55,511] {processor.py:163} INFO - Started process (PID=25459) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:30:55,513] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:30:55,514] {logging_mixin.py:109} INFO - [2021-10-18 17:30:55,514] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:30:56,403] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:30:56,418] {logging_mixin.py:109} INFO - [2021-10-18 17:30:56,418] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:30:56,439] {logging_mixin.py:109} INFO - [2021-10-18 17:30:56,439] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:30:56,450] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.944 seconds
+[2021-10-18 17:31:17,150] {processor.py:163} INFO - Started process (PID=25531) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:31:17,153] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:31:17,154] {logging_mixin.py:109} INFO - [2021-10-18 17:31:17,154] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:31:17,667] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:31:17,674] {logging_mixin.py:109} INFO - [2021-10-18 17:31:17,674] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:31:17,685] {logging_mixin.py:109} INFO - [2021-10-18 17:31:17,685] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:31:17,693] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.549 seconds
+[2021-10-18 17:31:38,089] {processor.py:163} INFO - Started process (PID=25571) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:31:38,090] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:31:38,091] {logging_mixin.py:109} INFO - [2021-10-18 17:31:38,091] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:31:38,720] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:31:38,733] {logging_mixin.py:109} INFO - [2021-10-18 17:31:38,732] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:31:38,752] {logging_mixin.py:109} INFO - [2021-10-18 17:31:38,751] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:31:38,761] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.675 seconds
+[2021-10-18 17:31:57,797] {processor.py:163} INFO - Started process (PID=25624) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:31:57,800] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:31:57,802] {logging_mixin.py:109} INFO - [2021-10-18 17:31:57,801] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:31:58,777] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:31:58,792] {logging_mixin.py:109} INFO - [2021-10-18 17:31:58,791] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:31:58,810] {logging_mixin.py:109} INFO - [2021-10-18 17:31:58,810] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:31:58,827] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 1.037 seconds
+[2021-10-18 17:32:19,614] {processor.py:163} INFO - Started process (PID=25694) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:32:19,616] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:32:19,618] {logging_mixin.py:109} INFO - [2021-10-18 17:32:19,618] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:32:20,091] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:32:20,098] {logging_mixin.py:109} INFO - [2021-10-18 17:32:20,098] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:32:20,110] {logging_mixin.py:109} INFO - [2021-10-18 17:32:20,110] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:32:20,117] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.509 seconds
+[2021-10-18 17:32:42,475] {processor.py:163} INFO - Started process (PID=25796) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:32:42,487] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:32:42,489] {logging_mixin.py:109} INFO - [2021-10-18 17:32:42,489] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:32:43,022] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:32:43,030] {logging_mixin.py:109} INFO - [2021-10-18 17:32:43,030] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:32:43,044] {logging_mixin.py:109} INFO - [2021-10-18 17:32:43,044] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:32:43,054] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.587 seconds
+[2021-10-18 17:33:03,075] {processor.py:163} INFO - Started process (PID=25850) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:33:03,078] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:33:03,080] {logging_mixin.py:109} INFO - [2021-10-18 17:33:03,079] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:33:03,693] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:33:03,705] {logging_mixin.py:109} INFO - [2021-10-18 17:33:03,704] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:33:03,719] {logging_mixin.py:109} INFO - [2021-10-18 17:33:03,719] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:33:03,729] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.661 seconds
+[2021-10-18 17:33:23,037] {processor.py:163} INFO - Started process (PID=25875) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:33:23,039] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:33:23,041] {logging_mixin.py:109} INFO - [2021-10-18 17:33:23,040] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:33:23,564] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:33:23,572] {logging_mixin.py:109} INFO - [2021-10-18 17:33:23,571] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:33:23,583] {logging_mixin.py:109} INFO - [2021-10-18 17:33:23,583] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:33:23,592] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.561 seconds
+[2021-10-18 17:33:41,654] {processor.py:163} INFO - Started process (PID=25917) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:33:41,656] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:33:41,657] {logging_mixin.py:109} INFO - [2021-10-18 17:33:41,657] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:33:42,113] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:33:42,120] {logging_mixin.py:109} INFO - [2021-10-18 17:33:42,120] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:33:42,132] {logging_mixin.py:109} INFO - [2021-10-18 17:33:42,132] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:33:42,140] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.491 seconds
+[2021-10-18 17:34:00,173] {processor.py:163} INFO - Started process (PID=25952) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:34:00,175] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:34:00,176] {logging_mixin.py:109} INFO - [2021-10-18 17:34:00,176] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:34:00,647] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:34:00,655] {logging_mixin.py:109} INFO - [2021-10-18 17:34:00,655] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:34:00,667] {logging_mixin.py:109} INFO - [2021-10-18 17:34:00,667] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:34:00,675] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.507 seconds
+[2021-10-18 17:34:18,383] {processor.py:163} INFO - Started process (PID=25977) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:34:18,385] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:34:18,386] {logging_mixin.py:109} INFO - [2021-10-18 17:34:18,386] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:34:18,839] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:34:18,847] {logging_mixin.py:109} INFO - [2021-10-18 17:34:18,846] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:34:18,859] {logging_mixin.py:109} INFO - [2021-10-18 17:34:18,859] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:34:18,866] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.489 seconds
+[2021-10-18 17:34:38,963] {processor.py:163} INFO - Started process (PID=26019) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:34:38,965] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:34:38,967] {logging_mixin.py:109} INFO - [2021-10-18 17:34:38,966] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:34:39,539] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:34:39,548] {logging_mixin.py:109} INFO - [2021-10-18 17:34:39,548] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:34:39,564] {logging_mixin.py:109} INFO - [2021-10-18 17:34:39,564] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:34:39,574] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.617 seconds
+[2021-10-18 17:34:59,162] {processor.py:163} INFO - Started process (PID=26057) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:34:59,164] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:34:59,166] {logging_mixin.py:109} INFO - [2021-10-18 17:34:59,166] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:34:59,670] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:34:59,677] {logging_mixin.py:109} INFO - [2021-10-18 17:34:59,677] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:34:59,690] {logging_mixin.py:109} INFO - [2021-10-18 17:34:59,690] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:34:59,700] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.544 seconds
+[2021-10-18 17:35:18,792] {processor.py:163} INFO - Started process (PID=26106) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:35:18,794] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:35:18,796] {logging_mixin.py:109} INFO - [2021-10-18 17:35:18,796] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:35:19,346] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:35:19,354] {logging_mixin.py:109} INFO - [2021-10-18 17:35:19,354] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:35:19,370] {logging_mixin.py:109} INFO - [2021-10-18 17:35:19,370] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:35:19,379] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.594 seconds
+[2021-10-18 17:35:38,005] {processor.py:163} INFO - Started process (PID=26220) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:35:38,008] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:35:38,010] {logging_mixin.py:109} INFO - [2021-10-18 17:35:38,009] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:35:38,642] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:35:38,651] {logging_mixin.py:109} INFO - [2021-10-18 17:35:38,650] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:35:38,666] {logging_mixin.py:109} INFO - [2021-10-18 17:35:38,665] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:35:38,675] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.677 seconds
+[2021-10-18 17:35:57,799] {processor.py:163} INFO - Started process (PID=26268) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:35:57,801] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:35:57,802] {logging_mixin.py:109} INFO - [2021-10-18 17:35:57,802] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:35:58,296] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:35:58,304] {logging_mixin.py:109} INFO - [2021-10-18 17:35:58,304] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:35:58,316] {logging_mixin.py:109} INFO - [2021-10-18 17:35:58,316] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:35:58,324] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.531 seconds
+[2021-10-18 17:36:17,707] {processor.py:163} INFO - Started process (PID=26301) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:36:17,710] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:36:17,712] {logging_mixin.py:109} INFO - [2021-10-18 17:36:17,711] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:36:18,308] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:36:18,319] {logging_mixin.py:109} INFO - [2021-10-18 17:36:18,319] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:36:18,333] {logging_mixin.py:109} INFO - [2021-10-18 17:36:18,332] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:36:18,341] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.643 seconds
+[2021-10-18 17:36:38,099] {processor.py:163} INFO - Started process (PID=26349) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:36:38,102] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:36:38,103] {logging_mixin.py:109} INFO - [2021-10-18 17:36:38,103] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:36:38,718] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:36:38,726] {logging_mixin.py:109} INFO - [2021-10-18 17:36:38,726] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:36:38,738] {logging_mixin.py:109} INFO - [2021-10-18 17:36:38,738] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:36:38,746] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.653 seconds
+[2021-10-18 17:36:58,911] {processor.py:163} INFO - Started process (PID=26388) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:36:58,914] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:36:58,915] {logging_mixin.py:109} INFO - [2021-10-18 17:36:58,914] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:36:59,382] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:36:59,390] {logging_mixin.py:109} INFO - [2021-10-18 17:36:59,390] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:36:59,401] {logging_mixin.py:109} INFO - [2021-10-18 17:36:59,400] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:36:59,408] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.502 seconds
+[2021-10-18 17:37:19,083] {processor.py:163} INFO - Started process (PID=26423) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:37:19,084] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:37:19,085] {logging_mixin.py:109} INFO - [2021-10-18 17:37:19,085] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:37:19,570] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:37:19,578] {logging_mixin.py:109} INFO - [2021-10-18 17:37:19,578] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:37:19,589] {logging_mixin.py:109} INFO - [2021-10-18 17:37:19,589] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:37:19,597] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.518 seconds
+[2021-10-18 17:37:39,018] {processor.py:163} INFO - Started process (PID=26500) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:37:39,019] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:37:39,020] {logging_mixin.py:109} INFO - [2021-10-18 17:37:39,020] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:37:39,538] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:37:39,546] {logging_mixin.py:109} INFO - [2021-10-18 17:37:39,546] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:37:39,558] {logging_mixin.py:109} INFO - [2021-10-18 17:37:39,558] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:37:39,566] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.550 seconds
+[2021-10-18 17:37:58,378] {processor.py:163} INFO - Started process (PID=26531) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:37:58,380] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:37:58,381] {logging_mixin.py:109} INFO - [2021-10-18 17:37:58,381] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:37:58,915] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:37:58,925] {logging_mixin.py:109} INFO - [2021-10-18 17:37:58,924] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:37:58,938] {logging_mixin.py:109} INFO - [2021-10-18 17:37:58,938] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:37:58,948] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.576 seconds
+[2021-10-18 17:38:20,046] {processor.py:163} INFO - Started process (PID=26571) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:38:20,049] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:38:20,051] {logging_mixin.py:109} INFO - [2021-10-18 17:38:20,051] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:38:20,633] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:38:20,643] {logging_mixin.py:109} INFO - [2021-10-18 17:38:20,643] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:38:20,657] {logging_mixin.py:109} INFO - [2021-10-18 17:38:20,657] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:38:20,666] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.627 seconds
+[2021-10-18 17:38:40,932] {processor.py:163} INFO - Started process (PID=26606) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:38:40,935] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:38:40,937] {logging_mixin.py:109} INFO - [2021-10-18 17:38:40,936] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:38:41,582] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:38:41,596] {logging_mixin.py:109} INFO - [2021-10-18 17:38:41,596] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:38:41,614] {logging_mixin.py:109} INFO - [2021-10-18 17:38:41,614] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:38:41,624] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.702 seconds
+[2021-10-18 17:39:02,094] {processor.py:163} INFO - Started process (PID=26648) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:39:02,106] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:39:02,107] {logging_mixin.py:109} INFO - [2021-10-18 17:39:02,107] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:39:02,732] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:39:02,740] {logging_mixin.py:109} INFO - [2021-10-18 17:39:02,740] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:39:02,753] {logging_mixin.py:109} INFO - [2021-10-18 17:39:02,753] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:39:02,762] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.674 seconds
+[2021-10-18 17:39:23,659] {processor.py:163} INFO - Started process (PID=26697) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:39:23,661] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:39:23,663] {logging_mixin.py:109} INFO - [2021-10-18 17:39:23,663] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:39:24,260] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:39:24,267] {logging_mixin.py:109} INFO - [2021-10-18 17:39:24,267] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:39:24,279] {logging_mixin.py:109} INFO - [2021-10-18 17:39:24,279] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:39:24,286] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.634 seconds
+[2021-10-18 17:39:47,657] {processor.py:163} INFO - Started process (PID=26749) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:39:47,658] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:39:47,659] {logging_mixin.py:109} INFO - [2021-10-18 17:39:47,659] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:39:48,231] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:39:48,256] {logging_mixin.py:109} INFO - [2021-10-18 17:39:48,256] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:39:48,311] {logging_mixin.py:109} INFO - [2021-10-18 17:39:48,311] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:39:48,327] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.672 seconds
+[2021-10-18 17:40:09,349] {processor.py:163} INFO - Started process (PID=26781) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:40:09,351] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:40:09,352] {logging_mixin.py:109} INFO - [2021-10-18 17:40:09,352] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:40:10,236] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:40:10,292] {logging_mixin.py:109} INFO - [2021-10-18 17:40:10,292] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:40:10,317] {logging_mixin.py:109} INFO - [2021-10-18 17:40:10,317] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:40:10,336] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.993 seconds
+[2021-10-18 17:40:29,323] {processor.py:163} INFO - Started process (PID=26948) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:40:29,325] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:40:29,325] {logging_mixin.py:109} INFO - [2021-10-18 17:40:29,325] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:40:29,849] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:40:29,857] {logging_mixin.py:109} INFO - [2021-10-18 17:40:29,857] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:40:29,869] {logging_mixin.py:109} INFO - [2021-10-18 17:40:29,869] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:40:29,877] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.557 seconds
+[2021-10-18 17:40:50,762] {processor.py:163} INFO - Started process (PID=26986) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:40:50,765] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:40:50,768] {logging_mixin.py:109} INFO - [2021-10-18 17:40:50,767] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:40:51,398] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:40:51,405] {logging_mixin.py:109} INFO - [2021-10-18 17:40:51,405] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:40:51,417] {logging_mixin.py:109} INFO - [2021-10-18 17:40:51,417] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:40:51,425] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.672 seconds
+[2021-10-18 17:41:09,300] {processor.py:163} INFO - Started process (PID=27014) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:41:09,301] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:41:09,302] {logging_mixin.py:109} INFO - [2021-10-18 17:41:09,302] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:41:09,925] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:41:09,933] {logging_mixin.py:109} INFO - [2021-10-18 17:41:09,933] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:41:09,950] {logging_mixin.py:109} INFO - [2021-10-18 17:41:09,950] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:41:09,963] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.666 seconds
+[2021-10-18 17:41:28,118] {processor.py:163} INFO - Started process (PID=27042) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:41:28,120] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:41:28,122] {logging_mixin.py:109} INFO - [2021-10-18 17:41:28,122] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:41:28,682] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:41:28,696] {logging_mixin.py:109} INFO - [2021-10-18 17:41:28,696] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:41:28,721] {logging_mixin.py:109} INFO - [2021-10-18 17:41:28,720] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:41:28,739] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.630 seconds
+[2021-10-18 17:41:48,453] {processor.py:163} INFO - Started process (PID=27079) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:41:48,455] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:41:48,457] {logging_mixin.py:109} INFO - [2021-10-18 17:41:48,457] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:41:49,011] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:41:49,018] {logging_mixin.py:109} INFO - [2021-10-18 17:41:49,018] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:41:49,031] {logging_mixin.py:109} INFO - [2021-10-18 17:41:49,030] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:41:49,038] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.595 seconds
+[2021-10-18 17:42:08,325] {processor.py:163} INFO - Started process (PID=27105) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:42:08,327] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:42:08,328] {logging_mixin.py:109} INFO - [2021-10-18 17:42:08,328] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:42:08,964] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:42:08,972] {logging_mixin.py:109} INFO - [2021-10-18 17:42:08,972] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:42:08,988] {logging_mixin.py:109} INFO - [2021-10-18 17:42:08,988] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:42:09,000] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.677 seconds
+[2021-10-18 17:42:28,295] {processor.py:163} INFO - Started process (PID=27186) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:42:28,296] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:42:28,297] {logging_mixin.py:109} INFO - [2021-10-18 17:42:28,296] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:42:28,712] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:42:28,720] {logging_mixin.py:109} INFO - [2021-10-18 17:42:28,720] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:42:28,733] {logging_mixin.py:109} INFO - [2021-10-18 17:42:28,733] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:42:28,741] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.449 seconds
+[2021-10-18 17:42:48,013] {processor.py:163} INFO - Started process (PID=27251) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:42:48,015] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:42:48,016] {logging_mixin.py:109} INFO - [2021-10-18 17:42:48,016] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:42:48,502] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:42:48,510] {logging_mixin.py:109} INFO - [2021-10-18 17:42:48,509] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:42:48,520] {logging_mixin.py:109} INFO - [2021-10-18 17:42:48,520] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:42:48,528] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.521 seconds
+[2021-10-18 17:43:06,921] {processor.py:163} INFO - Started process (PID=27289) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:43:06,923] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:43:06,924] {logging_mixin.py:109} INFO - [2021-10-18 17:43:06,924] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:43:07,434] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:43:07,441] {logging_mixin.py:109} INFO - [2021-10-18 17:43:07,441] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:43:07,452] {logging_mixin.py:109} INFO - [2021-10-18 17:43:07,452] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:43:07,460] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.544 seconds
+[2021-10-18 17:43:27,458] {processor.py:163} INFO - Started process (PID=27326) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:43:27,460] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:43:27,462] {logging_mixin.py:109} INFO - [2021-10-18 17:43:27,462] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:43:27,995] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:43:28,003] {logging_mixin.py:109} INFO - [2021-10-18 17:43:28,003] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:43:28,014] {logging_mixin.py:109} INFO - [2021-10-18 17:43:28,014] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:43:28,022] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.571 seconds
+[2021-10-18 17:43:45,693] {processor.py:163} INFO - Started process (PID=27395) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:43:45,695] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:43:45,696] {logging_mixin.py:109} INFO - [2021-10-18 17:43:45,696] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:43:46,159] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:43:46,166] {logging_mixin.py:109} INFO - [2021-10-18 17:43:46,166] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:43:46,177] {logging_mixin.py:109} INFO - [2021-10-18 17:43:46,177] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:43:46,184] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.495 seconds
+[2021-10-18 17:44:05,618] {processor.py:163} INFO - Started process (PID=27487) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:44:05,630] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:44:05,632] {logging_mixin.py:109} INFO - [2021-10-18 17:44:05,632] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:44:06,140] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:44:06,151] {logging_mixin.py:109} INFO - [2021-10-18 17:44:06,151] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:44:06,167] {logging_mixin.py:109} INFO - [2021-10-18 17:44:06,167] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:44:06,175] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.563 seconds
+[2021-10-18 17:44:22,929] {processor.py:163} INFO - Started process (PID=27523) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:44:22,930] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:44:22,930] {logging_mixin.py:109} INFO - [2021-10-18 17:44:22,930] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:44:23,404] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:44:23,414] {logging_mixin.py:109} INFO - [2021-10-18 17:44:23,414] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:44:23,426] {logging_mixin.py:109} INFO - [2021-10-18 17:44:23,426] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:44:23,434] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.508 seconds
+[2021-10-18 17:44:41,504] {processor.py:163} INFO - Started process (PID=27608) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:44:41,507] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:44:41,508] {logging_mixin.py:109} INFO - [2021-10-18 17:44:41,508] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:44:42,063] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:44:42,071] {logging_mixin.py:109} INFO - [2021-10-18 17:44:42,071] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:44:42,082] {logging_mixin.py:109} INFO - [2021-10-18 17:44:42,082] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:44:42,090] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.592 seconds
+[2021-10-18 17:45:00,228] {processor.py:163} INFO - Started process (PID=27644) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:45:00,229] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:45:00,229] {logging_mixin.py:109} INFO - [2021-10-18 17:45:00,229] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:45:00,814] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:45:00,823] {logging_mixin.py:109} INFO - [2021-10-18 17:45:00,823] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:45:00,842] {logging_mixin.py:109} INFO - [2021-10-18 17:45:00,842] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:45:00,854] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.629 seconds
+[2021-10-18 17:45:19,283] {processor.py:163} INFO - Started process (PID=27712) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:45:19,284] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:45:19,285] {logging_mixin.py:109} INFO - [2021-10-18 17:45:19,285] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:45:19,860] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:45:19,870] {logging_mixin.py:109} INFO - [2021-10-18 17:45:19,870] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:45:19,887] {logging_mixin.py:109} INFO - [2021-10-18 17:45:19,887] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:45:19,919] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.640 seconds
+[2021-10-18 17:45:39,324] {processor.py:163} INFO - Started process (PID=27838) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:45:39,326] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:45:39,327] {logging_mixin.py:109} INFO - [2021-10-18 17:45:39,327] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:45:39,873] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:45:39,882] {logging_mixin.py:109} INFO - [2021-10-18 17:45:39,881] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:45:39,896] {logging_mixin.py:109} INFO - [2021-10-18 17:45:39,896] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:45:39,906] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.588 seconds
+[2021-10-18 17:45:56,786] {processor.py:163} INFO - Started process (PID=27882) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:45:56,798] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:45:56,799] {logging_mixin.py:109} INFO - [2021-10-18 17:45:56,798] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:45:57,247] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:45:57,255] {logging_mixin.py:109} INFO - [2021-10-18 17:45:57,255] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:45:57,267] {logging_mixin.py:109} INFO - [2021-10-18 17:45:57,266] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:45:57,275] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.492 seconds
+[2021-10-18 17:46:15,551] {processor.py:163} INFO - Started process (PID=27958) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:46:15,552] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:46:15,553] {logging_mixin.py:109} INFO - [2021-10-18 17:46:15,553] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:46:16,055] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:46:16,063] {logging_mixin.py:109} INFO - [2021-10-18 17:46:16,063] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:46:16,074] {logging_mixin.py:109} INFO - [2021-10-18 17:46:16,074] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:46:16,093] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.544 seconds
+[2021-10-18 17:46:31,404] {processor.py:163} INFO - Started process (PID=28053) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:46:31,406] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:46:31,408] {logging_mixin.py:109} INFO - [2021-10-18 17:46:31,407] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:46:31,873] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:46:31,880] {logging_mixin.py:109} INFO - [2021-10-18 17:46:31,880] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:46:31,891] {logging_mixin.py:109} INFO - [2021-10-18 17:46:31,891] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:46:31,899] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.500 seconds
+[2021-10-18 17:46:49,198] {processor.py:163} INFO - Started process (PID=28091) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:46:49,200] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:46:49,201] {logging_mixin.py:109} INFO - [2021-10-18 17:46:49,201] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:46:49,835] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:46:49,843] {logging_mixin.py:109} INFO - [2021-10-18 17:46:49,843] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:46:49,856] {logging_mixin.py:109} INFO - [2021-10-18 17:46:49,856] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:46:49,865] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.672 seconds
+[2021-10-18 17:47:07,914] {processor.py:163} INFO - Started process (PID=28119) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:47:07,916] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:47:07,918] {logging_mixin.py:109} INFO - [2021-10-18 17:47:07,917] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:47:08,379] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:47:08,386] {logging_mixin.py:109} INFO - [2021-10-18 17:47:08,386] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:47:08,397] {logging_mixin.py:109} INFO - [2021-10-18 17:47:08,397] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:47:08,405] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.496 seconds
+[2021-10-18 17:47:29,468] {processor.py:163} INFO - Started process (PID=28178) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:47:29,470] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:47:29,471] {logging_mixin.py:109} INFO - [2021-10-18 17:47:29,471] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:47:29,962] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:47:29,970] {logging_mixin.py:109} INFO - [2021-10-18 17:47:29,970] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:47:29,982] {logging_mixin.py:109} INFO - [2021-10-18 17:47:29,982] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:47:29,991] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.528 seconds
+[2021-10-18 17:47:49,116] {processor.py:163} INFO - Started process (PID=28215) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:47:49,118] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:47:49,120] {logging_mixin.py:109} INFO - [2021-10-18 17:47:49,119] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:47:49,567] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:47:49,575] {logging_mixin.py:109} INFO - [2021-10-18 17:47:49,575] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:47:49,586] {logging_mixin.py:109} INFO - [2021-10-18 17:47:49,585] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:47:49,595] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.483 seconds
+[2021-10-18 17:48:07,517] {processor.py:163} INFO - Started process (PID=28252) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:48:07,528] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:48:07,530] {logging_mixin.py:109} INFO - [2021-10-18 17:48:07,529] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:48:07,992] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:48:07,999] {logging_mixin.py:109} INFO - [2021-10-18 17:48:07,999] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:48:08,011] {logging_mixin.py:109} INFO - [2021-10-18 17:48:08,011] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:48:08,019] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.508 seconds
+[2021-10-18 17:48:26,639] {processor.py:163} INFO - Started process (PID=28281) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:48:26,641] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:48:26,643] {logging_mixin.py:109} INFO - [2021-10-18 17:48:26,642] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:48:27,152] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:48:27,160] {logging_mixin.py:109} INFO - [2021-10-18 17:48:27,160] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:48:27,173] {logging_mixin.py:109} INFO - [2021-10-18 17:48:27,172] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:48:27,180] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.549 seconds
+[2021-10-18 17:48:49,018] {processor.py:163} INFO - Started process (PID=28333) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:48:49,020] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:48:49,022] {logging_mixin.py:109} INFO - [2021-10-18 17:48:49,021] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:48:49,588] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:48:49,597] {logging_mixin.py:109} INFO - [2021-10-18 17:48:49,597] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:48:49,612] {logging_mixin.py:109} INFO - [2021-10-18 17:48:49,611] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:48:49,620] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.609 seconds
+[2021-10-18 17:49:10,815] {processor.py:163} INFO - Started process (PID=28385) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:49:10,816] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:49:10,817] {logging_mixin.py:109} INFO - [2021-10-18 17:49:10,817] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:49:11,589] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:49:11,600] {logging_mixin.py:109} INFO - [2021-10-18 17:49:11,600] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:49:11,620] {logging_mixin.py:109} INFO - [2021-10-18 17:49:11,620] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:49:11,631] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.819 seconds
+[2021-10-18 17:49:35,703] {processor.py:163} INFO - Started process (PID=28444) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:49:35,706] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:49:35,707] {logging_mixin.py:109} INFO - [2021-10-18 17:49:35,707] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:49:36,241] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:49:36,249] {logging_mixin.py:109} INFO - [2021-10-18 17:49:36,248] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:49:36,261] {logging_mixin.py:109} INFO - [2021-10-18 17:49:36,261] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:49:36,268] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.571 seconds
+[2021-10-18 17:50:00,618] {processor.py:163} INFO - Started process (PID=28534) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:50:00,620] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:50:00,622] {logging_mixin.py:109} INFO - [2021-10-18 17:50:00,622] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:50:01,122] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:50:01,133] {logging_mixin.py:109} INFO - [2021-10-18 17:50:01,133] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:50:01,147] {logging_mixin.py:109} INFO - [2021-10-18 17:50:01,147] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:50:01,158] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.547 seconds
+[2021-10-18 17:50:23,649] {processor.py:163} INFO - Started process (PID=28658) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:50:23,651] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:50:23,653] {logging_mixin.py:109} INFO - [2021-10-18 17:50:23,652] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:50:24,112] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:50:24,121] {logging_mixin.py:109} INFO - [2021-10-18 17:50:24,121] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:50:24,131] {logging_mixin.py:109} INFO - [2021-10-18 17:50:24,131] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:50:24,139] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.495 seconds
+[2021-10-18 17:50:45,490] {processor.py:163} INFO - Started process (PID=28740) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:50:45,491] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:50:45,492] {logging_mixin.py:109} INFO - [2021-10-18 17:50:45,492] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:50:46,427] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:50:46,440] {logging_mixin.py:109} INFO - [2021-10-18 17:50:46,440] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:50:46,466] {logging_mixin.py:109} INFO - [2021-10-18 17:50:46,465] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:50:46,480] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.994 seconds
+[2021-10-18 17:51:08,934] {processor.py:163} INFO - Started process (PID=28868) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:51:08,938] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:51:08,940] {logging_mixin.py:109} INFO - [2021-10-18 17:51:08,940] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:51:09,972] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:51:10,012] {logging_mixin.py:109} INFO - [2021-10-18 17:51:10,012] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:51:10,052] {logging_mixin.py:109} INFO - [2021-10-18 17:51:10,052] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:51:10,097] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 1.173 seconds
+[2021-10-18 17:51:34,574] {processor.py:163} INFO - Started process (PID=28988) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:51:34,577] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:51:34,578] {logging_mixin.py:109} INFO - [2021-10-18 17:51:34,578] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:51:35,088] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:51:35,096] {logging_mixin.py:109} INFO - [2021-10-18 17:51:35,096] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:51:35,107] {logging_mixin.py:109} INFO - [2021-10-18 17:51:35,107] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:51:35,115] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.546 seconds
+[2021-10-18 17:51:58,404] {processor.py:163} INFO - Started process (PID=29023) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:51:58,408] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:51:58,409] {logging_mixin.py:109} INFO - [2021-10-18 17:51:58,409] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:51:59,004] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:51:59,012] {logging_mixin.py:109} INFO - [2021-10-18 17:51:59,012] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:51:59,023] {logging_mixin.py:109} INFO - [2021-10-18 17:51:59,023] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:51:59,031] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.632 seconds
+[2021-10-18 17:52:21,415] {processor.py:163} INFO - Started process (PID=29058) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:52:21,417] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:52:21,419] {logging_mixin.py:109} INFO - [2021-10-18 17:52:21,419] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:52:21,921] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:52:21,928] {logging_mixin.py:109} INFO - [2021-10-18 17:52:21,928] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:52:21,940] {logging_mixin.py:109} INFO - [2021-10-18 17:52:21,940] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:52:21,947] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.538 seconds
+[2021-10-18 17:52:44,451] {processor.py:163} INFO - Started process (PID=29122) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:52:44,453] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:52:44,454] {logging_mixin.py:109} INFO - [2021-10-18 17:52:44,454] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:52:45,071] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:52:45,086] {logging_mixin.py:109} INFO - [2021-10-18 17:52:45,086] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:52:45,109] {logging_mixin.py:109} INFO - [2021-10-18 17:52:45,109] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:52:45,123] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.678 seconds
+[2021-10-18 17:53:07,813] {processor.py:163} INFO - Started process (PID=29192) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:53:07,824] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:53:07,826] {logging_mixin.py:109} INFO - [2021-10-18 17:53:07,826] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:53:08,331] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:53:08,339] {logging_mixin.py:109} INFO - [2021-10-18 17:53:08,339] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:53:08,351] {logging_mixin.py:109} INFO - [2021-10-18 17:53:08,351] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:53:08,359] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.552 seconds
+[2021-10-18 17:53:30,227] {processor.py:163} INFO - Started process (PID=29222) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:53:30,231] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:53:30,232] {logging_mixin.py:109} INFO - [2021-10-18 17:53:30,232] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:53:30,761] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:53:30,769] {logging_mixin.py:109} INFO - [2021-10-18 17:53:30,769] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:53:30,781] {logging_mixin.py:109} INFO - [2021-10-18 17:53:30,781] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:53:30,789] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.571 seconds
+[2021-10-18 17:53:53,742] {processor.py:163} INFO - Started process (PID=29263) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:53:53,744] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:53:53,745] {logging_mixin.py:109} INFO - [2021-10-18 17:53:53,745] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:53:54,272] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:53:54,280] {logging_mixin.py:109} INFO - [2021-10-18 17:53:54,280] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:53:54,291] {logging_mixin.py:109} INFO - [2021-10-18 17:53:54,291] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:53:54,299] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.563 seconds
+[2021-10-18 17:54:18,136] {processor.py:163} INFO - Started process (PID=29295) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:54:18,138] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:54:18,139] {logging_mixin.py:109} INFO - [2021-10-18 17:54:18,139] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:54:18,670] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:54:18,678] {logging_mixin.py:109} INFO - [2021-10-18 17:54:18,678] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:54:18,690] {logging_mixin.py:109} INFO - [2021-10-18 17:54:18,690] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:54:18,698] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.569 seconds
+[2021-10-18 17:54:43,955] {processor.py:163} INFO - Started process (PID=29340) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:54:43,958] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:54:43,959] {logging_mixin.py:109} INFO - [2021-10-18 17:54:43,959] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:54:44,452] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:54:44,460] {logging_mixin.py:109} INFO - [2021-10-18 17:54:44,459] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:54:44,471] {logging_mixin.py:109} INFO - [2021-10-18 17:54:44,471] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:54:44,480] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.533 seconds
+[2021-10-18 17:55:06,137] {processor.py:163} INFO - Started process (PID=29384) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:55:06,139] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:55:06,142] {logging_mixin.py:109} INFO - [2021-10-18 17:55:06,141] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:55:06,896] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:55:06,910] {logging_mixin.py:109} INFO - [2021-10-18 17:55:06,910] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:55:06,936] {logging_mixin.py:109} INFO - [2021-10-18 17:55:06,936] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:55:06,952] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.822 seconds
+[2021-10-18 17:55:28,842] {processor.py:163} INFO - Started process (PID=29416) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:55:28,847] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:55:28,849] {logging_mixin.py:109} INFO - [2021-10-18 17:55:28,848] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:55:29,371] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:55:29,379] {logging_mixin.py:109} INFO - [2021-10-18 17:55:29,379] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:55:29,390] {logging_mixin.py:109} INFO - [2021-10-18 17:55:29,390] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:55:29,398] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.564 seconds
+[2021-10-18 17:55:50,038] {processor.py:163} INFO - Started process (PID=29523) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:55:50,040] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:55:50,041] {logging_mixin.py:109} INFO - [2021-10-18 17:55:50,041] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:55:50,880] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:55:50,888] {logging_mixin.py:109} INFO - [2021-10-18 17:55:50,888] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:55:50,900] {logging_mixin.py:109} INFO - [2021-10-18 17:55:50,900] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:55:50,908] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.874 seconds
+[2021-10-18 17:56:11,344] {processor.py:163} INFO - Started process (PID=29554) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:56:11,346] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:56:11,348] {logging_mixin.py:109} INFO - [2021-10-18 17:56:11,347] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:56:11,909] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:56:11,916] {logging_mixin.py:109} INFO - [2021-10-18 17:56:11,916] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:56:11,928] {logging_mixin.py:109} INFO - [2021-10-18 17:56:11,928] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:56:11,936] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.599 seconds
+[2021-10-18 17:56:34,707] {processor.py:163} INFO - Started process (PID=29598) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:56:34,709] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:56:34,711] {logging_mixin.py:109} INFO - [2021-10-18 17:56:34,711] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:56:35,429] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:56:35,437] {logging_mixin.py:109} INFO - [2021-10-18 17:56:35,437] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:56:35,449] {logging_mixin.py:109} INFO - [2021-10-18 17:56:35,449] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:56:35,456] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.759 seconds
+[2021-10-18 17:56:57,046] {processor.py:163} INFO - Started process (PID=29635) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:56:57,048] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:56:57,050] {logging_mixin.py:109} INFO - [2021-10-18 17:56:57,049] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:56:57,900] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:56:57,919] {logging_mixin.py:109} INFO - [2021-10-18 17:56:57,919] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:56:57,947] {logging_mixin.py:109} INFO - [2021-10-18 17:56:57,946] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:56:57,979] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.940 seconds
+[2021-10-18 17:57:20,363] {processor.py:163} INFO - Started process (PID=29665) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:57:20,375] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:57:20,377] {logging_mixin.py:109} INFO - [2021-10-18 17:57:20,376] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:57:20,879] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:57:20,887] {logging_mixin.py:109} INFO - [2021-10-18 17:57:20,886] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:57:20,898] {logging_mixin.py:109} INFO - [2021-10-18 17:57:20,898] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:57:20,905] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.548 seconds
+[2021-10-18 17:57:43,314] {processor.py:163} INFO - Started process (PID=29735) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:57:43,316] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:57:43,317] {logging_mixin.py:109} INFO - [2021-10-18 17:57:43,316] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:57:44,073] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:57:44,080] {logging_mixin.py:109} INFO - [2021-10-18 17:57:44,080] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:57:44,092] {logging_mixin.py:109} INFO - [2021-10-18 17:57:44,092] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:57:44,099] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.790 seconds
+[2021-10-18 17:58:06,379] {processor.py:163} INFO - Started process (PID=29767) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:58:06,384] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:58:06,388] {logging_mixin.py:109} INFO - [2021-10-18 17:58:06,388] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:58:07,039] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:58:07,052] {logging_mixin.py:109} INFO - [2021-10-18 17:58:07,052] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:58:07,072] {logging_mixin.py:109} INFO - [2021-10-18 17:58:07,072] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:58:07,088] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.717 seconds
+[2021-10-18 17:58:30,725] {processor.py:163} INFO - Started process (PID=29798) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:58:30,729] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:58:30,732] {logging_mixin.py:109} INFO - [2021-10-18 17:58:30,731] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:58:31,331] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:58:31,338] {logging_mixin.py:109} INFO - [2021-10-18 17:58:31,338] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:58:31,350] {logging_mixin.py:109} INFO - [2021-10-18 17:58:31,349] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:58:31,357] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.642 seconds
+[2021-10-18 17:58:52,261] {processor.py:163} INFO - Started process (PID=29844) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:58:52,264] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:58:52,265] {logging_mixin.py:109} INFO - [2021-10-18 17:58:52,265] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:58:53,111] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:58:53,127] {logging_mixin.py:109} INFO - [2021-10-18 17:58:53,127] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:58:53,152] {logging_mixin.py:109} INFO - [2021-10-18 17:58:53,152] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:58:53,175] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.920 seconds
+[2021-10-18 17:59:14,258] {processor.py:163} INFO - Started process (PID=29880) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:59:14,260] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:59:14,262] {logging_mixin.py:109} INFO - [2021-10-18 17:59:14,262] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:59:14,749] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:59:14,757] {logging_mixin.py:109} INFO - [2021-10-18 17:59:14,757] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:59:14,769] {logging_mixin.py:109} INFO - [2021-10-18 17:59:14,769] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:59:14,779] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.527 seconds
+[2021-10-18 17:59:36,375] {processor.py:163} INFO - Started process (PID=29920) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:59:36,377] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:59:36,379] {logging_mixin.py:109} INFO - [2021-10-18 17:59:36,378] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:59:36,851] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:59:36,858] {logging_mixin.py:109} INFO - [2021-10-18 17:59:36,858] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:59:36,870] {logging_mixin.py:109} INFO - [2021-10-18 17:59:36,869] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:59:36,877] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.507 seconds
+[2021-10-18 17:59:59,398] {processor.py:163} INFO - Started process (PID=29954) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:59:59,400] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 17:59:59,401] {logging_mixin.py:109} INFO - [2021-10-18 17:59:59,401] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:59:59,943] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 17:59:59,951] {logging_mixin.py:109} INFO - [2021-10-18 17:59:59,951] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 17:59:59,962] {logging_mixin.py:109} INFO - [2021-10-18 17:59:59,962] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 17:59:59,969] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.577 seconds
+[2021-10-18 18:00:22,524] {processor.py:163} INFO - Started process (PID=29983) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 18:00:22,537] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 18:00:22,538] {logging_mixin.py:109} INFO - [2021-10-18 18:00:22,538] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 18:00:23,097] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 18:00:23,104] {logging_mixin.py:109} INFO - [2021-10-18 18:00:23,104] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 18:00:23,116] {logging_mixin.py:109} INFO - [2021-10-18 18:00:23,115] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 18:00:23,123] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.605 seconds
+[2021-10-18 18:00:44,916] {processor.py:163} INFO - Started process (PID=30067) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 18:00:44,919] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 18:00:44,920] {logging_mixin.py:109} INFO - [2021-10-18 18:00:44,920] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 18:00:45,547] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 18:00:45,561] {logging_mixin.py:109} INFO - [2021-10-18 18:00:45,561] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 18:00:45,585] {logging_mixin.py:109} INFO - [2021-10-18 18:00:45,585] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 18:00:45,599] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.690 seconds
+[2021-10-18 18:01:08,938] {processor.py:163} INFO - Started process (PID=30120) to work on /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 18:01:08,941] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/file_loadin.py for tasks to queue
+[2021-10-18 18:01:08,942] {logging_mixin.py:109} INFO - [2021-10-18 18:01:08,942] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 18:01:09,505] {processor.py:632} INFO - DAG(s) dict_keys(['file_upload']) retrieved from /home/user/workspace/airflow/dags/file_loadin.py
+[2021-10-18 18:01:09,513] {logging_mixin.py:109} INFO - [2021-10-18 18:01:09,513] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-10-18 18:01:09,525] {logging_mixin.py:109} INFO - [2021-10-18 18:01:09,525] {dag.py:2914} INFO - Setting next_dagrun for file_upload to 2021-10-18T00:00:00+00:00
+[2021-10-18 18:01:09,532] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/file_loadin.py took 0.600 seconds
