@@ -1,440 +1,265 @@
-[2021-11-02 11:46:41,196] {processor.py:163} INFO - Started process (PID=25956) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:46:41,197] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 11:46:41,198] {logging_mixin.py:109} INFO - [2021-11-02 11:46:41,198] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:46:41,220] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:46:41,223] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.029 seconds
-[2021-11-02 11:47:12,259] {processor.py:163} INFO - Started process (PID=27004) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:47:12,259] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 11:47:12,260] {logging_mixin.py:109} INFO - [2021-11-02 11:47:12,260] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:47:12,272] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:47:12,275] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.018 seconds
-[2021-11-02 11:47:43,157] {processor.py:163} INFO - Started process (PID=28098) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:47:43,158] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 11:47:43,158] {logging_mixin.py:109} INFO - [2021-11-02 11:47:43,158] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:47:43,174] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:47:43,179] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.024 seconds
-[2021-11-02 11:48:14,235] {processor.py:163} INFO - Started process (PID=28852) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:48:14,236] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 11:48:14,236] {logging_mixin.py:109} INFO - [2021-11-02 11:48:14,236] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:48:14,248] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:48:14,250] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.017 seconds
-[2021-11-02 11:48:45,274] {processor.py:163} INFO - Started process (PID=29540) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:48:45,274] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 11:48:45,275] {logging_mixin.py:109} INFO - [2021-11-02 11:48:45,275] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:48:45,293] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:48:45,296] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.027 seconds
-[2021-11-02 11:49:16,182] {processor.py:163} INFO - Started process (PID=30261) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:49:16,183] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 11:49:16,183] {logging_mixin.py:109} INFO - [2021-11-02 11:49:16,183] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:49:16,199] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:49:16,201] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.022 seconds
-[2021-11-02 11:49:47,109] {processor.py:163} INFO - Started process (PID=30957) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:49:47,110] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 11:49:47,110] {logging_mixin.py:109} INFO - [2021-11-02 11:49:47,110] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:49:47,120] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:49:47,122] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.014 seconds
-[2021-11-02 11:50:18,950] {processor.py:163} INFO - Started process (PID=31662) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:50:18,950] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 11:50:18,951] {logging_mixin.py:109} INFO - [2021-11-02 11:50:18,951] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:50:18,980] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:50:18,994] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.049 seconds
-[2021-11-02 11:50:50,645] {processor.py:163} INFO - Started process (PID=32217) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:50:50,647] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 11:50:50,649] {logging_mixin.py:109} INFO - [2021-11-02 11:50:50,649] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:50:50,673] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:50:50,680] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.040 seconds
-[2021-11-02 11:51:21,707] {processor.py:163} INFO - Started process (PID=32695) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:51:21,707] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 11:51:21,708] {logging_mixin.py:109} INFO - [2021-11-02 11:51:21,707] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:51:21,719] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:51:21,722] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.018 seconds
-[2021-11-02 11:51:52,706] {processor.py:163} INFO - Started process (PID=1061) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:51:52,707] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 11:51:52,707] {logging_mixin.py:109} INFO - [2021-11-02 11:51:52,707] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:51:52,719] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:51:52,722] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.019 seconds
-[2021-11-02 11:52:23,642] {processor.py:163} INFO - Started process (PID=2051) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:52:23,643] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 11:52:23,643] {logging_mixin.py:109} INFO - [2021-11-02 11:52:23,643] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:52:23,656] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:52:23,659] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.019 seconds
-[2021-11-02 11:52:54,687] {processor.py:163} INFO - Started process (PID=3231) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:52:54,688] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 11:52:54,689] {logging_mixin.py:109} INFO - [2021-11-02 11:52:54,689] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:52:54,700] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:52:54,702] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.017 seconds
-[2021-11-02 11:53:26,085] {processor.py:163} INFO - Started process (PID=4047) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:53:26,086] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 11:53:26,088] {logging_mixin.py:109} INFO - [2021-11-02 11:53:26,087] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:53:26,105] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:53:26,108] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.026 seconds
-[2021-11-02 11:53:57,167] {processor.py:163} INFO - Started process (PID=4722) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:53:57,168] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 11:53:57,169] {logging_mixin.py:109} INFO - [2021-11-02 11:53:57,168] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:53:57,187] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:53:57,192] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.029 seconds
-[2021-11-02 11:54:28,618] {processor.py:163} INFO - Started process (PID=5120) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:54:28,620] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 11:54:28,621] {logging_mixin.py:109} INFO - [2021-11-02 11:54:28,620] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:54:28,649] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:54:28,652] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.044 seconds
-[2021-11-02 11:55:01,203] {processor.py:163} INFO - Started process (PID=5691) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:55:01,206] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 11:55:01,208] {logging_mixin.py:109} INFO - [2021-11-02 11:55:01,208] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:55:01,246] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:55:01,257] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.059 seconds
-[2021-11-02 11:55:34,973] {processor.py:163} INFO - Started process (PID=6087) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:55:34,974] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 11:55:34,975] {logging_mixin.py:109} INFO - [2021-11-02 11:55:34,975] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:55:34,998] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:55:35,003] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.034 seconds
-[2021-11-02 11:56:07,151] {processor.py:163} INFO - Started process (PID=6490) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:56:07,153] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 11:56:07,154] {logging_mixin.py:109} INFO - [2021-11-02 11:56:07,154] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:56:07,184] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:56:07,192] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.047 seconds
-[2021-11-02 11:56:41,680] {processor.py:163} INFO - Started process (PID=6961) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:56:41,680] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 11:56:41,681] {logging_mixin.py:109} INFO - [2021-11-02 11:56:41,681] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:56:41,700] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:56:41,707] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.031 seconds
-[2021-11-02 11:57:13,349] {processor.py:163} INFO - Started process (PID=7489) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:57:13,352] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 11:57:13,352] {logging_mixin.py:109} INFO - [2021-11-02 11:57:13,352] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:57:13,371] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:57:13,376] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.033 seconds
-[2021-11-02 11:57:45,926] {processor.py:163} INFO - Started process (PID=7901) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:57:45,932] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 11:57:45,948] {logging_mixin.py:109} INFO - [2021-11-02 11:57:45,945] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:57:46,034] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:57:46,054] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.143 seconds
-[2021-11-02 11:58:16,961] {processor.py:163} INFO - Started process (PID=8415) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:58:16,962] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 11:58:16,962] {logging_mixin.py:109} INFO - [2021-11-02 11:58:16,962] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:58:16,979] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:58:16,983] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.025 seconds
-[2021-11-02 11:58:49,864] {processor.py:163} INFO - Started process (PID=8897) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:58:49,865] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 11:58:49,866] {logging_mixin.py:109} INFO - [2021-11-02 11:58:49,866] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:58:49,888] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:58:49,891] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.033 seconds
-[2021-11-02 11:59:22,735] {processor.py:163} INFO - Started process (PID=9384) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:59:22,737] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 11:59:22,738] {logging_mixin.py:109} INFO - [2021-11-02 11:59:22,738] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:59:22,758] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:59:22,772] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.041 seconds
-[2021-11-02 11:59:54,485] {processor.py:163} INFO - Started process (PID=9967) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:59:54,486] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 11:59:54,486] {logging_mixin.py:109} INFO - [2021-11-02 11:59:54,486] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:59:54,501] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 11:59:54,505] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.022 seconds
-[2021-11-02 12:00:25,582] {processor.py:163} INFO - Started process (PID=10502) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:00:25,583] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:00:25,584] {logging_mixin.py:109} INFO - [2021-11-02 12:00:25,584] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:00:25,596] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:00:25,599] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.019 seconds
-[2021-11-02 12:00:56,605] {processor.py:163} INFO - Started process (PID=11091) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:00:56,606] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:00:56,606] {logging_mixin.py:109} INFO - [2021-11-02 12:00:56,606] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:00:56,619] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:00:56,621] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.019 seconds
-[2021-11-02 12:01:27,879] {processor.py:163} INFO - Started process (PID=11662) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:01:27,880] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:01:27,881] {logging_mixin.py:109} INFO - [2021-11-02 12:01:27,881] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:01:27,911] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:01:27,916] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.047 seconds
-[2021-11-02 12:01:58,663] {processor.py:163} INFO - Started process (PID=12300) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:01:58,664] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:01:58,665] {logging_mixin.py:109} INFO - [2021-11-02 12:01:58,665] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:01:58,679] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:01:58,682] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.022 seconds
-[2021-11-02 12:02:30,235] {processor.py:163} INFO - Started process (PID=12984) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:02:30,237] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:02:30,238] {logging_mixin.py:109} INFO - [2021-11-02 12:02:30,238] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:02:30,266] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:02:30,272] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.048 seconds
-[2021-11-02 12:03:01,341] {processor.py:163} INFO - Started process (PID=13515) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:03:01,342] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:03:01,342] {logging_mixin.py:109} INFO - [2021-11-02 12:03:01,342] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:03:01,365] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:03:01,372] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.035 seconds
-[2021-11-02 12:03:32,906] {processor.py:163} INFO - Started process (PID=14025) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:03:32,907] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:03:32,909] {logging_mixin.py:109} INFO - [2021-11-02 12:03:32,909] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:03:32,929] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:03:32,934] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.033 seconds
-[2021-11-02 12:04:04,210] {processor.py:163} INFO - Started process (PID=14536) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:04:04,212] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:04:04,212] {logging_mixin.py:109} INFO - [2021-11-02 12:04:04,212] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:04:04,231] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:04:04,234] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.027 seconds
-[2021-11-02 12:04:35,718] {processor.py:163} INFO - Started process (PID=15106) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:04:35,719] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:04:35,719] {logging_mixin.py:109} INFO - [2021-11-02 12:04:35,719] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:04:35,732] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:04:35,734] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.019 seconds
-[2021-11-02 12:05:07,466] {processor.py:163} INFO - Started process (PID=15710) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:05:07,466] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:05:07,467] {logging_mixin.py:109} INFO - [2021-11-02 12:05:07,467] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:05:07,480] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:05:07,483] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.020 seconds
-[2021-11-02 12:05:39,737] {processor.py:163} INFO - Started process (PID=16304) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:05:39,738] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:05:39,738] {logging_mixin.py:109} INFO - [2021-11-02 12:05:39,738] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:05:39,755] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:05:39,758] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.024 seconds
-[2021-11-02 12:06:11,157] {processor.py:163} INFO - Started process (PID=16967) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:06:11,158] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:06:11,159] {logging_mixin.py:109} INFO - [2021-11-02 12:06:11,159] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:06:11,171] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:06:11,174] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.019 seconds
-[2021-11-02 12:06:42,905] {processor.py:163} INFO - Started process (PID=17598) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:06:42,906] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:06:42,907] {logging_mixin.py:109} INFO - [2021-11-02 12:06:42,907] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:06:42,922] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:06:42,925] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.023 seconds
-[2021-11-02 12:07:14,154] {processor.py:163} INFO - Started process (PID=18186) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:07:14,155] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:07:14,156] {logging_mixin.py:109} INFO - [2021-11-02 12:07:14,155] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:07:14,169] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:07:14,171] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.020 seconds
-[2021-11-02 12:07:45,397] {processor.py:163} INFO - Started process (PID=18756) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:07:45,398] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:07:45,399] {logging_mixin.py:109} INFO - [2021-11-02 12:07:45,399] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:07:45,415] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:07:45,418] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.025 seconds
-[2021-11-02 12:08:17,370] {processor.py:163} INFO - Started process (PID=19376) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:08:17,371] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:08:17,371] {logging_mixin.py:109} INFO - [2021-11-02 12:08:17,371] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:08:17,385] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:08:17,388] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.020 seconds
-[2021-11-02 12:08:48,682] {processor.py:163} INFO - Started process (PID=19956) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:08:48,682] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:08:48,683] {logging_mixin.py:109} INFO - [2021-11-02 12:08:48,683] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:08:48,698] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:08:48,700] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.022 seconds
-[2021-11-02 12:09:20,458] {processor.py:163} INFO - Started process (PID=20526) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:09:20,459] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:09:20,460] {logging_mixin.py:109} INFO - [2021-11-02 12:09:20,460] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:09:20,474] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:09:20,479] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.024 seconds
-[2021-11-02 12:09:52,191] {processor.py:163} INFO - Started process (PID=21072) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:09:52,192] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:09:52,192] {logging_mixin.py:109} INFO - [2021-11-02 12:09:52,192] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:09:52,207] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:09:52,210] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.022 seconds
-[2021-11-02 12:10:24,988] {processor.py:163} INFO - Started process (PID=21636) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:10:24,989] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:10:24,989] {logging_mixin.py:109} INFO - [2021-11-02 12:10:24,989] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:10:25,006] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:10:25,009] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.025 seconds
-[2021-11-02 12:10:56,071] {processor.py:163} INFO - Started process (PID=22097) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:10:56,072] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:10:56,073] {logging_mixin.py:109} INFO - [2021-11-02 12:10:56,073] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:10:56,090] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:10:56,094] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.027 seconds
-[2021-11-02 12:11:27,710] {processor.py:163} INFO - Started process (PID=22595) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:11:27,711] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:11:27,711] {logging_mixin.py:109} INFO - [2021-11-02 12:11:27,711] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:11:27,732] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:11:27,736] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.029 seconds
-[2021-11-02 12:11:59,281] {processor.py:163} INFO - Started process (PID=23217) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:11:59,282] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:11:59,282] {logging_mixin.py:109} INFO - [2021-11-02 12:11:59,282] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:11:59,296] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:11:59,299] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.021 seconds
-[2021-11-02 12:12:30,710] {processor.py:163} INFO - Started process (PID=23797) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:12:30,711] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:12:30,712] {logging_mixin.py:109} INFO - [2021-11-02 12:12:30,712] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:12:30,727] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:12:30,730] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.024 seconds
-[2021-11-02 12:13:02,556] {processor.py:163} INFO - Started process (PID=24347) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:13:02,557] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:13:02,557] {logging_mixin.py:109} INFO - [2021-11-02 12:13:02,557] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:13:02,632] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:13:02,635] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.083 seconds
-[2021-11-02 12:13:33,971] {processor.py:163} INFO - Started process (PID=24883) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:13:33,972] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:13:33,973] {logging_mixin.py:109} INFO - [2021-11-02 12:13:33,973] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:13:33,987] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:13:33,990] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.022 seconds
-[2021-11-02 12:14:07,510] {processor.py:163} INFO - Started process (PID=25470) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:14:07,512] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:14:07,514] {logging_mixin.py:109} INFO - [2021-11-02 12:14:07,513] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:14:07,542] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:14:07,546] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.041 seconds
-[2021-11-02 12:14:39,967] {processor.py:163} INFO - Started process (PID=25986) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:14:39,968] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:14:39,969] {logging_mixin.py:109} INFO - [2021-11-02 12:14:39,969] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:14:39,985] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:14:39,989] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.025 seconds
-[2021-11-02 12:15:13,374] {processor.py:163} INFO - Started process (PID=26524) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:15:13,375] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:15:13,376] {logging_mixin.py:109} INFO - [2021-11-02 12:15:13,376] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:15:13,391] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:15:13,395] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.024 seconds
-[2021-11-02 12:15:45,590] {processor.py:163} INFO - Started process (PID=26960) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:15:45,591] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:15:45,592] {logging_mixin.py:109} INFO - [2021-11-02 12:15:45,592] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:15:45,607] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:15:45,610] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.022 seconds
-[2021-11-02 12:16:17,893] {processor.py:163} INFO - Started process (PID=27417) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:16:17,894] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:16:17,895] {logging_mixin.py:109} INFO - [2021-11-02 12:16:17,895] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:16:17,919] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:16:17,924] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.034 seconds
-[2021-11-02 12:16:53,401] {processor.py:163} INFO - Started process (PID=28016) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:16:53,403] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:16:53,403] {logging_mixin.py:109} INFO - [2021-11-02 12:16:53,403] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:16:53,424] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:16:53,430] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.035 seconds
-[2021-11-02 12:17:24,760] {processor.py:163} INFO - Started process (PID=28469) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:17:24,761] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:17:24,761] {logging_mixin.py:109} INFO - [2021-11-02 12:17:24,761] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:17:24,779] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:17:24,783] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.026 seconds
-[2021-11-02 12:17:56,050] {processor.py:163} INFO - Started process (PID=29009) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:17:56,051] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:17:56,052] {logging_mixin.py:109} INFO - [2021-11-02 12:17:56,052] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:17:56,067] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:17:56,071] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.024 seconds
-[2021-11-02 12:18:27,089] {processor.py:163} INFO - Started process (PID=29481) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:18:27,090] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:18:27,091] {logging_mixin.py:109} INFO - [2021-11-02 12:18:27,090] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:18:27,104] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:18:27,106] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.020 seconds
-[2021-11-02 12:18:58,495] {processor.py:163} INFO - Started process (PID=30076) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:18:58,495] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:18:58,496] {logging_mixin.py:109} INFO - [2021-11-02 12:18:58,496] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:18:58,509] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:18:58,512] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.020 seconds
-[2021-11-02 12:19:29,617] {processor.py:163} INFO - Started process (PID=30646) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:19:29,618] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:19:29,619] {logging_mixin.py:109} INFO - [2021-11-02 12:19:29,618] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:19:29,633] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:19:29,636] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.022 seconds
-[2021-11-02 12:20:01,071] {processor.py:163} INFO - Started process (PID=31222) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:20:01,072] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:20:01,072] {logging_mixin.py:109} INFO - [2021-11-02 12:20:01,072] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:20:01,094] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:20:01,098] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.031 seconds
-[2021-11-02 12:20:33,210] {processor.py:163} INFO - Started process (PID=31864) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:20:33,211] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:20:33,212] {logging_mixin.py:109} INFO - [2021-11-02 12:20:33,212] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:20:33,251] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:20:33,256] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.049 seconds
-[2021-11-02 12:21:04,216] {processor.py:163} INFO - Started process (PID=32583) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:21:04,217] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:21:04,217] {logging_mixin.py:109} INFO - [2021-11-02 12:21:04,217] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:21:04,231] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:21:04,235] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.021 seconds
-[2021-11-02 12:21:34,873] {processor.py:163} INFO - Started process (PID=878) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:21:34,873] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:21:34,874] {logging_mixin.py:109} INFO - [2021-11-02 12:21:34,874] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:21:34,890] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:21:34,893] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.023 seconds
-[2021-11-02 12:22:05,868] {processor.py:163} INFO - Started process (PID=1976) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:22:05,868] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:22:05,869] {logging_mixin.py:109} INFO - [2021-11-02 12:22:05,869] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:22:05,881] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:22:05,883] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.018 seconds
-[2021-11-02 12:22:37,059] {processor.py:163} INFO - Started process (PID=3202) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:22:37,060] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:22:37,061] {logging_mixin.py:109} INFO - [2021-11-02 12:22:37,061] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:22:37,079] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:22:37,085] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.028 seconds
-[2021-11-02 12:23:08,602] {processor.py:163} INFO - Started process (PID=4095) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:23:08,603] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:23:08,604] {logging_mixin.py:109} INFO - [2021-11-02 12:23:08,603] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:23:08,615] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:23:08,617] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.017 seconds
-[2021-11-02 12:23:39,594] {processor.py:163} INFO - Started process (PID=5055) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:23:39,595] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:23:39,595] {logging_mixin.py:109} INFO - [2021-11-02 12:23:39,595] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:23:39,607] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:23:39,609] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.017 seconds
-[2021-11-02 12:24:11,155] {processor.py:163} INFO - Started process (PID=5687) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:24:11,156] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:24:11,157] {logging_mixin.py:109} INFO - [2021-11-02 12:24:11,157] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:24:11,167] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:24:11,169] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.016 seconds
-[2021-11-02 12:24:41,968] {processor.py:163} INFO - Started process (PID=6385) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:24:41,969] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:24:41,970] {logging_mixin.py:109} INFO - [2021-11-02 12:24:41,969] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:24:41,983] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:24:41,985] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.019 seconds
-[2021-11-02 12:25:13,008] {processor.py:163} INFO - Started process (PID=7142) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:25:13,008] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:25:13,009] {logging_mixin.py:109} INFO - [2021-11-02 12:25:13,009] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:25:13,018] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:25:13,020] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.015 seconds
-[2021-11-02 12:25:43,754] {processor.py:163} INFO - Started process (PID=7831) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:25:43,755] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:25:43,755] {logging_mixin.py:109} INFO - [2021-11-02 12:25:43,755] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:25:43,769] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:25:43,772] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.020 seconds
-[2021-11-02 12:26:14,640] {processor.py:163} INFO - Started process (PID=8461) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:26:14,641] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:26:14,642] {logging_mixin.py:109} INFO - [2021-11-02 12:26:14,642] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:26:14,655] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:26:14,657] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.020 seconds
-[2021-11-02 12:26:46,460] {processor.py:163} INFO - Started process (PID=9136) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:26:46,460] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:26:46,461] {logging_mixin.py:109} INFO - [2021-11-02 12:26:46,461] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:26:46,473] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:26:46,475] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.017 seconds
-[2021-11-02 12:27:20,108] {processor.py:163} INFO - Started process (PID=9829) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:27:20,109] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:27:20,109] {logging_mixin.py:109} INFO - [2021-11-02 12:27:20,109] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:27:20,121] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:27:20,123] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.017 seconds
-[2021-11-02 12:27:51,563] {processor.py:163} INFO - Started process (PID=10435) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:27:51,564] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:27:51,564] {logging_mixin.py:109} INFO - [2021-11-02 12:27:51,564] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:27:51,577] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:27:51,579] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.018 seconds
-[2021-11-02 12:28:23,120] {processor.py:163} INFO - Started process (PID=11074) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:28:23,120] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:28:23,121] {logging_mixin.py:109} INFO - [2021-11-02 12:28:23,121] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:28:23,132] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:28:23,134] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.017 seconds
-[2021-11-02 12:28:54,129] {processor.py:163} INFO - Started process (PID=11708) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:28:54,129] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:28:54,130] {logging_mixin.py:109} INFO - [2021-11-02 12:28:54,130] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:28:54,142] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:28:54,146] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.020 seconds
-[2021-11-02 12:29:24,968] {processor.py:163} INFO - Started process (PID=12279) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:29:24,969] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:29:24,970] {logging_mixin.py:109} INFO - [2021-11-02 12:29:24,969] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:29:24,985] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:29:24,988] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.024 seconds
-[2021-11-02 12:29:56,610] {processor.py:163} INFO - Started process (PID=13076) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:29:56,610] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:29:56,611] {logging_mixin.py:109} INFO - [2021-11-02 12:29:56,611] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:29:56,623] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:29:56,625] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.018 seconds
-[2021-11-02 12:30:28,328] {processor.py:163} INFO - Started process (PID=13780) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:30:28,329] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:30:28,329] {logging_mixin.py:109} INFO - [2021-11-02 12:30:28,329] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:30:28,341] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:30:28,343] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.017 seconds
-[2021-11-02 12:30:59,579] {processor.py:163} INFO - Started process (PID=14509) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:30:59,580] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:30:59,581] {logging_mixin.py:109} INFO - [2021-11-02 12:30:59,580] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:30:59,592] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:30:59,595] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.017 seconds
-[2021-11-02 12:31:30,856] {processor.py:163} INFO - Started process (PID=15200) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:31:30,857] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:31:30,857] {logging_mixin.py:109} INFO - [2021-11-02 12:31:30,857] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:31:30,870] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:31:30,873] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.019 seconds
-[2021-11-02 12:32:02,030] {processor.py:163} INFO - Started process (PID=15928) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:32:02,031] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:32:02,031] {logging_mixin.py:109} INFO - [2021-11-02 12:32:02,031] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:32:02,046] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:32:02,050] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.023 seconds
-[2021-11-02 12:32:33,375] {processor.py:163} INFO - Started process (PID=16728) to work on /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:32:33,376] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sql.xlsx for tasks to queue
-[2021-11-02 12:32:33,377] {logging_mixin.py:109} INFO - [2021-11-02 12:32:33,376] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:32:33,393] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sql.xlsx
-[2021-11-02 12:32:33,396] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sql.xlsx took 0.024 seconds
+[2021-11-02 15:55:17,281] {processor.py:163} INFO - Started process (PID=175203) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:55:17,282] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:55:17,283] {logging_mixin.py:109} INFO - [2021-11-02 15:55:17,283] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:55:17,308] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:55:17,312] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.040 seconds
+[2021-11-02 15:55:22,615] {processor.py:163} INFO - Started process (PID=175329) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:55:22,616] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:55:22,617] {logging_mixin.py:109} INFO - [2021-11-02 15:55:22,617] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:55:22,637] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:55:22,640] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.030 seconds
+[2021-11-02 15:55:26,848] {processor.py:163} INFO - Started process (PID=175447) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:55:26,850] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:55:26,851] {logging_mixin.py:109} INFO - [2021-11-02 15:55:26,851] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:55:26,873] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:55:26,877] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.035 seconds
+[2021-11-02 15:55:31,145] {processor.py:163} INFO - Started process (PID=175571) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:55:31,146] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:55:31,147] {logging_mixin.py:109} INFO - [2021-11-02 15:55:31,147] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:55:31,167] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:55:31,171] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.032 seconds
+[2021-11-02 15:55:35,713] {processor.py:163} INFO - Started process (PID=175689) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:55:35,714] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:55:35,715] {logging_mixin.py:109} INFO - [2021-11-02 15:55:35,715] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:55:35,736] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:55:35,739] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.031 seconds
+[2021-11-02 15:55:40,402] {processor.py:163} INFO - Started process (PID=175812) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:55:40,403] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:55:40,404] {logging_mixin.py:109} INFO - [2021-11-02 15:55:40,404] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:55:40,424] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:55:40,427] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.030 seconds
+[2021-11-02 15:55:44,430] {processor.py:163} INFO - Started process (PID=175930) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:55:44,431] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:55:44,432] {logging_mixin.py:109} INFO - [2021-11-02 15:55:44,432] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:55:44,457] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:55:44,460] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.035 seconds
+[2021-11-02 15:55:48,586] {processor.py:163} INFO - Started process (PID=176050) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:55:48,588] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:55:48,589] {logging_mixin.py:109} INFO - [2021-11-02 15:55:48,589] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:55:48,612] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:55:48,615] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.034 seconds
+[2021-11-02 15:55:53,845] {processor.py:163} INFO - Started process (PID=176175) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:55:53,846] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:55:53,847] {logging_mixin.py:109} INFO - [2021-11-02 15:55:53,847] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:55:53,878] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:55:53,881] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.041 seconds
+[2021-11-02 15:55:58,302] {processor.py:163} INFO - Started process (PID=176296) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:55:58,303] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:55:58,304] {logging_mixin.py:109} INFO - [2021-11-02 15:55:58,304] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:55:58,326] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:55:58,330] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.035 seconds
+[2021-11-02 15:56:03,038] {processor.py:163} INFO - Started process (PID=176416) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:56:03,040] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:56:03,041] {logging_mixin.py:109} INFO - [2021-11-02 15:56:03,041] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:56:03,065] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:56:03,070] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.039 seconds
+[2021-11-02 15:56:07,751] {processor.py:163} INFO - Started process (PID=176539) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:56:07,752] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:56:07,753] {logging_mixin.py:109} INFO - [2021-11-02 15:56:07,753] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:56:07,784] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:56:07,788] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.042 seconds
+[2021-11-02 15:56:12,374] {processor.py:163} INFO - Started process (PID=176662) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:56:12,375] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:56:12,376] {logging_mixin.py:109} INFO - [2021-11-02 15:56:12,376] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:56:12,400] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:56:12,403] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.035 seconds
+[2021-11-02 15:56:16,672] {processor.py:163} INFO - Started process (PID=176782) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:56:16,674] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:56:16,675] {logging_mixin.py:109} INFO - [2021-11-02 15:56:16,674] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:56:16,697] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:56:16,702] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.035 seconds
+[2021-11-02 15:56:21,105] {processor.py:163} INFO - Started process (PID=176904) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:56:21,107] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:56:21,108] {logging_mixin.py:109} INFO - [2021-11-02 15:56:21,108] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:56:21,131] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:56:21,135] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.035 seconds
+[2021-11-02 15:56:26,160] {processor.py:163} INFO - Started process (PID=177023) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:56:26,162] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:56:26,164] {logging_mixin.py:109} INFO - [2021-11-02 15:56:26,164] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:56:26,191] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:56:26,196] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.042 seconds
+[2021-11-02 15:56:30,519] {processor.py:163} INFO - Started process (PID=177144) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:56:30,520] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:56:30,522] {logging_mixin.py:109} INFO - [2021-11-02 15:56:30,521] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:56:30,545] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:56:30,550] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.036 seconds
+[2021-11-02 15:56:34,690] {processor.py:163} INFO - Started process (PID=177265) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:56:34,691] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:56:34,692] {logging_mixin.py:109} INFO - [2021-11-02 15:56:34,692] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:56:34,717] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:56:34,721] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.035 seconds
+[2021-11-02 15:56:38,904] {processor.py:163} INFO - Started process (PID=177385) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:56:38,905] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:56:38,906] {logging_mixin.py:109} INFO - [2021-11-02 15:56:38,906] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:56:38,931] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:56:38,934] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.035 seconds
+[2021-11-02 15:56:43,053] {processor.py:163} INFO - Started process (PID=177504) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:56:43,054] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:56:43,055] {logging_mixin.py:109} INFO - [2021-11-02 15:56:43,054] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:56:43,085] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:56:43,088] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.039 seconds
+[2021-11-02 15:56:47,440] {processor.py:163} INFO - Started process (PID=177631) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:56:47,441] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:56:47,442] {logging_mixin.py:109} INFO - [2021-11-02 15:56:47,441] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:56:47,467] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:56:47,472] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.037 seconds
+[2021-11-02 15:56:51,527] {processor.py:163} INFO - Started process (PID=177750) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:56:51,528] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:56:51,529] {logging_mixin.py:109} INFO - [2021-11-02 15:56:51,528] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:56:51,551] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:56:51,556] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.034 seconds
+[2021-11-02 15:56:56,800] {processor.py:163} INFO - Started process (PID=177872) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:56:56,803] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:56:56,804] {logging_mixin.py:109} INFO - [2021-11-02 15:56:56,803] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:56:56,829] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:56:56,832] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.039 seconds
+[2021-11-02 15:57:01,508] {processor.py:163} INFO - Started process (PID=177993) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:57:01,509] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:57:01,510] {logging_mixin.py:109} INFO - [2021-11-02 15:57:01,510] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:57:01,530] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:57:01,532] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.030 seconds
+[2021-11-02 15:57:06,046] {processor.py:163} INFO - Started process (PID=178117) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:57:06,047] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:57:06,048] {logging_mixin.py:109} INFO - [2021-11-02 15:57:06,048] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:57:06,072] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:57:06,075] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.040 seconds
+[2021-11-02 15:57:10,515] {processor.py:163} INFO - Started process (PID=178234) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:57:10,516] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:57:10,517] {logging_mixin.py:109} INFO - [2021-11-02 15:57:10,516] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:57:10,536] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:57:10,539] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.029 seconds
+[2021-11-02 15:57:15,019] {processor.py:163} INFO - Started process (PID=178356) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:57:15,020] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:57:15,021] {logging_mixin.py:109} INFO - [2021-11-02 15:57:15,021] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:57:15,067] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:57:15,071] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.058 seconds
+[2021-11-02 15:57:19,256] {processor.py:163} INFO - Started process (PID=178476) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:57:19,257] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:57:19,258] {logging_mixin.py:109} INFO - [2021-11-02 15:57:19,257] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:57:19,278] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:57:19,282] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.030 seconds
+[2021-11-02 15:57:23,320] {processor.py:163} INFO - Started process (PID=178597) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:57:23,322] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:57:23,323] {logging_mixin.py:109} INFO - [2021-11-02 15:57:23,323] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:57:23,347] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:57:23,351] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.037 seconds
+[2021-11-02 15:57:28,631] {processor.py:163} INFO - Started process (PID=178720) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:57:28,632] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:57:28,633] {logging_mixin.py:109} INFO - [2021-11-02 15:57:28,633] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:57:28,663] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:57:28,667] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.042 seconds
+[2021-11-02 15:57:33,092] {processor.py:163} INFO - Started process (PID=178843) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:57:33,095] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:57:33,096] {logging_mixin.py:109} INFO - [2021-11-02 15:57:33,096] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:57:33,120] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:57:33,124] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.037 seconds
+[2021-11-02 15:57:37,382] {processor.py:163} INFO - Started process (PID=178961) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:57:37,383] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:57:37,384] {logging_mixin.py:109} INFO - [2021-11-02 15:57:37,384] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:57:37,410] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:57:37,414] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.038 seconds
+[2021-11-02 15:57:41,743] {processor.py:163} INFO - Started process (PID=179082) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:57:41,744] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:57:41,745] {logging_mixin.py:109} INFO - [2021-11-02 15:57:41,745] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:57:41,767] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:57:41,771] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.032 seconds
+[2021-11-02 15:57:46,259] {processor.py:163} INFO - Started process (PID=179203) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:57:46,260] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:57:46,261] {logging_mixin.py:109} INFO - [2021-11-02 15:57:46,261] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:57:46,284] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:57:46,288] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.035 seconds
+[2021-11-02 15:57:51,047] {processor.py:163} INFO - Started process (PID=179330) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:57:51,048] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:57:51,050] {logging_mixin.py:109} INFO - [2021-11-02 15:57:51,049] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:57:51,075] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:57:51,080] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.039 seconds
+[2021-11-02 15:57:55,499] {processor.py:163} INFO - Started process (PID=179450) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:57:55,501] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:57:55,501] {logging_mixin.py:109} INFO - [2021-11-02 15:57:55,501] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:57:55,523] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:57:55,527] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.033 seconds
+[2021-11-02 15:58:00,422] {processor.py:163} INFO - Started process (PID=179571) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:58:00,423] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:58:00,424] {logging_mixin.py:109} INFO - [2021-11-02 15:58:00,424] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:58:00,449] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:58:00,453] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.036 seconds
+[2021-11-02 15:58:04,672] {processor.py:163} INFO - Started process (PID=179693) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:58:04,674] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:58:04,674] {logging_mixin.py:109} INFO - [2021-11-02 15:58:04,674] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:58:04,699] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:58:04,703] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.036 seconds
+[2021-11-02 15:58:09,159] {processor.py:163} INFO - Started process (PID=179814) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:58:09,161] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:58:09,162] {logging_mixin.py:109} INFO - [2021-11-02 15:58:09,162] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:58:09,184] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:58:09,187] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.034 seconds
+[2021-11-02 15:58:14,207] {processor.py:163} INFO - Started process (PID=179937) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:58:14,209] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:58:14,210] {logging_mixin.py:109} INFO - [2021-11-02 15:58:14,209] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:58:14,240] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:58:14,243] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.042 seconds
+[2021-11-02 15:58:18,616] {processor.py:163} INFO - Started process (PID=180060) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:58:18,617] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:58:18,618] {logging_mixin.py:109} INFO - [2021-11-02 15:58:18,618] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:58:18,645] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:58:18,649] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.039 seconds
+[2021-11-02 15:58:22,743] {processor.py:163} INFO - Started process (PID=180181) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:58:22,744] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:58:22,745] {logging_mixin.py:109} INFO - [2021-11-02 15:58:22,745] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:58:22,767] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:58:22,770] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.033 seconds
+[2021-11-02 15:58:26,975] {processor.py:163} INFO - Started process (PID=180301) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:58:26,976] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:58:26,977] {logging_mixin.py:109} INFO - [2021-11-02 15:58:26,977] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:58:26,999] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:58:27,003] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.034 seconds
+[2021-11-02 15:58:32,400] {processor.py:163} INFO - Started process (PID=180424) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:58:32,402] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:58:32,403] {logging_mixin.py:109} INFO - [2021-11-02 15:58:32,402] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:58:32,427] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:58:32,430] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.036 seconds
+[2021-11-02 15:58:37,061] {processor.py:163} INFO - Started process (PID=180547) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:58:37,062] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:58:37,063] {logging_mixin.py:109} INFO - [2021-11-02 15:58:37,063] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:58:37,083] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:58:37,087] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.030 seconds
+[2021-11-02 15:58:41,142] {processor.py:163} INFO - Started process (PID=180665) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:58:41,143] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:58:41,144] {logging_mixin.py:109} INFO - [2021-11-02 15:58:41,144] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:58:41,170] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:58:41,175] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.038 seconds
+[2021-11-02 15:58:45,462] {processor.py:163} INFO - Started process (PID=180788) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:58:45,465] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:58:45,466] {logging_mixin.py:109} INFO - [2021-11-02 15:58:45,466] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:58:45,492] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:58:45,498] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.041 seconds
+[2021-11-02 15:58:49,777] {processor.py:163} INFO - Started process (PID=180910) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:58:49,778] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:58:49,779] {logging_mixin.py:109} INFO - [2021-11-02 15:58:49,779] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:58:49,799] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:58:49,803] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.030 seconds
+[2021-11-02 15:58:53,830] {processor.py:163} INFO - Started process (PID=181030) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:58:53,831] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:58:53,832] {logging_mixin.py:109} INFO - [2021-11-02 15:58:53,832] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:58:53,853] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:58:53,857] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.033 seconds
+[2021-11-02 15:58:58,476] {processor.py:163} INFO - Started process (PID=181151) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:58:58,478] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:58:58,479] {logging_mixin.py:109} INFO - [2021-11-02 15:58:58,479] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:58:58,504] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:58:58,509] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.037 seconds
+[2021-11-02 15:59:03,382] {processor.py:163} INFO - Started process (PID=181274) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:59:03,383] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:59:03,384] {logging_mixin.py:109} INFO - [2021-11-02 15:59:03,384] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:59:03,409] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:59:03,413] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.036 seconds
+[2021-11-02 15:59:08,419] {processor.py:163} INFO - Started process (PID=181398) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:59:08,420] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:59:08,421] {logging_mixin.py:109} INFO - [2021-11-02 15:59:08,421] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:59:08,445] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:59:08,449] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.034 seconds
+[2021-11-02 15:59:12,651] {processor.py:163} INFO - Started process (PID=181519) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:59:12,652] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx for tasks to queue
+[2021-11-02 15:59:12,653] {logging_mixin.py:109} INFO - [2021-11-02 15:59:12,653] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:59:12,685] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx
+[2021-11-02 15:59:12,689] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/sql.xlsx took 0.044 seconds

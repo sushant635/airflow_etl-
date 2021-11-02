@@ -8,7 +8,7 @@ import paramiko
 import requests
 import pyodbc
 from sqlalchemy import create_engine
-import MySQLdb
+#import MySQLdb
 from shareplum import Site,Office365
 from shareplum.site import Version
 from office365.runtime.auth.authentication_context import AuthenticationContext

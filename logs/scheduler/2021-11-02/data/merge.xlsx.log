@@ -1,440 +1,230 @@
-[2021-11-02 11:46:42,232] {processor.py:163} INFO - Started process (PID=25976) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:46:42,234] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 11:46:42,235] {logging_mixin.py:109} INFO - [2021-11-02 11:46:42,235] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:46:42,264] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:46:42,269] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.044 seconds
-[2021-11-02 11:47:13,776] {processor.py:163} INFO - Started process (PID=27080) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:47:13,777] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 11:47:13,777] {logging_mixin.py:109} INFO - [2021-11-02 11:47:13,777] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:47:13,802] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:47:13,808] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.036 seconds
-[2021-11-02 11:47:45,118] {processor.py:163} INFO - Started process (PID=28163) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:47:45,118] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 11:47:45,119] {logging_mixin.py:109} INFO - [2021-11-02 11:47:45,119] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:47:45,130] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:47:45,132] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.016 seconds
-[2021-11-02 11:48:16,362] {processor.py:163} INFO - Started process (PID=28903) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:48:16,362] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 11:48:16,363] {logging_mixin.py:109} INFO - [2021-11-02 11:48:16,363] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:48:16,375] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:48:16,377] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.018 seconds
-[2021-11-02 11:48:47,527] {processor.py:163} INFO - Started process (PID=29597) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:48:47,527] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 11:48:47,528] {logging_mixin.py:109} INFO - [2021-11-02 11:48:47,528] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:48:47,538] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:48:47,540] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.016 seconds
-[2021-11-02 11:49:18,951] {processor.py:163} INFO - Started process (PID=30328) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:49:18,951] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 11:49:18,952] {logging_mixin.py:109} INFO - [2021-11-02 11:49:18,952] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:49:18,972] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:49:18,979] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.031 seconds
-[2021-11-02 11:49:50,411] {processor.py:163} INFO - Started process (PID=31038) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:49:50,413] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 11:49:50,422] {logging_mixin.py:109} INFO - [2021-11-02 11:49:50,422] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:49:50,443] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:49:50,449] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.042 seconds
-[2021-11-02 11:50:22,466] {processor.py:163} INFO - Started process (PID=31714) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:50:22,467] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 11:50:22,468] {logging_mixin.py:109} INFO - [2021-11-02 11:50:22,468] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:50:22,481] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:50:22,485] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.021 seconds
-[2021-11-02 11:50:54,369] {processor.py:163} INFO - Started process (PID=32280) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:50:54,370] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 11:50:54,371] {logging_mixin.py:109} INFO - [2021-11-02 11:50:54,371] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:50:54,386] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:50:54,389] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.022 seconds
-[2021-11-02 11:51:25,880] {processor.py:163} INFO - Started process (PID=320) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:51:25,881] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 11:51:25,881] {logging_mixin.py:109} INFO - [2021-11-02 11:51:25,881] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:51:25,895] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:51:25,898] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.021 seconds
-[2021-11-02 11:51:57,257] {processor.py:163} INFO - Started process (PID=1206) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:51:57,258] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 11:51:57,259] {logging_mixin.py:109} INFO - [2021-11-02 11:51:57,259] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:51:57,276] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:51:57,280] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.025 seconds
-[2021-11-02 11:52:28,799] {processor.py:163} INFO - Started process (PID=2253) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:52:28,800] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 11:52:28,801] {logging_mixin.py:109} INFO - [2021-11-02 11:52:28,801] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:52:28,813] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:52:28,816] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.019 seconds
-[2021-11-02 11:53:00,072] {processor.py:163} INFO - Started process (PID=3411) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:53:00,072] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 11:53:00,073] {logging_mixin.py:109} INFO - [2021-11-02 11:53:00,073] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:53:00,086] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:53:00,088] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.019 seconds
-[2021-11-02 11:53:32,354] {processor.py:163} INFO - Started process (PID=4148) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:53:32,355] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 11:53:32,355] {logging_mixin.py:109} INFO - [2021-11-02 11:53:32,355] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:53:32,383] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:53:32,387] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.038 seconds
-[2021-11-02 11:54:06,590] {processor.py:163} INFO - Started process (PID=4859) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:54:06,592] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 11:54:06,593] {logging_mixin.py:109} INFO - [2021-11-02 11:54:06,593] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:54:06,621] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:54:06,624] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.040 seconds
-[2021-11-02 11:54:39,513] {processor.py:163} INFO - Started process (PID=5271) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:54:39,515] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 11:54:39,515] {logging_mixin.py:109} INFO - [2021-11-02 11:54:39,515] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:54:39,536] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:54:39,539] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.030 seconds
-[2021-11-02 11:55:11,491] {processor.py:163} INFO - Started process (PID=5821) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:55:11,492] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 11:55:11,493] {logging_mixin.py:109} INFO - [2021-11-02 11:55:11,493] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:55:11,525] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:55:11,531] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.044 seconds
-[2021-11-02 11:55:43,387] {processor.py:163} INFO - Started process (PID=6171) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:55:43,390] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 11:55:43,391] {logging_mixin.py:109} INFO - [2021-11-02 11:55:43,391] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:55:43,415] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:55:43,420] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.042 seconds
-[2021-11-02 11:56:15,435] {processor.py:163} INFO - Started process (PID=6586) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:56:15,436] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 11:56:15,437] {logging_mixin.py:109} INFO - [2021-11-02 11:56:15,436] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:56:15,472] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:56:15,478] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.046 seconds
-[2021-11-02 11:56:46,388] {processor.py:163} INFO - Started process (PID=7046) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:56:46,389] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 11:56:46,390] {logging_mixin.py:109} INFO - [2021-11-02 11:56:46,389] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:56:46,411] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:56:46,416] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.031 seconds
-[2021-11-02 11:57:19,460] {processor.py:163} INFO - Started process (PID=7566) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:57:19,464] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 11:57:19,466] {logging_mixin.py:109} INFO - [2021-11-02 11:57:19,465] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:57:19,508] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:57:19,515] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.066 seconds
-[2021-11-02 11:57:51,174] {processor.py:163} INFO - Started process (PID=7986) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:57:51,176] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 11:57:51,176] {logging_mixin.py:109} INFO - [2021-11-02 11:57:51,176] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:57:51,206] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:57:51,213] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.042 seconds
-[2021-11-02 11:58:22,449] {processor.py:163} INFO - Started process (PID=8493) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:58:22,450] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 11:58:22,451] {logging_mixin.py:109} INFO - [2021-11-02 11:58:22,451] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:58:22,467] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:58:22,471] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.025 seconds
-[2021-11-02 11:58:54,300] {processor.py:163} INFO - Started process (PID=8967) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:58:54,301] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 11:58:54,301] {logging_mixin.py:109} INFO - [2021-11-02 11:58:54,301] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:58:54,320] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:58:54,323] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.026 seconds
-[2021-11-02 11:59:25,743] {processor.py:163} INFO - Started process (PID=9439) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:59:25,744] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 11:59:25,744] {logging_mixin.py:109} INFO - [2021-11-02 11:59:25,744] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:59:25,758] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:59:25,761] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.021 seconds
-[2021-11-02 11:59:57,441] {processor.py:163} INFO - Started process (PID=10037) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:59:57,442] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 11:59:57,442] {logging_mixin.py:109} INFO - [2021-11-02 11:59:57,442] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:59:57,461] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 11:59:57,465] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.028 seconds
-[2021-11-02 12:00:29,493] {processor.py:163} INFO - Started process (PID=10575) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:00:29,494] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:00:29,494] {logging_mixin.py:109} INFO - [2021-11-02 12:00:29,494] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:00:29,509] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:00:29,512] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.022 seconds
-[2021-11-02 12:01:00,881] {processor.py:163} INFO - Started process (PID=11175) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:01:00,882] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:01:00,883] {logging_mixin.py:109} INFO - [2021-11-02 12:01:00,883] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:01:00,898] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:01:00,901] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.022 seconds
-[2021-11-02 12:01:32,126] {processor.py:163} INFO - Started process (PID=11747) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:01:32,127] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:01:32,128] {logging_mixin.py:109} INFO - [2021-11-02 12:01:32,127] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:01:32,145] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:01:32,149] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.027 seconds
-[2021-11-02 12:02:03,499] {processor.py:163} INFO - Started process (PID=12517) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:02:03,500] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:02:03,501] {logging_mixin.py:109} INFO - [2021-11-02 12:02:03,501] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:02:03,514] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:02:03,517] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.020 seconds
-[2021-11-02 12:02:34,813] {processor.py:163} INFO - Started process (PID=13086) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:02:34,814] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:02:34,815] {logging_mixin.py:109} INFO - [2021-11-02 12:02:34,815] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:02:34,833] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:02:34,837] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.028 seconds
-[2021-11-02 12:03:06,510] {processor.py:163} INFO - Started process (PID=13597) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:03:06,511] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:03:06,511] {logging_mixin.py:109} INFO - [2021-11-02 12:03:06,511] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:03:06,526] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:03:06,529] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.022 seconds
-[2021-11-02 12:03:38,306] {processor.py:163} INFO - Started process (PID=14108) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:03:38,307] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:03:38,307] {logging_mixin.py:109} INFO - [2021-11-02 12:03:38,307] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:03:38,325] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:03:38,329] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.029 seconds
-[2021-11-02 12:04:09,804] {processor.py:163} INFO - Started process (PID=14647) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:04:09,806] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:04:09,807] {logging_mixin.py:109} INFO - [2021-11-02 12:04:09,807] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:04:09,834] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:04:09,842] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.042 seconds
-[2021-11-02 12:04:40,987] {processor.py:163} INFO - Started process (PID=15217) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:04:40,988] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:04:40,989] {logging_mixin.py:109} INFO - [2021-11-02 12:04:40,988] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:04:41,001] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:04:41,004] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.019 seconds
-[2021-11-02 12:05:12,484] {processor.py:163} INFO - Started process (PID=15814) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:05:12,485] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:05:12,486] {logging_mixin.py:109} INFO - [2021-11-02 12:05:12,485] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:05:12,501] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:05:12,503] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.022 seconds
-[2021-11-02 12:05:43,950] {processor.py:163} INFO - Started process (PID=16396) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:05:43,951] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:05:43,952] {logging_mixin.py:109} INFO - [2021-11-02 12:05:43,951] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:05:43,966] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:05:43,969] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.021 seconds
-[2021-11-02 12:06:15,462] {processor.py:163} INFO - Started process (PID=17059) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:06:15,462] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:06:15,463] {logging_mixin.py:109} INFO - [2021-11-02 12:06:15,463] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:06:15,478] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:06:15,482] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.023 seconds
-[2021-11-02 12:06:46,603] {processor.py:163} INFO - Started process (PID=17675) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:06:46,604] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:06:46,604] {logging_mixin.py:109} INFO - [2021-11-02 12:06:46,604] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:06:46,617] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:06:46,619] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.019 seconds
-[2021-11-02 12:07:18,309] {processor.py:163} INFO - Started process (PID=18273) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:07:18,310] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:07:18,311] {logging_mixin.py:109} INFO - [2021-11-02 12:07:18,311] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:07:18,327] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:07:18,331] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.025 seconds
-[2021-11-02 12:07:49,575] {processor.py:163} INFO - Started process (PID=18845) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:07:49,576] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:07:49,576] {logging_mixin.py:109} INFO - [2021-11-02 12:07:49,576] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:07:49,589] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:07:49,591] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.019 seconds
-[2021-11-02 12:08:21,007] {processor.py:163} INFO - Started process (PID=19454) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:08:21,008] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:08:21,009] {logging_mixin.py:109} INFO - [2021-11-02 12:08:21,008] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:08:21,022] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:08:21,024] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.020 seconds
-[2021-11-02 12:08:51,974] {processor.py:163} INFO - Started process (PID=20037) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:08:51,975] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:08:51,976] {logging_mixin.py:109} INFO - [2021-11-02 12:08:51,975] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:08:51,992] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:08:51,994] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.024 seconds
-[2021-11-02 12:09:23,552] {processor.py:163} INFO - Started process (PID=20594) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:09:23,553] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:09:23,553] {logging_mixin.py:109} INFO - [2021-11-02 12:09:23,553] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:09:23,568] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:09:23,571] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.022 seconds
-[2021-11-02 12:09:55,507] {processor.py:163} INFO - Started process (PID=21144) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:09:55,508] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:09:55,509] {logging_mixin.py:109} INFO - [2021-11-02 12:09:55,508] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:09:55,523] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:09:55,525] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.021 seconds
-[2021-11-02 12:10:26,783] {processor.py:163} INFO - Started process (PID=21673) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:10:26,784] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:10:26,785] {logging_mixin.py:109} INFO - [2021-11-02 12:10:26,785] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:10:26,801] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:10:26,804] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.024 seconds
-[2021-11-02 12:10:58,983] {processor.py:163} INFO - Started process (PID=22155) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:10:58,984] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:10:58,985] {logging_mixin.py:109} INFO - [2021-11-02 12:10:58,985] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:10:59,002] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:10:59,005] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.025 seconds
-[2021-11-02 12:11:33,601] {processor.py:163} INFO - Started process (PID=22686) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:11:33,601] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:11:33,602] {logging_mixin.py:109} INFO - [2021-11-02 12:11:33,602] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:11:33,619] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:11:33,621] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.024 seconds
-[2021-11-02 12:12:05,243] {processor.py:163} INFO - Started process (PID=23326) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:12:05,244] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:12:05,245] {logging_mixin.py:109} INFO - [2021-11-02 12:12:05,245] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:12:05,260] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:12:05,263] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.022 seconds
-[2021-11-02 12:12:36,697] {processor.py:163} INFO - Started process (PID=23916) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:12:36,698] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:12:36,698] {logging_mixin.py:109} INFO - [2021-11-02 12:12:36,698] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:12:36,712] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:12:36,714] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.020 seconds
-[2021-11-02 12:13:07,889] {processor.py:163} INFO - Started process (PID=24444) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:13:07,890] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:13:07,891] {logging_mixin.py:109} INFO - [2021-11-02 12:13:07,890] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:13:07,961] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:13:07,965] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.079 seconds
-[2021-11-02 12:13:40,354] {processor.py:163} INFO - Started process (PID=25028) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:13:40,355] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:13:40,356] {logging_mixin.py:109} INFO - [2021-11-02 12:13:40,355] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:13:40,372] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:13:40,376] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.026 seconds
-[2021-11-02 12:14:12,298] {processor.py:163} INFO - Started process (PID=25547) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:14:12,300] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:14:12,300] {logging_mixin.py:109} INFO - [2021-11-02 12:14:12,300] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:14:12,315] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:14:12,318] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.023 seconds
-[2021-11-02 12:14:43,592] {processor.py:163} INFO - Started process (PID=26062) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:14:43,594] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:14:43,595] {logging_mixin.py:109} INFO - [2021-11-02 12:14:43,594] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:14:43,613] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:14:43,617] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.029 seconds
-[2021-11-02 12:15:15,849] {processor.py:163} INFO - Started process (PID=26566) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:15:15,860] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:15:15,861] {logging_mixin.py:109} INFO - [2021-11-02 12:15:15,861] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:15:15,889] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:15:15,894] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.049 seconds
-[2021-11-02 12:15:47,032] {processor.py:163} INFO - Started process (PID=26998) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:15:47,033] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:15:47,033] {logging_mixin.py:109} INFO - [2021-11-02 12:15:47,033] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:15:47,049] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:15:47,053] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.023 seconds
-[2021-11-02 12:16:20,206] {processor.py:163} INFO - Started process (PID=27459) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:16:20,207] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:16:20,208] {logging_mixin.py:109} INFO - [2021-11-02 12:16:20,208] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:16:20,230] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:16:20,234] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.033 seconds
-[2021-11-02 12:16:56,112] {processor.py:163} INFO - Started process (PID=28070) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:16:56,115] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:16:56,116] {logging_mixin.py:109} INFO - [2021-11-02 12:16:56,116] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:16:56,140] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:16:56,150] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.044 seconds
-[2021-11-02 12:17:27,737] {processor.py:163} INFO - Started process (PID=28525) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:17:27,738] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:17:27,739] {logging_mixin.py:109} INFO - [2021-11-02 12:17:27,738] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:17:27,756] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:17:27,760] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.026 seconds
-[2021-11-02 12:18:00,571] {processor.py:163} INFO - Started process (PID=29081) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:18:00,573] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:18:00,574] {logging_mixin.py:109} INFO - [2021-11-02 12:18:00,574] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:18:00,610] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:18:00,618] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.053 seconds
-[2021-11-02 12:18:31,767] {processor.py:163} INFO - Started process (PID=29575) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:18:31,768] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:18:31,769] {logging_mixin.py:109} INFO - [2021-11-02 12:18:31,769] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:18:31,784] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:18:31,787] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.022 seconds
-[2021-11-02 12:19:03,648] {processor.py:163} INFO - Started process (PID=30167) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:19:03,648] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:19:03,649] {logging_mixin.py:109} INFO - [2021-11-02 12:19:03,649] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:19:03,664] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:19:03,667] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.023 seconds
-[2021-11-02 12:19:34,860] {processor.py:163} INFO - Started process (PID=30759) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:19:34,861] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:19:34,861] {logging_mixin.py:109} INFO - [2021-11-02 12:19:34,861] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:19:34,876] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:19:34,878] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.021 seconds
-[2021-11-02 12:20:07,428] {processor.py:163} INFO - Started process (PID=31334) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:20:07,430] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:20:07,430] {logging_mixin.py:109} INFO - [2021-11-02 12:20:07,430] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:20:07,452] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:20:07,455] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.031 seconds
-[2021-11-02 12:20:38,841] {processor.py:163} INFO - Started process (PID=31982) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:20:38,842] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:20:38,843] {logging_mixin.py:109} INFO - [2021-11-02 12:20:38,842] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:20:38,852] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:20:38,854] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.015 seconds
-[2021-11-02 12:21:10,506] {processor.py:163} INFO - Started process (PID=32730) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:21:10,506] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:21:10,507] {logging_mixin.py:109} INFO - [2021-11-02 12:21:10,507] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:21:10,517] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:21:10,519] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.015 seconds
-[2021-11-02 12:21:41,853] {processor.py:163} INFO - Started process (PID=1142) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:21:41,853] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:21:41,854] {logging_mixin.py:109} INFO - [2021-11-02 12:21:41,854] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:21:41,865] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:21:41,867] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.017 seconds
-[2021-11-02 12:22:12,902] {processor.py:163} INFO - Started process (PID=2263) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:22:12,902] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:22:12,903] {logging_mixin.py:109} INFO - [2021-11-02 12:22:12,903] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:22:12,913] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:22:12,915] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.015 seconds
-[2021-11-02 12:22:44,053] {processor.py:163} INFO - Started process (PID=3439) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:22:44,053] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:22:44,054] {logging_mixin.py:109} INFO - [2021-11-02 12:22:44,054] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:22:44,070] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:22:44,073] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.022 seconds
-[2021-11-02 12:23:14,772] {processor.py:163} INFO - Started process (PID=4240) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:23:14,772] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:23:14,773] {logging_mixin.py:109} INFO - [2021-11-02 12:23:14,773] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:23:14,784] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:23:14,787] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.018 seconds
-[2021-11-02 12:23:46,754] {processor.py:163} INFO - Started process (PID=5217) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:23:46,755] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:23:46,756] {logging_mixin.py:109} INFO - [2021-11-02 12:23:46,756] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:23:46,778] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:23:46,784] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.034 seconds
-[2021-11-02 12:24:17,636] {processor.py:163} INFO - Started process (PID=5835) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:24:17,636] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:24:17,637] {logging_mixin.py:109} INFO - [2021-11-02 12:24:17,637] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:24:17,646] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:24:17,649] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.015 seconds
-[2021-11-02 12:24:48,294] {processor.py:163} INFO - Started process (PID=6540) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:24:48,295] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:24:48,295] {logging_mixin.py:109} INFO - [2021-11-02 12:24:48,295] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:24:48,306] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:24:48,309] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.017 seconds
-[2021-11-02 12:25:19,022] {processor.py:163} INFO - Started process (PID=7288) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:25:19,023] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:25:19,023] {logging_mixin.py:109} INFO - [2021-11-02 12:25:19,023] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:25:19,033] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:25:19,035] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.015 seconds
-[2021-11-02 12:25:49,860] {processor.py:163} INFO - Started process (PID=7966) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:25:49,861] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:25:49,861] {logging_mixin.py:109} INFO - [2021-11-02 12:25:49,861] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:25:49,878] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:25:49,881] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.024 seconds
-[2021-11-02 12:26:21,647] {processor.py:163} INFO - Started process (PID=8598) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:26:21,648] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:26:21,648] {logging_mixin.py:109} INFO - [2021-11-02 12:26:21,648] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:26:21,662] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:26:21,665] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.020 seconds
-[2021-11-02 12:26:52,357] {processor.py:163} INFO - Started process (PID=9295) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:26:52,358] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:26:52,359] {logging_mixin.py:109} INFO - [2021-11-02 12:26:52,359] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:26:52,373] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:26:52,376] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.021 seconds
-[2021-11-02 12:27:23,503] {processor.py:163} INFO - Started process (PID=9903) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:27:23,507] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:27:23,510] {logging_mixin.py:109} INFO - [2021-11-02 12:27:23,509] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:27:23,535] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:27:23,540] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.042 seconds
-[2021-11-02 12:27:54,601] {processor.py:163} INFO - Started process (PID=10510) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:27:54,602] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:27:54,602] {logging_mixin.py:109} INFO - [2021-11-02 12:27:54,602] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:27:54,614] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:27:54,616] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.017 seconds
-[2021-11-02 12:28:26,188] {processor.py:163} INFO - Started process (PID=11136) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:28:26,189] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:28:26,190] {logging_mixin.py:109} INFO - [2021-11-02 12:28:26,190] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:28:26,204] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:28:26,207] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.021 seconds
-[2021-11-02 12:28:57,713] {processor.py:163} INFO - Started process (PID=11783) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:28:57,714] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:28:57,714] {logging_mixin.py:109} INFO - [2021-11-02 12:28:57,714] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:28:57,725] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:28:57,728] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.017 seconds
-[2021-11-02 12:29:28,764] {processor.py:163} INFO - Started process (PID=12460) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:29:28,765] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:29:28,765] {logging_mixin.py:109} INFO - [2021-11-02 12:29:28,765] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:29:28,779] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:29:28,782] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.021 seconds
-[2021-11-02 12:30:00,250] {processor.py:163} INFO - Started process (PID=13168) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:30:00,251] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:30:00,251] {logging_mixin.py:109} INFO - [2021-11-02 12:30:00,251] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:30:00,262] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:30:00,264] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.018 seconds
-[2021-11-02 12:30:31,676] {processor.py:163} INFO - Started process (PID=13852) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:30:31,677] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:30:31,677] {logging_mixin.py:109} INFO - [2021-11-02 12:30:31,677] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:30:31,690] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:30:31,693] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.020 seconds
-[2021-11-02 12:31:03,221] {processor.py:163} INFO - Started process (PID=14594) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:31:03,222] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:31:03,223] {logging_mixin.py:109} INFO - [2021-11-02 12:31:03,223] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:31:03,234] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:31:03,237] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.018 seconds
-[2021-11-02 12:31:34,316] {processor.py:163} INFO - Started process (PID=15275) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:31:34,317] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:31:34,318] {logging_mixin.py:109} INFO - [2021-11-02 12:31:34,318] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:31:34,337] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:31:34,340] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.028 seconds
-[2021-11-02 12:32:05,907] {processor.py:163} INFO - Started process (PID=16006) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:32:05,909] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:32:05,909] {logging_mixin.py:109} INFO - [2021-11-02 12:32:05,909] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:32:05,925] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:32:05,927] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.024 seconds
-[2021-11-02 12:32:37,622] {processor.py:163} INFO - Started process (PID=16815) to work on /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:32:37,623] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/merge.xlsx for tasks to queue
-[2021-11-02 12:32:37,623] {logging_mixin.py:109} INFO - [2021-11-02 12:32:37,623] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:32:37,635] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/merge.xlsx
-[2021-11-02 12:32:37,637] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/merge.xlsx took 0.018 seconds
+[2021-11-02 15:55:20,516] {processor.py:163} INFO - Started process (PID=175285) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:55:20,518] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:55:20,519] {logging_mixin.py:109} INFO - [2021-11-02 15:55:20,519] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:55:20,542] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:55:20,547] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.036 seconds
+[2021-11-02 15:55:24,899] {processor.py:163} INFO - Started process (PID=175408) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:55:24,900] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:55:24,901] {logging_mixin.py:109} INFO - [2021-11-02 15:55:24,901] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:55:24,924] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:55:24,928] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.034 seconds
+[2021-11-02 15:55:29,084] {processor.py:163} INFO - Started process (PID=175525) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:55:29,086] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:55:29,086] {logging_mixin.py:109} INFO - [2021-11-02 15:55:29,086] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:55:29,106] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:55:29,110] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.030 seconds
+[2021-11-02 15:55:33,720] {processor.py:163} INFO - Started process (PID=175650) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:55:33,721] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:55:33,722] {logging_mixin.py:109} INFO - [2021-11-02 15:55:33,722] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:55:33,747] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:55:33,751] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.037 seconds
+[2021-11-02 15:55:38,304] {processor.py:163} INFO - Started process (PID=175769) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:55:38,305] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:55:38,307] {logging_mixin.py:109} INFO - [2021-11-02 15:55:38,306] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:55:38,334] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:55:38,338] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.041 seconds
+[2021-11-02 15:55:42,637] {processor.py:163} INFO - Started process (PID=175893) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:55:42,638] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:55:42,639] {logging_mixin.py:109} INFO - [2021-11-02 15:55:42,638] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:55:42,658] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:55:42,662] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.030 seconds
+[2021-11-02 15:55:46,419] {processor.py:163} INFO - Started process (PID=176008) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:55:46,421] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:55:46,422] {logging_mixin.py:109} INFO - [2021-11-02 15:55:46,422] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:55:46,447] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:55:46,451] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.037 seconds
+[2021-11-02 15:55:51,961] {processor.py:163} INFO - Started process (PID=176137) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:55:51,963] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:55:51,964] {logging_mixin.py:109} INFO - [2021-11-02 15:55:51,964] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:55:51,990] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:55:51,994] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.038 seconds
+[2021-11-02 15:56:00,937] {processor.py:163} INFO - Started process (PID=176376) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:56:00,940] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:56:00,941] {logging_mixin.py:109} INFO - [2021-11-02 15:56:00,940] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:56:00,965] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:56:00,970] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.038 seconds
+[2021-11-02 15:56:05,009] {processor.py:163} INFO - Started process (PID=176493) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:56:05,010] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:56:05,011] {logging_mixin.py:109} INFO - [2021-11-02 15:56:05,011] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:56:05,032] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:56:05,039] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.034 seconds
+[2021-11-02 15:56:10,143] {processor.py:163} INFO - Started process (PID=176619) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:56:10,144] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:56:10,145] {logging_mixin.py:109} INFO - [2021-11-02 15:56:10,145] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:56:10,173] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:56:10,188] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.050 seconds
+[2021-11-02 15:56:14,714] {processor.py:163} INFO - Started process (PID=176743) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:56:14,715] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:56:14,716] {logging_mixin.py:109} INFO - [2021-11-02 15:56:14,716] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:56:14,741] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:56:14,745] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.036 seconds
+[2021-11-02 15:56:18,836] {processor.py:163} INFO - Started process (PID=176859) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:56:18,837] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:56:18,838] {logging_mixin.py:109} INFO - [2021-11-02 15:56:18,838] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:56:18,862] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:56:18,867] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.036 seconds
+[2021-11-02 15:56:24,419] {processor.py:163} INFO - Started process (PID=176986) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:56:24,420] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:56:24,421] {logging_mixin.py:109} INFO - [2021-11-02 15:56:24,421] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:56:24,446] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:56:24,449] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.036 seconds
+[2021-11-02 15:56:32,875] {processor.py:163} INFO - Started process (PID=177225) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:56:32,876] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:56:32,877] {logging_mixin.py:109} INFO - [2021-11-02 15:56:32,877] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:56:32,904] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:56:32,908] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.037 seconds
+[2021-11-02 15:56:36,686] {processor.py:163} INFO - Started process (PID=177343) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:56:36,689] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:56:36,690] {logging_mixin.py:109} INFO - [2021-11-02 15:56:36,690] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:56:36,719] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:56:36,723] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.043 seconds
+[2021-11-02 15:56:41,169] {processor.py:163} INFO - Started process (PID=177466) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:56:41,170] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:56:41,171] {logging_mixin.py:109} INFO - [2021-11-02 15:56:41,171] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:56:41,191] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:56:41,198] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.033 seconds
+[2021-11-02 15:56:45,098] {processor.py:163} INFO - Started process (PID=177584) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:56:45,100] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:56:45,101] {logging_mixin.py:109} INFO - [2021-11-02 15:56:45,101] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:56:45,129] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:56:45,140] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.047 seconds
+[2021-11-02 15:56:49,638] {processor.py:163} INFO - Started process (PID=177712) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:56:49,639] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:56:49,640] {logging_mixin.py:109} INFO - [2021-11-02 15:56:49,640] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:56:49,660] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:56:49,663] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.031 seconds
+[2021-11-02 15:56:59,416] {processor.py:163} INFO - Started process (PID=177953) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:56:59,417] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:56:59,418] {logging_mixin.py:109} INFO - [2021-11-02 15:56:59,418] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:56:59,445] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:56:59,450] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.038 seconds
+[2021-11-02 15:57:03,883] {processor.py:163} INFO - Started process (PID=178072) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:57:03,885] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:57:03,885] {logging_mixin.py:109} INFO - [2021-11-02 15:57:03,885] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:57:03,909] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:57:03,912] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.034 seconds
+[2021-11-02 15:57:08,683] {processor.py:163} INFO - Started process (PID=178198) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:57:08,684] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:57:08,685] {logging_mixin.py:109} INFO - [2021-11-02 15:57:08,685] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:57:08,709] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:57:08,714] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.037 seconds
+[2021-11-02 15:57:17,375] {processor.py:163} INFO - Started process (PID=178438) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:57:17,377] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:57:17,378] {logging_mixin.py:109} INFO - [2021-11-02 15:57:17,378] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:57:17,401] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:57:17,406] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.037 seconds
+[2021-11-02 15:57:21,205] {processor.py:163} INFO - Started process (PID=178555) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:57:21,207] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:57:21,208] {logging_mixin.py:109} INFO - [2021-11-02 15:57:21,207] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:57:21,228] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:57:21,232] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.031 seconds
+[2021-11-02 15:57:26,548] {processor.py:163} INFO - Started process (PID=178680) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:57:26,550] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:57:26,551] {logging_mixin.py:109} INFO - [2021-11-02 15:57:26,551] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:57:26,577] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:57:26,581] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.039 seconds
+[2021-11-02 15:57:30,832] {processor.py:163} INFO - Started process (PID=178799) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:57:30,833] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:57:30,834] {logging_mixin.py:109} INFO - [2021-11-02 15:57:30,834] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:57:30,856] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:57:30,860] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.033 seconds
+[2021-11-02 15:57:35,526] {processor.py:163} INFO - Started process (PID=178924) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:57:35,527] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:57:35,528] {logging_mixin.py:109} INFO - [2021-11-02 15:57:35,528] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:57:35,552] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:57:35,556] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.035 seconds
+[2021-11-02 15:57:44,253] {processor.py:163} INFO - Started process (PID=179163) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:57:44,254] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:57:44,255] {logging_mixin.py:109} INFO - [2021-11-02 15:57:44,255] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:57:44,280] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:57:44,283] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.036 seconds
+[2021-11-02 15:57:48,470] {processor.py:163} INFO - Started process (PID=179284) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:57:48,472] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:57:48,473] {logging_mixin.py:109} INFO - [2021-11-02 15:57:48,473] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:57:48,494] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:57:48,498] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.033 seconds
+[2021-11-02 15:57:53,283] {processor.py:163} INFO - Started process (PID=179408) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:57:53,285] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:57:53,286] {logging_mixin.py:109} INFO - [2021-11-02 15:57:53,286] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:57:53,311] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:57:53,314] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.036 seconds
+[2021-11-02 15:57:58,681] {processor.py:163} INFO - Started process (PID=179532) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:57:58,682] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:57:58,683] {logging_mixin.py:109} INFO - [2021-11-02 15:57:58,683] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:57:58,703] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:57:58,707] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.031 seconds
+[2021-11-02 15:58:02,592] {processor.py:163} INFO - Started process (PID=179650) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:58:02,594] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:58:02,595] {logging_mixin.py:109} INFO - [2021-11-02 15:58:02,595] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:58:02,619] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:58:02,622] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.035 seconds
+[2021-11-02 15:58:07,100] {processor.py:163} INFO - Started process (PID=179774) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:58:07,101] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:58:07,102] {logging_mixin.py:109} INFO - [2021-11-02 15:58:07,102] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:58:07,131] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:58:07,135] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.040 seconds
+[2021-11-02 15:58:11,508] {processor.py:163} INFO - Started process (PID=179892) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:58:11,509] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:58:11,510] {logging_mixin.py:109} INFO - [2021-11-02 15:58:11,510] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:58:11,536] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:58:11,539] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.036 seconds
+[2021-11-02 15:58:16,503] {processor.py:163} INFO - Started process (PID=180016) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:58:16,505] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:58:16,506] {logging_mixin.py:109} INFO - [2021-11-02 15:58:16,506] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:58:16,538] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:58:16,542] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.047 seconds
+[2021-11-02 15:58:20,829] {processor.py:163} INFO - Started process (PID=180141) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:58:20,830] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:58:20,831] {logging_mixin.py:109} INFO - [2021-11-02 15:58:20,831] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:58:20,854] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:58:20,859] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.036 seconds
+[2021-11-02 15:58:24,839] {processor.py:163} INFO - Started process (PID=180259) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:58:24,840] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:58:24,841] {logging_mixin.py:109} INFO - [2021-11-02 15:58:24,841] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:58:24,864] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:58:24,867] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.035 seconds
+[2021-11-02 15:58:30,454] {processor.py:163} INFO - Started process (PID=180385) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:58:30,457] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:58:30,458] {logging_mixin.py:109} INFO - [2021-11-02 15:58:30,457] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:58:30,483] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:58:30,486] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.038 seconds
+[2021-11-02 15:58:34,641] {processor.py:163} INFO - Started process (PID=180501) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:58:34,642] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:58:34,643] {logging_mixin.py:109} INFO - [2021-11-02 15:58:34,643] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:58:34,664] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:58:34,667] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.031 seconds
+[2021-11-02 15:58:39,343] {processor.py:163} INFO - Started process (PID=180629) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:58:39,344] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:58:39,345] {logging_mixin.py:109} INFO - [2021-11-02 15:58:39,345] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:58:39,365] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:58:39,368] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.030 seconds
+[2021-11-02 15:58:43,343] {processor.py:163} INFO - Started process (PID=180744) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:58:43,344] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:58:43,345] {logging_mixin.py:109} INFO - [2021-11-02 15:58:43,345] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:58:43,366] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:58:43,370] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.032 seconds
+[2021-11-02 15:58:47,817] {processor.py:163} INFO - Started process (PID=180868) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:58:47,819] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:58:47,820] {logging_mixin.py:109} INFO - [2021-11-02 15:58:47,819] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:58:47,843] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:58:47,847] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.036 seconds
+[2021-11-02 15:58:51,812] {processor.py:163} INFO - Started process (PID=180987) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:58:51,814] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:58:51,815] {logging_mixin.py:109} INFO - [2021-11-02 15:58:51,815] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:58:51,842] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:58:51,845] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.039 seconds
+[2021-11-02 15:58:56,281] {processor.py:163} INFO - Started process (PID=181112) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:58:56,282] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:58:56,283] {logging_mixin.py:109} INFO - [2021-11-02 15:58:56,283] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:58:56,311] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:58:56,315] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.039 seconds
+[2021-11-02 15:59:01,162] {processor.py:163} INFO - Started process (PID=181230) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:59:01,164] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:59:01,165] {logging_mixin.py:109} INFO - [2021-11-02 15:59:01,165] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:59:01,190] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:59:01,194] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.038 seconds
+[2021-11-02 15:59:06,461] {processor.py:163} INFO - Started process (PID=181359) to work on /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:59:06,465] {processor.py:620} INFO - Processing file /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx for tasks to queue
+[2021-11-02 15:59:06,466] {logging_mixin.py:109} INFO - [2021-11-02 15:59:06,466] {dagbag.py:500} INFO - Filling up the DagBag from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:59:06,495] {processor.py:634} WARNING - No viable dags retrieved from /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx
+[2021-11-02 15:59:06,499] {processor.py:171} INFO - Processing /home/linuxadmin/airflow/airflow_etl-/dags/data/merge.xlsx took 0.043 seconds

@@ -21,7 +21,7 @@ def get_file():
         # sftp_client.get('E:\SalesInvoiceTracking\Sales Invoice Tracking Report_2017-till date.csv','/home/user/workspace/airflow/dags/data/Sales Invoice Tracking Report_2017-till date.csv')
         ssh.connect(hostname = '192.168.4.19',username='tinamenezes',password='apr@2020')
         sftp_client = ssh.open_sftp()
-        sftp_client.get('C:/Users/tinamenezes/Downloads/Sales Discount Remove_30072020_30248.xlsx','/home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls')
+        sftp_client.get('C:/Users/tinamenezes/Downloads/Sales Discount Remove_30072020_30248.xlsx',AIRFLOW_HOME+'/dags/data/Sales Discount Remove_30072020_30248.xls')
         print(sftp_client)
         sftp_client.close()
     except paramiko.AuthenticationException:
@@ -39,7 +39,7 @@ def put_excel_file():
         ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())            
         ssh.connect(hostname='192.168.4.24',username='admin',password='th0ughtSp0t')       
         sftp_client = ssh.open_sftp()
-        sftp_client.put('/home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls','/home/admin/Sales_Files/Sales Discount Remove_30072020_30248.xls')
+        sftp_client.put(AIRFLOW_HOME+'dags/data/Sales Discount Remove_30072020_30248.xls','/home/admin/Sales_Files/Sales Discount Remove_30072020_30248.xls')
         sftp_client.close()
     except paramiko.AuthenticationException:
         print('Failed to connect to %s due to wrong username/password')

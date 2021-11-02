@@ -1,0 +1,20 @@
+Traceback (most recent call last):
+  File "/home/linuxadmin/.local/bin/airflow", line 8, in <module>
+    sys.exit(main())
+  File "/home/linuxadmin/.local/lib/python3.6/site-packages/airflow/__main__.py", line 48, in main
+    args.func(args)
+  File "/home/linuxadmin/.local/lib/python3.6/site-packages/airflow/cli/cli_parser.py", line 48, in command
+    return func(*args, **kwargs)
+  File "/home/linuxadmin/.local/lib/python3.6/site-packages/airflow/utils/cli.py", line 92, in wrapper
+    return f(*args, **kwargs)
+  File "/home/linuxadmin/.local/lib/python3.6/site-packages/airflow/cli/commands/kerberos_command.py", line 45, in kerberos
+    krb.run(principal=args.principal, keytab=args.keytab)
+  File "/home/linuxadmin/.local/lib/python3.6/site-packages/airflow/security/kerberos.py", line 185, in run
+    renew_from_kt(principal, keytab)
+  File "/home/linuxadmin/.local/lib/python3.6/site-packages/airflow/security/kerberos.py", line 95, in renew_from_kt
+    universal_newlines=True,
+  File "/usr/lib/python3.6/subprocess.py", line 729, in __init__
+    restore_signals, start_new_session)
+  File "/usr/lib/python3.6/subprocess.py", line 1364, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'kinit': 'kinit'

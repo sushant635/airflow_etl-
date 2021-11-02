@@ -1,0 +1,613 @@
+2021-11-02 16:07:01,345 INFO - Starting the scheduler
+2021-11-02 16:07:01,346 INFO - Processing each file at most -1 times
+2021-11-02 16:07:01,357 INFO - Launched DagFileProcessorManager with pid: 183052
+2021-11-02 16:07:01,359 INFO - Resetting orphaned tasks for active dag runs
+2021-11-02 16:07:01,512 WARNING - DagFileProcessorManager (PID=183052) exited with exit code 1 - re-launching
+2021-11-02 16:07:01,518 INFO - Launched DagFileProcessorManager with pid: 183053
+2021-11-02 16:07:03,231 WARNING - DagFileProcessorManager (PID=183053) exited with exit code 1 - re-launching
+2021-11-02 16:07:03,236 INFO - Launched DagFileProcessorManager with pid: 183061
+2021-11-02 16:07:04,943 WARNING - DagFileProcessorManager (PID=183061) exited with exit code 1 - re-launching
+2021-11-02 16:07:04,949 INFO - Launched DagFileProcessorManager with pid: 183067
+2021-11-02 16:07:05,993 WARNING - DagFileProcessorManager (PID=183067) exited with exit code 1 - re-launching
+2021-11-02 16:07:05,997 INFO - Launched DagFileProcessorManager with pid: 183071
+2021-11-02 16:07:06,500 WARNING - DagFileProcessorManager (PID=183071) exited with exit code 1 - re-launching
+2021-11-02 16:07:06,504 INFO - Launched DagFileProcessorManager with pid: 183072
+2021-11-02 16:07:07,585 WARNING - DagFileProcessorManager (PID=183072) exited with exit code 1 - re-launching
+2021-11-02 16:07:07,590 INFO - Launched DagFileProcessorManager with pid: 183076
+2021-11-02 16:07:09,315 WARNING - DagFileProcessorManager (PID=183076) exited with exit code 1 - re-launching
+2021-11-02 16:07:09,321 INFO - Launched DagFileProcessorManager with pid: 183084
+2021-11-02 16:07:10,375 WARNING - DagFileProcessorManager (PID=183084) exited with exit code 1 - re-launching
+2021-11-02 16:07:10,381 INFO - Launched DagFileProcessorManager with pid: 183088
+2021-11-02 16:07:11,416 WARNING - DagFileProcessorManager (PID=183088) exited with exit code 1 - re-launching
+2021-11-02 16:07:11,422 INFO - Launched DagFileProcessorManager with pid: 183094
+2021-11-02 16:07:11,567 WARNING - DagFileProcessorManager (PID=183094) exited with exit code 1 - re-launching
+2021-11-02 16:07:11,571 INFO - Launched DagFileProcessorManager with pid: 183096
+2021-11-02 16:07:12,684 WARNING - DagFileProcessorManager (PID=183096) exited with exit code 1 - re-launching
+2021-11-02 16:07:12,688 INFO - Launched DagFileProcessorManager with pid: 183099
+2021-11-02 16:07:13,744 WARNING - DagFileProcessorManager (PID=183099) exited with exit code 1 - re-launching
+2021-11-02 16:07:13,749 INFO - Launched DagFileProcessorManager with pid: 183108
+2021-11-02 16:07:14,795 WARNING - DagFileProcessorManager (PID=183108) exited with exit code 1 - re-launching
+2021-11-02 16:07:14,801 INFO - Launched DagFileProcessorManager with pid: 183112
+2021-11-02 16:07:16,660 WARNING - DagFileProcessorManager (PID=183112) exited with exit code 1 - re-launching
+2021-11-02 16:07:16,666 INFO - Launched DagFileProcessorManager with pid: 183118
+2021-11-02 16:07:18,557 WARNING - DagFileProcessorManager (PID=183118) exited with exit code 1 - re-launching
+2021-11-02 16:07:18,562 INFO - Launched DagFileProcessorManager with pid: 183128
+2021-11-02 16:07:19,991 WARNING - DagFileProcessorManager (PID=183128) exited with exit code 1 - re-launching
+2021-11-02 16:07:19,996 INFO - Launched DagFileProcessorManager with pid: 183136
+2021-11-02 16:07:21,740 WARNING - DagFileProcessorManager (PID=183136) exited with exit code 1 - re-launching
+2021-11-02 16:07:21,744 INFO - Launched DagFileProcessorManager with pid: 183143
+2021-11-02 16:07:22,812 WARNING - DagFileProcessorManager (PID=183143) exited with exit code 1 - re-launching
+2021-11-02 16:07:22,816 INFO - Launched DagFileProcessorManager with pid: 183146
+2021-11-02 16:07:23,877 WARNING - DagFileProcessorManager (PID=183146) exited with exit code 1 - re-launching
+2021-11-02 16:07:23,885 INFO - Launched DagFileProcessorManager with pid: 183149
+2021-11-02 16:07:24,940 WARNING - DagFileProcessorManager (PID=183149) exited with exit code 1 - re-launching
+2021-11-02 16:07:24,945 INFO - Launched DagFileProcessorManager with pid: 183152
+2021-11-02 16:07:25,994 WARNING - DagFileProcessorManager (PID=183152) exited with exit code 1 - re-launching
+2021-11-02 16:07:25,998 INFO - Launched DagFileProcessorManager with pid: 183156
+2021-11-02 16:07:26,821 WARNING - DagFileProcessorManager (PID=183156) exited with exit code 1 - re-launching
+2021-11-02 16:07:26,827 INFO - Launched DagFileProcessorManager with pid: 183158
+2021-11-02 16:07:28,625 WARNING - DagFileProcessorManager (PID=183158) exited with exit code 1 - re-launching
+2021-11-02 16:07:28,629 INFO - Launched DagFileProcessorManager with pid: 183166
+2021-11-02 16:07:29,686 WARNING - DagFileProcessorManager (PID=183166) exited with exit code 1 - re-launching
+2021-11-02 16:07:29,691 INFO - Launched DagFileProcessorManager with pid: 183170
+2021-11-02 16:07:30,740 WARNING - DagFileProcessorManager (PID=183170) exited with exit code 1 - re-launching
+2021-11-02 16:07:30,748 INFO - Launched DagFileProcessorManager with pid: 183173
+2021-11-02 16:07:32,542 WARNING - DagFileProcessorManager (PID=183173) exited with exit code 1 - re-launching
+2021-11-02 16:07:32,547 INFO - Launched DagFileProcessorManager with pid: 183182
+2021-11-02 16:07:33,620 WARNING - DagFileProcessorManager (PID=183182) exited with exit code 1 - re-launching
+2021-11-02 16:07:33,626 INFO - Launched DagFileProcessorManager with pid: 183185
+2021-11-02 16:07:34,676 WARNING - DagFileProcessorManager (PID=183185) exited with exit code 1 - re-launching
+2021-11-02 16:07:34,682 INFO - Launched DagFileProcessorManager with pid: 183189
+2021-11-02 16:07:35,733 WARNING - DagFileProcessorManager (PID=183189) exited with exit code 1 - re-launching
+2021-11-02 16:07:35,738 INFO - Launched DagFileProcessorManager with pid: 183193
+2021-11-02 16:07:37,466 WARNING - DagFileProcessorManager (PID=183193) exited with exit code 1 - re-launching
+2021-11-02 16:07:37,473 INFO - Launched DagFileProcessorManager with pid: 183201
+2021-11-02 16:07:38,283 WARNING - DagFileProcessorManager (PID=183201) exited with exit code 1 - re-launching
+2021-11-02 16:07:38,288 INFO - Launched DagFileProcessorManager with pid: 183204
+2021-11-02 16:07:39,348 WARNING - DagFileProcessorManager (PID=183204) exited with exit code 1 - re-launching
+2021-11-02 16:07:39,354 INFO - Launched DagFileProcessorManager with pid: 183207
+2021-11-02 16:07:41,037 WARNING - DagFileProcessorManager (PID=183207) exited with exit code 1 - re-launching
+2021-11-02 16:07:41,041 INFO - Launched DagFileProcessorManager with pid: 183214
+2021-11-02 16:07:42,083 WARNING - DagFileProcessorManager (PID=183214) exited with exit code 1 - re-launching
+2021-11-02 16:07:42,087 INFO - Launched DagFileProcessorManager with pid: 183217
+2021-11-02 16:07:43,129 WARNING - DagFileProcessorManager (PID=183217) exited with exit code 1 - re-launching
+2021-11-02 16:07:43,133 INFO - Launched DagFileProcessorManager with pid: 183220
+2021-11-02 16:07:43,360 WARNING - DagFileProcessorManager (PID=183220) exited with exit code 1 - re-launching
+2021-11-02 16:07:43,364 INFO - Launched DagFileProcessorManager with pid: 183221
+2021-11-02 16:07:45,321 WARNING - DagFileProcessorManager (PID=183221) exited with exit code 1 - re-launching
+2021-11-02 16:07:45,325 INFO - Launched DagFileProcessorManager with pid: 183232
+2021-11-02 16:07:47,008 WARNING - DagFileProcessorManager (PID=183232) exited with exit code 1 - re-launching
+2021-11-02 16:07:47,012 INFO - Launched DagFileProcessorManager with pid: 183238
+2021-11-02 16:07:47,618 WARNING - DagFileProcessorManager (PID=183238) exited with exit code 1 - re-launching
+2021-11-02 16:07:47,622 INFO - Launched DagFileProcessorManager with pid: 183239
+2021-11-02 16:07:49,264 WARNING - DagFileProcessorManager (PID=183239) exited with exit code 1 - re-launching
+2021-11-02 16:07:49,270 INFO - Launched DagFileProcessorManager with pid: 183246
+2021-11-02 16:07:50,980 WARNING - DagFileProcessorManager (PID=183246) exited with exit code 1 - re-launching
+2021-11-02 16:07:50,985 INFO - Launched DagFileProcessorManager with pid: 183252
+2021-11-02 16:07:52,031 WARNING - DagFileProcessorManager (PID=183252) exited with exit code 1 - re-launching
+2021-11-02 16:07:52,036 INFO - Launched DagFileProcessorManager with pid: 183260
+2021-11-02 16:07:53,089 WARNING - DagFileProcessorManager (PID=183260) exited with exit code 1 - re-launching
+2021-11-02 16:07:53,094 INFO - Launched DagFileProcessorManager with pid: 183263
+2021-11-02 16:07:54,139 WARNING - DagFileProcessorManager (PID=183263) exited with exit code 1 - re-launching
+2021-11-02 16:07:54,143 INFO - Launched DagFileProcessorManager with pid: 183267
+2021-11-02 16:07:54,346 WARNING - DagFileProcessorManager (PID=183267) exited with exit code 1 - re-launching
+2021-11-02 16:07:54,352 INFO - Launched DagFileProcessorManager with pid: 183268
+2021-11-02 16:07:55,420 WARNING - DagFileProcessorManager (PID=183268) exited with exit code 1 - re-launching
+2021-11-02 16:07:55,425 INFO - Launched DagFileProcessorManager with pid: 183272
+2021-11-02 16:07:56,476 WARNING - DagFileProcessorManager (PID=183272) exited with exit code 1 - re-launching
+2021-11-02 16:07:56,480 INFO - Launched DagFileProcessorManager with pid: 183275
+2021-11-02 16:07:57,530 WARNING - DagFileProcessorManager (PID=183275) exited with exit code 1 - re-launching
+2021-11-02 16:07:57,534 INFO - Launched DagFileProcessorManager with pid: 183278
+2021-11-02 16:07:58,581 WARNING - DagFileProcessorManager (PID=183278) exited with exit code 1 - re-launching
+2021-11-02 16:07:58,585 INFO - Launched DagFileProcessorManager with pid: 183281
+2021-11-02 16:07:59,419 WARNING - DagFileProcessorManager (PID=183281) exited with exit code 1 - re-launching
+2021-11-02 16:07:59,423 INFO - Launched DagFileProcessorManager with pid: 183284
+2021-11-02 16:08:01,135 WARNING - DagFileProcessorManager (PID=183284) exited with exit code 1 - re-launching
+2021-11-02 16:08:01,138 INFO - Launched DagFileProcessorManager with pid: 183290
+2021-11-02 16:08:02,858 WARNING - DagFileProcessorManager (PID=183290) exited with exit code 1 - re-launching
+2021-11-02 16:08:02,863 INFO - Launched DagFileProcessorManager with pid: 183296
+2021-11-02 16:08:04,556 WARNING - DagFileProcessorManager (PID=183296) exited with exit code 1 - re-launching
+2021-11-02 16:08:04,560 INFO - Launched DagFileProcessorManager with pid: 183301
+2021-11-02 16:08:05,631 WARNING - DagFileProcessorManager (PID=183301) exited with exit code 1 - re-launching
+2021-11-02 16:08:05,636 INFO - Launched DagFileProcessorManager with pid: 183307
+2021-11-02 16:08:06,690 WARNING - DagFileProcessorManager (PID=183307) exited with exit code 1 - re-launching
+2021-11-02 16:08:06,695 INFO - Launched DagFileProcessorManager with pid: 183310
+2021-11-02 16:08:07,754 WARNING - DagFileProcessorManager (PID=183310) exited with exit code 1 - re-launching
+2021-11-02 16:08:07,760 INFO - Launched DagFileProcessorManager with pid: 183314
+2021-11-02 16:08:08,809 WARNING - DagFileProcessorManager (PID=183314) exited with exit code 1 - re-launching
+2021-11-02 16:08:08,814 INFO - Launched DagFileProcessorManager with pid: 183317
+2021-11-02 16:08:10,278 WARNING - DagFileProcessorManager (PID=183317) exited with exit code 1 - re-launching
+2021-11-02 16:08:10,284 INFO - Launched DagFileProcessorManager with pid: 183324
+2021-11-02 16:08:12,032 WARNING - DagFileProcessorManager (PID=183324) exited with exit code 1 - re-launching
+2021-11-02 16:08:12,039 INFO - Launched DagFileProcessorManager with pid: 183329
+2021-11-02 16:08:13,811 WARNING - DagFileProcessorManager (PID=183329) exited with exit code 1 - re-launching
+2021-11-02 16:08:13,815 INFO - Launched DagFileProcessorManager with pid: 183335
+2021-11-02 16:08:15,527 WARNING - DagFileProcessorManager (PID=183335) exited with exit code 1 - re-launching
+2021-11-02 16:08:15,531 INFO - Launched DagFileProcessorManager with pid: 183340
+2021-11-02 16:08:16,600 WARNING - DagFileProcessorManager (PID=183340) exited with exit code 1 - re-launching
+2021-11-02 16:08:16,606 INFO - Launched DagFileProcessorManager with pid: 183344
+2021-11-02 16:08:18,287 WARNING - DagFileProcessorManager (PID=183344) exited with exit code 1 - re-launching
+2021-11-02 16:08:18,292 INFO - Launched DagFileProcessorManager with pid: 183350
+2021-11-02 16:08:19,349 WARNING - DagFileProcessorManager (PID=183350) exited with exit code 1 - re-launching
+2021-11-02 16:08:19,354 INFO - Launched DagFileProcessorManager with pid: 183353
+2021-11-02 16:08:20,393 WARNING - DagFileProcessorManager (PID=183353) exited with exit code 1 - re-launching
+2021-11-02 16:08:20,397 INFO - Launched DagFileProcessorManager with pid: 183356
+2021-11-02 16:08:20,591 WARNING - DagFileProcessorManager (PID=183356) exited with exit code 1 - re-launching
+2021-11-02 16:08:20,595 INFO - Launched DagFileProcessorManager with pid: 183358
+2021-11-02 16:08:21,654 WARNING - DagFileProcessorManager (PID=183358) exited with exit code 1 - re-launching
+2021-11-02 16:08:21,658 INFO - Launched DagFileProcessorManager with pid: 183363
+2021-11-02 16:08:22,712 WARNING - DagFileProcessorManager (PID=183363) exited with exit code 1 - re-launching
+2021-11-02 16:08:22,717 INFO - Launched DagFileProcessorManager with pid: 183367
+2021-11-02 16:08:23,773 WARNING - DagFileProcessorManager (PID=183367) exited with exit code 1 - re-launching
+2021-11-02 16:08:23,777 INFO - Launched DagFileProcessorManager with pid: 183373
+2021-11-02 16:08:24,837 WARNING - DagFileProcessorManager (PID=183373) exited with exit code 1 - re-launching
+2021-11-02 16:08:24,853 INFO - Launched DagFileProcessorManager with pid: 183377
+2021-11-02 16:08:26,278 WARNING - DagFileProcessorManager (PID=183377) exited with exit code 1 - re-launching
+2021-11-02 16:08:26,282 INFO - Launched DagFileProcessorManager with pid: 183383
+2021-11-02 16:08:27,347 WARNING - DagFileProcessorManager (PID=183383) exited with exit code 1 - re-launching
+2021-11-02 16:08:27,352 INFO - Launched DagFileProcessorManager with pid: 183387
+2021-11-02 16:08:28,401 WARNING - DagFileProcessorManager (PID=183387) exited with exit code 1 - re-launching
+2021-11-02 16:08:28,406 INFO - Launched DagFileProcessorManager with pid: 183390
+2021-11-02 16:08:29,444 WARNING - DagFileProcessorManager (PID=183390) exited with exit code 1 - re-launching
+2021-11-02 16:08:29,449 INFO - Launched DagFileProcessorManager with pid: 183393
+2021-11-02 16:08:31,183 WARNING - DagFileProcessorManager (PID=183393) exited with exit code 1 - re-launching
+2021-11-02 16:08:31,188 INFO - Launched DagFileProcessorManager with pid: 183400
+2021-11-02 16:08:31,973 WARNING - DagFileProcessorManager (PID=183400) exited with exit code 1 - re-launching
+2021-11-02 16:08:31,978 INFO - Launched DagFileProcessorManager with pid: 183402
+2021-11-02 16:08:33,048 WARNING - DagFileProcessorManager (PID=183402) exited with exit code 1 - re-launching
+2021-11-02 16:08:33,054 INFO - Launched DagFileProcessorManager with pid: 183407
+2021-11-02 16:08:33,350 WARNING - DagFileProcessorManager (PID=183407) exited with exit code 1 - re-launching
+2021-11-02 16:08:33,355 INFO - Launched DagFileProcessorManager with pid: 183408
+2021-11-02 16:08:34,408 WARNING - DagFileProcessorManager (PID=183408) exited with exit code 1 - re-launching
+2021-11-02 16:08:34,413 INFO - Launched DagFileProcessorManager with pid: 183412
+2021-11-02 16:08:36,180 WARNING - DagFileProcessorManager (PID=183412) exited with exit code 1 - re-launching
+2021-11-02 16:08:36,184 INFO - Launched DagFileProcessorManager with pid: 183419
+2021-11-02 16:08:37,047 WARNING - DagFileProcessorManager (PID=183419) exited with exit code 1 - re-launching
+2021-11-02 16:08:37,053 INFO - Launched DagFileProcessorManager with pid: 183422
+2021-11-02 16:08:38,127 WARNING - DagFileProcessorManager (PID=183422) exited with exit code 1 - re-launching
+2021-11-02 16:08:38,132 INFO - Launched DagFileProcessorManager with pid: 183425
+2021-11-02 16:08:39,173 WARNING - DagFileProcessorManager (PID=183425) exited with exit code 1 - re-launching
+2021-11-02 16:08:39,177 INFO - Launched DagFileProcessorManager with pid: 183428
+2021-11-02 16:08:40,988 WARNING - DagFileProcessorManager (PID=183428) exited with exit code 1 - re-launching
+2021-11-02 16:08:40,994 INFO - Launched DagFileProcessorManager with pid: 183434
+2021-11-02 16:08:42,674 WARNING - DagFileProcessorManager (PID=183434) exited with exit code 1 - re-launching
+2021-11-02 16:08:42,678 INFO - Launched DagFileProcessorManager with pid: 183440
+2021-11-02 16:08:43,746 WARNING - DagFileProcessorManager (PID=183440) exited with exit code 1 - re-launching
+2021-11-02 16:08:43,751 INFO - Launched DagFileProcessorManager with pid: 183443
+2021-11-02 16:08:44,800 WARNING - DagFileProcessorManager (PID=183443) exited with exit code 1 - re-launching
+2021-11-02 16:08:44,806 INFO - Launched DagFileProcessorManager with pid: 183447
+2021-11-02 16:08:45,862 WARNING - DagFileProcessorManager (PID=183447) exited with exit code 1 - re-launching
+2021-11-02 16:08:45,867 INFO - Launched DagFileProcessorManager with pid: 183452
+2021-11-02 16:08:46,925 WARNING - DagFileProcessorManager (PID=183452) exited with exit code 1 - re-launching
+2021-11-02 16:08:46,930 INFO - Launched DagFileProcessorManager with pid: 183455
+2021-11-02 16:08:47,750 WARNING - DagFileProcessorManager (PID=183455) exited with exit code 1 - re-launching
+2021-11-02 16:08:47,754 INFO - Launched DagFileProcessorManager with pid: 183458
+2021-11-02 16:08:49,133 WARNING - DagFileProcessorManager (PID=183458) exited with exit code 1 - re-launching
+2021-11-02 16:08:49,137 INFO - Launched DagFileProcessorManager with pid: 183463
+2021-11-02 16:08:50,183 WARNING - DagFileProcessorManager (PID=183463) exited with exit code 1 - re-launching
+2021-11-02 16:08:50,187 INFO - Launched DagFileProcessorManager with pid: 183466
+2021-11-02 16:08:51,227 WARNING - DagFileProcessorManager (PID=183466) exited with exit code 1 - re-launching
+2021-11-02 16:08:51,233 INFO - Launched DagFileProcessorManager with pid: 183471
+2021-11-02 16:08:52,962 WARNING - DagFileProcessorManager (PID=183471) exited with exit code 1 - re-launching
+2021-11-02 16:08:52,966 INFO - Launched DagFileProcessorManager with pid: 183478
+2021-11-02 16:08:54,023 WARNING - DagFileProcessorManager (PID=183478) exited with exit code 1 - re-launching
+2021-11-02 16:08:54,028 INFO - Launched DagFileProcessorManager with pid: 183481
+2021-11-02 16:08:55,081 WARNING - DagFileProcessorManager (PID=183481) exited with exit code 1 - re-launching
+2021-11-02 16:08:55,086 INFO - Launched DagFileProcessorManager with pid: 183484
+2021-11-02 16:08:56,830 WARNING - DagFileProcessorManager (PID=183484) exited with exit code 1 - re-launching
+2021-11-02 16:08:56,834 INFO - Launched DagFileProcessorManager with pid: 183495
+2021-11-02 16:08:57,892 WARNING - DagFileProcessorManager (PID=183495) exited with exit code 1 - re-launching
+2021-11-02 16:08:57,898 INFO - Launched DagFileProcessorManager with pid: 183498
+2021-11-02 16:08:58,035 WARNING - DagFileProcessorManager (PID=183498) exited with exit code 1 - re-launching
+2021-11-02 16:08:58,040 INFO - Launched DagFileProcessorManager with pid: 183499
+2021-11-02 16:08:59,107 WARNING - DagFileProcessorManager (PID=183499) exited with exit code 1 - re-launching
+2021-11-02 16:08:59,111 INFO - Launched DagFileProcessorManager with pid: 183505
+2021-11-02 16:09:00,160 WARNING - DagFileProcessorManager (PID=183505) exited with exit code 1 - re-launching
+2021-11-02 16:09:00,166 INFO - Launched DagFileProcessorManager with pid: 183510
+2021-11-02 16:09:01,218 WARNING - DagFileProcessorManager (PID=183510) exited with exit code 1 - re-launching
+2021-11-02 16:09:01,223 INFO - Launched DagFileProcessorManager with pid: 183517
+2021-11-02 16:09:02,969 WARNING - DagFileProcessorManager (PID=183517) exited with exit code 1 - re-launching
+2021-11-02 16:09:02,975 INFO - Launched DagFileProcessorManager with pid: 183523
+2021-11-02 16:09:03,871 WARNING - DagFileProcessorManager (PID=183523) exited with exit code 1 - re-launching
+2021-11-02 16:09:03,876 INFO - Launched DagFileProcessorManager with pid: 183527
+2021-11-02 16:09:04,886 WARNING - DagFileProcessorManager (PID=183527) exited with exit code 1 - re-launching
+2021-11-02 16:09:04,891 INFO - Launched DagFileProcessorManager with pid: 183531
+2021-11-02 16:09:05,938 WARNING - DagFileProcessorManager (PID=183531) exited with exit code 1 - re-launching
+2021-11-02 16:09:05,943 INFO - Launched DagFileProcessorManager with pid: 183539
+2021-11-02 16:09:08,193 WARNING - DagFileProcessorManager (PID=183539) exited with exit code 1 - re-launching
+2021-11-02 16:09:08,197 INFO - Launched DagFileProcessorManager with pid: 183563
+2021-11-02 16:09:08,954 WARNING - DagFileProcessorManager (PID=183563) exited with exit code 1 - re-launching
+2021-11-02 16:09:08,958 INFO - Launched DagFileProcessorManager with pid: 183569
+2021-11-02 16:09:10,074 WARNING - DagFileProcessorManager (PID=183569) exited with exit code 1 - re-launching
+2021-11-02 16:09:10,078 INFO - Launched DagFileProcessorManager with pid: 183572
+2021-11-02 16:09:11,990 WARNING - DagFileProcessorManager (PID=183572) exited with exit code 1 - re-launching
+2021-11-02 16:09:11,995 INFO - Launched DagFileProcessorManager with pid: 183581
+2021-11-02 16:09:13,736 WARNING - DagFileProcessorManager (PID=183581) exited with exit code 1 - re-launching
+2021-11-02 16:09:13,741 INFO - Launched DagFileProcessorManager with pid: 183586
+2021-11-02 16:09:14,047 WARNING - DagFileProcessorManager (PID=183586) exited with exit code 1 - re-launching
+2021-11-02 16:09:14,052 INFO - Launched DagFileProcessorManager with pid: 183588
+2021-11-02 16:09:15,108 WARNING - DagFileProcessorManager (PID=183588) exited with exit code 1 - re-launching
+2021-11-02 16:09:15,112 INFO - Launched DagFileProcessorManager with pid: 183591
+2021-11-02 16:09:16,149 WARNING - DagFileProcessorManager (PID=183591) exited with exit code 1 - re-launching
+2021-11-02 16:09:16,153 INFO - Launched DagFileProcessorManager with pid: 183594
+2021-11-02 16:09:17,847 WARNING - DagFileProcessorManager (PID=183594) exited with exit code 1 - re-launching
+2021-11-02 16:09:17,851 INFO - Launched DagFileProcessorManager with pid: 183603
+2021-11-02 16:09:18,899 WARNING - DagFileProcessorManager (PID=183603) exited with exit code 1 - re-launching
+2021-11-02 16:09:18,904 INFO - Launched DagFileProcessorManager with pid: 183606
+2021-11-02 16:09:19,121 WARNING - DagFileProcessorManager (PID=183606) exited with exit code 1 - re-launching
+2021-11-02 16:09:19,126 INFO - Launched DagFileProcessorManager with pid: 183607
+2021-11-02 16:09:19,938 WARNING - DagFileProcessorManager (PID=183607) exited with exit code 1 - re-launching
+2021-11-02 16:09:19,942 INFO - Launched DagFileProcessorManager with pid: 183610
+2021-11-02 16:09:20,993 WARNING - DagFileProcessorManager (PID=183610) exited with exit code 1 - re-launching
+2021-11-02 16:09:20,999 INFO - Launched DagFileProcessorManager with pid: 183614
+2021-11-02 16:09:22,050 WARNING - DagFileProcessorManager (PID=183614) exited with exit code 1 - re-launching
+2021-11-02 16:09:22,056 INFO - Launched DagFileProcessorManager with pid: 183618
+2021-11-02 16:09:23,108 WARNING - DagFileProcessorManager (PID=183618) exited with exit code 1 - re-launching
+2021-11-02 16:09:23,113 INFO - Launched DagFileProcessorManager with pid: 183622
+2021-11-02 16:09:24,155 WARNING - DagFileProcessorManager (PID=183622) exited with exit code 1 - re-launching
+2021-11-02 16:09:24,159 INFO - Launched DagFileProcessorManager with pid: 183625
+2021-11-02 16:09:25,228 WARNING - DagFileProcessorManager (PID=183625) exited with exit code 1 - re-launching
+2021-11-02 16:09:25,234 INFO - Launched DagFileProcessorManager with pid: 183628
+2021-11-02 16:09:27,014 WARNING - DagFileProcessorManager (PID=183628) exited with exit code 1 - re-launching
+2021-11-02 16:09:27,021 INFO - Launched DagFileProcessorManager with pid: 183637
+2021-11-02 16:09:28,067 WARNING - DagFileProcessorManager (PID=183637) exited with exit code 1 - re-launching
+2021-11-02 16:09:28,071 INFO - Launched DagFileProcessorManager with pid: 183640
+2021-11-02 16:09:29,111 WARNING - DagFileProcessorManager (PID=183640) exited with exit code 1 - re-launching
+2021-11-02 16:09:29,115 INFO - Launched DagFileProcessorManager with pid: 183646
+2021-11-02 16:09:29,231 WARNING - DagFileProcessorManager (PID=183646) exited with exit code 1 - re-launching
+2021-11-02 16:09:29,237 INFO - Launched DagFileProcessorManager with pid: 183647
+2021-11-02 16:09:30,311 WARNING - DagFileProcessorManager (PID=183647) exited with exit code 1 - re-launching
+2021-11-02 16:09:30,315 INFO - Launched DagFileProcessorManager with pid: 183650
+2021-11-02 16:09:31,363 WARNING - DagFileProcessorManager (PID=183650) exited with exit code 1 - re-launching
+2021-11-02 16:09:31,367 INFO - Launched DagFileProcessorManager with pid: 183654
+2021-11-02 16:09:32,415 WARNING - DagFileProcessorManager (PID=183654) exited with exit code 1 - re-launching
+2021-11-02 16:09:32,420 INFO - Launched DagFileProcessorManager with pid: 183657
+2021-11-02 16:09:33,472 WARNING - DagFileProcessorManager (PID=183657) exited with exit code 1 - re-launching
+2021-11-02 16:09:33,476 INFO - Launched DagFileProcessorManager with pid: 183661
+2021-11-02 16:09:34,903 WARNING - DagFileProcessorManager (PID=183661) exited with exit code 1 - re-launching
+2021-11-02 16:09:34,907 INFO - Launched DagFileProcessorManager with pid: 183668
+2021-11-02 16:09:35,683 WARNING - DagFileProcessorManager (PID=183668) exited with exit code 1 - re-launching
+2021-11-02 16:09:35,687 INFO - Launched DagFileProcessorManager with pid: 183672
+2021-11-02 16:09:37,382 WARNING - DagFileProcessorManager (PID=183672) exited with exit code 1 - re-launching
+2021-11-02 16:09:37,386 INFO - Launched DagFileProcessorManager with pid: 183676
+2021-11-02 16:09:39,200 WARNING - DagFileProcessorManager (PID=183676) exited with exit code 1 - re-launching
+2021-11-02 16:09:39,204 INFO - Launched DagFileProcessorManager with pid: 183682
+2021-11-02 16:09:39,973 WARNING - DagFileProcessorManager (PID=183682) exited with exit code 1 - re-launching
+2021-11-02 16:09:39,979 INFO - Launched DagFileProcessorManager with pid: 183685
+2021-11-02 16:09:41,048 WARNING - DagFileProcessorManager (PID=183685) exited with exit code 1 - re-launching
+2021-11-02 16:09:41,054 INFO - Launched DagFileProcessorManager with pid: 183689
+2021-11-02 16:09:42,109 WARNING - DagFileProcessorManager (PID=183689) exited with exit code 1 - re-launching
+2021-11-02 16:09:42,114 INFO - Launched DagFileProcessorManager with pid: 183692
+2021-11-02 16:09:43,162 WARNING - DagFileProcessorManager (PID=183692) exited with exit code 1 - re-launching
+2021-11-02 16:09:43,167 INFO - Launched DagFileProcessorManager with pid: 183695
+2021-11-02 16:09:45,002 WARNING - DagFileProcessorManager (PID=183695) exited with exit code 1 - re-launching
+2021-11-02 16:09:45,006 INFO - Launched DagFileProcessorManager with pid: 183703
+2021-11-02 16:09:46,069 WARNING - DagFileProcessorManager (PID=183703) exited with exit code 1 - re-launching
+2021-11-02 16:09:46,073 INFO - Launched DagFileProcessorManager with pid: 183706
+2021-11-02 16:09:47,121 WARNING - DagFileProcessorManager (PID=183706) exited with exit code 1 - re-launching
+2021-11-02 16:09:47,126 INFO - Launched DagFileProcessorManager with pid: 183709
+2021-11-02 16:09:48,166 WARNING - DagFileProcessorManager (PID=183709) exited with exit code 1 - re-launching
+2021-11-02 16:09:48,171 INFO - Launched DagFileProcessorManager with pid: 183713
+2021-11-02 16:09:49,935 WARNING - DagFileProcessorManager (PID=183713) exited with exit code 1 - re-launching
+2021-11-02 16:09:49,941 INFO - Launched DagFileProcessorManager with pid: 183719
+2021-11-02 16:09:50,177 WARNING - DagFileProcessorManager (PID=183719) exited with exit code 1 - re-launching
+2021-11-02 16:09:50,183 INFO - Launched DagFileProcessorManager with pid: 183721
+2021-11-02 16:09:50,742 WARNING - DagFileProcessorManager (PID=183721) exited with exit code 1 - re-launching
+2021-11-02 16:09:50,747 INFO - Launched DagFileProcessorManager with pid: 183724
+2021-11-02 16:09:51,817 WARNING - DagFileProcessorManager (PID=183724) exited with exit code 1 - re-launching
+2021-11-02 16:09:51,822 INFO - Launched DagFileProcessorManager with pid: 183727
+2021-11-02 16:09:52,861 WARNING - DagFileProcessorManager (PID=183727) exited with exit code 1 - re-launching
+2021-11-02 16:09:52,866 INFO - Launched DagFileProcessorManager with pid: 183730
+2021-11-02 16:09:54,564 WARNING - DagFileProcessorManager (PID=183730) exited with exit code 1 - re-launching
+2021-11-02 16:09:54,567 INFO - Launched DagFileProcessorManager with pid: 183737
+2021-11-02 16:09:55,256 WARNING - DagFileProcessorManager (PID=183737) exited with exit code 1 - re-launching
+2021-11-02 16:09:55,260 INFO - Launched DagFileProcessorManager with pid: 183739
+2021-11-02 16:09:56,325 WARNING - DagFileProcessorManager (PID=183739) exited with exit code 1 - re-launching
+2021-11-02 16:09:56,331 INFO - Launched DagFileProcessorManager with pid: 183743
+2021-11-02 16:09:57,370 WARNING - DagFileProcessorManager (PID=183743) exited with exit code 1 - re-launching
+2021-11-02 16:09:57,374 INFO - Launched DagFileProcessorManager with pid: 183746
+2021-11-02 16:09:58,414 WARNING - DagFileProcessorManager (PID=183746) exited with exit code 1 - re-launching
+2021-11-02 16:09:58,418 INFO - Launched DagFileProcessorManager with pid: 183750
+2021-11-02 16:09:59,460 WARNING - DagFileProcessorManager (PID=183750) exited with exit code 1 - re-launching
+2021-11-02 16:09:59,465 INFO - Launched DagFileProcessorManager with pid: 183752
+2021-11-02 16:10:00,339 WARNING - DagFileProcessorManager (PID=183752) exited with exit code 1 - re-launching
+2021-11-02 16:10:00,345 INFO - Launched DagFileProcessorManager with pid: 183755
+2021-11-02 16:10:02,137 WARNING - DagFileProcessorManager (PID=183755) exited with exit code 1 - re-launching
+2021-11-02 16:10:02,140 INFO - Launched DagFileProcessorManager with pid: 183763
+2021-11-02 16:10:03,194 WARNING - DagFileProcessorManager (PID=183763) exited with exit code 1 - re-launching
+2021-11-02 16:10:03,199 INFO - Launched DagFileProcessorManager with pid: 183766
+2021-11-02 16:10:04,243 WARNING - DagFileProcessorManager (PID=183766) exited with exit code 1 - re-launching
+2021-11-02 16:10:04,247 INFO - Launched DagFileProcessorManager with pid: 183770
+2021-11-02 16:10:05,290 WARNING - DagFileProcessorManager (PID=183770) exited with exit code 1 - re-launching
+2021-11-02 16:10:05,294 INFO - Launched DagFileProcessorManager with pid: 183773
+2021-11-02 16:10:05,424 WARNING - DagFileProcessorManager (PID=183773) exited with exit code 1 - re-launching
+2021-11-02 16:10:05,430 INFO - Launched DagFileProcessorManager with pid: 183774
+2021-11-02 16:10:05,808 WARNING - DagFileProcessorManager (PID=183774) exited with exit code 1 - re-launching
+2021-11-02 16:10:05,812 INFO - Launched DagFileProcessorManager with pid: 183778
+2021-11-02 16:10:06,879 WARNING - DagFileProcessorManager (PID=183778) exited with exit code 1 - re-launching
+2021-11-02 16:10:06,884 INFO - Launched DagFileProcessorManager with pid: 183781
+2021-11-02 16:10:08,586 WARNING - DagFileProcessorManager (PID=183781) exited with exit code 1 - re-launching
+2021-11-02 16:10:08,591 INFO - Launched DagFileProcessorManager with pid: 183789
+2021-11-02 16:10:10,422 WARNING - DagFileProcessorManager (PID=183789) exited with exit code 1 - re-launching
+2021-11-02 16:10:10,426 INFO - Launched DagFileProcessorManager with pid: 183794
+2021-11-02 16:10:10,882 WARNING - DagFileProcessorManager (PID=183794) exited with exit code 1 - re-launching
+2021-11-02 16:10:10,888 INFO - Launched DagFileProcessorManager with pid: 183796
+2021-11-02 16:10:12,600 WARNING - DagFileProcessorManager (PID=183796) exited with exit code 1 - re-launching
+2021-11-02 16:10:12,604 INFO - Launched DagFileProcessorManager with pid: 183802
+2021-11-02 16:10:13,643 WARNING - DagFileProcessorManager (PID=183802) exited with exit code 1 - re-launching
+2021-11-02 16:10:13,647 INFO - Launched DagFileProcessorManager with pid: 183806
+2021-11-02 16:10:14,702 WARNING - DagFileProcessorManager (PID=183806) exited with exit code 1 - re-launching
+2021-11-02 16:10:14,706 INFO - Launched DagFileProcessorManager with pid: 183809
+2021-11-02 16:10:15,752 WARNING - DagFileProcessorManager (PID=183809) exited with exit code 1 - re-launching
+2021-11-02 16:10:15,756 INFO - Launched DagFileProcessorManager with pid: 183812
+2021-11-02 16:10:16,585 WARNING - DagFileProcessorManager (PID=183812) exited with exit code 1 - re-launching
+2021-11-02 16:10:16,590 INFO - Launched DagFileProcessorManager with pid: 183816
+2021-11-02 16:10:17,647 WARNING - DagFileProcessorManager (PID=183816) exited with exit code 1 - re-launching
+2021-11-02 16:10:17,651 INFO - Launched DagFileProcessorManager with pid: 183819
+2021-11-02 16:10:19,274 WARNING - DagFileProcessorManager (PID=183819) exited with exit code 1 - re-launching
+2021-11-02 16:10:19,281 INFO - Launched DagFileProcessorManager with pid: 183824
+2021-11-02 16:10:20,341 WARNING - DagFileProcessorManager (PID=183824) exited with exit code 1 - re-launching
+2021-11-02 16:10:20,346 INFO - Launched DagFileProcessorManager with pid: 183828
+2021-11-02 16:10:21,553 WARNING - DagFileProcessorManager (PID=183828) exited with exit code 1 - re-launching
+2021-11-02 16:10:21,558 INFO - Launched DagFileProcessorManager with pid: 183833
+2021-11-02 16:10:22,301 WARNING - DagFileProcessorManager (PID=183833) exited with exit code 1 - re-launching
+2021-11-02 16:10:22,305 INFO - Launched DagFileProcessorManager with pid: 183837
+2021-11-02 16:10:24,118 WARNING - DagFileProcessorManager (PID=183837) exited with exit code 1 - re-launching
+2021-11-02 16:10:24,123 INFO - Launched DagFileProcessorManager with pid: 183842
+2021-11-02 16:10:25,171 WARNING - DagFileProcessorManager (PID=183842) exited with exit code 1 - re-launching
+2021-11-02 16:10:25,175 INFO - Launched DagFileProcessorManager with pid: 183846
+2021-11-02 16:10:26,232 WARNING - DagFileProcessorManager (PID=183846) exited with exit code 1 - re-launching
+2021-11-02 16:10:26,236 INFO - Launched DagFileProcessorManager with pid: 183850
+2021-11-02 16:10:27,290 WARNING - DagFileProcessorManager (PID=183850) exited with exit code 1 - re-launching
+2021-11-02 16:10:27,295 INFO - Launched DagFileProcessorManager with pid: 183854
+2021-11-02 16:10:27,381 WARNING - DagFileProcessorManager (PID=183854) exited with exit code 1 - re-launching
+2021-11-02 16:10:27,387 INFO - Launched DagFileProcessorManager with pid: 183855
+2021-11-02 16:10:28,482 WARNING - DagFileProcessorManager (PID=183855) exited with exit code 1 - re-launching
+2021-11-02 16:10:28,488 INFO - Launched DagFileProcessorManager with pid: 183859
+2021-11-02 16:10:29,540 WARNING - DagFileProcessorManager (PID=183859) exited with exit code 1 - re-launching
+2021-11-02 16:10:29,546 INFO - Launched DagFileProcessorManager with pid: 183862
+2021-11-02 16:10:31,401 WARNING - DagFileProcessorManager (PID=183862) exited with exit code 1 - re-launching
+2021-11-02 16:10:31,406 INFO - Launched DagFileProcessorManager with pid: 183870
+2021-11-02 16:10:33,140 WARNING - DagFileProcessorManager (PID=183870) exited with exit code 1 - re-launching
+2021-11-02 16:10:33,145 INFO - Launched DagFileProcessorManager with pid: 183874
+2021-11-02 16:10:34,904 WARNING - DagFileProcessorManager (PID=183874) exited with exit code 1 - re-launching
+2021-11-02 16:10:34,909 INFO - Launched DagFileProcessorManager with pid: 183881
+2021-11-02 16:10:36,589 WARNING - DagFileProcessorManager (PID=183881) exited with exit code 1 - re-launching
+2021-11-02 16:10:36,594 INFO - Launched DagFileProcessorManager with pid: 183888
+2021-11-02 16:10:37,649 WARNING - DagFileProcessorManager (PID=183888) exited with exit code 1 - re-launching
+2021-11-02 16:10:37,652 INFO - Launched DagFileProcessorManager with pid: 183891
+2021-11-02 16:10:38,823 WARNING - DagFileProcessorManager (PID=183891) exited with exit code 1 - re-launching
+2021-11-02 16:10:38,827 INFO - Launched DagFileProcessorManager with pid: 183895
+2021-11-02 16:10:40,676 WARNING - DagFileProcessorManager (PID=183895) exited with exit code 1 - re-launching
+2021-11-02 16:10:40,682 INFO - Launched DagFileProcessorManager with pid: 183901
+2021-11-02 16:10:41,762 WARNING - DagFileProcessorManager (PID=183901) exited with exit code 1 - re-launching
+2021-11-02 16:10:41,767 INFO - Launched DagFileProcessorManager with pid: 183904
+2021-11-02 16:10:42,829 WARNING - DagFileProcessorManager (PID=183904) exited with exit code 1 - re-launching
+2021-11-02 16:10:42,834 INFO - Launched DagFileProcessorManager with pid: 183908
+2021-11-02 16:10:43,880 WARNING - DagFileProcessorManager (PID=183908) exited with exit code 1 - re-launching
+2021-11-02 16:10:43,885 INFO - Launched DagFileProcessorManager with pid: 183912
+2021-11-02 16:10:44,959 WARNING - DagFileProcessorManager (PID=183912) exited with exit code 1 - re-launching
+2021-11-02 16:10:44,965 INFO - Launched DagFileProcessorManager with pid: 183915
+2021-11-02 16:10:46,659 WARNING - DagFileProcessorManager (PID=183915) exited with exit code 1 - re-launching
+2021-11-02 16:10:46,664 INFO - Launched DagFileProcessorManager with pid: 183923
+2021-11-02 16:10:47,691 WARNING - DagFileProcessorManager (PID=183923) exited with exit code 1 - re-launching
+2021-11-02 16:10:47,695 INFO - Launched DagFileProcessorManager with pid: 183925
+2021-11-02 16:10:48,739 WARNING - DagFileProcessorManager (PID=183925) exited with exit code 1 - re-launching
+2021-11-02 16:10:48,744 INFO - Launched DagFileProcessorManager with pid: 183930
+2021-11-02 16:10:49,610 WARNING - DagFileProcessorManager (PID=183930) exited with exit code 1 - re-launching
+2021-11-02 16:10:49,614 INFO - Launched DagFileProcessorManager with pid: 183933
+2021-11-02 16:10:51,417 WARNING - DagFileProcessorManager (PID=183933) exited with exit code 1 - re-launching
+2021-11-02 16:10:51,423 INFO - Launched DagFileProcessorManager with pid: 183941
+2021-11-02 16:10:52,421 WARNING - DagFileProcessorManager (PID=183941) exited with exit code 1 - re-launching
+2021-11-02 16:10:52,425 INFO - Launched DagFileProcessorManager with pid: 183946
+2021-11-02 16:10:54,183 WARNING - DagFileProcessorManager (PID=183946) exited with exit code 1 - re-launching
+2021-11-02 16:10:54,187 INFO - Launched DagFileProcessorManager with pid: 183953
+2021-11-02 16:10:54,674 WARNING - DagFileProcessorManager (PID=183953) exited with exit code 1 - re-launching
+2021-11-02 16:10:54,678 INFO - Launched DagFileProcessorManager with pid: 183954
+2021-11-02 16:10:56,362 WARNING - DagFileProcessorManager (PID=183954) exited with exit code 1 - re-launching
+2021-11-02 16:10:56,367 INFO - Launched DagFileProcessorManager with pid: 183961
+2021-11-02 16:10:58,036 WARNING - DagFileProcessorManager (PID=183961) exited with exit code 1 - re-launching
+2021-11-02 16:10:58,042 INFO - Launched DagFileProcessorManager with pid: 183966
+2021-11-02 16:10:59,084 WARNING - DagFileProcessorManager (PID=183966) exited with exit code 1 - re-launching
+2021-11-02 16:10:59,088 INFO - Launched DagFileProcessorManager with pid: 183970
+2021-11-02 16:11:00,421 WARNING - DagFileProcessorManager (PID=183970) exited with exit code 1 - re-launching
+2021-11-02 16:11:00,425 INFO - Launched DagFileProcessorManager with pid: 183996
+2021-11-02 16:11:02,259 WARNING - DagFileProcessorManager (PID=183996) exited with exit code 1 - re-launching
+2021-11-02 16:11:02,264 INFO - Launched DagFileProcessorManager with pid: 184002
+2021-11-02 16:11:03,315 WARNING - DagFileProcessorManager (PID=184002) exited with exit code 1 - re-launching
+2021-11-02 16:11:03,319 INFO - Launched DagFileProcessorManager with pid: 184006
+2021-11-02 16:11:04,373 WARNING - DagFileProcessorManager (PID=184006) exited with exit code 1 - re-launching
+2021-11-02 16:11:04,378 INFO - Launched DagFileProcessorManager with pid: 184009
+2021-11-02 16:11:06,045 WARNING - DagFileProcessorManager (PID=184009) exited with exit code 1 - re-launching
+2021-11-02 16:11:06,049 INFO - Launched DagFileProcessorManager with pid: 184017
+2021-11-02 16:11:07,125 WARNING - DagFileProcessorManager (PID=184017) exited with exit code 1 - re-launching
+2021-11-02 16:11:07,131 INFO - Launched DagFileProcessorManager with pid: 184020
+2021-11-02 16:11:07,483 WARNING - DagFileProcessorManager (PID=184020) exited with exit code 1 - re-launching
+2021-11-02 16:11:07,489 INFO - Launched DagFileProcessorManager with pid: 184021
+2021-11-02 16:11:09,204 WARNING - DagFileProcessorManager (PID=184021) exited with exit code 1 - re-launching
+2021-11-02 16:11:09,208 INFO - Launched DagFileProcessorManager with pid: 184027
+2021-11-02 16:11:10,255 WARNING - DagFileProcessorManager (PID=184027) exited with exit code 1 - re-launching
+2021-11-02 16:11:10,261 INFO - Launched DagFileProcessorManager with pid: 184031
+2021-11-02 16:11:11,835 WARNING - DagFileProcessorManager (PID=184031) exited with exit code 1 - re-launching
+2021-11-02 16:11:11,840 INFO - Launched DagFileProcessorManager with pid: 184041
+2021-11-02 16:11:12,916 WARNING - DagFileProcessorManager (PID=184041) exited with exit code 1 - re-launching
+2021-11-02 16:11:12,922 INFO - Launched DagFileProcessorManager with pid: 184049
+2021-11-02 16:11:13,979 WARNING - DagFileProcessorManager (PID=184049) exited with exit code 1 - re-launching
+2021-11-02 16:11:13,987 INFO - Launched DagFileProcessorManager with pid: 184055
+2021-11-02 16:11:15,688 WARNING - DagFileProcessorManager (PID=184055) exited with exit code 1 - re-launching
+2021-11-02 16:11:15,697 INFO - Launched DagFileProcessorManager with pid: 184061
+2021-11-02 16:11:16,740 WARNING - DagFileProcessorManager (PID=184061) exited with exit code 1 - re-launching
+2021-11-02 16:11:16,746 INFO - Launched DagFileProcessorManager with pid: 184065
+2021-11-02 16:11:16,908 WARNING - DagFileProcessorManager (PID=184065) exited with exit code 1 - re-launching
+2021-11-02 16:11:16,914 INFO - Launched DagFileProcessorManager with pid: 184066
+2021-11-02 16:11:18,626 WARNING - DagFileProcessorManager (PID=184066) exited with exit code 1 - re-launching
+2021-11-02 16:11:18,631 INFO - Launched DagFileProcessorManager with pid: 184073
+2021-11-02 16:11:20,274 WARNING - DagFileProcessorManager (PID=184073) exited with exit code 1 - re-launching
+2021-11-02 16:11:20,279 INFO - Launched DagFileProcessorManager with pid: 184078
+2021-11-02 16:11:21,957 WARNING - DagFileProcessorManager (PID=184078) exited with exit code 1 - re-launching
+2021-11-02 16:11:21,961 INFO - Launched DagFileProcessorManager with pid: 184085
+2021-11-02 16:11:22,534 WARNING - DagFileProcessorManager (PID=184085) exited with exit code 1 - re-launching
+2021-11-02 16:11:22,540 INFO - Launched DagFileProcessorManager with pid: 184087
+2021-11-02 16:11:23,591 WARNING - DagFileProcessorManager (PID=184087) exited with exit code 1 - re-launching
+2021-11-02 16:11:23,597 INFO - Launched DagFileProcessorManager with pid: 184090
+2021-11-02 16:11:25,422 WARNING - DagFileProcessorManager (PID=184090) exited with exit code 1 - re-launching
+2021-11-02 16:11:25,426 INFO - Launched DagFileProcessorManager with pid: 184099
+2021-11-02 16:11:26,482 WARNING - DagFileProcessorManager (PID=184099) exited with exit code 1 - re-launching
+2021-11-02 16:11:26,486 INFO - Launched DagFileProcessorManager with pid: 184102
+2021-11-02 16:11:27,022 WARNING - DagFileProcessorManager (PID=184102) exited with exit code 1 - re-launching
+2021-11-02 16:11:27,027 INFO - Launched DagFileProcessorManager with pid: 184105
+2021-11-02 16:11:28,091 WARNING - DagFileProcessorManager (PID=184105) exited with exit code 1 - re-launching
+2021-11-02 16:11:28,097 INFO - Launched DagFileProcessorManager with pid: 184108
+2021-11-02 16:11:29,137 WARNING - DagFileProcessorManager (PID=184108) exited with exit code 1 - re-launching
+2021-11-02 16:11:29,141 INFO - Launched DagFileProcessorManager with pid: 184112
+2021-11-02 16:11:30,191 WARNING - DagFileProcessorManager (PID=184112) exited with exit code 1 - re-launching
+2021-11-02 16:11:30,195 INFO - Launched DagFileProcessorManager with pid: 184115
+2021-11-02 16:11:31,906 WARNING - DagFileProcessorManager (PID=184115) exited with exit code 1 - re-launching
+2021-11-02 16:11:31,911 INFO - Launched DagFileProcessorManager with pid: 184123
+2021-11-02 16:11:32,783 WARNING - DagFileProcessorManager (PID=184123) exited with exit code 1 - re-launching
+2021-11-02 16:11:32,788 INFO - Launched DagFileProcessorManager with pid: 184127
+2021-11-02 16:11:33,848 WARNING - DagFileProcessorManager (PID=184127) exited with exit code 1 - re-launching
+2021-11-02 16:11:33,854 INFO - Launched DagFileProcessorManager with pid: 184131
+2021-11-02 16:11:34,901 WARNING - DagFileProcessorManager (PID=184131) exited with exit code 1 - re-launching
+2021-11-02 16:11:34,905 INFO - Launched DagFileProcessorManager with pid: 184134
+2021-11-02 16:11:35,941 WARNING - DagFileProcessorManager (PID=184134) exited with exit code 1 - re-launching
+2021-11-02 16:11:35,947 INFO - Launched DagFileProcessorManager with pid: 184138
+2021-11-02 16:11:36,987 WARNING - DagFileProcessorManager (PID=184138) exited with exit code 1 - re-launching
+2021-11-02 16:11:36,991 INFO - Launched DagFileProcessorManager with pid: 184141
+2021-11-02 16:11:38,169 WARNING - DagFileProcessorManager (PID=184141) exited with exit code 1 - re-launching
+2021-11-02 16:11:38,173 INFO - Launched DagFileProcessorManager with pid: 184146
+2021-11-02 16:11:39,233 WARNING - DagFileProcessorManager (PID=184146) exited with exit code 1 - re-launching
+2021-11-02 16:11:39,238 INFO - Launched DagFileProcessorManager with pid: 184149
+2021-11-02 16:11:40,278 WARNING - DagFileProcessorManager (PID=184149) exited with exit code 1 - re-launching
+2021-11-02 16:11:40,281 INFO - Launched DagFileProcessorManager with pid: 184153
+2021-11-02 16:11:41,331 WARNING - DagFileProcessorManager (PID=184153) exited with exit code 1 - re-launching
+2021-11-02 16:11:41,337 INFO - Launched DagFileProcessorManager with pid: 184156
+2021-11-02 16:11:43,024 WARNING - DagFileProcessorManager (PID=184156) exited with exit code 1 - re-launching
+2021-11-02 16:11:43,028 INFO - Launched DagFileProcessorManager with pid: 184162
+2021-11-02 16:11:43,935 WARNING - DagFileProcessorManager (PID=184162) exited with exit code 1 - re-launching
+2021-11-02 16:11:43,941 INFO - Launched DagFileProcessorManager with pid: 184166
+2021-11-02 16:11:45,719 WARNING - DagFileProcessorManager (PID=184166) exited with exit code 1 - re-launching
+2021-11-02 16:11:45,723 INFO - Launched DagFileProcessorManager with pid: 184173
+2021-11-02 16:11:46,771 WARNING - DagFileProcessorManager (PID=184173) exited with exit code 1 - re-launching
+2021-11-02 16:11:46,776 INFO - Launched DagFileProcessorManager with pid: 184178
+2021-11-02 16:11:47,815 WARNING - DagFileProcessorManager (PID=184178) exited with exit code 1 - re-launching
+2021-11-02 16:11:47,820 INFO - Launched DagFileProcessorManager with pid: 184181
+2021-11-02 16:11:48,865 WARNING - DagFileProcessorManager (PID=184181) exited with exit code 1 - re-launching
+2021-11-02 16:11:48,869 INFO - Launched DagFileProcessorManager with pid: 184184
+2021-11-02 16:11:49,021 WARNING - DagFileProcessorManager (PID=184184) exited with exit code 1 - re-launching
+2021-11-02 16:11:49,026 INFO - Launched DagFileProcessorManager with pid: 184186
+2021-11-02 16:11:50,087 WARNING - DagFileProcessorManager (PID=184186) exited with exit code 1 - re-launching
+2021-11-02 16:11:50,091 INFO - Launched DagFileProcessorManager with pid: 184189
+2021-11-02 16:11:51,820 WARNING - DagFileProcessorManager (PID=184189) exited with exit code 1 - re-launching
+2021-11-02 16:11:51,824 INFO - Launched DagFileProcessorManager with pid: 184198
+2021-11-02 16:11:52,874 WARNING - DagFileProcessorManager (PID=184198) exited with exit code 1 - re-launching
+2021-11-02 16:11:52,879 INFO - Launched DagFileProcessorManager with pid: 184201
+2021-11-02 16:11:53,964 WARNING - DagFileProcessorManager (PID=184201) exited with exit code 1 - re-launching
+2021-11-02 16:11:53,971 INFO - Launched DagFileProcessorManager with pid: 184206
+2021-11-02 16:11:54,775 WARNING - DagFileProcessorManager (PID=184206) exited with exit code 1 - re-launching
+2021-11-02 16:11:54,781 INFO - Launched DagFileProcessorManager with pid: 184209
+2021-11-02 16:11:55,848 WARNING - DagFileProcessorManager (PID=184209) exited with exit code 1 - re-launching
+2021-11-02 16:11:55,852 INFO - Launched DagFileProcessorManager with pid: 184212
+2021-11-02 16:11:56,907 WARNING - DagFileProcessorManager (PID=184212) exited with exit code 1 - re-launching
+2021-11-02 16:11:56,911 INFO - Launched DagFileProcessorManager with pid: 184216
+2021-11-02 16:11:57,959 WARNING - DagFileProcessorManager (PID=184216) exited with exit code 1 - re-launching
+2021-11-02 16:11:57,962 INFO - Launched DagFileProcessorManager with pid: 184219
+2021-11-02 16:11:59,612 WARNING - DagFileProcessorManager (PID=184219) exited with exit code 1 - re-launching
+2021-11-02 16:11:59,616 INFO - Launched DagFileProcessorManager with pid: 184224
+2021-11-02 16:12:00,507 WARNING - DagFileProcessorManager (PID=184224) exited with exit code 1 - re-launching
+2021-11-02 16:12:00,513 INFO - Launched DagFileProcessorManager with pid: 184228
+2021-11-02 16:12:01,510 WARNING - DagFileProcessorManager (PID=184228) exited with exit code 1 - re-launching
+2021-11-02 16:12:01,516 INFO - Launched DagFileProcessorManager with pid: 184232
+2021-11-02 16:12:01,518 INFO - Resetting orphaned tasks for active dag runs
+2021-11-02 16:12:02,580 WARNING - DagFileProcessorManager (PID=184232) exited with exit code 1 - re-launching
+2021-11-02 16:12:02,584 INFO - Launched DagFileProcessorManager with pid: 184236
+2021-11-02 16:12:03,640 WARNING - DagFileProcessorManager (PID=184236) exited with exit code 1 - re-launching
+2021-11-02 16:12:03,644 INFO - Launched DagFileProcessorManager with pid: 184239
+2021-11-02 16:12:04,697 WARNING - DagFileProcessorManager (PID=184239) exited with exit code 1 - re-launching
+2021-11-02 16:12:04,702 INFO - Launched DagFileProcessorManager with pid: 184242
+2021-11-02 16:12:05,581 WARNING - DagFileProcessorManager (PID=184242) exited with exit code 1 - re-launching
+2021-11-02 16:12:05,585 INFO - Launched DagFileProcessorManager with pid: 184246
+2021-11-02 16:12:06,632 WARNING - DagFileProcessorManager (PID=184246) exited with exit code 1 - re-launching
+2021-11-02 16:12:06,635 INFO - Launched DagFileProcessorManager with pid: 184250
+2021-11-02 16:12:08,328 WARNING - DagFileProcessorManager (PID=184250) exited with exit code 1 - re-launching
+2021-11-02 16:12:08,334 INFO - Launched DagFileProcessorManager with pid: 184256
+2021-11-02 16:12:09,044 WARNING - DagFileProcessorManager (PID=184256) exited with exit code 1 - re-launching
+2021-11-02 16:12:09,048 INFO - Launched DagFileProcessorManager with pid: 184260
+2021-11-02 16:12:10,110 WARNING - DagFileProcessorManager (PID=184260) exited with exit code 1 - re-launching
+2021-11-02 16:12:10,116 INFO - Launched DagFileProcessorManager with pid: 184263
+2021-11-02 16:12:11,300 WARNING - DagFileProcessorManager (PID=184263) exited with exit code 1 - re-launching
+2021-11-02 16:12:11,304 INFO - Launched DagFileProcessorManager with pid: 184267
+2021-11-02 16:12:12,375 WARNING - DagFileProcessorManager (PID=184267) exited with exit code 1 - re-launching
+2021-11-02 16:12:12,381 INFO - Launched DagFileProcessorManager with pid: 184270
+2021-11-02 16:12:14,158 WARNING - DagFileProcessorManager (PID=184270) exited with exit code 1 - re-launching
+2021-11-02 16:12:14,163 INFO - Launched DagFileProcessorManager with pid: 184278
+2021-11-02 16:12:15,235 WARNING - DagFileProcessorManager (PID=184278) exited with exit code 1 - re-launching
+2021-11-02 16:12:15,242 INFO - Launched DagFileProcessorManager with pid: 184281
+2021-11-02 16:12:16,297 WARNING - DagFileProcessorManager (PID=184281) exited with exit code 1 - re-launching
+2021-11-02 16:12:16,303 INFO - Launched DagFileProcessorManager with pid: 184284
+2021-11-02 16:12:16,364 WARNING - DagFileProcessorManager (PID=184284) exited with exit code 1 - re-launching
+2021-11-02 16:12:16,368 INFO - Launched DagFileProcessorManager with pid: 184285
+2021-11-02 16:12:17,433 WARNING - DagFileProcessorManager (PID=184285) exited with exit code 1 - re-launching
+2021-11-02 16:12:17,437 INFO - Launched DagFileProcessorManager with pid: 184289
+2021-11-02 16:12:18,491 WARNING - DagFileProcessorManager (PID=184289) exited with exit code 1 - re-launching
+2021-11-02 16:12:18,497 INFO - Launched DagFileProcessorManager with pid: 184293
+2021-11-02 16:12:19,551 WARNING - DagFileProcessorManager (PID=184293) exited with exit code 1 - re-launching
+2021-11-02 16:12:19,556 INFO - Launched DagFileProcessorManager with pid: 184296
+2021-11-02 16:12:20,609 WARNING - DagFileProcessorManager (PID=184296) exited with exit code 1 - re-launching
+2021-11-02 16:12:20,615 INFO - Launched DagFileProcessorManager with pid: 184300
+2021-11-02 16:12:21,448 WARNING - DagFileProcessorManager (PID=184300) exited with exit code 1 - re-launching
+2021-11-02 16:12:21,454 INFO - Launched DagFileProcessorManager with pid: 184303
+2021-11-02 16:12:23,265 WARNING - DagFileProcessorManager (PID=184303) exited with exit code 1 - re-launching
+2021-11-02 16:12:23,270 INFO - Launched DagFileProcessorManager with pid: 184310
+2021-11-02 16:12:24,888 WARNING - DagFileProcessorManager (PID=184310) exited with exit code 1 - re-launching
+2021-11-02 16:12:24,894 INFO - Launched DagFileProcessorManager with pid: 184315
+2021-11-02 16:12:26,836 WARNING - DagFileProcessorManager (PID=184315) exited with exit code 1 - re-launching
+2021-11-02 16:12:26,840 INFO - Launched DagFileProcessorManager with pid: 184343
+2021-11-02 16:12:28,595 WARNING - DagFileProcessorManager (PID=184343) exited with exit code 1 - re-launching
+2021-11-02 16:12:28,599 INFO - Launched DagFileProcessorManager with pid: 184350
+2021-11-02 16:12:30,346 WARNING - DagFileProcessorManager (PID=184350) exited with exit code 1 - re-launching
+2021-11-02 16:12:30,352 INFO - Launched DagFileProcessorManager with pid: 184355
+2021-11-02 16:12:32,073 WARNING - DagFileProcessorManager (PID=184355) exited with exit code 1 - re-launching
+2021-11-02 16:12:32,076 INFO - Launched DagFileProcessorManager with pid: 184361
+2021-11-02 16:12:33,138 WARNING - DagFileProcessorManager (PID=184361) exited with exit code 1 - re-launching
+2021-11-02 16:12:33,143 INFO - Launched DagFileProcessorManager with pid: 184386
+2021-11-02 16:12:34,183 WARNING - DagFileProcessorManager (PID=184386) exited with exit code 1 - re-launching
+2021-11-02 16:12:34,187 INFO - Launched DagFileProcessorManager with pid: 184389
+2021-11-02 16:12:35,231 WARNING - DagFileProcessorManager (PID=184389) exited with exit code 1 - re-launching
+2021-11-02 16:12:35,235 INFO - Launched DagFileProcessorManager with pid: 184393
+2021-11-02 16:12:36,287 WARNING - DagFileProcessorManager (PID=184393) exited with exit code 1 - re-launching
+2021-11-02 16:12:36,292 INFO - Launched DagFileProcessorManager with pid: 184397
+2021-11-02 16:12:37,702 WARNING - DagFileProcessorManager (PID=184397) exited with exit code 1 - re-launching
+2021-11-02 16:12:37,706 INFO - Launched DagFileProcessorManager with pid: 184405
+2021-11-02 16:12:39,339 WARNING - DagFileProcessorManager (PID=184405) exited with exit code 1 - re-launching
+2021-11-02 16:12:39,343 INFO - Launched DagFileProcessorManager with pid: 184410
+2021-11-02 16:12:39,952 WARNING - DagFileProcessorManager (PID=184410) exited with exit code 1 - re-launching
+2021-11-02 16:12:39,956 INFO - Launched DagFileProcessorManager with pid: 184413
+2021-11-02 16:12:41,017 WARNING - DagFileProcessorManager (PID=184413) exited with exit code 1 - re-launching
+2021-11-02 16:12:41,022 INFO - Launched DagFileProcessorManager with pid: 184416
+2021-11-02 16:12:42,066 WARNING - DagFileProcessorManager (PID=184416) exited with exit code 1 - re-launching
+2021-11-02 16:12:42,071 INFO - Launched DagFileProcessorManager with pid: 184422
+2021-11-02 16:12:42,762 WARNING - DagFileProcessorManager (PID=184422) exited with exit code 1 - re-launching
+2021-11-02 16:12:42,766 INFO - Launched DagFileProcessorManager with pid: 184425
+2021-11-02 16:12:43,825 WARNING - DagFileProcessorManager (PID=184425) exited with exit code 1 - re-launching
+2021-11-02 16:12:43,830 INFO - Launched DagFileProcessorManager with pid: 184429
+2021-11-02 16:12:44,875 WARNING - DagFileProcessorManager (PID=184429) exited with exit code 1 - re-launching
+2021-11-02 16:12:44,879 INFO - Launched DagFileProcessorManager with pid: 184433
+2021-11-02 16:12:46,548 WARNING - DagFileProcessorManager (PID=184433) exited with exit code 1 - re-launching
+2021-11-02 16:12:46,553 INFO - Launched DagFileProcessorManager with pid: 184439
+2021-11-02 16:12:47,593 WARNING - DagFileProcessorManager (PID=184439) exited with exit code 1 - re-launching
+2021-11-02 16:12:47,598 INFO - Launched DagFileProcessorManager with pid: 184442
+2021-11-02 16:12:47,827 WARNING - DagFileProcessorManager (PID=184442) exited with exit code 1 - re-launching
+2021-11-02 16:12:47,831 INFO - Launched DagFileProcessorManager with pid: 184443
+2021-11-02 16:12:48,884 WARNING - DagFileProcessorManager (PID=184443) exited with exit code 1 - re-launching
+2021-11-02 16:12:48,890 INFO - Launched DagFileProcessorManager with pid: 184446
+2021-11-02 16:12:49,927 WARNING - DagFileProcessorManager (PID=184446) exited with exit code 1 - re-launching
+2021-11-02 16:12:49,932 INFO - Launched DagFileProcessorManager with pid: 184449
+2021-11-02 16:12:51,607 WARNING - DagFileProcessorManager (PID=184449) exited with exit code 1 - re-launching
+2021-11-02 16:12:51,611 INFO - Launched DagFileProcessorManager with pid: 184457
+2021-11-02 16:12:52,657 WARNING - DagFileProcessorManager (PID=184457) exited with exit code 1 - re-launching
+2021-11-02 16:12:52,663 INFO - Launched DagFileProcessorManager with pid: 184461
+2021-11-02 16:12:52,893 WARNING - DagFileProcessorManager (PID=184461) exited with exit code 1 - re-launching
+2021-11-02 16:12:52,897 INFO - Launched DagFileProcessorManager with pid: 184462
+2021-11-02 16:12:53,963 WARNING - DagFileProcessorManager (PID=184462) exited with exit code 1 - re-launching
+2021-11-02 16:12:53,969 INFO - Launched DagFileProcessorManager with pid: 184466

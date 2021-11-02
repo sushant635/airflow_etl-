@@ -1,0 +1,3 @@
+Unable to load the config, contains a configuration error.
+
+Error: Unable to configure handler 'processor': [Errno 13] Permission denied: 'logs'

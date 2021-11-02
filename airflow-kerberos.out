@@ -1,0 +1,1 @@
+[[34m2021-11-02 16:06:45,995[0m] {[34mkerberos.py:[0m87} INFO[0m - Re-initialising kerberos from keytab: kinit -f -a -r 3600m -k -t airflow.keytab -c /tmp/airflow_krb5_ccache airflow[0m
