@@ -4,37 +4,50 @@ from datetime import datetime,timedelta
 import pandas as pd 
 import numpy as np
 import os
+import paramiko
+import sys
 
 AIRFLOW_HOME = os.getenv('AIRFLOW_HOME')
 
 
-def data():
-    data = [['Alex',10],['Bob',12],['Clarke',13]]
-    df = pd.DataFrame(data,columns=['Name','Age'])
-    df = df.to_json()
-    print(df)
-    return df
-
-
-
-def load_excel():
+def get_file():
     try:
-        pf = pd.read_excel(AIRFLOW_HOME + '/dags/data/file.xls')
-        pf = pf.to_json()
-        print(pf)
-        return pf 
+        proxy = None
+        ssh = paramiko.SSHClient()
+        ssh.load_system_host_keys()
+        ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())
+        # ssh.connect(hostname = '192.168.20.94',username='ridhimasawant',password='Oct@2020')
+        # sftp_client = ssh.open_sftp()
+        # sftp_client.get('E:\SalesInvoiceTracking\Sales Invoice Tracking Report_2017-till date.csv','/home/user/workspace/airflow/dags/data/Sales Invoice Tracking Report_2017-till date.csv')
+        ssh.connect(hostname = '192.168.4.19',username='tinamenezes',password='apr@2020')
+        sftp_client = ssh.open_sftp()
+        sftp_client.get('C:/Users/tinamenezes/Downloads/Sales Discount Remove_30072020_30248.xlsx','/home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls')
+        print(sftp_client)
+        sftp_client.close()
+    except paramiko.AuthenticationException:
+        print('Failed to connect to %s due to wrong username/password')
+        exit(1)
+    except Exception as e:
+        print(e,'error of line number {}'.format(sys.exc_info()[-1].tb_lineno))
+
+
+def put_excel_file():
+    try:
+        proxy = None
+        ssh = paramiko.SSHClient()
+        ssh.load_system_host_keys()
+        ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())            
+        ssh.connect(hostname='192.168.4.24',username='admin',password='th0ughtSp0t')       
+        sftp_client = ssh.open_sftp()
+        sftp_client.put('/home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls','/home/admin/Sales_Files/Sales Discount Remove_30072020_30248.xls')
+        sftp_client.close()
+    except paramiko.AuthenticationException:
+        print('Failed to connect to %s due to wrong username/password')
+        exit(1)
     except Exception as e:
         print(e)
-        return e
 
-def get_listings_data():
-    try:
-        listings = pd.read_csv(AIRFLOW_HOME + '/dags/data/listing.csv')
-        listings = listings.to_json()
-        return listings
-    except Exception as e:
-        print(e)
-        return e
+
 
 
 
@@ -46,34 +59,17 @@ default_args = {
     'email_on_retry': False,
     'retries': 1,
     'retry_delay': timedelta(minutes=5),
-    # 'queue': 'bash_queue',
-    # 'pool': 'backfill',
-    # 'priority_weight': 10,
-    # 'end_date': datetime(2016, 1, 1),
-    # 'wait_for_downstream': False,
-    # 'dag': dag,
-    # 'sla': timedelta(hours=2),
-    # 'execution_timeout': timedelta(seconds=300),
-    # 'on_failure_callback': some_function,
-    # 'on_success_callback': some_other_function,
-    # 'on_retry_callback': another_function,
-    # 'sla_miss_callback': yet_another_function,
-    # 'trigger_rule': 'all_success'
+    
 }
 
 with DAG('file_upload',default_args=default_args,start_date=datetime(2021,10,1),schedule_interval="@daily",description='A simple tutorial DAG', catchup=False,tags=['example']) as dag:
-    data = PythonOperator(
-        task_id='data',
-        python_callable=data
+    get_file = PythonOperator(
+        task_id='get_file',
+        python_callable=get_file
     )
-    file_upload = PythonOperator(
-        task_id='file_upload',
-        python_callable=load_excel
+    put_excel = PythonOperator(
+        task_id='put_excel',
+        python_callable=put_excel_file
     )
-    csv_load = PythonOperator(
-        task_id='csv_load',
-        python_callable=get_listings_data
-    )
-
-    data >> file_upload >> csv_load
  
+    get_file >> put_excel

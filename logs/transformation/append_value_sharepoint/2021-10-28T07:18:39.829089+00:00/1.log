@@ -1,0 +1,24 @@
+[2021-10-29 12:48:57,057] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: transformation.append_value_sharepoint manual__2021-10-29T07:18:39.829089+00:00 [queued]>
+[2021-10-29 12:48:57,091] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: transformation.append_value_sharepoint manual__2021-10-29T07:18:39.829089+00:00 [queued]>
+[2021-10-29 12:48:57,092] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-10-29 12:48:57,093] {taskinstance.py:1242} INFO - Starting attempt 1 of 2
+[2021-10-29 12:48:57,093] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-10-29 12:48:57,130] {taskinstance.py:1262} INFO - Executing <Task(PythonOperator): append_value_sharepoint> on 2021-10-29 07:18:39.829089+00:00
+[2021-10-29 12:48:57,138] {standard_task_runner.py:52} INFO - Started process 11063 to run task
+[2021-10-29 12:48:57,149] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'transformation', 'append_value_sharepoint', 'manual__2021-10-29T07:18:39.829089+00:00', '--job-id', '44', '--raw', '--subdir', 'DAGS_FOLDER/transformation.py', '--cfg-path', '/tmp/tmpp4ekan50', '--error-file', '/tmp/tmp33j_4mnn']
+[2021-10-29 12:48:57,155] {standard_task_runner.py:77} INFO - Job 44: Subtask append_value_sharepoint
+[2021-10-29 12:48:57,231] {logging_mixin.py:109} INFO - Running <TaskInstance: transformation.append_value_sharepoint manual__2021-10-29T07:18:39.829089+00:00 [running]> on host user-Latitude-3410
+[2021-10-29 12:48:57,337] {taskinstance.py:1414} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=shindesushant818@gmail.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=transformation
+AIRFLOW_CTX_TASK_ID=append_value_sharepoint
+AIRFLOW_CTX_EXECUTION_DATE=2021-10-29T07:18:39.829089+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2021-10-29T07:18:39.829089+00:00
+[2021-10-29 12:49:03,715] {logging_mixin.py:109} INFO - Shareplum HTTP Post Failed : 423 Client Error: Locked for url: https://orienttechnologies.sharepoint.com/sites/sushant_ETL/_api/web/GetFileByServerRelativeUrl('/sites/sushant_ETL/Shared%20Documents/tranformations/tranformation.xlsx') error of line number 118
+[2021-10-29 12:49:03,717] {python.py:152} INFO - Done. Returned value was: None
+[2021-10-29 12:49:03,735] {taskinstance.py:1280} INFO - Marking task as SUCCESS. dag_id=transformation, task_id=append_value_sharepoint, execution_date=20211029T071839, start_date=20211029T071857, end_date=20211029T071903
+[2021-10-29 12:49:03,780] {local_task_job.py:154} INFO - Task exited with return code 0
+[2021-10-29 12:49:03,819] {local_task_job.py:264} INFO - 1 downstream tasks scheduled from follow-on schedule check

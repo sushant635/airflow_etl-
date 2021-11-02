@@ -1,0 +1,51 @@
+[2021-10-28 09:47:02,311] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: sharepoint.sharepoint_sales manual__2021-10-26T11:11:57.876454+00:00 [queued]>
+[2021-10-28 09:47:02,320] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: sharepoint.sharepoint_sales manual__2021-10-26T11:11:57.876454+00:00 [queued]>
+[2021-10-28 09:47:02,320] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-10-28 09:47:02,321] {taskinstance.py:1242} INFO - Starting attempt 1 of 2
+[2021-10-28 09:47:02,321] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-10-28 09:47:02,334] {taskinstance.py:1262} INFO - Executing <Task(PythonOperator): sharepoint_sales> on 2021-10-26 11:11:57.876454+00:00
+[2021-10-28 09:47:02,339] {standard_task_runner.py:52} INFO - Started process 6955 to run task
+[2021-10-28 09:47:02,342] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'sharepoint', 'sharepoint_sales', 'manual__2021-10-26T11:11:57.876454+00:00', '--job-id', '90', '--raw', '--subdir', 'DAGS_FOLDER/Sharepoint.py', '--cfg-path', '/tmp/tmprfxu4n2c', '--error-file', '/tmp/tmp0_4836nn']
+[2021-10-28 09:47:02,345] {standard_task_runner.py:77} INFO - Job 90: Subtask sharepoint_sales
+[2021-10-28 09:47:02,371] {logging_mixin.py:109} INFO - Running <TaskInstance: sharepoint.sharepoint_sales manual__2021-10-26T11:11:57.876454+00:00 [running]> on host user-Latitude-3410
+[2021-10-28 09:47:02,399] {taskinstance.py:1414} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=shindesushant818@gmail.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=sharepoint
+AIRFLOW_CTX_TASK_ID=sharepoint_sales
+AIRFLOW_CTX_EXECUTION_DATE=2021-10-26T11:11:57.876454+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2021-10-26T11:11:57.876454+00:00
+[2021-10-28 09:47:12,227] {logging_mixin.py:109} INFO -       Type           Code Sales Type  Sales Code  ... Minimum Quantity  Line Discount %  Ending Date   file_name
+0     Item  FG-0000000001   Customer       30248  ...                1                0    30/7/2020  sales.xlsx
+1     Item  FG-0000000002   Customer       30248  ...                1                0    30/7/2020  sales.xlsx
+2     Item  FG-0000000003   Customer       30248  ...                1                0    30/7/2020  sales.xlsx
+3     Item  FG-0000000004   Customer       30248  ...                1                0    30/7/2020  sales.xlsx
+4     Item  FG-0000000005   Customer       30248  ...                1                0    30/7/2020  sales.xlsx
+...    ...            ...        ...         ...  ...              ...              ...          ...         ...
+9976  Item  RX-0000004078   Customer       30264  ...                1                8    30/7/2020  sales.xlsx
+9977  Item  RX-0000004079   Customer       30264  ...                1                8    30/7/2020  sales.xlsx
+9978  Item  RX-0000004080   Customer       30264  ...                1                8    30/7/2020  sales.xlsx
+9979  Item  RX-0000004081   Customer       30264  ...                1                8    30/7/2020  sales.xlsx
+9980  Item  RX-0000004082   Customer       30264  ...                1                8    30/7/2020  sales.xlsx
+
+[9981 rows x 12 columns]
+[2021-10-28 09:47:12,228] {logging_mixin.py:109} INFO - Type                     object
+Code                     object
+Sales Type               object
+Sales Code                int64
+Starting Date            object
+Currency Code           float64
+Variant Code            float64
+Unit of Measure Code     object
+Minimum Quantity          int64
+Line Discount %           int64
+Ending Date              object
+file_name                object
+dtype: object
+[2021-10-28 09:47:17,433] {logging_mixin.py:109} INFO - ./dags/excel_file/file1.xlsx
+[2021-10-28 09:47:19,418] {python.py:152} INFO - Done. Returned value was: None
+[2021-10-28 09:47:19,423] {taskinstance.py:1280} INFO - Marking task as SUCCESS. dag_id=sharepoint, task_id=sharepoint_sales, execution_date=20211026T111157, start_date=20211028T041702, end_date=20211028T041719
+[2021-10-28 09:47:19,445] {local_task_job.py:154} INFO - Task exited with return code 0
+[2021-10-28 09:47:19,461] {local_task_job.py:264} INFO - 1 downstream tasks scheduled from follow-on schedule check

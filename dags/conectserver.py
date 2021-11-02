@@ -17,6 +17,7 @@ from office365.sharepoint.files.file import File
 from py_topping.data_connection.sharepoint import da_tran_SP365
 from requests.auth import HTTPBasicAuth
 import psycopg2
+import pymssql
 import glob
 import sys
 import csv 
@@ -55,32 +56,45 @@ def connect_sql_server():
         username = 'tinamenezes'
         password = 'apr@2020'
         port = '1433'
-        # conn = pyodbc.connect(
-        # r'DRIVER={ODBC Driver 17 for SQL Server};'
-        # r'SERVER=OTMUMNAVDEMO1;'
-        # r'DATABASE=Orient_2016;'
-        # r'UID=;ORIENT\tinamenezes'
-        # r'PWD=apr@2020'
-        # )
-        # cnxn = pyodbc.connect('DRIVER={ODBC Driver 17 for SQL Server};SERVER='+server+';DATABASE='+database+';UID='+username+';PWD='+ password)
-        # print(cnxn)
-        # conn = pyodbc.connect("DRIVER=" + driver
-        # + ";SERVER=" + server
-        # + ";DATABASE=" + database
-        # + ";UID=" + username
-        # + ";PWD=" + password )
-        # cursor = pyodbc.connect("DRIVER"=driver,"SERVER"=server,"DATABASE"=database,"UID"=username,"PWD"=mypassword, autocommit=True)
 
-        conn = pyodbc.connect('Driver={ODBC Driver 17 for SQL Server};'
-                       'Server=OTMUMNAVDEMO1,1433;'                      
-                       'Database=Orient_2016;'                       
-                       'UID=Sa;'
-                      'PWD=admin@123'
-                       'Trusted_Connection=yes;'
-                       )
+        username = 'sushantshinde@orientindia.net'
+        password = 'Welcome@9979'
+        sharepoint_url = 'https://orienttechnologies.sharepoint.com'
+        sharepoint_site = 'https://orienttechnologies.sharepoint.com/sites/sushant_ETL'
+        sharepoint_doc = 'https://orienttechnologies.sharepoint.com/:x:/s/QuikHr/EamixkIFFFBPi9m_QrWJrZEB7CqltE1eYw1Cj6sEe99Mcw?e=H6ujJW'
+        authcookie = Office365(sharepoint_url,username=username, password=password).GetCookies()
+        site = Site(sharepoint_site,version=Version.v365,authcookie=authcookie)
+        folder = site.Folder('Shared Documents/tranformations')
+        # conn = pyodbc.connect('Driver={ODBC Driver 17 for SQL Server};'
+        #                'Server=192.168.4.19,1433;'                      
+        #                'Database=Orient_2016;'                       
+        #                'UID=sa;'
+        #               'PWD=apr@2020'
+        #                'Trusted_Connection=yes;'
+        #                )
+
+        conn = pymssql.connect(server='192.168.4.19', user='sa', password='apr@2020', database='Orient_2016')
+           
         cursor = conn.cursor()
         print(cursor)
 
+
+        SQL_Query = pd.read_sql_query(
+        '''SELECT [Name],[Search Name] FROM [dbo].[Orient Demo$Customer]''', conn)
+        
+        df = pd.DataFrame(SQL_Query, columns=['Name', 'Search Name'])
+        print(len(df))
+
+        df.to_excel(AIRFLOW_HOME + '/dags/data/sql.xlsx',index=False)
+        with open(AIRFLOW_HOME+'/dags/data/sql.xlsx','rb') as output:
+            folder.upload_file(output, 'sql.xlsx')
+        f = df.drop_duplicates()
+        print(len(f))
+        print(f)
+        
+        f.to_excel(AIRFLOW_HOME + '/dags/data/sqlremoveduplicate.xlsx',index=False)
+        with open(AIRFLOW_HOME+'/dags/data/sqlremoveduplicate.xlsx','rb') as output:
+            folder.upload_file(output, 'sqlremoveduplicate.xlsx')
         # host = '192.168.4.19'
         # db_name = 'Orient_2016'
         # username ='tinamenezes'
@@ -91,7 +105,8 @@ def connect_sql_server():
         # print(conn)
     
     except Exception as e:
-        print(e)
+        print(e,'error of line number {}'.format(sys.exc_info()[-1].tb_lineno))
+
 
 def sharepoint_excel():
     try:
@@ -308,7 +323,7 @@ def remove_duplicates():
         # user = 'odoo13'
         # password = 'odoo13'
         
-        # conn = psycopg2.connect(database=database,user=user,password=password,port= '5432',host='192.168.20.25')
+        # conn = psycopg2.connecI am asking for any change need to connect SQL t(database=database,user=user,password=password,port= '5432',host='192.168.20.25')
         # print(conn)
         # cur = conn.cursor()
         # cur.execute('SELECT * FROM survey_user_input')

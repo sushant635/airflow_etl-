@@ -1,0 +1,47 @@
+[2021-10-28 09:46:25,790] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: sharepoint.sharepoint_collection manual__2021-10-26T11:11:57.876454+00:00 [queued]>
+[2021-10-28 09:46:25,800] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: sharepoint.sharepoint_collection manual__2021-10-26T11:11:57.876454+00:00 [queued]>
+[2021-10-28 09:46:25,800] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-10-28 09:46:25,800] {taskinstance.py:1242} INFO - Starting attempt 1 of 2
+[2021-10-28 09:46:25,800] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-10-28 09:46:25,810] {taskinstance.py:1262} INFO - Executing <Task(PythonOperator): sharepoint_collection> on 2021-10-26 11:11:57.876454+00:00
+[2021-10-28 09:46:25,813] {standard_task_runner.py:52} INFO - Started process 6620 to run task
+[2021-10-28 09:46:25,816] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'sharepoint', 'sharepoint_collection', 'manual__2021-10-26T11:11:57.876454+00:00', '--job-id', '86', '--raw', '--subdir', 'DAGS_FOLDER/Sharepoint.py', '--cfg-path', '/tmp/tmpsud1qkr7', '--error-file', '/tmp/tmpi9ig6pdi']
+[2021-10-28 09:46:25,819] {standard_task_runner.py:77} INFO - Job 86: Subtask sharepoint_collection
+[2021-10-28 09:46:25,846] {logging_mixin.py:109} INFO - Running <TaskInstance: sharepoint.sharepoint_collection manual__2021-10-26T11:11:57.876454+00:00 [running]> on host user-Latitude-3410
+[2021-10-28 09:46:25,875] {taskinstance.py:1414} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=shindesushant818@gmail.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=sharepoint
+AIRFLOW_CTX_TASK_ID=sharepoint_collection
+AIRFLOW_CTX_EXECUTION_DATE=2021-10-26T11:11:57.876454+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2021-10-26T11:11:57.876454+00:00
+[2021-10-28 09:46:33,298] {logging_mixin.py:109} INFO - file path file1.xls
+[2021-10-28 09:46:33,385] {logging_mixin.py:109} INFO -   first_name  startdate  makrs  file_name
+0      gopal 2021-11-12     12  file3.xls
+1     vishal 2021-11-13     12  file3.xls
+2      suraj 2021-11-13     13  file3.xls
+3    shubham 2021-11-13     89  file3.xls
+4     divesh 2021-11-12    843  file3.xls
+[2021-10-28 09:46:33,584] {logging_mixin.py:109} INFO - file path file2.xls
+[2021-10-28 09:46:33,617] {logging_mixin.py:109} INFO -   first_name  startdate  makrs  file_name
+0    sushant 2021-11-12     12  file1.xls
+1     saloni 2021-11-13     12  file1.xls
+2         om 2021-11-13     13  file1.xls
+3    shubham 2021-11-13     89  file1.xls
+4     divesh 2021-11-12    843  file1.xls
+[2021-10-28 09:46:33,770] {logging_mixin.py:109} INFO - file path file3.xls
+[2021-10-28 09:46:33,808] {logging_mixin.py:109} INFO -   first_name  startdate  makrs  file_name
+0    sushant 2021-11-12     12  file2.xls
+1    sushant 2021-11-13     12  file2.xls
+2    sushant 2021-11-13     13  file2.xls
+3    shubham 2021-11-13     89  file2.xls
+4     divesh 2021-11-12    843  file2.xls
+[2021-10-28 09:46:33,841] {logging_mixin.py:109} INFO - ./dags/excel_file/file2.xls
+[2021-10-28 09:46:33,865] {logging_mixin.py:109} INFO - ./dags/excel_file/file3.xls
+[2021-10-28 09:46:33,887] {logging_mixin.py:109} INFO - ./dags/excel_file/file1.xls
+[2021-10-28 09:46:33,897] {python.py:152} INFO - Done. Returned value was: None
+[2021-10-28 09:46:33,904] {taskinstance.py:1280} INFO - Marking task as SUCCESS. dag_id=sharepoint, task_id=sharepoint_collection, execution_date=20211026T111157, start_date=20211028T041625, end_date=20211028T041633
+[2021-10-28 09:46:33,957] {local_task_job.py:154} INFO - Task exited with return code 0
+[2021-10-28 09:46:33,998] {local_task_job.py:264} INFO - 1 downstream tasks scheduled from follow-on schedule check
