@@ -1,0 +1,1183 @@
+[2021-11-03 12:14:42,341] {processor.py:163} INFO - Started process (PID=32335) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:14:42,342] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:14:42,342] {logging_mixin.py:109} INFO - [2021-11-03 12:14:42,342] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:14:43,317] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:14:43,334] {logging_mixin.py:109} INFO - [2021-11-03 12:14:43,334] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:14:43,357] {logging_mixin.py:109} INFO - [2021-11-03 12:14:43,356] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T06:44:43.356621+00:00
+[2021-11-03 12:14:43,378] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 1.040 seconds
+[2021-11-03 12:15:13,552] {processor.py:163} INFO - Started process (PID=771) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:15:13,553] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:15:13,553] {logging_mixin.py:109} INFO - [2021-11-03 12:15:13,553] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:15:14,026] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:15:14,034] {logging_mixin.py:109} INFO - [2021-11-03 12:15:14,034] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:15:14,048] {logging_mixin.py:109} INFO - [2021-11-03 12:15:14,048] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T06:45:14.048303+00:00
+[2021-11-03 12:15:14,056] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.506 seconds
+[2021-11-03 12:15:44,437] {processor.py:163} INFO - Started process (PID=1520) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:15:44,438] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:15:44,438] {logging_mixin.py:109} INFO - [2021-11-03 12:15:44,438] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:15:45,121] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:15:45,127] {logging_mixin.py:109} INFO - [2021-11-03 12:15:45,127] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:15:45,137] {logging_mixin.py:109} INFO - [2021-11-03 12:15:45,137] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T06:45:45.137304+00:00
+[2021-11-03 12:15:45,145] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.710 seconds
+[2021-11-03 12:16:15,548] {processor.py:163} INFO - Started process (PID=2274) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:16:15,548] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:16:15,549] {logging_mixin.py:109} INFO - [2021-11-03 12:16:15,549] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:16:15,978] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:16:15,985] {logging_mixin.py:109} INFO - [2021-11-03 12:16:15,985] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:16:15,995] {logging_mixin.py:109} INFO - [2021-11-03 12:16:15,995] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T06:46:15.995195+00:00
+[2021-11-03 12:16:16,002] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.456 seconds
+[2021-11-03 12:16:46,064] {processor.py:163} INFO - Started process (PID=3134) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:16:46,072] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:16:46,073] {logging_mixin.py:109} INFO - [2021-11-03 12:16:46,073] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:16:46,501] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:16:46,509] {logging_mixin.py:109} INFO - [2021-11-03 12:16:46,509] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:16:46,521] {logging_mixin.py:109} INFO - [2021-11-03 12:16:46,521] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T06:46:46.520915+00:00
+[2021-11-03 12:16:46,528] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.466 seconds
+[2021-11-03 12:17:16,759] {processor.py:163} INFO - Started process (PID=3807) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:17:16,760] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:17:16,760] {logging_mixin.py:109} INFO - [2021-11-03 12:17:16,760] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:17:17,185] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:17:17,192] {logging_mixin.py:109} INFO - [2021-11-03 12:17:17,192] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:17:17,203] {logging_mixin.py:109} INFO - [2021-11-03 12:17:17,203] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T06:47:17.203307+00:00
+[2021-11-03 12:17:17,209] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.453 seconds
+[2021-11-03 12:17:47,293] {processor.py:163} INFO - Started process (PID=4411) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:17:47,294] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:17:47,295] {logging_mixin.py:109} INFO - [2021-11-03 12:17:47,295] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:17:47,753] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:17:47,773] {logging_mixin.py:109} INFO - [2021-11-03 12:17:47,773] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:17:47,784] {logging_mixin.py:109} INFO - [2021-11-03 12:17:47,784] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T06:47:47.783866+00:00
+[2021-11-03 12:17:47,790] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.499 seconds
+[2021-11-03 12:18:18,464] {processor.py:163} INFO - Started process (PID=5083) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:18:18,464] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:18:18,465] {logging_mixin.py:109} INFO - [2021-11-03 12:18:18,465] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:18:18,865] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:18:18,873] {logging_mixin.py:109} INFO - [2021-11-03 12:18:18,873] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:18:18,883] {logging_mixin.py:109} INFO - [2021-11-03 12:18:18,883] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T06:48:18.883341+00:00
+[2021-11-03 12:18:18,890] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.429 seconds
+[2021-11-03 12:18:48,917] {processor.py:163} INFO - Started process (PID=5610) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:18:48,917] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:18:48,918] {logging_mixin.py:109} INFO - [2021-11-03 12:18:48,918] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:18:49,341] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:18:49,349] {logging_mixin.py:109} INFO - [2021-11-03 12:18:49,349] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:18:49,359] {logging_mixin.py:109} INFO - [2021-11-03 12:18:49,359] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T06:48:49.359163+00:00
+[2021-11-03 12:18:49,366] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.451 seconds
+[2021-11-03 12:19:19,585] {processor.py:163} INFO - Started process (PID=6139) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:19:19,586] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:19:19,586] {logging_mixin.py:109} INFO - [2021-11-03 12:19:19,586] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:19:19,988] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:19:19,994] {logging_mixin.py:109} INFO - [2021-11-03 12:19:19,994] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:19:20,004] {logging_mixin.py:109} INFO - [2021-11-03 12:19:20,004] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T06:49:20.004662+00:00
+[2021-11-03 12:19:20,011] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.428 seconds
+[2021-11-03 12:19:50,195] {processor.py:163} INFO - Started process (PID=6660) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:19:50,196] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:19:50,196] {logging_mixin.py:109} INFO - [2021-11-03 12:19:50,196] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:19:50,603] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:19:50,609] {logging_mixin.py:109} INFO - [2021-11-03 12:19:50,609] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:19:50,619] {logging_mixin.py:109} INFO - [2021-11-03 12:19:50,618] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T06:49:50.618777+00:00
+[2021-11-03 12:19:50,624] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.431 seconds
+[2021-11-03 12:20:20,793] {processor.py:163} INFO - Started process (PID=7168) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:20:20,794] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:20:20,795] {logging_mixin.py:109} INFO - [2021-11-03 12:20:20,794] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:20:21,264] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:20:21,270] {logging_mixin.py:109} INFO - [2021-11-03 12:20:21,270] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:20:21,280] {logging_mixin.py:109} INFO - [2021-11-03 12:20:21,280] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T06:50:21.279858+00:00
+[2021-11-03 12:20:21,287] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.496 seconds
+[2021-11-03 12:20:51,522] {processor.py:163} INFO - Started process (PID=7706) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:20:51,523] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:20:51,524] {logging_mixin.py:109} INFO - [2021-11-03 12:20:51,523] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:20:51,954] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:20:51,962] {logging_mixin.py:109} INFO - [2021-11-03 12:20:51,962] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:20:51,976] {logging_mixin.py:109} INFO - [2021-11-03 12:20:51,976] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T06:50:51.976390+00:00
+[2021-11-03 12:20:51,984] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.464 seconds
+[2021-11-03 12:21:22,813] {processor.py:163} INFO - Started process (PID=8212) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:21:22,814] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:21:22,815] {logging_mixin.py:109} INFO - [2021-11-03 12:21:22,814] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:21:23,621] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:21:23,632] {logging_mixin.py:109} INFO - [2021-11-03 12:21:23,632] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:21:23,646] {logging_mixin.py:109} INFO - [2021-11-03 12:21:23,646] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T06:51:23.646128+00:00
+[2021-11-03 12:21:23,654] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.845 seconds
+[2021-11-03 12:21:53,687] {processor.py:163} INFO - Started process (PID=8725) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:21:53,687] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:21:53,688] {logging_mixin.py:109} INFO - [2021-11-03 12:21:53,688] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:21:54,108] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:21:54,118] {logging_mixin.py:109} INFO - [2021-11-03 12:21:54,117] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:21:54,133] {logging_mixin.py:109} INFO - [2021-11-03 12:21:54,133] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T06:51:54.133703+00:00
+[2021-11-03 12:21:54,140] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.455 seconds
+[2021-11-03 12:22:24,793] {processor.py:163} INFO - Started process (PID=9239) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:22:24,803] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:22:24,803] {logging_mixin.py:109} INFO - [2021-11-03 12:22:24,803] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:22:26,209] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:22:26,229] {logging_mixin.py:109} INFO - [2021-11-03 12:22:26,229] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:22:26,252] {logging_mixin.py:109} INFO - [2021-11-03 12:22:26,252] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T06:52:26.251596+00:00
+[2021-11-03 12:22:26,270] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 1.494 seconds
+[2021-11-03 12:22:56,640] {processor.py:163} INFO - Started process (PID=9804) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:22:56,641] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:22:56,641] {logging_mixin.py:109} INFO - [2021-11-03 12:22:56,641] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:22:57,074] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:22:57,083] {logging_mixin.py:109} INFO - [2021-11-03 12:22:57,083] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:22:57,097] {logging_mixin.py:109} INFO - [2021-11-03 12:22:57,096] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T06:52:57.096773+00:00
+[2021-11-03 12:22:57,105] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.467 seconds
+[2021-11-03 12:23:27,368] {processor.py:163} INFO - Started process (PID=10323) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:23:27,368] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:23:27,369] {logging_mixin.py:109} INFO - [2021-11-03 12:23:27,369] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:23:27,794] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:23:27,801] {logging_mixin.py:109} INFO - [2021-11-03 12:23:27,801] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:23:27,812] {logging_mixin.py:109} INFO - [2021-11-03 12:23:27,812] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T06:53:27.812549+00:00
+[2021-11-03 12:23:27,819] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.453 seconds
+[2021-11-03 12:23:58,192] {processor.py:163} INFO - Started process (PID=10845) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:23:58,193] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:23:58,193] {logging_mixin.py:109} INFO - [2021-11-03 12:23:58,193] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:23:58,569] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:23:58,578] {logging_mixin.py:109} INFO - [2021-11-03 12:23:58,578] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:23:58,591] {logging_mixin.py:109} INFO - [2021-11-03 12:23:58,591] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T06:53:58.590964+00:00
+[2021-11-03 12:23:58,601] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.411 seconds
+[2021-11-03 12:24:28,735] {processor.py:163} INFO - Started process (PID=11362) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:24:28,736] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:24:28,736] {logging_mixin.py:109} INFO - [2021-11-03 12:24:28,736] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:24:29,200] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:24:29,208] {logging_mixin.py:109} INFO - [2021-11-03 12:24:29,208] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:24:29,221] {logging_mixin.py:109} INFO - [2021-11-03 12:24:29,221] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T06:54:29.221382+00:00
+[2021-11-03 12:24:29,229] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.496 seconds
+[2021-11-03 12:24:59,618] {processor.py:163} INFO - Started process (PID=11895) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:24:59,619] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:24:59,619] {logging_mixin.py:109} INFO - [2021-11-03 12:24:59,619] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:25:00,201] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:25:00,214] {logging_mixin.py:109} INFO - [2021-11-03 12:25:00,214] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:25:00,236] {logging_mixin.py:109} INFO - [2021-11-03 12:25:00,236] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T06:55:00.235799+00:00
+[2021-11-03 12:25:00,251] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.635 seconds
+[2021-11-03 12:25:30,652] {processor.py:163} INFO - Started process (PID=12379) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:25:30,653] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:25:30,653] {logging_mixin.py:109} INFO - [2021-11-03 12:25:30,653] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:25:31,100] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:25:31,108] {logging_mixin.py:109} INFO - [2021-11-03 12:25:31,108] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:25:31,119] {logging_mixin.py:109} INFO - [2021-11-03 12:25:31,119] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T06:55:31.118882+00:00
+[2021-11-03 12:25:31,126] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.476 seconds
+[2021-11-03 12:26:01,449] {processor.py:163} INFO - Started process (PID=12854) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:26:01,449] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:26:01,450] {logging_mixin.py:109} INFO - [2021-11-03 12:26:01,450] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:26:01,899] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:26:01,907] {logging_mixin.py:109} INFO - [2021-11-03 12:26:01,906] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:26:01,917] {logging_mixin.py:109} INFO - [2021-11-03 12:26:01,917] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T06:56:01.917407+00:00
+[2021-11-03 12:26:01,924] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.477 seconds
+[2021-11-03 12:26:32,065] {processor.py:163} INFO - Started process (PID=13356) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:26:32,066] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:26:32,066] {logging_mixin.py:109} INFO - [2021-11-03 12:26:32,066] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:26:32,515] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:26:32,522] {logging_mixin.py:109} INFO - [2021-11-03 12:26:32,522] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:26:32,535] {logging_mixin.py:109} INFO - [2021-11-03 12:26:32,535] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T06:56:32.535087+00:00
+[2021-11-03 12:26:32,543] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.480 seconds
+[2021-11-03 12:27:03,082] {processor.py:163} INFO - Started process (PID=13907) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:27:03,083] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:27:03,084] {logging_mixin.py:109} INFO - [2021-11-03 12:27:03,084] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:27:03,683] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:27:03,692] {logging_mixin.py:109} INFO - [2021-11-03 12:27:03,691] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:27:03,705] {logging_mixin.py:109} INFO - [2021-11-03 12:27:03,704] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T06:57:03.704764+00:00
+[2021-11-03 12:27:03,713] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.637 seconds
+[2021-11-03 12:27:33,890] {processor.py:163} INFO - Started process (PID=14384) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:27:33,890] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:27:33,891] {logging_mixin.py:109} INFO - [2021-11-03 12:27:33,891] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:27:34,312] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:27:34,318] {logging_mixin.py:109} INFO - [2021-11-03 12:27:34,318] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:27:34,329] {logging_mixin.py:109} INFO - [2021-11-03 12:27:34,329] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T06:57:34.329659+00:00
+[2021-11-03 12:27:34,336] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.448 seconds
+[2021-11-03 12:28:04,828] {processor.py:163} INFO - Started process (PID=14887) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:28:04,830] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:28:04,835] {logging_mixin.py:109} INFO - [2021-11-03 12:28:04,834] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:28:06,119] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:28:06,164] {logging_mixin.py:109} INFO - [2021-11-03 12:28:06,163] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:28:06,205] {logging_mixin.py:109} INFO - [2021-11-03 12:28:06,205] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T06:58:06.204761+00:00
+[2021-11-03 12:28:06,239] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 1.453 seconds
+[2021-11-03 12:28:36,757] {processor.py:163} INFO - Started process (PID=15263) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:28:36,757] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:28:36,758] {logging_mixin.py:109} INFO - [2021-11-03 12:28:36,758] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:28:37,559] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:28:37,580] {logging_mixin.py:109} INFO - [2021-11-03 12:28:37,579] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:28:37,598] {logging_mixin.py:109} INFO - [2021-11-03 12:28:37,598] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T06:58:37.598114+00:00
+[2021-11-03 12:28:37,608] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.853 seconds
+[2021-11-03 12:29:08,186] {processor.py:163} INFO - Started process (PID=15712) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:29:08,188] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:29:08,190] {logging_mixin.py:109} INFO - [2021-11-03 12:29:08,189] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:29:09,602] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:29:09,649] {logging_mixin.py:109} INFO - [2021-11-03 12:29:09,649] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:29:09,708] {logging_mixin.py:109} INFO - [2021-11-03 12:29:09,708] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T06:59:09.707711+00:00
+[2021-11-03 12:29:09,730] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 1.552 seconds
+[2021-11-03 12:29:40,226] {processor.py:163} INFO - Started process (PID=16095) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:29:40,227] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:29:40,228] {logging_mixin.py:109} INFO - [2021-11-03 12:29:40,228] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:29:41,344] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:29:41,379] {logging_mixin.py:109} INFO - [2021-11-03 12:29:41,379] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:29:41,434] {logging_mixin.py:109} INFO - [2021-11-03 12:29:41,434] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T06:59:41.433830+00:00
+[2021-11-03 12:29:41,458] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 1.236 seconds
+[2021-11-03 12:30:11,672] {processor.py:163} INFO - Started process (PID=16483) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:30:11,676] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:30:11,678] {logging_mixin.py:109} INFO - [2021-11-03 12:30:11,678] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:30:12,823] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:30:12,846] {logging_mixin.py:109} INFO - [2021-11-03 12:30:12,845] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:30:12,888] {logging_mixin.py:109} INFO - [2021-11-03 12:30:12,888] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:00:12.887999+00:00
+[2021-11-03 12:30:12,924] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 1.262 seconds
+[2021-11-03 12:30:43,335] {processor.py:163} INFO - Started process (PID=16765) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:30:43,340] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:30:43,344] {logging_mixin.py:109} INFO - [2021-11-03 12:30:43,343] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:30:44,630] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:30:44,676] {logging_mixin.py:109} INFO - [2021-11-03 12:30:44,676] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:30:44,726] {logging_mixin.py:109} INFO - [2021-11-03 12:30:44,726] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:00:44.725891+00:00
+[2021-11-03 12:30:44,755] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 1.441 seconds
+[2021-11-03 12:31:14,889] {processor.py:163} INFO - Started process (PID=17085) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:31:14,890] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:31:14,891] {logging_mixin.py:109} INFO - [2021-11-03 12:31:14,891] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:31:15,424] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:31:15,436] {logging_mixin.py:109} INFO - [2021-11-03 12:31:15,436] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:31:15,453] {logging_mixin.py:109} INFO - [2021-11-03 12:31:15,453] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:01:15.453024+00:00
+[2021-11-03 12:31:15,463] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.576 seconds
+[2021-11-03 12:31:45,721] {processor.py:163} INFO - Started process (PID=17534) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:31:45,722] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:31:45,722] {logging_mixin.py:109} INFO - [2021-11-03 12:31:45,722] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:31:46,285] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:31:46,295] {logging_mixin.py:109} INFO - [2021-11-03 12:31:46,295] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:31:46,309] {logging_mixin.py:109} INFO - [2021-11-03 12:31:46,309] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:01:46.308892+00:00
+[2021-11-03 12:31:46,318] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.599 seconds
+[2021-11-03 12:32:17,121] {processor.py:163} INFO - Started process (PID=17911) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:32:17,123] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:32:17,124] {logging_mixin.py:109} INFO - [2021-11-03 12:32:17,124] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:32:18,394] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:32:18,423] {logging_mixin.py:109} INFO - [2021-11-03 12:32:18,422] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:32:18,475] {logging_mixin.py:109} INFO - [2021-11-03 12:32:18,475] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:02:18.474723+00:00
+[2021-11-03 12:32:18,524] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 1.410 seconds
+[2021-11-03 12:32:48,575] {processor.py:163} INFO - Started process (PID=18395) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:32:48,575] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:32:48,576] {logging_mixin.py:109} INFO - [2021-11-03 12:32:48,576] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:32:49,008] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:32:49,017] {logging_mixin.py:109} INFO - [2021-11-03 12:32:49,017] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:32:49,029] {logging_mixin.py:109} INFO - [2021-11-03 12:32:49,029] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:02:49.029039+00:00
+[2021-11-03 12:32:49,036] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.464 seconds
+[2021-11-03 12:33:19,250] {processor.py:163} INFO - Started process (PID=18875) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:33:19,250] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:33:19,251] {logging_mixin.py:109} INFO - [2021-11-03 12:33:19,251] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:33:19,689] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:33:19,698] {logging_mixin.py:109} INFO - [2021-11-03 12:33:19,698] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:33:19,710] {logging_mixin.py:109} INFO - [2021-11-03 12:33:19,710] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:03:19.710711+00:00
+[2021-11-03 12:33:19,717] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.469 seconds
+[2021-11-03 12:33:50,010] {processor.py:163} INFO - Started process (PID=19344) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:33:50,011] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:33:50,011] {logging_mixin.py:109} INFO - [2021-11-03 12:33:50,011] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:33:50,564] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:33:50,570] {logging_mixin.py:109} INFO - [2021-11-03 12:33:50,570] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:33:50,580] {logging_mixin.py:109} INFO - [2021-11-03 12:33:50,579] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:03:50.579796+00:00
+[2021-11-03 12:33:50,586] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.579 seconds
+[2021-11-03 12:34:20,610] {processor.py:163} INFO - Started process (PID=19821) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:34:20,611] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:34:20,612] {logging_mixin.py:109} INFO - [2021-11-03 12:34:20,611] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:34:21,065] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:34:21,072] {logging_mixin.py:109} INFO - [2021-11-03 12:34:21,072] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:34:21,081] {logging_mixin.py:109} INFO - [2021-11-03 12:34:21,081] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:04:21.081209+00:00
+[2021-11-03 12:34:21,087] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.479 seconds
+[2021-11-03 12:34:51,362] {processor.py:163} INFO - Started process (PID=20370) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:34:51,363] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:34:51,363] {logging_mixin.py:109} INFO - [2021-11-03 12:34:51,363] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:34:51,777] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:34:51,785] {logging_mixin.py:109} INFO - [2021-11-03 12:34:51,785] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:34:51,798] {logging_mixin.py:109} INFO - [2021-11-03 12:34:51,798] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:04:51.797925+00:00
+[2021-11-03 12:34:51,805] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.445 seconds
+[2021-11-03 12:35:21,965] {processor.py:163} INFO - Started process (PID=20856) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:35:21,966] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:35:21,966] {logging_mixin.py:109} INFO - [2021-11-03 12:35:21,966] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:35:22,393] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:35:22,400] {logging_mixin.py:109} INFO - [2021-11-03 12:35:22,400] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:35:22,412] {logging_mixin.py:109} INFO - [2021-11-03 12:35:22,412] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:05:22.411930+00:00
+[2021-11-03 12:35:22,420] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.458 seconds
+[2021-11-03 12:35:53,179] {processor.py:163} INFO - Started process (PID=21366) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:35:53,180] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:35:53,180] {logging_mixin.py:109} INFO - [2021-11-03 12:35:53,180] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:35:54,063] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:35:54,071] {logging_mixin.py:109} INFO - [2021-11-03 12:35:54,071] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:35:54,085] {logging_mixin.py:109} INFO - [2021-11-03 12:35:54,085] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:05:54.084819+00:00
+[2021-11-03 12:35:54,092] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.918 seconds
+[2021-11-03 12:36:24,356] {processor.py:163} INFO - Started process (PID=21857) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:36:24,356] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:36:24,357] {logging_mixin.py:109} INFO - [2021-11-03 12:36:24,357] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:36:24,777] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:36:24,784] {logging_mixin.py:109} INFO - [2021-11-03 12:36:24,784] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:36:24,796] {logging_mixin.py:109} INFO - [2021-11-03 12:36:24,796] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:06:24.796143+00:00
+[2021-11-03 12:36:24,802] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.448 seconds
+[2021-11-03 12:36:55,046] {processor.py:163} INFO - Started process (PID=22360) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:36:55,047] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:36:55,047] {logging_mixin.py:109} INFO - [2021-11-03 12:36:55,047] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:36:55,461] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:36:55,469] {logging_mixin.py:109} INFO - [2021-11-03 12:36:55,469] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:36:55,483] {logging_mixin.py:109} INFO - [2021-11-03 12:36:55,483] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:06:55.483424+00:00
+[2021-11-03 12:36:55,492] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.448 seconds
+[2021-11-03 12:37:25,775] {processor.py:163} INFO - Started process (PID=22893) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:37:25,776] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:37:25,777] {logging_mixin.py:109} INFO - [2021-11-03 12:37:25,776] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:37:26,198] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:37:26,205] {logging_mixin.py:109} INFO - [2021-11-03 12:37:26,205] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:37:26,215] {logging_mixin.py:109} INFO - [2021-11-03 12:37:26,215] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:07:26.215476+00:00
+[2021-11-03 12:37:26,222] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.450 seconds
+[2021-11-03 12:37:56,471] {processor.py:163} INFO - Started process (PID=23404) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:37:56,472] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:37:56,472] {logging_mixin.py:109} INFO - [2021-11-03 12:37:56,472] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:37:56,874] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:37:56,882] {logging_mixin.py:109} INFO - [2021-11-03 12:37:56,882] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:37:56,893] {logging_mixin.py:109} INFO - [2021-11-03 12:37:56,893] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:07:56.893332+00:00
+[2021-11-03 12:37:56,901] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.431 seconds
+[2021-11-03 12:38:26,942] {processor.py:163} INFO - Started process (PID=23926) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:38:26,943] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:38:26,943] {logging_mixin.py:109} INFO - [2021-11-03 12:38:26,943] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:38:27,359] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:38:27,368] {logging_mixin.py:109} INFO - [2021-11-03 12:38:27,368] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:38:27,388] {logging_mixin.py:109} INFO - [2021-11-03 12:38:27,388] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:08:27.387877+00:00
+[2021-11-03 12:38:27,400] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.460 seconds
+[2021-11-03 12:38:57,785] {processor.py:163} INFO - Started process (PID=24472) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:38:57,785] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:38:57,786] {logging_mixin.py:109} INFO - [2021-11-03 12:38:57,786] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:38:58,199] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:38:58,205] {logging_mixin.py:109} INFO - [2021-11-03 12:38:58,205] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:38:58,216] {logging_mixin.py:109} INFO - [2021-11-03 12:38:58,215] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:08:58.215781+00:00
+[2021-11-03 12:38:58,222] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.440 seconds
+[2021-11-03 12:39:28,666] {processor.py:163} INFO - Started process (PID=25010) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:39:28,672] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:39:28,673] {logging_mixin.py:109} INFO - [2021-11-03 12:39:28,673] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:39:29,083] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:39:29,091] {logging_mixin.py:109} INFO - [2021-11-03 12:39:29,091] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:39:29,105] {logging_mixin.py:109} INFO - [2021-11-03 12:39:29,104] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:09:29.104718+00:00
+[2021-11-03 12:39:29,112] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.449 seconds
+[2021-11-03 12:39:59,396] {processor.py:163} INFO - Started process (PID=25568) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:39:59,396] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:39:59,397] {logging_mixin.py:109} INFO - [2021-11-03 12:39:59,396] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:39:59,898] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:39:59,904] {logging_mixin.py:109} INFO - [2021-11-03 12:39:59,904] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:39:59,914] {logging_mixin.py:109} INFO - [2021-11-03 12:39:59,914] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:09:59.913954+00:00
+[2021-11-03 12:39:59,920] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.526 seconds
+[2021-11-03 12:40:29,979] {processor.py:163} INFO - Started process (PID=26122) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:40:29,980] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:40:29,980] {logging_mixin.py:109} INFO - [2021-11-03 12:40:29,980] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:40:30,405] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:40:30,411] {logging_mixin.py:109} INFO - [2021-11-03 12:40:30,411] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:40:30,423] {logging_mixin.py:109} INFO - [2021-11-03 12:40:30,422] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:10:30.422733+00:00
+[2021-11-03 12:40:30,430] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.453 seconds
+[2021-11-03 12:41:00,454] {processor.py:163} INFO - Started process (PID=26652) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:41:00,455] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:41:00,455] {logging_mixin.py:109} INFO - [2021-11-03 12:41:00,455] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:41:00,833] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:41:00,839] {logging_mixin.py:109} INFO - [2021-11-03 12:41:00,839] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:41:00,849] {logging_mixin.py:109} INFO - [2021-11-03 12:41:00,848] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:11:00.848813+00:00
+[2021-11-03 12:41:00,855] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.404 seconds
+[2021-11-03 12:41:31,048] {processor.py:163} INFO - Started process (PID=27193) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:41:31,049] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:41:31,049] {logging_mixin.py:109} INFO - [2021-11-03 12:41:31,049] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:41:31,451] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:41:31,459] {logging_mixin.py:109} INFO - [2021-11-03 12:41:31,459] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:41:31,470] {logging_mixin.py:109} INFO - [2021-11-03 12:41:31,470] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:11:31.470077+00:00
+[2021-11-03 12:41:31,478] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.432 seconds
+[2021-11-03 12:42:01,643] {processor.py:163} INFO - Started process (PID=27725) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:42:01,644] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:42:01,644] {logging_mixin.py:109} INFO - [2021-11-03 12:42:01,644] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:42:02,054] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:42:02,063] {logging_mixin.py:109} INFO - [2021-11-03 12:42:02,063] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:42:02,076] {logging_mixin.py:109} INFO - [2021-11-03 12:42:02,075] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:12:02.075784+00:00
+[2021-11-03 12:42:02,083] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.443 seconds
+[2021-11-03 12:42:32,296] {processor.py:163} INFO - Started process (PID=28311) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:42:32,297] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:42:32,297] {logging_mixin.py:109} INFO - [2021-11-03 12:42:32,297] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:42:32,704] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:42:32,711] {logging_mixin.py:109} INFO - [2021-11-03 12:42:32,711] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:42:32,721] {logging_mixin.py:109} INFO - [2021-11-03 12:42:32,721] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:12:32.721100+00:00
+[2021-11-03 12:42:32,729] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.435 seconds
+[2021-11-03 12:43:02,946] {processor.py:163} INFO - Started process (PID=28844) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:43:02,947] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:43:02,947] {logging_mixin.py:109} INFO - [2021-11-03 12:43:02,947] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:43:03,356] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:43:03,363] {logging_mixin.py:109} INFO - [2021-11-03 12:43:03,362] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:43:03,372] {logging_mixin.py:109} INFO - [2021-11-03 12:43:03,372] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:13:03.372429+00:00
+[2021-11-03 12:43:03,379] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.435 seconds
+[2021-11-03 12:43:33,493] {processor.py:163} INFO - Started process (PID=29398) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:43:33,494] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:43:33,495] {logging_mixin.py:109} INFO - [2021-11-03 12:43:33,495] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:43:33,908] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:43:33,914] {logging_mixin.py:109} INFO - [2021-11-03 12:43:33,914] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:43:33,924] {logging_mixin.py:109} INFO - [2021-11-03 12:43:33,924] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:13:33.924558+00:00
+[2021-11-03 12:43:33,932] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.441 seconds
+[2021-11-03 12:44:04,045] {processor.py:163} INFO - Started process (PID=29931) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:44:04,046] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:44:04,047] {logging_mixin.py:109} INFO - [2021-11-03 12:44:04,047] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:44:04,459] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:44:04,467] {logging_mixin.py:109} INFO - [2021-11-03 12:44:04,467] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:44:04,477] {logging_mixin.py:109} INFO - [2021-11-03 12:44:04,477] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:14:04.477131+00:00
+[2021-11-03 12:44:04,484] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.440 seconds
+[2021-11-03 12:44:34,591] {processor.py:163} INFO - Started process (PID=30541) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:44:34,591] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:44:34,592] {logging_mixin.py:109} INFO - [2021-11-03 12:44:34,592] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:44:35,051] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:44:35,058] {logging_mixin.py:109} INFO - [2021-11-03 12:44:35,058] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:44:35,070] {logging_mixin.py:109} INFO - [2021-11-03 12:44:35,070] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:14:35.070509+00:00
+[2021-11-03 12:44:35,077] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.489 seconds
+[2021-11-03 12:45:05,239] {processor.py:163} INFO - Started process (PID=31092) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:45:05,239] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:45:05,240] {logging_mixin.py:109} INFO - [2021-11-03 12:45:05,240] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:45:05,655] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:45:05,662] {logging_mixin.py:109} INFO - [2021-11-03 12:45:05,662] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:45:05,673] {logging_mixin.py:109} INFO - [2021-11-03 12:45:05,673] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:15:05.673475+00:00
+[2021-11-03 12:45:05,681] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.444 seconds
+[2021-11-03 12:45:35,801] {processor.py:163} INFO - Started process (PID=31575) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:45:35,802] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:45:35,802] {logging_mixin.py:109} INFO - [2021-11-03 12:45:35,802] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:45:36,238] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:45:36,245] {logging_mixin.py:109} INFO - [2021-11-03 12:45:36,245] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:45:36,255] {logging_mixin.py:109} INFO - [2021-11-03 12:45:36,255] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:15:36.255505+00:00
+[2021-11-03 12:45:36,262] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.463 seconds
+[2021-11-03 12:46:06,471] {processor.py:163} INFO - Started process (PID=32048) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:46:06,472] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:46:06,473] {logging_mixin.py:109} INFO - [2021-11-03 12:46:06,473] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:46:06,921] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:46:06,927] {logging_mixin.py:109} INFO - [2021-11-03 12:46:06,927] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:46:06,937] {logging_mixin.py:109} INFO - [2021-11-03 12:46:06,937] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:16:06.937564+00:00
+[2021-11-03 12:46:06,946] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.477 seconds
+[2021-11-03 12:46:37,004] {processor.py:163} INFO - Started process (PID=32555) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:46:37,005] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:46:37,005] {logging_mixin.py:109} INFO - [2021-11-03 12:46:37,005] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:46:37,510] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:46:37,519] {logging_mixin.py:109} INFO - [2021-11-03 12:46:37,518] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:46:37,529] {logging_mixin.py:109} INFO - [2021-11-03 12:46:37,529] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:16:37.529354+00:00
+[2021-11-03 12:46:37,537] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.538 seconds
+[2021-11-03 12:47:07,778] {processor.py:163} INFO - Started process (PID=607) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:47:07,779] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:47:07,779] {logging_mixin.py:109} INFO - [2021-11-03 12:47:07,779] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:47:08,222] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:47:08,229] {logging_mixin.py:109} INFO - [2021-11-03 12:47:08,229] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:47:08,240] {logging_mixin.py:109} INFO - [2021-11-03 12:47:08,240] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:17:08.240162+00:00
+[2021-11-03 12:47:08,249] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.473 seconds
+[2021-11-03 12:47:38,280] {processor.py:163} INFO - Started process (PID=1201) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:47:38,281] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:47:38,281] {logging_mixin.py:109} INFO - [2021-11-03 12:47:38,281] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:47:38,685] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:47:38,694] {logging_mixin.py:109} INFO - [2021-11-03 12:47:38,693] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:47:38,705] {logging_mixin.py:109} INFO - [2021-11-03 12:47:38,705] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:17:38.705538+00:00
+[2021-11-03 12:47:38,715] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.438 seconds
+[2021-11-03 12:48:08,764] {processor.py:163} INFO - Started process (PID=1967) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:48:08,765] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:48:08,765] {logging_mixin.py:109} INFO - [2021-11-03 12:48:08,765] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:48:09,251] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:48:09,258] {logging_mixin.py:109} INFO - [2021-11-03 12:48:09,258] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:48:09,269] {logging_mixin.py:109} INFO - [2021-11-03 12:48:09,269] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:18:09.268988+00:00
+[2021-11-03 12:48:09,275] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.513 seconds
+[2021-11-03 12:48:39,367] {processor.py:163} INFO - Started process (PID=2686) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:48:39,367] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:48:39,368] {logging_mixin.py:109} INFO - [2021-11-03 12:48:39,368] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:48:39,778] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:48:39,784] {logging_mixin.py:109} INFO - [2021-11-03 12:48:39,784] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:48:39,795] {logging_mixin.py:109} INFO - [2021-11-03 12:48:39,795] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:18:39.795074+00:00
+[2021-11-03 12:48:39,802] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.438 seconds
+[2021-11-03 12:49:10,124] {processor.py:163} INFO - Started process (PID=3598) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:49:10,125] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:49:10,125] {logging_mixin.py:109} INFO - [2021-11-03 12:49:10,125] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:49:10,495] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:49:10,502] {logging_mixin.py:109} INFO - [2021-11-03 12:49:10,502] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:49:10,515] {logging_mixin.py:109} INFO - [2021-11-03 12:49:10,515] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:19:10.515578+00:00
+[2021-11-03 12:49:10,523] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.400 seconds
+[2021-11-03 12:49:40,863] {processor.py:163} INFO - Started process (PID=4220) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:49:40,864] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:49:40,864] {logging_mixin.py:109} INFO - [2021-11-03 12:49:40,864] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:49:41,335] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:49:41,343] {logging_mixin.py:109} INFO - [2021-11-03 12:49:41,343] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:49:41,354] {logging_mixin.py:109} INFO - [2021-11-03 12:49:41,354] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:19:41.353921+00:00
+[2021-11-03 12:49:41,361] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.500 seconds
+[2021-11-03 12:50:11,538] {processor.py:163} INFO - Started process (PID=4928) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:50:11,538] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:50:11,539] {logging_mixin.py:109} INFO - [2021-11-03 12:50:11,539] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:50:11,969] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:50:11,976] {logging_mixin.py:109} INFO - [2021-11-03 12:50:11,976] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:50:11,988] {logging_mixin.py:109} INFO - [2021-11-03 12:50:11,988] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:20:11.988081+00:00
+[2021-11-03 12:50:11,995] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.460 seconds
+[2021-11-03 12:50:42,168] {processor.py:163} INFO - Started process (PID=5520) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:50:42,168] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:50:42,169] {logging_mixin.py:109} INFO - [2021-11-03 12:50:42,169] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:50:42,587] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:50:42,593] {logging_mixin.py:109} INFO - [2021-11-03 12:50:42,593] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:50:42,603] {logging_mixin.py:109} INFO - [2021-11-03 12:50:42,603] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:20:42.602928+00:00
+[2021-11-03 12:50:42,609] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.443 seconds
+[2021-11-03 12:51:12,917] {processor.py:163} INFO - Started process (PID=6009) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:51:12,918] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:51:12,918] {logging_mixin.py:109} INFO - [2021-11-03 12:51:12,918] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:51:13,395] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:51:13,405] {logging_mixin.py:109} INFO - [2021-11-03 12:51:13,405] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:51:13,434] {logging_mixin.py:109} INFO - [2021-11-03 12:51:13,434] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:21:13.434123+00:00
+[2021-11-03 12:51:13,448] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.534 seconds
+[2021-11-03 12:51:44,006] {processor.py:163} INFO - Started process (PID=6597) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:51:44,007] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:51:44,008] {logging_mixin.py:109} INFO - [2021-11-03 12:51:44,007] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:51:44,733] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:51:44,754] {logging_mixin.py:109} INFO - [2021-11-03 12:51:44,754] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:51:44,782] {logging_mixin.py:109} INFO - [2021-11-03 12:51:44,781] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:21:44.780322+00:00
+[2021-11-03 12:51:44,807] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.804 seconds
+[2021-11-03 12:52:14,961] {processor.py:163} INFO - Started process (PID=6987) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:52:14,962] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:52:14,962] {logging_mixin.py:109} INFO - [2021-11-03 12:52:14,962] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:52:15,427] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:52:15,433] {logging_mixin.py:109} INFO - [2021-11-03 12:52:15,433] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:52:15,446] {logging_mixin.py:109} INFO - [2021-11-03 12:52:15,446] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:22:15.446316+00:00
+[2021-11-03 12:52:15,456] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.499 seconds
+[2021-11-03 12:52:45,654] {processor.py:163} INFO - Started process (PID=7528) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:52:45,655] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:52:45,656] {logging_mixin.py:109} INFO - [2021-11-03 12:52:45,656] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:52:46,418] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:52:46,426] {logging_mixin.py:109} INFO - [2021-11-03 12:52:46,426] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:52:46,440] {logging_mixin.py:109} INFO - [2021-11-03 12:52:46,440] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:22:46.439946+00:00
+[2021-11-03 12:52:46,449] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.804 seconds
+[2021-11-03 12:53:16,822] {processor.py:163} INFO - Started process (PID=8012) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:53:16,823] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:53:16,824] {logging_mixin.py:109} INFO - [2021-11-03 12:53:16,823] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:53:17,218] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:53:17,225] {logging_mixin.py:109} INFO - [2021-11-03 12:53:17,225] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:53:17,235] {logging_mixin.py:109} INFO - [2021-11-03 12:53:17,235] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:23:17.235302+00:00
+[2021-11-03 12:53:17,242] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.422 seconds
+[2021-11-03 12:53:47,619] {processor.py:163} INFO - Started process (PID=8495) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:53:47,620] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:53:47,620] {logging_mixin.py:109} INFO - [2021-11-03 12:53:47,620] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:53:48,069] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:53:48,077] {logging_mixin.py:109} INFO - [2021-11-03 12:53:48,077] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:53:48,088] {logging_mixin.py:109} INFO - [2021-11-03 12:53:48,088] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:23:48.088538+00:00
+[2021-11-03 12:53:48,095] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.479 seconds
+[2021-11-03 12:54:18,411] {processor.py:163} INFO - Started process (PID=8987) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:54:18,411] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:54:18,412] {logging_mixin.py:109} INFO - [2021-11-03 12:54:18,412] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:54:18,803] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:54:18,811] {logging_mixin.py:109} INFO - [2021-11-03 12:54:18,811] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:54:18,822] {logging_mixin.py:109} INFO - [2021-11-03 12:54:18,822] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:24:18.822258+00:00
+[2021-11-03 12:54:18,829] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.420 seconds
+[2021-11-03 12:54:49,018] {processor.py:163} INFO - Started process (PID=9539) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:54:49,019] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:54:49,020] {logging_mixin.py:109} INFO - [2021-11-03 12:54:49,020] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:54:49,474] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:54:49,483] {logging_mixin.py:109} INFO - [2021-11-03 12:54:49,482] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:54:49,494] {logging_mixin.py:109} INFO - [2021-11-03 12:54:49,494] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:24:49.494043+00:00
+[2021-11-03 12:54:49,502] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.488 seconds
+[2021-11-03 12:55:19,771] {processor.py:163} INFO - Started process (PID=10061) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:55:19,772] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:55:19,772] {logging_mixin.py:109} INFO - [2021-11-03 12:55:19,772] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:55:20,275] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:55:20,283] {logging_mixin.py:109} INFO - [2021-11-03 12:55:20,283] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:55:20,296] {logging_mixin.py:109} INFO - [2021-11-03 12:55:20,296] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:25:20.296352+00:00
+[2021-11-03 12:55:20,307] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.538 seconds
+[2021-11-03 12:55:51,579] {processor.py:163} INFO - Started process (PID=10514) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:55:51,582] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:55:51,584] {logging_mixin.py:109} INFO - [2021-11-03 12:55:51,583] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:55:52,787] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:55:52,814] {logging_mixin.py:109} INFO - [2021-11-03 12:55:52,813] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:55:52,862] {logging_mixin.py:109} INFO - [2021-11-03 12:55:52,861] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:25:52.861566+00:00
+[2021-11-03 12:55:52,895] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 1.325 seconds
+[2021-11-03 12:56:22,988] {processor.py:163} INFO - Started process (PID=10821) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:56:22,989] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:56:22,990] {logging_mixin.py:109} INFO - [2021-11-03 12:56:22,990] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:56:23,561] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:56:23,579] {logging_mixin.py:109} INFO - [2021-11-03 12:56:23,579] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:56:23,594] {logging_mixin.py:109} INFO - [2021-11-03 12:56:23,594] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:26:23.594368+00:00
+[2021-11-03 12:56:23,604] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.619 seconds
+[2021-11-03 12:56:53,920] {processor.py:163} INFO - Started process (PID=11250) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:56:53,923] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:56:53,924] {logging_mixin.py:109} INFO - [2021-11-03 12:56:53,924] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:56:54,722] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:56:54,731] {logging_mixin.py:109} INFO - [2021-11-03 12:56:54,731] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:56:54,747] {logging_mixin.py:109} INFO - [2021-11-03 12:56:54,747] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:26:54.746802+00:00
+[2021-11-03 12:56:54,761] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.851 seconds
+[2021-11-03 12:57:24,925] {processor.py:163} INFO - Started process (PID=11805) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:57:24,926] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:57:24,926] {logging_mixin.py:109} INFO - [2021-11-03 12:57:24,926] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:57:25,336] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:57:25,345] {logging_mixin.py:109} INFO - [2021-11-03 12:57:25,345] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:57:25,358] {logging_mixin.py:109} INFO - [2021-11-03 12:57:25,358] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:27:25.358461+00:00
+[2021-11-03 12:57:25,370] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.447 seconds
+[2021-11-03 12:57:55,543] {processor.py:163} INFO - Started process (PID=12309) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:57:55,544] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:57:55,544] {logging_mixin.py:109} INFO - [2021-11-03 12:57:55,544] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:57:56,227] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:57:56,240] {logging_mixin.py:109} INFO - [2021-11-03 12:57:56,239] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:57:56,272] {logging_mixin.py:109} INFO - [2021-11-03 12:57:56,272] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:27:56.272010+00:00
+[2021-11-03 12:57:56,289] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.748 seconds
+[2021-11-03 12:58:26,476] {processor.py:163} INFO - Started process (PID=12765) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:58:26,477] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:58:26,478] {logging_mixin.py:109} INFO - [2021-11-03 12:58:26,478] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:58:27,312] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:58:27,327] {logging_mixin.py:109} INFO - [2021-11-03 12:58:27,327] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:58:27,356] {logging_mixin.py:109} INFO - [2021-11-03 12:58:27,356] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:28:27.356203+00:00
+[2021-11-03 12:58:27,367] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.895 seconds
+[2021-11-03 12:58:57,587] {processor.py:163} INFO - Started process (PID=13204) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:58:57,588] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:58:57,588] {logging_mixin.py:109} INFO - [2021-11-03 12:58:57,588] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:58:57,953] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:58:57,960] {logging_mixin.py:109} INFO - [2021-11-03 12:58:57,960] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:58:57,972] {logging_mixin.py:109} INFO - [2021-11-03 12:58:57,971] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:28:57.971762+00:00
+[2021-11-03 12:58:57,979] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.394 seconds
+[2021-11-03 12:59:28,119] {processor.py:163} INFO - Started process (PID=13775) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:59:28,120] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:59:28,121] {logging_mixin.py:109} INFO - [2021-11-03 12:59:28,120] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:59:28,504] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:59:28,512] {logging_mixin.py:109} INFO - [2021-11-03 12:59:28,512] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 12:59:28,526] {logging_mixin.py:109} INFO - [2021-11-03 12:59:28,526] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:29:28.526231+00:00
+[2021-11-03 12:59:28,534] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.418 seconds
+[2021-11-03 12:59:59,397] {processor.py:163} INFO - Started process (PID=14128) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 12:59:59,398] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 12:59:59,403] {logging_mixin.py:109} INFO - [2021-11-03 12:59:59,403] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:00:00,235] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:00:00,261] {logging_mixin.py:109} INFO - [2021-11-03 13:00:00,261] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 13:00:00,293] {logging_mixin.py:109} INFO - [2021-11-03 13:00:00,292] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:30:00.292646+00:00
+[2021-11-03 13:00:00,314] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.920 seconds
+[2021-11-03 13:00:30,534] {processor.py:163} INFO - Started process (PID=14578) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:00:30,535] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 13:00:30,535] {logging_mixin.py:109} INFO - [2021-11-03 13:00:30,535] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:00:30,885] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:00:30,894] {logging_mixin.py:109} INFO - [2021-11-03 13:00:30,893] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 13:00:30,907] {logging_mixin.py:109} INFO - [2021-11-03 13:00:30,907] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:30:30.907047+00:00
+[2021-11-03 13:00:30,915] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.383 seconds
+[2021-11-03 13:01:01,138] {processor.py:163} INFO - Started process (PID=15130) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:01:01,138] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 13:01:01,139] {logging_mixin.py:109} INFO - [2021-11-03 13:01:01,139] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:01:01,504] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:01:01,512] {logging_mixin.py:109} INFO - [2021-11-03 13:01:01,512] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 13:01:01,528] {logging_mixin.py:109} INFO - [2021-11-03 13:01:01,528] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:31:01.527832+00:00
+[2021-11-03 13:01:01,536] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.400 seconds
+[2021-11-03 13:01:31,841] {processor.py:163} INFO - Started process (PID=15701) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:01:31,841] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 13:01:31,842] {logging_mixin.py:109} INFO - [2021-11-03 13:01:31,842] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:01:32,194] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:01:32,202] {logging_mixin.py:109} INFO - [2021-11-03 13:01:32,202] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 13:01:32,214] {logging_mixin.py:109} INFO - [2021-11-03 13:01:32,214] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:31:32.214252+00:00
+[2021-11-03 13:01:32,222] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.383 seconds
+[2021-11-03 13:02:02,380] {processor.py:163} INFO - Started process (PID=16274) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:02:02,381] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 13:02:02,381] {logging_mixin.py:109} INFO - [2021-11-03 13:02:02,381] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:02:02,745] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:02:02,752] {logging_mixin.py:109} INFO - [2021-11-03 13:02:02,752] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 13:02:02,842] {logging_mixin.py:109} INFO - [2021-11-03 13:02:02,842] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:32:02.842466+00:00
+[2021-11-03 13:02:02,851] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.473 seconds
+[2021-11-03 13:02:32,997] {processor.py:163} INFO - Started process (PID=16815) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:02:32,998] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 13:02:32,998] {logging_mixin.py:109} INFO - [2021-11-03 13:02:32,998] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:02:33,403] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:02:33,412] {logging_mixin.py:109} INFO - [2021-11-03 13:02:33,412] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 13:02:33,506] {logging_mixin.py:109} INFO - [2021-11-03 13:02:33,506] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:32:33.506497+00:00
+[2021-11-03 13:02:33,515] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.520 seconds
+[2021-11-03 13:03:03,554] {processor.py:163} INFO - Started process (PID=17369) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:03:03,555] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 13:03:03,555] {logging_mixin.py:109} INFO - [2021-11-03 13:03:03,555] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:03:03,910] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:03:03,917] {logging_mixin.py:109} INFO - [2021-11-03 13:03:03,917] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 13:03:04,011] {logging_mixin.py:109} INFO - [2021-11-03 13:03:04,011] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:33:04.011401+00:00
+[2021-11-03 13:03:04,019] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.467 seconds
+[2021-11-03 13:03:34,099] {processor.py:163} INFO - Started process (PID=17963) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:03:34,100] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 13:03:34,100] {logging_mixin.py:109} INFO - [2021-11-03 13:03:34,100] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:03:34,446] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:03:34,454] {logging_mixin.py:109} INFO - [2021-11-03 13:03:34,454] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 13:03:34,541] {logging_mixin.py:109} INFO - [2021-11-03 13:03:34,541] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:33:34.540795+00:00
+[2021-11-03 13:03:34,550] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.453 seconds
+[2021-11-03 13:04:04,779] {processor.py:163} INFO - Started process (PID=18527) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:04:04,780] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 13:04:04,781] {logging_mixin.py:109} INFO - [2021-11-03 13:04:04,781] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:04:05,153] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:04:05,161] {logging_mixin.py:109} INFO - [2021-11-03 13:04:05,161] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 13:04:05,258] {logging_mixin.py:109} INFO - [2021-11-03 13:04:05,258] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:34:05.258640+00:00
+[2021-11-03 13:04:05,268] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.490 seconds
+[2021-11-03 13:04:35,579] {processor.py:163} INFO - Started process (PID=19088) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:04:35,580] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 13:04:35,581] {logging_mixin.py:109} INFO - [2021-11-03 13:04:35,581] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:04:36,033] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:04:36,040] {logging_mixin.py:109} INFO - [2021-11-03 13:04:36,040] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 13:04:36,118] {logging_mixin.py:109} INFO - [2021-11-03 13:04:36,118] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:34:36.118360+00:00
+[2021-11-03 13:04:36,125] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.549 seconds
+[2021-11-03 13:05:06,461] {processor.py:163} INFO - Started process (PID=19564) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:05:06,462] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 13:05:06,462] {logging_mixin.py:109} INFO - [2021-11-03 13:05:06,462] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:05:07,035] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:05:07,043] {logging_mixin.py:109} INFO - [2021-11-03 13:05:07,043] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 13:05:07,063] {logging_mixin.py:109} INFO - [2021-11-03 13:05:07,063] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:35:07.062904+00:00
+[2021-11-03 13:05:07,071] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.613 seconds
+[2021-11-03 13:05:37,972] {processor.py:163} INFO - Started process (PID=20011) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:05:37,973] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 13:05:37,974] {logging_mixin.py:109} INFO - [2021-11-03 13:05:37,973] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:05:38,651] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:05:38,666] {logging_mixin.py:109} INFO - [2021-11-03 13:05:38,666] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 13:05:38,685] {logging_mixin.py:109} INFO - [2021-11-03 13:05:38,685] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:35:38.685506+00:00
+[2021-11-03 13:05:38,700] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.732 seconds
+[2021-11-03 13:06:08,907] {processor.py:163} INFO - Started process (PID=20394) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:06:08,907] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 13:06:08,908] {logging_mixin.py:109} INFO - [2021-11-03 13:06:08,908] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:06:09,437] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:06:09,445] {logging_mixin.py:109} INFO - [2021-11-03 13:06:09,445] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 13:06:09,458] {logging_mixin.py:109} INFO - [2021-11-03 13:06:09,458] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:36:09.458396+00:00
+[2021-11-03 13:06:09,467] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.562 seconds
+[2021-11-03 13:06:39,532] {processor.py:163} INFO - Started process (PID=20880) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:06:39,533] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 13:06:39,533] {logging_mixin.py:109} INFO - [2021-11-03 13:06:39,533] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:06:39,963] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:06:39,970] {logging_mixin.py:109} INFO - [2021-11-03 13:06:39,969] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 13:06:39,979] {logging_mixin.py:109} INFO - [2021-11-03 13:06:39,979] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:36:39.979447+00:00
+[2021-11-03 13:06:39,985] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.455 seconds
+[2021-11-03 13:07:10,067] {processor.py:163} INFO - Started process (PID=21473) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:07:10,068] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 13:07:10,069] {logging_mixin.py:109} INFO - [2021-11-03 13:07:10,068] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:07:10,498] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:07:10,504] {logging_mixin.py:109} INFO - [2021-11-03 13:07:10,504] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 13:07:10,513] {logging_mixin.py:109} INFO - [2021-11-03 13:07:10,513] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:37:10.513729+00:00
+[2021-11-03 13:07:10,519] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.454 seconds
+[2021-11-03 13:07:41,069] {processor.py:163} INFO - Started process (PID=22083) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:07:41,070] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 13:07:41,070] {logging_mixin.py:109} INFO - [2021-11-03 13:07:41,070] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:07:41,664] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:07:41,673] {logging_mixin.py:109} INFO - [2021-11-03 13:07:41,673] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 13:07:41,686] {logging_mixin.py:109} INFO - [2021-11-03 13:07:41,686] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:37:41.686574+00:00
+[2021-11-03 13:07:41,694] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.628 seconds
+[2021-11-03 13:08:11,851] {processor.py:163} INFO - Started process (PID=22476) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:08:11,852] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 13:08:11,853] {logging_mixin.py:109} INFO - [2021-11-03 13:08:11,853] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:08:12,634] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:08:12,661] {logging_mixin.py:109} INFO - [2021-11-03 13:08:12,661] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 13:08:12,701] {logging_mixin.py:109} INFO - [2021-11-03 13:08:12,700] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:38:12.700066+00:00
+[2021-11-03 13:08:12,734] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.885 seconds
+[2021-11-03 13:08:45,162] {processor.py:163} INFO - Started process (PID=22728) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:08:45,166] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 13:08:45,167] {logging_mixin.py:109} INFO - [2021-11-03 13:08:45,167] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:08:47,278] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:08:47,311] {logging_mixin.py:109} INFO - [2021-11-03 13:08:47,311] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 13:08:47,368] {logging_mixin.py:109} INFO - [2021-11-03 13:08:47,368] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:38:47.368069+00:00
+[2021-11-03 13:08:47,400] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 2.248 seconds
+[2021-11-03 13:09:17,515] {processor.py:163} INFO - Started process (PID=23004) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:09:17,516] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 13:09:17,517] {logging_mixin.py:109} INFO - [2021-11-03 13:09:17,517] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:09:18,640] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:09:18,657] {logging_mixin.py:109} INFO - [2021-11-03 13:09:18,657] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 13:09:18,697] {logging_mixin.py:109} INFO - [2021-11-03 13:09:18,697] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:39:18.696981+00:00
+[2021-11-03 13:09:18,709] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 1.207 seconds
+[2021-11-03 13:09:49,039] {processor.py:163} INFO - Started process (PID=23520) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:09:49,040] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 13:09:49,041] {logging_mixin.py:109} INFO - [2021-11-03 13:09:49,041] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:09:49,490] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:09:49,500] {logging_mixin.py:109} INFO - [2021-11-03 13:09:49,500] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 13:09:49,513] {logging_mixin.py:109} INFO - [2021-11-03 13:09:49,513] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:39:49.513232+00:00
+[2021-11-03 13:09:49,521] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.484 seconds
+[2021-11-03 13:10:19,778] {processor.py:163} INFO - Started process (PID=24019) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:10:19,779] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 13:10:19,780] {logging_mixin.py:109} INFO - [2021-11-03 13:10:19,779] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:10:20,207] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 13:10:20,218] {logging_mixin.py:109} INFO - [2021-11-03 13:10:20,218] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 13:10:20,231] {logging_mixin.py:109} INFO - [2021-11-03 13:10:20,231] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T07:40:20.231591+00:00
+[2021-11-03 13:10:20,240] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.464 seconds
+[2021-11-03 14:41:15,981] {processor.py:163} INFO - Started process (PID=24893) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:41:15,992] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 14:41:15,993] {logging_mixin.py:109} INFO - [2021-11-03 14:41:15,993] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:41:17,063] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:41:17,093] {logging_mixin.py:109} INFO - [2021-11-03 14:41:17,092] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 14:41:17,140] {logging_mixin.py:109} INFO - [2021-11-03 14:41:17,140] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:11:17.140047+00:00
+[2021-11-03 14:41:17,175] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 1.202 seconds
+[2021-11-03 14:41:47,578] {processor.py:163} INFO - Started process (PID=25424) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:41:47,582] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 14:41:47,584] {logging_mixin.py:109} INFO - [2021-11-03 14:41:47,583] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:41:48,167] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:41:48,181] {logging_mixin.py:109} INFO - [2021-11-03 14:41:48,181] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 14:41:48,203] {logging_mixin.py:109} INFO - [2021-11-03 14:41:48,202] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:11:48.202373+00:00
+[2021-11-03 14:41:48,215] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.648 seconds
+[2021-11-03 14:42:18,353] {processor.py:163} INFO - Started process (PID=25828) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:42:18,354] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 14:42:18,354] {logging_mixin.py:109} INFO - [2021-11-03 14:42:18,354] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:42:18,898] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:42:18,909] {logging_mixin.py:109} INFO - [2021-11-03 14:42:18,909] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 14:42:18,926] {logging_mixin.py:109} INFO - [2021-11-03 14:42:18,926] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:12:18.925852+00:00
+[2021-11-03 14:42:18,935] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.585 seconds
+[2021-11-03 14:42:49,633] {processor.py:163} INFO - Started process (PID=26248) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:42:49,634] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 14:42:49,635] {logging_mixin.py:109} INFO - [2021-11-03 14:42:49,634] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:42:50,173] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:42:50,181] {logging_mixin.py:109} INFO - [2021-11-03 14:42:50,181] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 14:42:50,194] {logging_mixin.py:109} INFO - [2021-11-03 14:42:50,193] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:12:50.193670+00:00
+[2021-11-03 14:42:50,202] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.572 seconds
+[2021-11-03 14:43:20,453] {processor.py:163} INFO - Started process (PID=26722) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:43:20,454] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 14:43:20,455] {logging_mixin.py:109} INFO - [2021-11-03 14:43:20,455] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:43:20,990] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:43:20,999] {logging_mixin.py:109} INFO - [2021-11-03 14:43:20,999] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 14:43:21,011] {logging_mixin.py:109} INFO - [2021-11-03 14:43:21,010] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:13:21.010730+00:00
+[2021-11-03 14:43:21,018] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.567 seconds
+[2021-11-03 14:43:51,608] {processor.py:163} INFO - Started process (PID=27142) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:43:51,609] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 14:43:51,610] {logging_mixin.py:109} INFO - [2021-11-03 14:43:51,610] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:43:52,187] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:43:52,195] {logging_mixin.py:109} INFO - [2021-11-03 14:43:52,195] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 14:43:52,207] {logging_mixin.py:109} INFO - [2021-11-03 14:43:52,207] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:13:52.207196+00:00
+[2021-11-03 14:43:52,215] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.610 seconds
+[2021-11-03 14:44:22,293] {processor.py:163} INFO - Started process (PID=27559) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:44:22,294] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 14:44:22,295] {logging_mixin.py:109} INFO - [2021-11-03 14:44:22,295] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:44:22,852] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:44:22,862] {logging_mixin.py:109} INFO - [2021-11-03 14:44:22,862] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 14:44:22,878] {logging_mixin.py:109} INFO - [2021-11-03 14:44:22,878] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:14:22.878018+00:00
+[2021-11-03 14:44:22,887] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.596 seconds
+[2021-11-03 14:44:53,293] {processor.py:163} INFO - Started process (PID=27958) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:44:53,295] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 14:44:53,296] {logging_mixin.py:109} INFO - [2021-11-03 14:44:53,296] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:44:53,882] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:44:53,892] {logging_mixin.py:109} INFO - [2021-11-03 14:44:53,892] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 14:44:53,906] {logging_mixin.py:109} INFO - [2021-11-03 14:44:53,906] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:14:53.906577+00:00
+[2021-11-03 14:44:53,916] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.631 seconds
+[2021-11-03 14:45:24,440] {processor.py:163} INFO - Started process (PID=28380) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:45:24,442] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 14:45:24,446] {logging_mixin.py:109} INFO - [2021-11-03 14:45:24,445] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:45:25,074] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:45:25,084] {logging_mixin.py:109} INFO - [2021-11-03 14:45:25,083] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 14:45:25,098] {logging_mixin.py:109} INFO - [2021-11-03 14:45:25,098] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:15:25.097872+00:00
+[2021-11-03 14:45:25,107] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.679 seconds
+[2021-11-03 14:45:55,326] {processor.py:163} INFO - Started process (PID=28776) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:45:55,333] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 14:45:55,334] {logging_mixin.py:109} INFO - [2021-11-03 14:45:55,334] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:45:55,918] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:45:55,930] {logging_mixin.py:109} INFO - [2021-11-03 14:45:55,930] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 14:45:55,948] {logging_mixin.py:109} INFO - [2021-11-03 14:45:55,948] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:15:55.948109+00:00
+[2021-11-03 14:45:55,957] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.634 seconds
+[2021-11-03 14:46:26,113] {processor.py:163} INFO - Started process (PID=29192) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:46:26,114] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 14:46:26,114] {logging_mixin.py:109} INFO - [2021-11-03 14:46:26,114] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:46:26,712] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:46:26,728] {logging_mixin.py:109} INFO - [2021-11-03 14:46:26,728] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 14:46:26,755] {logging_mixin.py:109} INFO - [2021-11-03 14:46:26,754] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:16:26.754656+00:00
+[2021-11-03 14:46:26,768] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.658 seconds
+[2021-11-03 14:46:56,901] {processor.py:163} INFO - Started process (PID=29609) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:46:56,902] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 14:46:56,903] {logging_mixin.py:109} INFO - [2021-11-03 14:46:56,903] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:46:57,460] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:46:57,472] {logging_mixin.py:109} INFO - [2021-11-03 14:46:57,472] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 14:46:57,495] {logging_mixin.py:109} INFO - [2021-11-03 14:46:57,495] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:16:57.494821+00:00
+[2021-11-03 14:46:57,511] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.614 seconds
+[2021-11-03 14:47:27,917] {processor.py:163} INFO - Started process (PID=30032) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:47:27,918] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 14:47:27,919] {logging_mixin.py:109} INFO - [2021-11-03 14:47:27,919] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:47:28,487] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:47:28,498] {logging_mixin.py:109} INFO - [2021-11-03 14:47:28,498] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 14:47:28,513] {logging_mixin.py:109} INFO - [2021-11-03 14:47:28,513] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:17:28.512936+00:00
+[2021-11-03 14:47:28,521] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.607 seconds
+[2021-11-03 14:47:59,010] {processor.py:163} INFO - Started process (PID=30547) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:47:59,011] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 14:47:59,011] {logging_mixin.py:109} INFO - [2021-11-03 14:47:59,011] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:47:59,664] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:47:59,673] {logging_mixin.py:109} INFO - [2021-11-03 14:47:59,673] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 14:47:59,688] {logging_mixin.py:109} INFO - [2021-11-03 14:47:59,688] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:17:59.688020+00:00
+[2021-11-03 14:47:59,697] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.690 seconds
+[2021-11-03 14:48:30,199] {processor.py:163} INFO - Started process (PID=30984) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:48:30,200] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 14:48:30,201] {logging_mixin.py:109} INFO - [2021-11-03 14:48:30,201] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:48:31,120] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:48:31,141] {logging_mixin.py:109} INFO - [2021-11-03 14:48:31,141] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 14:48:31,167] {logging_mixin.py:109} INFO - [2021-11-03 14:48:31,165] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:18:31.164864+00:00
+[2021-11-03 14:48:31,190] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.993 seconds
+[2021-11-03 14:49:01,978] {processor.py:163} INFO - Started process (PID=31473) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:49:01,979] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 14:49:01,980] {logging_mixin.py:109} INFO - [2021-11-03 14:49:01,980] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:49:02,616] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:49:02,645] {logging_mixin.py:109} INFO - [2021-11-03 14:49:02,643] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 14:49:02,671] {logging_mixin.py:109} INFO - [2021-11-03 14:49:02,671] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:19:02.670885+00:00
+[2021-11-03 14:49:02,685] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.712 seconds
+[2021-11-03 14:49:33,587] {processor.py:163} INFO - Started process (PID=31945) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:49:33,588] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 14:49:33,589] {logging_mixin.py:109} INFO - [2021-11-03 14:49:33,589] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:49:34,359] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:49:34,370] {logging_mixin.py:109} INFO - [2021-11-03 14:49:34,370] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 14:49:34,387] {logging_mixin.py:109} INFO - [2021-11-03 14:49:34,387] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:19:34.387367+00:00
+[2021-11-03 14:49:34,402] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.819 seconds
+[2021-11-03 14:50:04,689] {processor.py:163} INFO - Started process (PID=32363) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:50:04,690] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 14:50:04,690] {logging_mixin.py:109} INFO - [2021-11-03 14:50:04,690] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:50:05,257] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:50:05,270] {logging_mixin.py:109} INFO - [2021-11-03 14:50:05,270] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 14:50:05,285] {logging_mixin.py:109} INFO - [2021-11-03 14:50:05,285] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:20:05.285294+00:00
+[2021-11-03 14:50:05,295] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.609 seconds
+[2021-11-03 14:50:36,155] {processor.py:163} INFO - Started process (PID=352) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:50:36,156] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 14:50:36,157] {logging_mixin.py:109} INFO - [2021-11-03 14:50:36,157] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:50:37,343] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:50:37,359] {logging_mixin.py:109} INFO - [2021-11-03 14:50:37,359] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 14:50:37,382] {logging_mixin.py:109} INFO - [2021-11-03 14:50:37,382] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:20:37.381704+00:00
+[2021-11-03 14:50:37,399] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 1.250 seconds
+[2021-11-03 14:51:07,839] {processor.py:163} INFO - Started process (PID=756) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:51:07,840] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 14:51:07,841] {logging_mixin.py:109} INFO - [2021-11-03 14:51:07,841] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:51:08,485] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:51:08,497] {logging_mixin.py:109} INFO - [2021-11-03 14:51:08,497] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 14:51:08,511] {logging_mixin.py:109} INFO - [2021-11-03 14:51:08,511] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:21:08.510995+00:00
+[2021-11-03 14:51:08,520] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.684 seconds
+[2021-11-03 14:51:38,657] {processor.py:163} INFO - Started process (PID=1225) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:51:38,658] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 14:51:38,659] {logging_mixin.py:109} INFO - [2021-11-03 14:51:38,659] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:51:39,258] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:51:39,269] {logging_mixin.py:109} INFO - [2021-11-03 14:51:39,269] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 14:51:39,284] {logging_mixin.py:109} INFO - [2021-11-03 14:51:39,284] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:21:39.283991+00:00
+[2021-11-03 14:51:39,293] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.640 seconds
+[2021-11-03 14:52:09,625] {processor.py:163} INFO - Started process (PID=1802) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:52:09,626] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 14:52:09,626] {logging_mixin.py:109} INFO - [2021-11-03 14:52:09,626] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:52:10,177] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:52:10,186] {logging_mixin.py:109} INFO - [2021-11-03 14:52:10,186] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 14:52:10,200] {logging_mixin.py:109} INFO - [2021-11-03 14:52:10,200] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:22:10.199813+00:00
+[2021-11-03 14:52:10,208] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.586 seconds
+[2021-11-03 14:52:40,285] {processor.py:163} INFO - Started process (PID=2393) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:52:40,286] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 14:52:40,287] {logging_mixin.py:109} INFO - [2021-11-03 14:52:40,286] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:52:40,862] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:52:40,871] {logging_mixin.py:109} INFO - [2021-11-03 14:52:40,871] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 14:52:40,887] {logging_mixin.py:109} INFO - [2021-11-03 14:52:40,886] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:22:40.886561+00:00
+[2021-11-03 14:52:40,896] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.614 seconds
+[2021-11-03 14:53:11,172] {processor.py:163} INFO - Started process (PID=3197) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:53:11,173] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 14:53:11,173] {logging_mixin.py:109} INFO - [2021-11-03 14:53:11,173] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:53:11,723] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:53:11,732] {logging_mixin.py:109} INFO - [2021-11-03 14:53:11,732] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 14:53:11,748] {logging_mixin.py:109} INFO - [2021-11-03 14:53:11,748] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:23:11.748420+00:00
+[2021-11-03 14:53:11,763] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.594 seconds
+[2021-11-03 14:53:42,154] {processor.py:163} INFO - Started process (PID=3774) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:53:42,155] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 14:53:42,156] {logging_mixin.py:109} INFO - [2021-11-03 14:53:42,156] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:53:42,736] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:53:42,750] {logging_mixin.py:109} INFO - [2021-11-03 14:53:42,750] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 14:53:42,770] {logging_mixin.py:109} INFO - [2021-11-03 14:53:42,770] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:23:42.769940+00:00
+[2021-11-03 14:53:42,780] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.629 seconds
+[2021-11-03 14:54:12,920] {processor.py:163} INFO - Started process (PID=4257) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:54:12,921] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 14:54:12,922] {logging_mixin.py:109} INFO - [2021-11-03 14:54:12,922] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:54:13,568] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:54:13,581] {logging_mixin.py:109} INFO - [2021-11-03 14:54:13,580] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 14:54:13,604] {logging_mixin.py:109} INFO - [2021-11-03 14:54:13,604] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:24:13.604319+00:00
+[2021-11-03 14:54:13,613] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.696 seconds
+[2021-11-03 14:54:43,764] {processor.py:163} INFO - Started process (PID=4829) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:54:43,766] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 14:54:43,766] {logging_mixin.py:109} INFO - [2021-11-03 14:54:43,766] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:54:44,344] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:54:44,356] {logging_mixin.py:109} INFO - [2021-11-03 14:54:44,355] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 14:54:44,372] {logging_mixin.py:109} INFO - [2021-11-03 14:54:44,372] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:24:44.372192+00:00
+[2021-11-03 14:54:44,381] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.620 seconds
+[2021-11-03 14:55:14,779] {processor.py:163} INFO - Started process (PID=5262) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:55:14,780] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 14:55:14,781] {logging_mixin.py:109} INFO - [2021-11-03 14:55:14,780] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:55:15,373] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:55:15,382] {logging_mixin.py:109} INFO - [2021-11-03 14:55:15,382] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 14:55:15,395] {logging_mixin.py:109} INFO - [2021-11-03 14:55:15,395] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:25:15.395124+00:00
+[2021-11-03 14:55:15,403] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.628 seconds
+[2021-11-03 14:55:45,914] {processor.py:163} INFO - Started process (PID=5697) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:55:45,916] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 14:55:45,916] {logging_mixin.py:109} INFO - [2021-11-03 14:55:45,916] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:55:46,604] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:55:46,616] {logging_mixin.py:109} INFO - [2021-11-03 14:55:46,616] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 14:55:46,631] {logging_mixin.py:109} INFO - [2021-11-03 14:55:46,631] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:25:46.630759+00:00
+[2021-11-03 14:55:46,643] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.734 seconds
+[2021-11-03 14:56:16,889] {processor.py:163} INFO - Started process (PID=6127) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:56:16,890] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 14:56:16,890] {logging_mixin.py:109} INFO - [2021-11-03 14:56:16,890] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:56:17,421] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:56:17,431] {logging_mixin.py:109} INFO - [2021-11-03 14:56:17,431] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 14:56:17,444] {logging_mixin.py:109} INFO - [2021-11-03 14:56:17,444] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:26:17.444482+00:00
+[2021-11-03 14:56:17,453] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.571 seconds
+[2021-11-03 14:56:47,633] {processor.py:163} INFO - Started process (PID=6553) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:56:47,634] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 14:56:47,635] {logging_mixin.py:109} INFO - [2021-11-03 14:56:47,635] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:56:48,170] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:56:48,181] {logging_mixin.py:109} INFO - [2021-11-03 14:56:48,181] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 14:56:48,197] {logging_mixin.py:109} INFO - [2021-11-03 14:56:48,197] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:26:48.196743+00:00
+[2021-11-03 14:56:48,206] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.576 seconds
+[2021-11-03 14:57:18,548] {processor.py:163} INFO - Started process (PID=6954) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:57:18,549] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 14:57:18,550] {logging_mixin.py:109} INFO - [2021-11-03 14:57:18,549] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:57:19,116] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:57:19,129] {logging_mixin.py:109} INFO - [2021-11-03 14:57:19,128] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 14:57:19,146] {logging_mixin.py:109} INFO - [2021-11-03 14:57:19,146] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:27:19.145732+00:00
+[2021-11-03 14:57:19,156] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.611 seconds
+[2021-11-03 14:57:49,468] {processor.py:163} INFO - Started process (PID=7401) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:57:49,469] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 14:57:49,470] {logging_mixin.py:109} INFO - [2021-11-03 14:57:49,470] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:57:50,046] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:57:50,060] {logging_mixin.py:109} INFO - [2021-11-03 14:57:50,060] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 14:57:50,079] {logging_mixin.py:109} INFO - [2021-11-03 14:57:50,079] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:27:50.079276+00:00
+[2021-11-03 14:57:50,088] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.622 seconds
+[2021-11-03 14:58:20,562] {processor.py:163} INFO - Started process (PID=7817) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:58:20,564] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 14:58:20,564] {logging_mixin.py:109} INFO - [2021-11-03 14:58:20,564] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:58:21,263] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:58:21,272] {logging_mixin.py:109} INFO - [2021-11-03 14:58:21,272] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 14:58:21,286] {logging_mixin.py:109} INFO - [2021-11-03 14:58:21,285] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:28:21.285710+00:00
+[2021-11-03 14:58:21,293] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.734 seconds
+[2021-11-03 14:58:51,667] {processor.py:163} INFO - Started process (PID=8225) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:58:51,668] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 14:58:51,669] {logging_mixin.py:109} INFO - [2021-11-03 14:58:51,669] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:58:52,237] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:58:52,245] {logging_mixin.py:109} INFO - [2021-11-03 14:58:52,245] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 14:58:52,262] {logging_mixin.py:109} INFO - [2021-11-03 14:58:52,262] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:28:52.262587+00:00
+[2021-11-03 14:58:52,273] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.608 seconds
+[2021-11-03 14:59:22,736] {processor.py:163} INFO - Started process (PID=8670) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:59:22,736] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 14:59:22,737] {logging_mixin.py:109} INFO - [2021-11-03 14:59:22,737] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:59:23,303] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:59:23,314] {logging_mixin.py:109} INFO - [2021-11-03 14:59:23,314] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 14:59:23,331] {logging_mixin.py:109} INFO - [2021-11-03 14:59:23,331] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:29:23.331055+00:00
+[2021-11-03 14:59:23,341] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.608 seconds
+[2021-11-03 14:59:53,423] {processor.py:163} INFO - Started process (PID=9068) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:59:53,424] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 14:59:53,425] {logging_mixin.py:109} INFO - [2021-11-03 14:59:53,425] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:59:53,982] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 14:59:53,993] {logging_mixin.py:109} INFO - [2021-11-03 14:59:53,993] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 14:59:54,005] {logging_mixin.py:109} INFO - [2021-11-03 14:59:54,005] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:29:54.005474+00:00
+[2021-11-03 14:59:54,013] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.594 seconds
+[2021-11-03 15:00:24,389] {processor.py:163} INFO - Started process (PID=9508) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:00:24,390] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 15:00:24,391] {logging_mixin.py:109} INFO - [2021-11-03 15:00:24,391] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:00:24,930] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:00:24,938] {logging_mixin.py:109} INFO - [2021-11-03 15:00:24,938] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 15:00:24,951] {logging_mixin.py:109} INFO - [2021-11-03 15:00:24,950] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:30:24.950649+00:00
+[2021-11-03 15:00:24,963] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.576 seconds
+[2021-11-03 15:00:55,381] {processor.py:163} INFO - Started process (PID=9939) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:00:55,382] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 15:00:55,382] {logging_mixin.py:109} INFO - [2021-11-03 15:00:55,382] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:00:55,946] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:00:55,955] {logging_mixin.py:109} INFO - [2021-11-03 15:00:55,954] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 15:00:55,968] {logging_mixin.py:109} INFO - [2021-11-03 15:00:55,968] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:30:55.968518+00:00
+[2021-11-03 15:00:55,977] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.599 seconds
+[2021-11-03 15:01:26,029] {processor.py:163} INFO - Started process (PID=10357) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:01:26,030] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 15:01:26,031] {logging_mixin.py:109} INFO - [2021-11-03 15:01:26,030] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:01:26,591] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:01:26,599] {logging_mixin.py:109} INFO - [2021-11-03 15:01:26,599] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 15:01:26,615] {logging_mixin.py:109} INFO - [2021-11-03 15:01:26,615] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:31:26.614785+00:00
+[2021-11-03 15:01:26,624] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.598 seconds
+[2021-11-03 15:01:56,835] {processor.py:163} INFO - Started process (PID=10762) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:01:56,836] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 15:01:56,836] {logging_mixin.py:109} INFO - [2021-11-03 15:01:56,836] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:01:57,480] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:01:57,491] {logging_mixin.py:109} INFO - [2021-11-03 15:01:57,491] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 15:01:57,509] {logging_mixin.py:109} INFO - [2021-11-03 15:01:57,509] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:31:57.509460+00:00
+[2021-11-03 15:01:57,519] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.687 seconds
+[2021-11-03 15:02:27,954] {processor.py:163} INFO - Started process (PID=11172) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:02:27,955] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 15:02:27,955] {logging_mixin.py:109} INFO - [2021-11-03 15:02:27,955] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:02:28,563] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:02:28,575] {logging_mixin.py:109} INFO - [2021-11-03 15:02:28,574] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 15:02:28,593] {logging_mixin.py:109} INFO - [2021-11-03 15:02:28,592] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:32:28.592663+00:00
+[2021-11-03 15:02:28,603] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.653 seconds
+[2021-11-03 15:02:58,722] {processor.py:163} INFO - Started process (PID=11655) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:02:58,723] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 15:02:58,723] {logging_mixin.py:109} INFO - [2021-11-03 15:02:58,723] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:02:59,280] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:02:59,289] {logging_mixin.py:109} INFO - [2021-11-03 15:02:59,288] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 15:02:59,301] {logging_mixin.py:109} INFO - [2021-11-03 15:02:59,301] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:32:59.301377+00:00
+[2021-11-03 15:02:59,309] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.591 seconds
+[2021-11-03 15:03:29,529] {processor.py:163} INFO - Started process (PID=12063) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:03:29,530] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 15:03:29,530] {logging_mixin.py:109} INFO - [2021-11-03 15:03:29,530] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:03:30,153] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:03:30,164] {logging_mixin.py:109} INFO - [2021-11-03 15:03:30,164] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 15:03:30,178] {logging_mixin.py:109} INFO - [2021-11-03 15:03:30,178] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:33:30.178329+00:00
+[2021-11-03 15:03:30,187] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.661 seconds
+[2021-11-03 15:04:00,330] {processor.py:163} INFO - Started process (PID=12481) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:04:00,331] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 15:04:00,332] {logging_mixin.py:109} INFO - [2021-11-03 15:04:00,332] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:04:00,891] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:04:00,903] {logging_mixin.py:109} INFO - [2021-11-03 15:04:00,903] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 15:04:00,919] {logging_mixin.py:109} INFO - [2021-11-03 15:04:00,919] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:34:00.919319+00:00
+[2021-11-03 15:04:00,929] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.602 seconds
+[2021-11-03 15:04:31,366] {processor.py:163} INFO - Started process (PID=12893) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:04:31,366] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 15:04:31,367] {logging_mixin.py:109} INFO - [2021-11-03 15:04:31,367] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:04:31,975] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:04:31,988] {logging_mixin.py:109} INFO - [2021-11-03 15:04:31,988] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 15:04:32,014] {logging_mixin.py:109} INFO - [2021-11-03 15:04:32,013] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:34:32.013654+00:00
+[2021-11-03 15:04:32,029] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.666 seconds
+[2021-11-03 15:05:02,351] {processor.py:163} INFO - Started process (PID=13307) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:05:02,352] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 15:05:02,352] {logging_mixin.py:109} INFO - [2021-11-03 15:05:02,352] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:05:02,995] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:05:03,006] {logging_mixin.py:109} INFO - [2021-11-03 15:05:03,006] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 15:05:03,023] {logging_mixin.py:109} INFO - [2021-11-03 15:05:03,023] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:35:03.023391+00:00
+[2021-11-03 15:05:03,033] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.685 seconds
+[2021-11-03 15:05:33,403] {processor.py:163} INFO - Started process (PID=13740) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:05:33,404] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 15:05:33,404] {logging_mixin.py:109} INFO - [2021-11-03 15:05:33,404] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:05:33,991] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:05:34,003] {logging_mixin.py:109} INFO - [2021-11-03 15:05:34,003] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 15:05:34,021] {logging_mixin.py:109} INFO - [2021-11-03 15:05:34,021] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:35:34.021048+00:00
+[2021-11-03 15:05:34,031] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.632 seconds
+[2021-11-03 15:06:04,268] {processor.py:163} INFO - Started process (PID=14167) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:06:04,270] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 15:06:04,271] {logging_mixin.py:109} INFO - [2021-11-03 15:06:04,270] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:06:04,941] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:06:04,950] {logging_mixin.py:109} INFO - [2021-11-03 15:06:04,950] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 15:06:04,965] {logging_mixin.py:109} INFO - [2021-11-03 15:06:04,965] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:36:04.965318+00:00
+[2021-11-03 15:06:04,974] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.709 seconds
+[2021-11-03 15:06:35,333] {processor.py:163} INFO - Started process (PID=14580) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:06:35,334] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 15:06:35,335] {logging_mixin.py:109} INFO - [2021-11-03 15:06:35,335] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:06:35,904] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:06:35,913] {logging_mixin.py:109} INFO - [2021-11-03 15:06:35,913] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 15:06:35,927] {logging_mixin.py:109} INFO - [2021-11-03 15:06:35,927] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:36:35.926955+00:00
+[2021-11-03 15:06:35,936] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.606 seconds
+[2021-11-03 15:07:06,033] {processor.py:163} INFO - Started process (PID=15030) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:07:06,034] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 15:07:06,034] {logging_mixin.py:109} INFO - [2021-11-03 15:07:06,034] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:07:06,573] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:07:06,582] {logging_mixin.py:109} INFO - [2021-11-03 15:07:06,581] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 15:07:06,597] {logging_mixin.py:109} INFO - [2021-11-03 15:07:06,597] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:37:06.596729+00:00
+[2021-11-03 15:07:06,606] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.577 seconds
+[2021-11-03 15:07:36,753] {processor.py:163} INFO - Started process (PID=15452) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:07:36,754] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 15:07:36,758] {logging_mixin.py:109} INFO - [2021-11-03 15:07:36,755] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:07:37,288] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:07:37,297] {logging_mixin.py:109} INFO - [2021-11-03 15:07:37,297] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 15:07:37,312] {logging_mixin.py:109} INFO - [2021-11-03 15:07:37,312] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:37:37.312430+00:00
+[2021-11-03 15:07:37,321] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.571 seconds
+[2021-11-03 15:08:07,697] {processor.py:163} INFO - Started process (PID=15870) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:08:07,698] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 15:08:07,698] {logging_mixin.py:109} INFO - [2021-11-03 15:08:07,698] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:08:08,176] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:08:08,184] {logging_mixin.py:109} INFO - [2021-11-03 15:08:08,184] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 15:08:08,195] {logging_mixin.py:109} INFO - [2021-11-03 15:08:08,195] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:38:08.195346+00:00
+[2021-11-03 15:08:08,203] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.509 seconds
+[2021-11-03 15:08:38,920] {processor.py:163} INFO - Started process (PID=16296) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:08:38,922] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 15:08:38,922] {logging_mixin.py:109} INFO - [2021-11-03 15:08:38,922] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:08:39,493] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:08:39,503] {logging_mixin.py:109} INFO - [2021-11-03 15:08:39,503] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 15:08:39,518] {logging_mixin.py:109} INFO - [2021-11-03 15:08:39,518] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:38:39.518346+00:00
+[2021-11-03 15:08:39,526] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.610 seconds
+[2021-11-03 15:09:09,858] {processor.py:163} INFO - Started process (PID=16695) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:09:09,866] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 15:09:09,867] {logging_mixin.py:109} INFO - [2021-11-03 15:09:09,867] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:09:10,450] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:09:10,460] {logging_mixin.py:109} INFO - [2021-11-03 15:09:10,460] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 15:09:10,476] {logging_mixin.py:109} INFO - [2021-11-03 15:09:10,476] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:39:10.476237+00:00
+[2021-11-03 15:09:10,486] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.631 seconds
+[2021-11-03 15:09:40,676] {processor.py:163} INFO - Started process (PID=17108) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:09:40,677] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 15:09:40,677] {logging_mixin.py:109} INFO - [2021-11-03 15:09:40,677] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:09:41,224] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:09:41,238] {logging_mixin.py:109} INFO - [2021-11-03 15:09:41,238] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 15:09:41,250] {logging_mixin.py:109} INFO - [2021-11-03 15:09:41,250] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:39:41.250344+00:00
+[2021-11-03 15:09:41,258] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.585 seconds
+[2021-11-03 15:10:11,319] {processor.py:163} INFO - Started process (PID=17520) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:10:11,320] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 15:10:11,321] {logging_mixin.py:109} INFO - [2021-11-03 15:10:11,320] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:10:11,857] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:10:11,866] {logging_mixin.py:109} INFO - [2021-11-03 15:10:11,866] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 15:10:11,883] {logging_mixin.py:109} INFO - [2021-11-03 15:10:11,883] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:40:11.883200+00:00
+[2021-11-03 15:10:11,895] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.580 seconds
+[2021-11-03 15:10:42,265] {processor.py:163} INFO - Started process (PID=17957) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:10:42,266] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 15:10:42,267] {logging_mixin.py:109} INFO - [2021-11-03 15:10:42,267] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:10:42,917] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 15:10:42,926] {logging_mixin.py:109} INFO - [2021-11-03 15:10:42,925] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 15:10:42,940] {logging_mixin.py:109} INFO - [2021-11-03 15:10:42,940] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T09:40:42.939904+00:00
+[2021-11-03 15:10:42,948] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.687 seconds
+[2021-11-03 16:29:28,423] {processor.py:163} INFO - Started process (PID=18431) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 16:29:28,431] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 16:29:28,434] {logging_mixin.py:109} INFO - [2021-11-03 16:29:28,431] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 16:29:29,547] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 16:29:29,572] {logging_mixin.py:109} INFO - [2021-11-03 16:29:29,571] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 16:29:29,603] {logging_mixin.py:109} INFO - [2021-11-03 16:29:29,603] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T10:59:29.603498+00:00
+[2021-11-03 16:29:29,628] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 1.208 seconds
+[2021-11-03 16:30:00,033] {processor.py:163} INFO - Started process (PID=18831) to work on /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 16:30:00,034] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/transformation.py for tasks to queue
+[2021-11-03 16:30:00,035] {logging_mixin.py:109} INFO - [2021-11-03 16:30:00,035] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 16:30:00,790] {processor.py:632} INFO - DAG(s) dict_keys(['transformation']) retrieved from /home/user/workspace/airflow/dags/transformation.py
+[2021-11-03 16:30:00,801] {logging_mixin.py:109} INFO - [2021-11-03 16:30:00,801] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-03 16:30:00,818] {logging_mixin.py:109} INFO - [2021-11-03 16:30:00,818] {dag.py:2914} INFO - Setting next_dagrun for transformation to 2021-11-02T11:00:00.818071+00:00
+[2021-11-03 16:30:00,829] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/transformation.py took 0.799 seconds

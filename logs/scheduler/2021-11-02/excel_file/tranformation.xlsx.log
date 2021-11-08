@@ -438,3 +438,1068 @@
 [2021-11-02 12:32:33,266] {logging_mixin.py:109} INFO - [2021-11-02 12:32:33,266] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
 [2021-11-02 12:32:33,282] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
 [2021-11-02 12:32:33,285] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.023 seconds
+[2021-11-02 12:33:04,383] {processor.py:163} INFO - Started process (PID=17389) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 12:33:04,386] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 12:33:04,386] {logging_mixin.py:109} INFO - [2021-11-02 12:33:04,386] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 12:33:04,398] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 12:33:04,401] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.022 seconds
+[2021-11-02 12:33:36,111] {processor.py:163} INFO - Started process (PID=18109) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 12:33:36,112] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 12:33:36,112] {logging_mixin.py:109} INFO - [2021-11-02 12:33:36,112] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 12:33:36,125] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 12:33:36,128] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.019 seconds
+[2021-11-02 12:34:07,488] {processor.py:163} INFO - Started process (PID=18780) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 12:34:07,489] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 12:34:07,490] {logging_mixin.py:109} INFO - [2021-11-02 12:34:07,489] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 12:34:07,501] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 12:34:07,503] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.017 seconds
+[2021-11-02 12:34:39,379] {processor.py:163} INFO - Started process (PID=19446) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 12:34:39,380] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 12:34:39,381] {logging_mixin.py:109} INFO - [2021-11-02 12:34:39,380] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 12:34:39,393] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 12:34:39,396] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.019 seconds
+[2021-11-02 12:35:11,320] {processor.py:163} INFO - Started process (PID=20048) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 12:35:11,321] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 12:35:11,322] {logging_mixin.py:109} INFO - [2021-11-02 12:35:11,321] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 12:35:11,336] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 12:35:11,340] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.022 seconds
+[2021-11-02 12:35:42,929] {processor.py:163} INFO - Started process (PID=20733) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 12:35:42,930] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 12:35:42,930] {logging_mixin.py:109} INFO - [2021-11-02 12:35:42,930] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 12:35:42,942] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 12:35:42,944] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.017 seconds
+[2021-11-02 12:36:14,145] {processor.py:163} INFO - Started process (PID=21409) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 12:36:14,145] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 12:36:14,146] {logging_mixin.py:109} INFO - [2021-11-02 12:36:14,146] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 12:36:14,159] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 12:36:14,163] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.020 seconds
+[2021-11-02 12:36:46,016] {processor.py:163} INFO - Started process (PID=22058) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 12:36:46,016] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 12:36:46,017] {logging_mixin.py:109} INFO - [2021-11-02 12:36:46,017] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 12:36:46,029] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 12:36:46,032] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.019 seconds
+[2021-11-02 12:37:17,596] {processor.py:163} INFO - Started process (PID=22693) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 12:37:17,596] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 12:37:17,597] {logging_mixin.py:109} INFO - [2021-11-02 12:37:17,597] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 12:37:17,609] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 12:37:17,612] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.019 seconds
+[2021-11-02 12:37:49,374] {processor.py:163} INFO - Started process (PID=23309) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 12:37:49,375] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 12:37:49,376] {logging_mixin.py:109} INFO - [2021-11-02 12:37:49,376] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 12:37:49,391] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 12:37:49,396] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.024 seconds
+[2021-11-02 12:38:20,831] {processor.py:163} INFO - Started process (PID=23973) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 12:38:20,832] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 12:38:20,832] {logging_mixin.py:109} INFO - [2021-11-02 12:38:20,832] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 12:38:20,849] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 12:38:20,857] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.028 seconds
+[2021-11-02 16:22:24,935] {processor.py:163} INFO - Started process (PID=5847) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:22:24,936] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:22:24,937] {logging_mixin.py:109} INFO - [2021-11-02 16:22:24,937] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:22:24,952] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:22:24,955] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.024 seconds
+[2021-11-02 16:22:56,181] {processor.py:163} INFO - Started process (PID=6466) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:22:56,182] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:22:56,182] {logging_mixin.py:109} INFO - [2021-11-02 16:22:56,182] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:22:56,197] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:22:56,201] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.023 seconds
+[2021-11-02 16:23:27,124] {processor.py:163} INFO - Started process (PID=7186) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:23:27,125] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:23:27,125] {logging_mixin.py:109} INFO - [2021-11-02 16:23:27,125] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:23:27,139] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:23:27,142] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.020 seconds
+[2021-11-02 16:23:58,864] {processor.py:163} INFO - Started process (PID=7862) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:23:58,865] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:23:58,865] {logging_mixin.py:109} INFO - [2021-11-02 16:23:58,865] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:23:58,878] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:23:58,881] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.019 seconds
+[2021-11-02 16:24:29,141] {processor.py:163} INFO - Started process (PID=8550) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:24:29,142] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:24:29,143] {logging_mixin.py:109} INFO - [2021-11-02 16:24:29,143] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:24:29,155] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:24:29,158] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.019 seconds
+[2021-11-02 16:24:59,571] {processor.py:163} INFO - Started process (PID=9289) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:24:59,572] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:24:59,572] {logging_mixin.py:109} INFO - [2021-11-02 16:24:59,572] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:24:59,586] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:24:59,589] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.021 seconds
+[2021-11-02 16:25:30,148] {processor.py:163} INFO - Started process (PID=10031) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:25:30,148] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:25:30,149] {logging_mixin.py:109} INFO - [2021-11-02 16:25:30,149] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:25:30,160] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:25:30,162] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.017 seconds
+[2021-11-02 16:26:01,399] {processor.py:163} INFO - Started process (PID=10782) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:26:01,400] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:26:01,400] {logging_mixin.py:109} INFO - [2021-11-02 16:26:01,400] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:26:01,412] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:26:01,415] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.017 seconds
+[2021-11-02 16:26:31,977] {processor.py:163} INFO - Started process (PID=11479) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:26:31,978] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:26:31,978] {logging_mixin.py:109} INFO - [2021-11-02 16:26:31,978] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:26:31,991] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:26:31,994] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.019 seconds
+[2021-11-02 16:27:02,316] {processor.py:163} INFO - Started process (PID=12126) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:27:02,317] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:27:02,317] {logging_mixin.py:109} INFO - [2021-11-02 16:27:02,317] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:27:02,330] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:27:02,334] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.020 seconds
+[2021-11-02 16:27:33,404] {processor.py:163} INFO - Started process (PID=12862) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:27:33,405] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:27:33,406] {logging_mixin.py:109} INFO - [2021-11-02 16:27:33,406] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:27:33,434] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:27:33,442] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.041 seconds
+[2021-11-02 16:28:03,925] {processor.py:163} INFO - Started process (PID=13469) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:28:03,926] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:28:03,927] {logging_mixin.py:109} INFO - [2021-11-02 16:28:03,927] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:28:03,940] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:28:03,942] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.019 seconds
+[2021-11-02 16:28:34,307] {processor.py:163} INFO - Started process (PID=14065) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:28:34,307] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:28:34,308] {logging_mixin.py:109} INFO - [2021-11-02 16:28:34,308] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:28:34,320] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:28:34,323] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.019 seconds
+[2021-11-02 16:29:05,303] {processor.py:163} INFO - Started process (PID=14664) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:29:05,304] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:29:05,304] {logging_mixin.py:109} INFO - [2021-11-02 16:29:05,304] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:29:05,317] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:29:05,319] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.018 seconds
+[2021-11-02 16:29:35,600] {processor.py:163} INFO - Started process (PID=15329) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:29:35,601] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:29:35,601] {logging_mixin.py:109} INFO - [2021-11-02 16:29:35,601] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:29:35,617] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:29:35,620] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.027 seconds
+[2021-11-02 16:30:05,896] {processor.py:163} INFO - Started process (PID=15975) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:30:05,897] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:30:05,897] {logging_mixin.py:109} INFO - [2021-11-02 16:30:05,897] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:30:05,909] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:30:05,911] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.019 seconds
+[2021-11-02 16:30:36,974] {processor.py:163} INFO - Started process (PID=16763) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:30:36,975] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:30:36,975] {logging_mixin.py:109} INFO - [2021-11-02 16:30:36,975] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:30:36,986] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:30:36,988] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.016 seconds
+[2021-11-02 16:31:07,455] {processor.py:163} INFO - Started process (PID=17466) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:31:07,456] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:31:07,456] {logging_mixin.py:109} INFO - [2021-11-02 16:31:07,456] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:31:07,469] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:31:07,472] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.019 seconds
+[2021-11-02 16:31:37,789] {processor.py:163} INFO - Started process (PID=18175) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:31:37,790] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:31:37,790] {logging_mixin.py:109} INFO - [2021-11-02 16:31:37,790] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:31:37,802] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:31:37,804] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.018 seconds
+[2021-11-02 16:32:08,317] {processor.py:163} INFO - Started process (PID=18902) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:32:08,318] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:32:08,318] {logging_mixin.py:109} INFO - [2021-11-02 16:32:08,318] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:32:08,331] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:32:08,334] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.019 seconds
+[2021-11-02 16:32:38,867] {processor.py:163} INFO - Started process (PID=19647) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:32:38,868] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:32:38,868] {logging_mixin.py:109} INFO - [2021-11-02 16:32:38,868] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:32:38,880] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:32:38,884] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.020 seconds
+[2021-11-02 16:33:09,501] {processor.py:163} INFO - Started process (PID=20352) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:33:09,502] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:33:09,502] {logging_mixin.py:109} INFO - [2021-11-02 16:33:09,502] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:33:09,514] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:33:09,517] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.018 seconds
+[2021-11-02 16:33:40,411] {processor.py:163} INFO - Started process (PID=20984) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:33:40,412] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:33:40,413] {logging_mixin.py:109} INFO - [2021-11-02 16:33:40,413] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:33:40,480] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:33:40,495] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.096 seconds
+[2021-11-02 16:34:10,799] {processor.py:163} INFO - Started process (PID=21599) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:34:10,800] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:34:10,800] {logging_mixin.py:109} INFO - [2021-11-02 16:34:10,800] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:34:10,812] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:34:10,814] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.018 seconds
+[2021-11-02 16:34:41,376] {processor.py:163} INFO - Started process (PID=22308) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:34:41,376] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:34:41,377] {logging_mixin.py:109} INFO - [2021-11-02 16:34:41,377] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:34:41,388] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:34:41,390] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.017 seconds
+[2021-11-02 16:35:12,021] {processor.py:163} INFO - Started process (PID=22868) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:35:12,022] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:35:12,022] {logging_mixin.py:109} INFO - [2021-11-02 16:35:12,022] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:35:12,032] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:35:12,034] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.015 seconds
+[2021-11-02 16:35:42,731] {processor.py:163} INFO - Started process (PID=23497) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:35:42,732] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:35:42,733] {logging_mixin.py:109} INFO - [2021-11-02 16:35:42,733] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:35:42,753] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:35:42,760] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.033 seconds
+[2021-11-02 16:36:13,602] {processor.py:163} INFO - Started process (PID=24056) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:36:13,602] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:36:13,603] {logging_mixin.py:109} INFO - [2021-11-02 16:36:13,603] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:36:13,615] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:36:13,617] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.018 seconds
+[2021-11-02 16:36:44,450] {processor.py:163} INFO - Started process (PID=24566) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:36:44,451] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:36:44,451] {logging_mixin.py:109} INFO - [2021-11-02 16:36:44,451] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:36:44,464] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:36:44,467] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.019 seconds
+[2021-11-02 16:37:15,886] {processor.py:163} INFO - Started process (PID=25161) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:37:15,887] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:37:15,888] {logging_mixin.py:109} INFO - [2021-11-02 16:37:15,887] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:37:15,902] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:37:15,905] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.021 seconds
+[2021-11-02 16:37:47,027] {processor.py:163} INFO - Started process (PID=25708) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:37:47,028] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:37:47,028] {logging_mixin.py:109} INFO - [2021-11-02 16:37:47,028] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:37:47,041] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:37:47,044] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.019 seconds
+[2021-11-02 16:38:18,065] {processor.py:163} INFO - Started process (PID=26318) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:38:18,066] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:38:18,066] {logging_mixin.py:109} INFO - [2021-11-02 16:38:18,066] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:38:18,078] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:38:18,081] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.019 seconds
+[2021-11-02 16:38:49,201] {processor.py:163} INFO - Started process (PID=27043) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:38:49,202] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:38:49,203] {logging_mixin.py:109} INFO - [2021-11-02 16:38:49,202] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:38:49,216] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:38:49,219] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.020 seconds
+[2021-11-02 16:39:19,352] {processor.py:163} INFO - Started process (PID=27770) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:39:19,353] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:39:19,353] {logging_mixin.py:109} INFO - [2021-11-02 16:39:19,353] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:39:19,382] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:39:19,387] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.038 seconds
+[2021-11-02 16:39:49,504] {processor.py:163} INFO - Started process (PID=28456) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:39:49,505] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:39:49,505] {logging_mixin.py:109} INFO - [2021-11-02 16:39:49,505] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:39:49,519] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:39:49,521] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.020 seconds
+[2021-11-02 16:40:20,179] {processor.py:163} INFO - Started process (PID=29201) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:40:20,180] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:40:20,181] {logging_mixin.py:109} INFO - [2021-11-02 16:40:20,181] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:40:20,208] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:40:20,212] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.036 seconds
+[2021-11-02 16:40:51,025] {processor.py:163} INFO - Started process (PID=29934) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:40:51,026] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:40:51,027] {logging_mixin.py:109} INFO - [2021-11-02 16:40:51,027] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:40:51,039] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:40:51,041] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.018 seconds
+[2021-11-02 16:41:21,944] {processor.py:163} INFO - Started process (PID=30664) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:41:21,945] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:41:21,945] {logging_mixin.py:109} INFO - [2021-11-02 16:41:21,945] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:41:21,956] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:41:21,958] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.016 seconds
+[2021-11-02 16:41:52,628] {processor.py:163} INFO - Started process (PID=31349) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:41:52,629] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:41:52,629] {logging_mixin.py:109} INFO - [2021-11-02 16:41:52,629] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:41:52,650] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:41:52,653] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.029 seconds
+[2021-11-02 16:42:24,337] {processor.py:163} INFO - Started process (PID=31987) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:42:24,338] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:42:24,338] {logging_mixin.py:109} INFO - [2021-11-02 16:42:24,338] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:42:24,352] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:42:24,354] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.020 seconds
+[2021-11-02 16:42:56,235] {processor.py:163} INFO - Started process (PID=32653) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:42:56,236] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:42:56,236] {logging_mixin.py:109} INFO - [2021-11-02 16:42:56,236] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:42:56,254] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:42:56,259] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.028 seconds
+[2021-11-02 16:43:27,841] {processor.py:163} INFO - Started process (PID=705) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:43:27,843] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:43:27,843] {logging_mixin.py:109} INFO - [2021-11-02 16:43:27,843] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:43:27,861] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:43:27,866] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.027 seconds
+[2021-11-02 16:43:59,549] {processor.py:163} INFO - Started process (PID=1222) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:43:59,550] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:43:59,550] {logging_mixin.py:109} INFO - [2021-11-02 16:43:59,550] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:43:59,571] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:43:59,581] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.041 seconds
+[2021-11-02 16:44:30,629] {processor.py:163} INFO - Started process (PID=2055) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:44:30,629] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:44:30,630] {logging_mixin.py:109} INFO - [2021-11-02 16:44:30,630] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:44:30,642] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:44:30,646] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.020 seconds
+[2021-11-02 16:45:00,906] {processor.py:163} INFO - Started process (PID=3100) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:45:00,907] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:45:00,907] {logging_mixin.py:109} INFO - [2021-11-02 16:45:00,907] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:45:00,920] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:45:00,922] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.020 seconds
+[2021-11-02 16:45:31,395] {processor.py:163} INFO - Started process (PID=3958) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:45:31,395] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:45:31,396] {logging_mixin.py:109} INFO - [2021-11-02 16:45:31,396] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:45:31,409] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:45:31,413] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.021 seconds
+[2021-11-02 16:46:05,116] {processor.py:163} INFO - Started process (PID=4447) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:46:05,117] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:46:05,118] {logging_mixin.py:109} INFO - [2021-11-02 16:46:05,118] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:46:05,134] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:46:05,137] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.025 seconds
+[2021-11-02 16:46:36,264] {processor.py:163} INFO - Started process (PID=5179) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:46:36,264] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:46:36,265] {logging_mixin.py:109} INFO - [2021-11-02 16:46:36,265] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:46:36,278] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:46:36,281] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.019 seconds
+[2021-11-02 16:47:06,983] {processor.py:163} INFO - Started process (PID=5772) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:47:06,984] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:47:06,984] {logging_mixin.py:109} INFO - [2021-11-02 16:47:06,984] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:47:06,996] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:47:06,999] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.018 seconds
+[2021-11-02 16:47:38,200] {processor.py:163} INFO - Started process (PID=6401) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:47:38,201] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:47:38,201] {logging_mixin.py:109} INFO - [2021-11-02 16:47:38,201] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:47:38,215] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:47:38,217] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.020 seconds
+[2021-11-02 16:48:09,689] {processor.py:163} INFO - Started process (PID=7063) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:48:09,690] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:48:09,691] {logging_mixin.py:109} INFO - [2021-11-02 16:48:09,691] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:48:09,705] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:48:09,707] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.021 seconds
+[2021-11-02 16:48:40,764] {processor.py:163} INFO - Started process (PID=7733) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:48:40,765] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:48:40,766] {logging_mixin.py:109} INFO - [2021-11-02 16:48:40,765] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:48:40,777] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:48:40,779] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.017 seconds
+[2021-11-02 16:49:11,798] {processor.py:163} INFO - Started process (PID=8390) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:49:11,799] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:49:11,799] {logging_mixin.py:109} INFO - [2021-11-02 16:49:11,799] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:49:11,867] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:49:11,869] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.074 seconds
+[2021-11-02 16:49:42,807] {processor.py:163} INFO - Started process (PID=9043) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:49:42,808] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:49:42,808] {logging_mixin.py:109} INFO - [2021-11-02 16:49:42,808] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:49:42,820] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:49:42,823] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.018 seconds
+[2021-11-02 16:50:13,376] {processor.py:163} INFO - Started process (PID=9774) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:50:13,377] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:50:13,378] {logging_mixin.py:109} INFO - [2021-11-02 16:50:13,378] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:50:13,391] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:50:13,394] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.021 seconds
+[2021-11-02 16:50:44,147] {processor.py:163} INFO - Started process (PID=10489) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:50:44,149] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:50:44,149] {logging_mixin.py:109} INFO - [2021-11-02 16:50:44,149] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:50:44,164] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:50:44,167] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.026 seconds
+[2021-11-02 16:51:14,346] {processor.py:163} INFO - Started process (PID=11205) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:51:14,347] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:51:14,348] {logging_mixin.py:109} INFO - [2021-11-02 16:51:14,348] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:51:14,374] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:51:14,376] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.033 seconds
+[2021-11-02 16:51:44,840] {processor.py:163} INFO - Started process (PID=11931) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:51:44,841] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:51:44,841] {logging_mixin.py:109} INFO - [2021-11-02 16:51:44,841] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:51:44,855] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:51:44,857] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.020 seconds
+[2021-11-02 16:52:16,432] {processor.py:163} INFO - Started process (PID=12758) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:52:16,435] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:52:16,436] {logging_mixin.py:109} INFO - [2021-11-02 16:52:16,436] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:52:16,456] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:52:16,458] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.032 seconds
+[2021-11-02 16:52:47,315] {processor.py:163} INFO - Started process (PID=13438) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:52:47,316] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:52:47,316] {logging_mixin.py:109} INFO - [2021-11-02 16:52:47,316] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:52:47,328] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:52:47,330] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.019 seconds
+[2021-11-02 16:53:18,833] {processor.py:163} INFO - Started process (PID=14049) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:53:18,835] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:53:18,836] {logging_mixin.py:109} INFO - [2021-11-02 16:53:18,836] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:53:18,881] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:53:18,889] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.064 seconds
+[2021-11-02 16:53:50,392] {processor.py:163} INFO - Started process (PID=14660) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:53:50,393] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:53:50,394] {logging_mixin.py:109} INFO - [2021-11-02 16:53:50,394] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:53:50,425] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:53:50,429] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.043 seconds
+[2021-11-02 16:54:21,014] {processor.py:163} INFO - Started process (PID=15329) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:54:21,015] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:54:21,015] {logging_mixin.py:109} INFO - [2021-11-02 16:54:21,015] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:54:21,027] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:54:21,030] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.018 seconds
+[2021-11-02 16:54:51,319] {processor.py:163} INFO - Started process (PID=15996) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:54:51,320] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:54:51,321] {logging_mixin.py:109} INFO - [2021-11-02 16:54:51,321] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:54:51,333] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:54:51,335] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.018 seconds
+[2021-11-02 16:55:21,891] {processor.py:163} INFO - Started process (PID=16812) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:55:21,892] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:55:21,892] {logging_mixin.py:109} INFO - [2021-11-02 16:55:21,892] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:55:21,903] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:55:21,907] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.018 seconds
+[2021-11-02 16:55:52,835] {processor.py:163} INFO - Started process (PID=17508) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:55:52,836] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:55:52,837] {logging_mixin.py:109} INFO - [2021-11-02 16:55:52,836] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:55:52,849] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:55:52,852] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.019 seconds
+[2021-11-02 16:56:23,202] {processor.py:163} INFO - Started process (PID=18193) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:56:23,203] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:56:23,204] {logging_mixin.py:109} INFO - [2021-11-02 16:56:23,203] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:56:23,215] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:56:23,218] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.018 seconds
+[2021-11-02 16:56:53,826] {processor.py:163} INFO - Started process (PID=18901) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:56:53,827] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:56:53,828] {logging_mixin.py:109} INFO - [2021-11-02 16:56:53,828] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:56:53,846] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:56:53,849] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.027 seconds
+[2021-11-02 16:57:24,809] {processor.py:163} INFO - Started process (PID=19616) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:57:24,810] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:57:24,810] {logging_mixin.py:109} INFO - [2021-11-02 16:57:24,810] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:57:24,821] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:57:24,823] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.016 seconds
+[2021-11-02 16:57:56,414] {processor.py:163} INFO - Started process (PID=20343) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:57:56,415] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:57:56,415] {logging_mixin.py:109} INFO - [2021-11-02 16:57:56,415] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:57:56,426] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:57:56,428] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.017 seconds
+[2021-11-02 16:58:26,663] {processor.py:163} INFO - Started process (PID=21061) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:58:26,665] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:58:26,666] {logging_mixin.py:109} INFO - [2021-11-02 16:58:26,666] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:58:26,689] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:58:26,693] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.037 seconds
+[2021-11-02 16:58:57,323] {processor.py:163} INFO - Started process (PID=21764) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:58:57,324] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:58:57,324] {logging_mixin.py:109} INFO - [2021-11-02 16:58:57,324] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:58:57,338] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:58:57,343] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.023 seconds
+[2021-11-02 16:59:27,788] {processor.py:163} INFO - Started process (PID=22493) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:59:27,789] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:59:27,789] {logging_mixin.py:109} INFO - [2021-11-02 16:59:27,789] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:59:27,801] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:59:27,803] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.017 seconds
+[2021-11-02 16:59:58,164] {processor.py:163} INFO - Started process (PID=23217) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:59:58,165] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 16:59:58,165] {logging_mixin.py:109} INFO - [2021-11-02 16:59:58,165] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:59:58,177] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 16:59:58,179] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.017 seconds
+[2021-11-02 17:00:28,757] {processor.py:163} INFO - Started process (PID=23893) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:00:28,758] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:00:28,759] {logging_mixin.py:109} INFO - [2021-11-02 17:00:28,759] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:00:28,773] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:00:28,775] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.021 seconds
+[2021-11-02 17:00:59,348] {processor.py:163} INFO - Started process (PID=24590) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:00:59,349] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:00:59,349] {logging_mixin.py:109} INFO - [2021-11-02 17:00:59,349] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:00:59,363] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:00:59,365] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.020 seconds
+[2021-11-02 17:01:30,108] {processor.py:163} INFO - Started process (PID=25320) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:01:30,109] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:01:30,109] {logging_mixin.py:109} INFO - [2021-11-02 17:01:30,109] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:01:30,121] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:01:30,123] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.017 seconds
+[2021-11-02 17:02:00,694] {processor.py:163} INFO - Started process (PID=26061) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:02:00,694] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:02:00,695] {logging_mixin.py:109} INFO - [2021-11-02 17:02:00,695] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:02:00,709] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:02:00,713] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.021 seconds
+[2021-11-02 17:02:31,038] {processor.py:163} INFO - Started process (PID=26837) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:02:31,039] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:02:31,040] {logging_mixin.py:109} INFO - [2021-11-02 17:02:31,040] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:02:31,053] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:02:31,056] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.020 seconds
+[2021-11-02 17:03:01,239] {processor.py:163} INFO - Started process (PID=27599) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:03:01,239] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:03:01,240] {logging_mixin.py:109} INFO - [2021-11-02 17:03:01,240] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:03:01,255] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:03:01,258] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.023 seconds
+[2021-11-02 17:03:31,768] {processor.py:163} INFO - Started process (PID=28383) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:03:31,769] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:03:31,769] {logging_mixin.py:109} INFO - [2021-11-02 17:03:31,769] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:03:31,782] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:03:31,785] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.019 seconds
+[2021-11-02 17:04:02,509] {processor.py:163} INFO - Started process (PID=29136) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:04:02,509] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:04:02,510] {logging_mixin.py:109} INFO - [2021-11-02 17:04:02,510] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:04:02,521] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:04:02,524] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.018 seconds
+[2021-11-02 17:04:33,019] {processor.py:163} INFO - Started process (PID=29877) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:04:33,019] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:04:33,020] {logging_mixin.py:109} INFO - [2021-11-02 17:04:33,020] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:04:33,033] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:04:33,036] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.020 seconds
+[2021-11-02 17:05:03,094] {processor.py:163} INFO - Started process (PID=31604) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:05:03,095] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:05:03,095] {logging_mixin.py:109} INFO - [2021-11-02 17:05:03,095] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:05:03,109] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:05:03,112] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.022 seconds
+[2021-11-02 17:05:33,184] {processor.py:163} INFO - Started process (PID=1043) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:05:33,185] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:05:33,185] {logging_mixin.py:109} INFO - [2021-11-02 17:05:33,185] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:05:33,198] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:05:33,200] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.018 seconds
+[2021-11-02 17:06:03,435] {processor.py:163} INFO - Started process (PID=3772) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:06:03,435] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:06:03,436] {logging_mixin.py:109} INFO - [2021-11-02 17:06:03,436] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:06:03,447] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:06:03,450] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.018 seconds
+[2021-11-02 17:06:33,547] {processor.py:163} INFO - Started process (PID=5779) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:06:33,548] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:06:33,548] {logging_mixin.py:109} INFO - [2021-11-02 17:06:33,548] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:06:33,561] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:06:33,564] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.020 seconds
+[2021-11-02 17:07:03,624] {processor.py:163} INFO - Started process (PID=7526) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:07:03,624] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:07:03,625] {logging_mixin.py:109} INFO - [2021-11-02 17:07:03,625] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:07:03,637] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:07:03,639] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.018 seconds
+[2021-11-02 17:07:33,693] {processor.py:163} INFO - Started process (PID=9324) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:07:33,694] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:07:33,694] {logging_mixin.py:109} INFO - [2021-11-02 17:07:33,694] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:07:33,707] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:07:33,710] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.019 seconds
+[2021-11-02 17:08:03,760] {processor.py:163} INFO - Started process (PID=11055) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:08:03,761] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:08:03,761] {logging_mixin.py:109} INFO - [2021-11-02 17:08:03,761] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:08:03,773] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:08:03,775] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.018 seconds
+[2021-11-02 17:08:33,887] {processor.py:163} INFO - Started process (PID=13011) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:08:33,888] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:08:33,889] {logging_mixin.py:109} INFO - [2021-11-02 17:08:33,889] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:08:33,902] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:08:33,904] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.019 seconds
+[2021-11-02 17:09:03,967] {processor.py:163} INFO - Started process (PID=14812) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:09:03,967] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:09:03,968] {logging_mixin.py:109} INFO - [2021-11-02 17:09:03,968] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:09:03,981] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:09:03,984] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.020 seconds
+[2021-11-02 17:09:34,096] {processor.py:163} INFO - Started process (PID=16422) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:09:34,097] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:09:34,098] {logging_mixin.py:109} INFO - [2021-11-02 17:09:34,098] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:09:34,119] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:09:34,123] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.037 seconds
+[2021-11-02 17:10:04,165] {processor.py:163} INFO - Started process (PID=18334) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:10:04,166] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:10:04,167] {logging_mixin.py:109} INFO - [2021-11-02 17:10:04,166] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:10:04,180] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:10:04,183] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.020 seconds
+[2021-11-02 17:10:34,246] {processor.py:163} INFO - Started process (PID=20093) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:10:34,247] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:10:34,247] {logging_mixin.py:109} INFO - [2021-11-02 17:10:34,247] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:10:34,260] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:10:34,263] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.019 seconds
+[2021-11-02 17:11:04,310] {processor.py:163} INFO - Started process (PID=21855) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:11:04,311] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:11:04,311] {logging_mixin.py:109} INFO - [2021-11-02 17:11:04,311] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:11:04,323] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:11:04,325] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.017 seconds
+[2021-11-02 17:11:34,383] {processor.py:163} INFO - Started process (PID=23663) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:11:34,384] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:11:34,385] {logging_mixin.py:109} INFO - [2021-11-02 17:11:34,385] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:11:34,399] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:11:34,403] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.022 seconds
+[2021-11-02 17:12:04,516] {processor.py:163} INFO - Started process (PID=24787) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:12:04,518] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:12:04,520] {logging_mixin.py:109} INFO - [2021-11-02 17:12:04,520] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:12:04,539] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:12:04,546] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.036 seconds
+[2021-11-02 17:12:34,695] {processor.py:163} INFO - Started process (PID=25963) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:12:34,697] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:12:34,698] {logging_mixin.py:109} INFO - [2021-11-02 17:12:34,698] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:12:34,734] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:12:34,743] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.054 seconds
+[2021-11-02 17:13:04,812] {processor.py:163} INFO - Started process (PID=27332) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:13:04,812] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:13:04,813] {logging_mixin.py:109} INFO - [2021-11-02 17:13:04,813] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:13:04,827] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:13:04,830] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.020 seconds
+[2021-11-02 17:13:34,880] {processor.py:163} INFO - Started process (PID=28804) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:13:34,881] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:13:34,881] {logging_mixin.py:109} INFO - [2021-11-02 17:13:34,881] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:13:34,891] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:13:34,893] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.015 seconds
+[2021-11-02 17:14:04,957] {processor.py:163} INFO - Started process (PID=30365) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:14:04,958] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:14:04,959] {logging_mixin.py:109} INFO - [2021-11-02 17:14:04,958] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:14:04,971] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:14:04,973] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.018 seconds
+[2021-11-02 17:14:35,013] {processor.py:163} INFO - Started process (PID=31936) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:14:35,014] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:14:35,014] {logging_mixin.py:109} INFO - [2021-11-02 17:14:35,014] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:14:35,030] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:14:35,033] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.023 seconds
+[2021-11-02 17:15:05,122] {processor.py:163} INFO - Started process (PID=1032) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:15:05,123] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:15:05,124] {logging_mixin.py:109} INFO - [2021-11-02 17:15:05,124] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:15:05,137] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:15:05,140] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.021 seconds
+[2021-11-02 17:15:35,189] {processor.py:163} INFO - Started process (PID=3327) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:15:35,191] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:15:35,191] {logging_mixin.py:109} INFO - [2021-11-02 17:15:35,191] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:15:35,205] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:15:35,208] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.022 seconds
+[2021-11-02 17:16:05,256] {processor.py:163} INFO - Started process (PID=5129) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:16:05,257] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:16:05,257] {logging_mixin.py:109} INFO - [2021-11-02 17:16:05,257] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:16:05,270] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:16:05,273] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.019 seconds
+[2021-11-02 17:16:36,029] {processor.py:163} INFO - Started process (PID=6743) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:16:36,030] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:16:36,030] {logging_mixin.py:109} INFO - [2021-11-02 17:16:36,030] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:16:36,043] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:16:36,045] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.019 seconds
+[2021-11-02 17:17:06,321] {processor.py:163} INFO - Started process (PID=8367) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:17:06,321] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:17:06,322] {logging_mixin.py:109} INFO - [2021-11-02 17:17:06,322] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:17:06,333] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:17:06,336] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.017 seconds
+[2021-11-02 17:17:36,699] {processor.py:163} INFO - Started process (PID=9891) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:17:36,700] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:17:36,700] {logging_mixin.py:109} INFO - [2021-11-02 17:17:36,700] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:17:36,713] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:17:36,716] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.020 seconds
+[2021-11-02 17:18:06,830] {processor.py:163} INFO - Started process (PID=11494) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:18:06,831] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:18:06,831] {logging_mixin.py:109} INFO - [2021-11-02 17:18:06,831] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:18:06,855] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:18:06,860] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.037 seconds
+[2021-11-02 17:18:36,997] {processor.py:163} INFO - Started process (PID=13357) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:18:36,998] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:18:36,999] {logging_mixin.py:109} INFO - [2021-11-02 17:18:36,999] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:18:37,012] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:18:37,014] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.019 seconds
+[2021-11-02 17:19:07,736] {processor.py:163} INFO - Started process (PID=15098) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:19:07,737] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:19:07,737] {logging_mixin.py:109} INFO - [2021-11-02 17:19:07,737] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:19:07,747] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:19:07,749] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.015 seconds
+[2021-11-02 17:19:38,891] {processor.py:163} INFO - Started process (PID=16957) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:19:38,892] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:19:38,892] {logging_mixin.py:109} INFO - [2021-11-02 17:19:38,892] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:19:38,903] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:19:38,906] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.018 seconds
+[2021-11-02 17:20:09,258] {processor.py:163} INFO - Started process (PID=18738) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:20:09,259] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:20:09,259] {logging_mixin.py:109} INFO - [2021-11-02 17:20:09,259] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:20:09,272] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:20:09,275] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.019 seconds
+[2021-11-02 17:20:39,919] {processor.py:163} INFO - Started process (PID=20466) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:20:39,919] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:20:39,920] {logging_mixin.py:109} INFO - [2021-11-02 17:20:39,920] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:20:39,932] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:20:39,935] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.019 seconds
+[2021-11-02 17:21:11,594] {processor.py:163} INFO - Started process (PID=22081) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:21:11,595] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:21:11,596] {logging_mixin.py:109} INFO - [2021-11-02 17:21:11,596] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:21:11,619] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:21:11,625] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.034 seconds
+[2021-11-02 17:21:41,684] {processor.py:163} INFO - Started process (PID=22898) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:21:41,685] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:21:41,685] {logging_mixin.py:109} INFO - [2021-11-02 17:21:41,685] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:21:41,697] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:21:41,699] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.017 seconds
+[2021-11-02 17:22:12,876] {processor.py:163} INFO - Started process (PID=24211) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:22:12,877] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:22:12,877] {logging_mixin.py:109} INFO - [2021-11-02 17:22:12,877] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:22:12,905] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:22:12,911] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.041 seconds
+[2021-11-02 17:22:43,886] {processor.py:163} INFO - Started process (PID=25454) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:22:43,890] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:22:43,891] {logging_mixin.py:109} INFO - [2021-11-02 17:22:43,891] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:22:43,915] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:22:43,918] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.038 seconds
+[2021-11-02 17:23:14,684] {processor.py:163} INFO - Started process (PID=26813) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:23:14,685] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:23:14,685] {logging_mixin.py:109} INFO - [2021-11-02 17:23:14,685] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:23:14,697] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:23:14,700] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.018 seconds
+[2021-11-02 17:23:45,332] {processor.py:163} INFO - Started process (PID=28115) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:23:45,333] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:23:45,333] {logging_mixin.py:109} INFO - [2021-11-02 17:23:45,333] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:23:45,344] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:23:45,346] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.016 seconds
+[2021-11-02 17:24:15,871] {processor.py:163} INFO - Started process (PID=29680) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:24:15,871] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:24:15,872] {logging_mixin.py:109} INFO - [2021-11-02 17:24:15,872] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:24:15,883] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:24:15,885] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.017 seconds
+[2021-11-02 17:24:45,936] {processor.py:163} INFO - Started process (PID=31098) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:24:45,937] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:24:45,937] {logging_mixin.py:109} INFO - [2021-11-02 17:24:45,937] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:24:45,951] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:24:45,953] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.020 seconds
+[2021-11-02 17:25:16,694] {processor.py:163} INFO - Started process (PID=32618) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:25:16,698] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:25:16,699] {logging_mixin.py:109} INFO - [2021-11-02 17:25:16,698] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:25:16,735] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:25:16,746] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.063 seconds
+[2021-11-02 17:25:46,806] {processor.py:163} INFO - Started process (PID=2062) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:25:46,806] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:25:46,807] {logging_mixin.py:109} INFO - [2021-11-02 17:25:46,807] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:25:46,820] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:25:46,824] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.020 seconds
+[2021-11-02 17:26:16,886] {processor.py:163} INFO - Started process (PID=4038) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:26:16,887] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:26:16,887] {logging_mixin.py:109} INFO - [2021-11-02 17:26:16,887] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:26:16,898] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:26:16,900] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.016 seconds
+[2021-11-02 17:26:46,975] {processor.py:163} INFO - Started process (PID=5530) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:26:46,976] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:26:46,976] {logging_mixin.py:109} INFO - [2021-11-02 17:26:46,976] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:26:46,989] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:26:46,991] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.018 seconds
+[2021-11-02 17:27:17,307] {processor.py:163} INFO - Started process (PID=7066) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:27:17,313] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:27:17,313] {logging_mixin.py:109} INFO - [2021-11-02 17:27:17,313] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:27:17,333] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:27:17,337] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.033 seconds
+[2021-11-02 17:27:47,400] {processor.py:163} INFO - Started process (PID=8251) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:27:47,401] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:27:47,402] {logging_mixin.py:109} INFO - [2021-11-02 17:27:47,402] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:27:47,424] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:27:47,430] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.032 seconds
+[2021-11-02 17:28:17,488] {processor.py:163} INFO - Started process (PID=9801) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:28:17,489] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:28:17,489] {logging_mixin.py:109} INFO - [2021-11-02 17:28:17,489] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:28:17,501] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:28:17,504] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.018 seconds
+[2021-11-02 17:28:47,641] {processor.py:163} INFO - Started process (PID=10806) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:28:47,647] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:28:47,648] {logging_mixin.py:109} INFO - [2021-11-02 17:28:47,648] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:28:47,720] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:28:47,730] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.102 seconds
+[2021-11-02 17:29:17,791] {processor.py:163} INFO - Started process (PID=12226) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:29:17,792] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:29:17,792] {logging_mixin.py:109} INFO - [2021-11-02 17:29:17,792] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:29:17,806] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:29:17,809] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.020 seconds
+[2021-11-02 17:29:47,872] {processor.py:163} INFO - Started process (PID=13862) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:29:47,873] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:29:47,873] {logging_mixin.py:109} INFO - [2021-11-02 17:29:47,873] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:29:47,884] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:29:47,886] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.017 seconds
+[2021-11-02 17:30:17,936] {processor.py:163} INFO - Started process (PID=15450) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:30:17,937] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:30:17,938] {logging_mixin.py:109} INFO - [2021-11-02 17:30:17,938] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:30:17,950] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:30:17,952] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.018 seconds
+[2021-11-02 17:30:48,042] {processor.py:163} INFO - Started process (PID=16840) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:30:48,043] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:30:48,044] {logging_mixin.py:109} INFO - [2021-11-02 17:30:48,043] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:30:48,060] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:30:48,063] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.026 seconds
+[2021-11-02 17:31:18,114] {processor.py:163} INFO - Started process (PID=18268) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:31:18,115] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:31:18,115] {logging_mixin.py:109} INFO - [2021-11-02 17:31:18,115] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:31:18,127] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:31:18,129] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.017 seconds
+[2021-11-02 17:31:48,211] {processor.py:163} INFO - Started process (PID=20029) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:31:48,212] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:31:48,212] {logging_mixin.py:109} INFO - [2021-11-02 17:31:48,212] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:31:48,226] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:31:48,229] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.020 seconds
+[2021-11-02 17:32:18,547] {processor.py:163} INFO - Started process (PID=21536) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:32:18,549] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:32:18,549] {logging_mixin.py:109} INFO - [2021-11-02 17:32:18,549] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:32:18,563] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:32:18,565] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.021 seconds
+[2021-11-02 17:32:48,639] {processor.py:163} INFO - Started process (PID=22916) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:32:48,640] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:32:48,640] {logging_mixin.py:109} INFO - [2021-11-02 17:32:48,640] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:32:48,653] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:32:48,656] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.019 seconds
+[2021-11-02 17:33:18,700] {processor.py:163} INFO - Started process (PID=24592) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:33:18,700] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:33:18,701] {logging_mixin.py:109} INFO - [2021-11-02 17:33:18,701] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:33:18,713] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:33:18,715] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.018 seconds
+[2021-11-02 17:33:48,771] {processor.py:163} INFO - Started process (PID=26122) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:33:48,772] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:33:48,772] {logging_mixin.py:109} INFO - [2021-11-02 17:33:48,772] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:33:48,784] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:33:48,787] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.018 seconds
+[2021-11-02 17:34:18,826] {processor.py:163} INFO - Started process (PID=27603) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:34:18,827] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:34:18,827] {logging_mixin.py:109} INFO - [2021-11-02 17:34:18,827] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:34:18,840] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:34:18,843] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.019 seconds
+[2021-11-02 17:34:49,166] {processor.py:163} INFO - Started process (PID=29111) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:34:49,166] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:34:49,167] {logging_mixin.py:109} INFO - [2021-11-02 17:34:49,167] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:34:49,180] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:34:49,182] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.019 seconds
+[2021-11-02 17:35:19,234] {processor.py:163} INFO - Started process (PID=30873) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:35:19,234] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:35:19,235] {logging_mixin.py:109} INFO - [2021-11-02 17:35:19,235] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:35:19,248] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:35:19,251] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.020 seconds
+[2021-11-02 17:35:49,316] {processor.py:163} INFO - Started process (PID=32483) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:35:49,317] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:35:49,317] {logging_mixin.py:109} INFO - [2021-11-02 17:35:49,317] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:35:49,329] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:35:49,332] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.018 seconds
+[2021-11-02 17:36:19,417] {processor.py:163} INFO - Started process (PID=2225) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:36:19,418] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:36:19,418] {logging_mixin.py:109} INFO - [2021-11-02 17:36:19,418] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:36:19,432] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:36:19,435] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.020 seconds
+[2021-11-02 17:36:49,502] {processor.py:163} INFO - Started process (PID=4377) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:36:49,503] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:36:49,503] {logging_mixin.py:109} INFO - [2021-11-02 17:36:49,503] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:36:49,515] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:36:49,518] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.019 seconds
+[2021-11-02 17:37:19,600] {processor.py:163} INFO - Started process (PID=5963) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:37:19,601] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:37:19,602] {logging_mixin.py:109} INFO - [2021-11-02 17:37:19,602] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:37:19,639] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:37:19,647] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.052 seconds
+[2021-11-02 17:37:49,716] {processor.py:163} INFO - Started process (PID=7634) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:37:49,717] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:37:49,718] {logging_mixin.py:109} INFO - [2021-11-02 17:37:49,718] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:37:49,731] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:37:49,734] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.021 seconds
+[2021-11-02 17:38:19,786] {processor.py:163} INFO - Started process (PID=9065) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:38:19,787] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:38:19,787] {logging_mixin.py:109} INFO - [2021-11-02 17:38:19,787] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:38:19,800] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:38:19,803] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.020 seconds
+[2021-11-02 17:38:49,856] {processor.py:163} INFO - Started process (PID=10709) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:38:49,857] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:38:49,857] {logging_mixin.py:109} INFO - [2021-11-02 17:38:49,857] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:38:49,872] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:38:49,875] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.022 seconds
+[2021-11-02 17:39:20,051] {processor.py:163} INFO - Started process (PID=12550) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:39:20,052] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:39:20,052] {logging_mixin.py:109} INFO - [2021-11-02 17:39:20,052] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:39:20,065] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:39:20,068] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.020 seconds
+[2021-11-02 17:39:50,095] {processor.py:163} INFO - Started process (PID=14046) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:39:50,095] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:39:50,096] {logging_mixin.py:109} INFO - [2021-11-02 17:39:50,096] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:39:50,108] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:39:50,111] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.019 seconds
+[2021-11-02 17:40:20,188] {processor.py:163} INFO - Started process (PID=15761) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:40:20,195] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:40:20,196] {logging_mixin.py:109} INFO - [2021-11-02 17:40:20,196] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:40:20,216] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:40:20,220] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.035 seconds
+[2021-11-02 17:40:50,766] {processor.py:163} INFO - Started process (PID=17629) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:40:50,767] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:40:50,768] {logging_mixin.py:109} INFO - [2021-11-02 17:40:50,767] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:40:50,795] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:40:50,799] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.036 seconds
+[2021-11-02 17:41:20,848] {processor.py:163} INFO - Started process (PID=19393) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:41:20,849] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:41:20,850] {logging_mixin.py:109} INFO - [2021-11-02 17:41:20,850] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:41:20,862] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:41:20,865] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.019 seconds
+[2021-11-02 17:41:51,281] {processor.py:163} INFO - Started process (PID=21067) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:41:51,282] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:41:51,282] {logging_mixin.py:109} INFO - [2021-11-02 17:41:51,282] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:41:51,294] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:41:51,296] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.018 seconds
+[2021-11-02 17:42:21,836] {processor.py:163} INFO - Started process (PID=22740) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:42:21,838] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:42:21,839] {logging_mixin.py:109} INFO - [2021-11-02 17:42:21,839] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:42:21,856] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:42:21,859] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.030 seconds
+[2021-11-02 17:42:52,117] {processor.py:163} INFO - Started process (PID=24084) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:42:52,118] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:42:52,118] {logging_mixin.py:109} INFO - [2021-11-02 17:42:52,118] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:42:52,135] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:42:52,138] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.023 seconds
+[2021-11-02 17:43:22,329] {processor.py:163} INFO - Started process (PID=25520) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:43:22,331] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:43:22,331] {logging_mixin.py:109} INFO - [2021-11-02 17:43:22,331] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:43:22,372] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:43:22,381] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.055 seconds
+[2021-11-02 17:43:52,961] {processor.py:163} INFO - Started process (PID=26987) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:43:52,962] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:43:52,964] {logging_mixin.py:109} INFO - [2021-11-02 17:43:52,963] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:43:52,990] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:43:52,996] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.038 seconds
+[2021-11-02 17:44:23,126] {processor.py:163} INFO - Started process (PID=27920) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:44:23,127] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:44:23,127] {logging_mixin.py:109} INFO - [2021-11-02 17:44:23,127] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:44:23,196] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:44:23,199] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.076 seconds
+[2021-11-02 17:44:53,549] {processor.py:163} INFO - Started process (PID=29258) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:44:53,550] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:44:53,551] {logging_mixin.py:109} INFO - [2021-11-02 17:44:53,551] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:44:53,581] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:44:53,585] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.039 seconds
+[2021-11-02 17:45:24,089] {processor.py:163} INFO - Started process (PID=30595) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:45:24,089] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:45:24,090] {logging_mixin.py:109} INFO - [2021-11-02 17:45:24,090] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:45:24,104] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:45:24,107] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.021 seconds
+[2021-11-02 17:45:55,347] {processor.py:163} INFO - Started process (PID=31871) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:45:55,348] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:45:55,349] {logging_mixin.py:109} INFO - [2021-11-02 17:45:55,349] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:45:55,363] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:45:55,365] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.020 seconds
+[2021-11-02 17:46:25,904] {processor.py:163} INFO - Started process (PID=745) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:46:25,906] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:46:25,908] {logging_mixin.py:109} INFO - [2021-11-02 17:46:25,907] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:46:25,923] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:46:25,926] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.027 seconds
+[2021-11-02 17:46:56,487] {processor.py:163} INFO - Started process (PID=2651) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:46:56,488] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:46:56,489] {logging_mixin.py:109} INFO - [2021-11-02 17:46:56,488] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:46:56,504] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:46:56,507] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.022 seconds
+[2021-11-02 17:47:26,599] {processor.py:163} INFO - Started process (PID=4682) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:47:26,603] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:47:26,603] {logging_mixin.py:109} INFO - [2021-11-02 17:47:26,603] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:47:26,628] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:47:26,633] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.038 seconds
+[2021-11-02 17:47:56,960] {processor.py:163} INFO - Started process (PID=5929) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:47:56,960] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:47:56,961] {logging_mixin.py:109} INFO - [2021-11-02 17:47:56,961] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:47:56,975] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:47:56,978] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.020 seconds
+[2021-11-02 17:48:27,703] {processor.py:163} INFO - Started process (PID=7268) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:48:27,704] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:48:27,704] {logging_mixin.py:109} INFO - [2021-11-02 17:48:27,704] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:48:27,717] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:48:27,719] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.018 seconds
+[2021-11-02 17:48:58,276] {processor.py:163} INFO - Started process (PID=8679) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:48:58,277] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:48:58,278] {logging_mixin.py:109} INFO - [2021-11-02 17:48:58,278] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:48:58,291] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:48:58,293] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.019 seconds
+[2021-11-02 17:49:28,633] {processor.py:163} INFO - Started process (PID=10156) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:49:28,634] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:49:28,634] {logging_mixin.py:109} INFO - [2021-11-02 17:49:28,634] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:49:28,648] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:49:28,651] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.022 seconds
+[2021-11-02 17:49:59,150] {processor.py:163} INFO - Started process (PID=11886) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:49:59,151] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:49:59,151] {logging_mixin.py:109} INFO - [2021-11-02 17:49:59,151] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:49:59,163] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:49:59,166] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.018 seconds
+[2021-11-02 17:50:29,774] {processor.py:163} INFO - Started process (PID=13867) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:50:29,775] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:50:29,776] {logging_mixin.py:109} INFO - [2021-11-02 17:50:29,776] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:50:29,789] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:50:29,791] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.019 seconds
+[2021-11-02 17:51:00,469] {processor.py:163} INFO - Started process (PID=15609) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:51:00,470] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:51:00,470] {logging_mixin.py:109} INFO - [2021-11-02 17:51:00,470] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:51:00,483] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:51:00,487] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.020 seconds
+[2021-11-02 17:51:31,154] {processor.py:163} INFO - Started process (PID=17470) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:51:31,155] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:51:31,155] {logging_mixin.py:109} INFO - [2021-11-02 17:51:31,155] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:51:31,168] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:51:31,171] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.020 seconds
+[2021-11-02 17:52:01,819] {processor.py:163} INFO - Started process (PID=19218) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:52:01,819] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:52:01,820] {logging_mixin.py:109} INFO - [2021-11-02 17:52:01,820] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:52:01,831] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:52:01,834] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.017 seconds
+[2021-11-02 17:52:32,112] {processor.py:163} INFO - Started process (PID=20840) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:52:32,113] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:52:32,114] {logging_mixin.py:109} INFO - [2021-11-02 17:52:32,114] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:52:32,127] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:52:32,130] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.020 seconds
+[2021-11-02 17:53:02,282] {processor.py:163} INFO - Started process (PID=22358) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:53:02,284] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:53:02,285] {logging_mixin.py:109} INFO - [2021-11-02 17:53:02,285] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:53:02,314] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:53:02,319] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.042 seconds
+[2021-11-02 17:53:32,422] {processor.py:163} INFO - Started process (PID=23674) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:53:32,424] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:53:32,425] {logging_mixin.py:109} INFO - [2021-11-02 17:53:32,424] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:53:32,445] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:53:32,449] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.032 seconds
+[2021-11-02 17:54:03,067] {processor.py:163} INFO - Started process (PID=24851) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:54:03,068] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:54:03,069] {logging_mixin.py:109} INFO - [2021-11-02 17:54:03,069] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:54:03,102] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:54:03,108] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.049 seconds
+[2021-11-02 17:54:33,477] {processor.py:163} INFO - Started process (PID=25528) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:54:33,488] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:54:33,490] {logging_mixin.py:109} INFO - [2021-11-02 17:54:33,489] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:54:33,558] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:54:33,568] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.108 seconds
+[2021-11-02 17:55:03,671] {processor.py:163} INFO - Started process (PID=26698) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:55:03,672] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:55:03,672] {logging_mixin.py:109} INFO - [2021-11-02 17:55:03,672] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:55:03,685] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:55:03,688] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.019 seconds
+[2021-11-02 17:55:33,790] {processor.py:163} INFO - Started process (PID=28169) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:55:33,791] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:55:33,791] {logging_mixin.py:109} INFO - [2021-11-02 17:55:33,791] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:55:33,805] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:55:33,808] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.025 seconds
+[2021-11-02 17:56:03,871] {processor.py:163} INFO - Started process (PID=29592) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:56:03,873] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:56:03,873] {logging_mixin.py:109} INFO - [2021-11-02 17:56:03,873] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:56:03,889] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:56:03,893] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.025 seconds
+[2021-11-02 17:56:33,955] {processor.py:163} INFO - Started process (PID=31041) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:56:33,956] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:56:33,957] {logging_mixin.py:109} INFO - [2021-11-02 17:56:33,957] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:56:33,973] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:56:33,977] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.024 seconds
+[2021-11-02 17:57:04,023] {processor.py:163} INFO - Started process (PID=32481) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:57:04,024] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:57:04,025] {logging_mixin.py:109} INFO - [2021-11-02 17:57:04,025] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:57:04,042] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:57:04,045] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.025 seconds
+[2021-11-02 17:57:34,102] {processor.py:163} INFO - Started process (PID=1593) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:57:34,103] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:57:34,104] {logging_mixin.py:109} INFO - [2021-11-02 17:57:34,104] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:57:34,122] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:57:34,125] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.027 seconds
+[2021-11-02 17:58:04,291] {processor.py:163} INFO - Started process (PID=3419) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:58:04,293] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:58:04,295] {logging_mixin.py:109} INFO - [2021-11-02 17:58:04,294] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:58:04,321] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:58:04,329] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.046 seconds
+[2021-11-02 17:58:34,416] {processor.py:163} INFO - Started process (PID=4747) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:58:34,417] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:58:34,418] {logging_mixin.py:109} INFO - [2021-11-02 17:58:34,418] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:58:34,436] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:58:34,441] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.028 seconds
+[2021-11-02 17:59:04,502] {processor.py:163} INFO - Started process (PID=5915) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:59:04,503] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:59:04,504] {logging_mixin.py:109} INFO - [2021-11-02 17:59:04,504] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:59:04,522] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:59:04,525] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.027 seconds
+[2021-11-02 17:59:34,621] {processor.py:163} INFO - Started process (PID=6842) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:59:34,622] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 17:59:34,623] {logging_mixin.py:109} INFO - [2021-11-02 17:59:34,623] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:59:34,645] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 17:59:34,649] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.033 seconds
+[2021-11-02 18:00:04,881] {processor.py:163} INFO - Started process (PID=7422) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 18:00:04,883] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 18:00:04,884] {logging_mixin.py:109} INFO - [2021-11-02 18:00:04,884] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 18:00:04,928] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 18:00:04,939] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.064 seconds
+[2021-11-02 18:00:35,776] {processor.py:163} INFO - Started process (PID=8160) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 18:00:35,778] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 18:00:35,780] {logging_mixin.py:109} INFO - [2021-11-02 18:00:35,780] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 18:00:35,824] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 18:00:35,828] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.057 seconds
+[2021-11-02 18:01:05,893] {processor.py:163} INFO - Started process (PID=9194) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 18:01:05,894] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 18:01:05,895] {logging_mixin.py:109} INFO - [2021-11-02 18:01:05,895] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 18:01:05,912] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 18:01:05,915] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.025 seconds
+[2021-11-02 18:01:36,114] {processor.py:163} INFO - Started process (PID=9983) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 18:01:36,116] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 18:01:36,117] {logging_mixin.py:109} INFO - [2021-11-02 18:01:36,117] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 18:01:36,163] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 18:01:36,174] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.073 seconds
+[2021-11-02 18:02:06,632] {processor.py:163} INFO - Started process (PID=11070) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 18:02:06,633] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 18:02:06,634] {logging_mixin.py:109} INFO - [2021-11-02 18:02:06,634] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 18:02:06,651] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 18:02:06,654] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.025 seconds
+[2021-11-02 18:02:37,939] {processor.py:163} INFO - Started process (PID=12162) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 18:02:37,942] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 18:02:37,949] {logging_mixin.py:109} INFO - [2021-11-02 18:02:37,949] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 18:02:38,000] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 18:02:38,009] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.087 seconds
+[2021-11-02 18:03:08,484] {processor.py:163} INFO - Started process (PID=13404) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 18:03:08,485] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 18:03:08,486] {logging_mixin.py:109} INFO - [2021-11-02 18:03:08,486] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 18:03:08,506] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 18:03:08,510] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.029 seconds
+[2021-11-02 18:03:38,610] {processor.py:163} INFO - Started process (PID=14530) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 18:03:38,611] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 18:03:38,612] {logging_mixin.py:109} INFO - [2021-11-02 18:03:38,612] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 18:03:38,629] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 18:03:38,634] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.027 seconds
+[2021-11-02 18:04:09,058] {processor.py:163} INFO - Started process (PID=15510) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 18:04:09,059] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 18:04:09,062] {logging_mixin.py:109} INFO - [2021-11-02 18:04:09,059] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 18:04:09,098] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 18:04:09,110] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.056 seconds
+[2021-11-02 18:04:39,688] {processor.py:163} INFO - Started process (PID=16775) to work on /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 18:04:39,703] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx for tasks to queue
+[2021-11-02 18:04:39,704] {logging_mixin.py:109} INFO - [2021-11-02 18:04:39,704] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 18:04:39,736] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx
+[2021-11-02 18:04:39,739] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/excel_file/tranformation.xlsx took 0.058 seconds

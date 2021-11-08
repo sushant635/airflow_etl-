@@ -21,8 +21,19 @@ def get_file():
         # sftp_client.get('E:\SalesInvoiceTracking\Sales Invoice Tracking Report_2017-till date.csv','/home/user/workspace/airflow/dags/data/Sales Invoice Tracking Report_2017-till date.csv')
         ssh.connect(hostname = '192.168.4.19',username='tinamenezes',password='apr@2020')
         sftp_client = ssh.open_sftp()
-        sftp_client.get('C:/Users/tinamenezes/Downloads/Sales Discount Remove_30072020_30248.xlsx','/home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls')
-        print(sftp_client)
+        # sftp_client.get('C:/Users/tinamenezes/Downloads/Sales Discount Remove_30072020_30248.xlsx','/home/user/workspace/airflow/dags/data/Sales Invoice Tracking Report_2017-till date.xlsx')
+        sftp_client.get('C:/Users/tinamenezes/Downloads/s1.xlsx','/home/user/workspace/airflow/dags/data/Sales Invoice Tracking Report_2017-till date.xlsx')
+        df = pd.read_excel('/home/user/workspace/airflow/dags/data/Sales Invoice Tracking Report_2017-till date.xlsx',engine='openpyxl')
+        pf = pd.read_excel(AIRFLOW_HOME+'/dags/data/file.xlsx',engine='openpyxl')
+        print(pf,type(pf))
+        today = datetime.now()
+        df['timestamp'] = today
+        if pf.empty:
+            pf = df
+            pf.to_excel(AIRFLOW_HOME+'/dags/data/file.xlsx',index=False)
+        else:
+            result = pf.append(df)
+            result.to_excel(AIRFLOW_HOME+'/dags/data/file.xlsx',index=False)
         sftp_client.close()
     except paramiko.AuthenticationException:
         print('Failed to connect to %s due to wrong username/password')
@@ -39,7 +50,7 @@ def put_excel_file():
         ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())            
         ssh.connect(hostname='192.168.4.24',username='admin',password='th0ughtSp0t')       
         sftp_client = ssh.open_sftp()
-        sftp_client.put('/home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls','/home/admin/Sales_Files/Sales Discount Remove_30072020_30248.xls')
+        sftp_client.put('/home/user/workspace/airflow/dags/data/file.xlsx','C:/Users/tinamenezes/Downloads/sushant.xlsx')
         sftp_client.close()
     except paramiko.AuthenticationException:
         print('Failed to connect to %s due to wrong username/password')

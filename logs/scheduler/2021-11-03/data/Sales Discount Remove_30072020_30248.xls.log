@@ -1,0 +1,865 @@
+[2021-11-03 12:14:41,321] {processor.py:163} INFO - Started process (PID=32277) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:14:41,322] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:14:41,323] {logging_mixin.py:109} INFO - [2021-11-03 12:14:41,323] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:14:41,378] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:14:41,388] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.070 seconds
+[2021-11-03 12:15:11,722] {processor.py:163} INFO - Started process (PID=687) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:15:11,722] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:15:11,723] {logging_mixin.py:109} INFO - [2021-11-03 12:15:11,723] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:15:11,734] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:15:11,736] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.017 seconds
+[2021-11-03 12:15:42,065] {processor.py:163} INFO - Started process (PID=1469) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:15:42,065] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:15:42,066] {logging_mixin.py:109} INFO - [2021-11-03 12:15:42,066] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:15:42,076] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:15:42,080] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.018 seconds
+[2021-11-03 12:16:12,116] {processor.py:163} INFO - Started process (PID=2189) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:16:12,116] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:16:12,117] {logging_mixin.py:109} INFO - [2021-11-03 12:16:12,117] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:16:12,128] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:16:12,130] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.017 seconds
+[2021-11-03 12:16:42,288] {processor.py:163} INFO - Started process (PID=2960) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:16:42,289] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:16:42,289] {logging_mixin.py:109} INFO - [2021-11-03 12:16:42,289] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:16:42,299] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:16:42,301] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.016 seconds
+[2021-11-03 12:17:12,358] {processor.py:163} INFO - Started process (PID=3724) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:17:12,359] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:17:12,360] {logging_mixin.py:109} INFO - [2021-11-03 12:17:12,360] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:17:12,370] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:17:12,373] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.017 seconds
+[2021-11-03 12:17:42,648] {processor.py:163} INFO - Started process (PID=4315) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:17:42,649] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:17:42,650] {logging_mixin.py:109} INFO - [2021-11-03 12:17:42,650] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:17:42,660] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:17:42,663] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.017 seconds
+[2021-11-03 12:18:12,910] {processor.py:163} INFO - Started process (PID=4978) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:18:12,910] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:18:12,911] {logging_mixin.py:109} INFO - [2021-11-03 12:18:12,911] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:18:12,920] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:18:12,922] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.014 seconds
+[2021-11-03 12:18:43,148] {processor.py:163} INFO - Started process (PID=5501) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:18:43,149] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:18:43,150] {logging_mixin.py:109} INFO - [2021-11-03 12:18:43,150] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:18:43,160] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:18:43,163] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.017 seconds
+[2021-11-03 12:19:13,358] {processor.py:163} INFO - Started process (PID=6015) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:19:13,359] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:19:13,359] {logging_mixin.py:109} INFO - [2021-11-03 12:19:13,359] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:19:13,370] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:19:13,373] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.017 seconds
+[2021-11-03 12:19:43,728] {processor.py:163} INFO - Started process (PID=6544) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:19:43,729] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:19:43,729] {logging_mixin.py:109} INFO - [2021-11-03 12:19:43,729] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:19:43,739] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:19:43,742] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.017 seconds
+[2021-11-03 12:20:14,084] {processor.py:163} INFO - Started process (PID=7044) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:20:14,085] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:20:14,085] {logging_mixin.py:109} INFO - [2021-11-03 12:20:14,085] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:20:14,097] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:20:14,099] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.018 seconds
+[2021-11-03 12:20:44,277] {processor.py:163} INFO - Started process (PID=7581) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:20:44,278] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:20:44,279] {logging_mixin.py:109} INFO - [2021-11-03 12:20:44,279] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:20:44,290] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:20:44,293] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.019 seconds
+[2021-11-03 12:21:14,418] {processor.py:163} INFO - Started process (PID=8082) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:21:14,418] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:21:14,419] {logging_mixin.py:109} INFO - [2021-11-03 12:21:14,419] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:21:14,430] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:21:14,432] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.016 seconds
+[2021-11-03 12:21:44,764] {processor.py:163} INFO - Started process (PID=8586) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:21:44,765] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:21:44,765] {logging_mixin.py:109} INFO - [2021-11-03 12:21:44,765] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:21:44,777] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:21:44,779] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.018 seconds
+[2021-11-03 12:22:14,850] {processor.py:163} INFO - Started process (PID=9071) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:22:14,851] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:22:14,852] {logging_mixin.py:109} INFO - [2021-11-03 12:22:14,852] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:22:14,862] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:22:14,864] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.017 seconds
+[2021-11-03 12:22:45,068] {processor.py:163} INFO - Started process (PID=9604) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:22:45,069] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:22:45,070] {logging_mixin.py:109} INFO - [2021-11-03 12:22:45,070] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:22:45,080] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:22:45,083] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.017 seconds
+[2021-11-03 12:23:15,305] {processor.py:163} INFO - Started process (PID=10122) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:23:15,306] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:23:15,306] {logging_mixin.py:109} INFO - [2021-11-03 12:23:15,306] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:23:15,317] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:23:15,319] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.017 seconds
+[2021-11-03 12:23:45,513] {processor.py:163} INFO - Started process (PID=10640) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:23:45,513] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:23:45,514] {logging_mixin.py:109} INFO - [2021-11-03 12:23:45,514] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:23:45,526] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:23:45,528] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.018 seconds
+[2021-11-03 12:24:15,900] {processor.py:163} INFO - Started process (PID=11150) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:24:15,901] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:24:15,901] {logging_mixin.py:109} INFO - [2021-11-03 12:24:15,901] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:24:15,912] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:24:15,914] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.017 seconds
+[2021-11-03 12:24:46,104] {processor.py:163} INFO - Started process (PID=11682) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:24:46,105] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:24:46,105] {logging_mixin.py:109} INFO - [2021-11-03 12:24:46,105] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:24:46,115] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:24:46,117] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.016 seconds
+[2021-11-03 12:25:16,313] {processor.py:163} INFO - Started process (PID=12157) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:25:16,314] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:25:16,314] {logging_mixin.py:109} INFO - [2021-11-03 12:25:16,314] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:25:16,325] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:25:16,327] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.017 seconds
+[2021-11-03 12:25:46,661] {processor.py:163} INFO - Started process (PID=12637) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:25:46,662] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:25:46,662] {logging_mixin.py:109} INFO - [2021-11-03 12:25:46,662] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:25:46,672] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:25:46,676] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.017 seconds
+[2021-11-03 12:26:16,814] {processor.py:163} INFO - Started process (PID=13115) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:26:16,815] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:26:16,815] {logging_mixin.py:109} INFO - [2021-11-03 12:26:16,815] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:26:16,826] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:26:16,828] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.017 seconds
+[2021-11-03 12:26:47,135] {processor.py:163} INFO - Started process (PID=13594) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:26:47,138] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:26:47,139] {logging_mixin.py:109} INFO - [2021-11-03 12:26:47,139] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:26:47,171] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:26:47,185] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.057 seconds
+[2021-11-03 12:27:17,443] {processor.py:163} INFO - Started process (PID=14147) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:27:17,444] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:27:17,445] {logging_mixin.py:109} INFO - [2021-11-03 12:27:17,445] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:27:17,456] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:27:17,459] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.021 seconds
+[2021-11-03 12:27:47,673] {processor.py:163} INFO - Started process (PID=14630) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:27:47,674] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:27:47,675] {logging_mixin.py:109} INFO - [2021-11-03 12:27:47,675] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:27:47,688] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:27:47,690] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.020 seconds
+[2021-11-03 12:28:17,982] {processor.py:163} INFO - Started process (PID=15002) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:28:17,984] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:28:17,992] {logging_mixin.py:109} INFO - [2021-11-03 12:28:17,985] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:28:18,040] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:28:18,045] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.068 seconds
+[2021-11-03 12:28:48,403] {processor.py:163} INFO - Started process (PID=15532) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:28:48,404] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:28:48,405] {logging_mixin.py:109} INFO - [2021-11-03 12:28:48,405] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:28:48,416] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:28:48,419] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.018 seconds
+[2021-11-03 12:29:18,522] {processor.py:163} INFO - Started process (PID=15842) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:29:18,523] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:29:18,524] {logging_mixin.py:109} INFO - [2021-11-03 12:29:18,524] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:29:18,549] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:29:18,556] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.037 seconds
+[2021-11-03 12:29:49,135] {processor.py:163} INFO - Started process (PID=16239) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:29:49,136] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:29:49,137] {logging_mixin.py:109} INFO - [2021-11-03 12:29:49,137] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:29:49,153] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:29:49,155] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.025 seconds
+[2021-11-03 12:30:19,607] {processor.py:163} INFO - Started process (PID=16595) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:30:19,608] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:30:19,609] {logging_mixin.py:109} INFO - [2021-11-03 12:30:19,609] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:30:19,624] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:30:19,626] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.023 seconds
+[2021-11-03 12:30:51,747] {processor.py:163} INFO - Started process (PID=16869) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:30:51,749] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:30:51,750] {logging_mixin.py:109} INFO - [2021-11-03 12:30:51,750] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:30:51,770] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:30:51,772] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.028 seconds
+[2021-11-03 12:31:22,483] {processor.py:163} INFO - Started process (PID=17229) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:31:22,486] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:31:22,486] {logging_mixin.py:109} INFO - [2021-11-03 12:31:22,486] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:31:22,501] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:31:22,504] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.023 seconds
+[2021-11-03 12:31:52,965] {processor.py:163} INFO - Started process (PID=17681) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:31:52,966] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:31:52,966] {logging_mixin.py:109} INFO - [2021-11-03 12:31:52,966] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:31:52,979] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:31:52,982] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.020 seconds
+[2021-11-03 12:32:24,025] {processor.py:163} INFO - Started process (PID=18026) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:32:24,026] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:32:24,026] {logging_mixin.py:109} INFO - [2021-11-03 12:32:24,026] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:32:24,065] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:32:24,072] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.049 seconds
+[2021-11-03 12:32:54,225] {processor.py:163} INFO - Started process (PID=18498) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:32:54,226] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:32:54,226] {logging_mixin.py:109} INFO - [2021-11-03 12:32:54,226] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:32:54,237] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:32:54,239] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.016 seconds
+[2021-11-03 12:33:24,385] {processor.py:163} INFO - Started process (PID=18981) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:33:24,386] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:33:24,386] {logging_mixin.py:109} INFO - [2021-11-03 12:33:24,386] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:33:24,397] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:33:24,399] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.016 seconds
+[2021-11-03 12:33:54,640] {processor.py:163} INFO - Started process (PID=19431) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:33:54,641] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:33:54,641] {logging_mixin.py:109} INFO - [2021-11-03 12:33:54,641] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:33:54,652] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:33:54,654] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.017 seconds
+[2021-11-03 12:34:25,001] {processor.py:163} INFO - Started process (PID=19917) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:34:25,001] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:34:25,002] {logging_mixin.py:109} INFO - [2021-11-03 12:34:25,002] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:34:25,013] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:34:25,015] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.017 seconds
+[2021-11-03 12:34:55,163] {processor.py:163} INFO - Started process (PID=20456) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:34:55,164] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:34:55,164] {logging_mixin.py:109} INFO - [2021-11-03 12:34:55,164] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:34:55,175] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:34:55,177] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.016 seconds
+[2021-11-03 12:35:25,987] {processor.py:163} INFO - Started process (PID=20940) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:35:25,988] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:35:25,989] {logging_mixin.py:109} INFO - [2021-11-03 12:35:25,988] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:35:26,000] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:35:26,002] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.017 seconds
+[2021-11-03 12:35:56,541] {processor.py:163} INFO - Started process (PID=21409) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:35:56,541] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:35:56,542] {logging_mixin.py:109} INFO - [2021-11-03 12:35:56,542] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:35:56,554] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:35:56,556] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.018 seconds
+[2021-11-03 12:36:27,049] {processor.py:163} INFO - Started process (PID=21916) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:36:27,050] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:36:27,050] {logging_mixin.py:109} INFO - [2021-11-03 12:36:27,050] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:36:27,062] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:36:27,064] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.018 seconds
+[2021-11-03 12:36:57,115] {processor.py:163} INFO - Started process (PID=22396) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:36:57,115] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:36:57,116] {logging_mixin.py:109} INFO - [2021-11-03 12:36:57,116] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:36:57,126] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:36:57,129] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.016 seconds
+[2021-11-03 12:37:27,472] {processor.py:163} INFO - Started process (PID=22925) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:37:27,473] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:37:27,473] {logging_mixin.py:109} INFO - [2021-11-03 12:37:27,473] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:37:27,483] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:37:27,486] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.016 seconds
+[2021-11-03 12:37:57,749] {processor.py:163} INFO - Started process (PID=23432) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:37:57,749] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:37:57,750] {logging_mixin.py:109} INFO - [2021-11-03 12:37:57,749] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:37:57,760] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:37:57,763] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.016 seconds
+[2021-11-03 12:38:27,810] {processor.py:163} INFO - Started process (PID=23948) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:38:27,810] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:38:27,811] {logging_mixin.py:109} INFO - [2021-11-03 12:38:27,811] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:38:27,823] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:38:27,825] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.018 seconds
+[2021-11-03 12:38:58,498] {processor.py:163} INFO - Started process (PID=24487) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:38:58,499] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:38:58,499] {logging_mixin.py:109} INFO - [2021-11-03 12:38:58,499] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:38:58,511] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:38:58,514] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.018 seconds
+[2021-11-03 12:39:28,604] {processor.py:163} INFO - Started process (PID=25003) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:39:28,604] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:39:28,605] {logging_mixin.py:109} INFO - [2021-11-03 12:39:28,605] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:39:28,615] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:39:28,618] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.016 seconds
+[2021-11-03 12:39:58,644] {processor.py:163} INFO - Started process (PID=25553) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:39:58,644] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:39:58,645] {logging_mixin.py:109} INFO - [2021-11-03 12:39:58,645] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:39:58,655] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:39:58,656] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.015 seconds
+[2021-11-03 12:40:28,858] {processor.py:163} INFO - Started process (PID=26102) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:40:28,859] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:40:28,859] {logging_mixin.py:109} INFO - [2021-11-03 12:40:28,859] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:40:28,869] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:40:28,871] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.015 seconds
+[2021-11-03 12:40:59,003] {processor.py:163} INFO - Started process (PID=26626) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:40:59,004] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:40:59,004] {logging_mixin.py:109} INFO - [2021-11-03 12:40:59,004] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:40:59,016] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:40:59,018] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.017 seconds
+[2021-11-03 12:41:29,148] {processor.py:163} INFO - Started process (PID=27157) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:41:29,148] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:41:29,149] {logging_mixin.py:109} INFO - [2021-11-03 12:41:29,149] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:41:29,159] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:41:29,162] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.016 seconds
+[2021-11-03 12:41:59,444] {processor.py:163} INFO - Started process (PID=27685) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:41:59,445] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:41:59,445] {logging_mixin.py:109} INFO - [2021-11-03 12:41:59,445] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:41:59,456] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:41:59,458] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.016 seconds
+[2021-11-03 12:42:29,570] {processor.py:163} INFO - Started process (PID=28266) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:42:29,571] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:42:29,571] {logging_mixin.py:109} INFO - [2021-11-03 12:42:29,571] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:42:29,582] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:42:29,585] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.017 seconds
+[2021-11-03 12:43:00,024] {processor.py:163} INFO - Started process (PID=28793) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:43:00,025] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:43:00,025] {logging_mixin.py:109} INFO - [2021-11-03 12:43:00,025] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:43:00,038] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:43:00,041] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.019 seconds
+[2021-11-03 12:43:30,252] {processor.py:163} INFO - Started process (PID=29340) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:43:30,253] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:43:30,253] {logging_mixin.py:109} INFO - [2021-11-03 12:43:30,253] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:43:30,264] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:43:30,266] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.016 seconds
+[2021-11-03 12:44:00,496] {processor.py:163} INFO - Started process (PID=29867) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:44:00,496] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:44:00,497] {logging_mixin.py:109} INFO - [2021-11-03 12:44:00,497] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:44:00,507] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:44:00,509] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.016 seconds
+[2021-11-03 12:44:30,693] {processor.py:163} INFO - Started process (PID=30475) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:44:30,694] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:44:30,694] {logging_mixin.py:109} INFO - [2021-11-03 12:44:30,694] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:44:30,718] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:44:30,722] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.031 seconds
+[2021-11-03 12:45:01,026] {processor.py:163} INFO - Started process (PID=31009) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:45:01,027] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:45:01,027] {logging_mixin.py:109} INFO - [2021-11-03 12:45:01,027] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:45:01,038] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:45:01,041] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.016 seconds
+[2021-11-03 12:45:31,308] {processor.py:163} INFO - Started process (PID=31507) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:45:31,309] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:45:31,310] {logging_mixin.py:109} INFO - [2021-11-03 12:45:31,309] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:45:31,332] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:45:31,338] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.032 seconds
+[2021-11-03 12:46:01,624] {processor.py:163} INFO - Started process (PID=31967) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:46:01,624] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:46:01,625] {logging_mixin.py:109} INFO - [2021-11-03 12:46:01,625] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:46:01,635] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:46:01,637] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.015 seconds
+[2021-11-03 12:46:31,885] {processor.py:163} INFO - Started process (PID=32467) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:46:31,886] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:46:31,886] {logging_mixin.py:109} INFO - [2021-11-03 12:46:31,886] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:46:31,898] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:46:31,900] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.017 seconds
+[2021-11-03 12:47:02,235] {processor.py:163} INFO - Started process (PID=510) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:47:02,236] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:47:02,236] {logging_mixin.py:109} INFO - [2021-11-03 12:47:02,236] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:47:02,248] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:47:02,250] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.017 seconds
+[2021-11-03 12:47:32,300] {processor.py:163} INFO - Started process (PID=1076) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:47:32,301] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:47:32,301] {logging_mixin.py:109} INFO - [2021-11-03 12:47:32,301] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:47:32,311] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:47:32,313] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.015 seconds
+[2021-11-03 12:48:02,442] {processor.py:163} INFO - Started process (PID=1780) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:48:02,443] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:48:02,443] {logging_mixin.py:109} INFO - [2021-11-03 12:48:02,443] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:48:02,454] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:48:02,457] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.017 seconds
+[2021-11-03 12:48:32,668] {processor.py:163} INFO - Started process (PID=2503) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:48:32,669] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:48:32,669] {logging_mixin.py:109} INFO - [2021-11-03 12:48:32,669] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:48:32,679] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:48:32,681] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.015 seconds
+[2021-11-03 12:49:03,030] {processor.py:163} INFO - Started process (PID=3447) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:49:03,031] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:49:03,032] {logging_mixin.py:109} INFO - [2021-11-03 12:49:03,031] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:49:03,043] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:49:03,045] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.017 seconds
+[2021-11-03 12:49:33,532] {processor.py:163} INFO - Started process (PID=4087) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:49:33,533] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:49:33,533] {logging_mixin.py:109} INFO - [2021-11-03 12:49:33,533] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:49:33,545] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:49:33,547] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.017 seconds
+[2021-11-03 12:50:03,712] {processor.py:163} INFO - Started process (PID=4782) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:50:03,712] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:50:03,713] {logging_mixin.py:109} INFO - [2021-11-03 12:50:03,713] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:50:03,722] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:50:03,724] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.015 seconds
+[2021-11-03 12:50:33,922] {processor.py:163} INFO - Started process (PID=5356) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:50:33,923] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:50:33,924] {logging_mixin.py:109} INFO - [2021-11-03 12:50:33,924] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:50:33,943] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:50:33,962] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.044 seconds
+[2021-11-03 12:51:04,414] {processor.py:163} INFO - Started process (PID=5900) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:51:04,415] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:51:04,416] {logging_mixin.py:109} INFO - [2021-11-03 12:51:04,416] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:51:04,440] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:51:04,447] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.036 seconds
+[2021-11-03 12:51:34,945] {processor.py:163} INFO - Started process (PID=6396) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:51:34,946] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:51:34,946] {logging_mixin.py:109} INFO - [2021-11-03 12:51:34,946] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:51:34,969] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:51:34,976] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.034 seconds
+[2021-11-03 12:52:05,145] {processor.py:163} INFO - Started process (PID=6838) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:52:05,146] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:52:05,146] {logging_mixin.py:109} INFO - [2021-11-03 12:52:05,146] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:52:05,157] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:52:05,160] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.018 seconds
+[2021-11-03 12:52:35,534] {processor.py:163} INFO - Started process (PID=7376) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:52:35,535] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:52:35,535] {logging_mixin.py:109} INFO - [2021-11-03 12:52:35,535] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:52:35,546] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:52:35,548] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.016 seconds
+[2021-11-03 12:53:05,780] {processor.py:163} INFO - Started process (PID=7845) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:53:05,780] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:53:05,781] {logging_mixin.py:109} INFO - [2021-11-03 12:53:05,781] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:53:05,793] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:53:05,796] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.018 seconds
+[2021-11-03 12:53:35,912] {processor.py:163} INFO - Started process (PID=8311) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:53:35,913] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:53:35,913] {logging_mixin.py:109} INFO - [2021-11-03 12:53:35,913] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:53:35,924] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:53:35,926] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.016 seconds
+[2021-11-03 12:54:06,082] {processor.py:163} INFO - Started process (PID=8790) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:54:06,083] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:54:06,083] {logging_mixin.py:109} INFO - [2021-11-03 12:54:06,083] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:54:06,094] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:54:06,097] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.017 seconds
+[2021-11-03 12:54:36,289] {processor.py:163} INFO - Started process (PID=9311) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:54:36,290] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:54:36,290] {logging_mixin.py:109} INFO - [2021-11-03 12:54:36,290] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:54:36,310] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:54:36,313] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.026 seconds
+[2021-11-03 12:55:06,640] {processor.py:163} INFO - Started process (PID=9857) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:55:06,641] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:55:06,641] {logging_mixin.py:109} INFO - [2021-11-03 12:55:06,641] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:55:06,652] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:55:06,655] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.017 seconds
+[2021-11-03 12:55:36,985] {processor.py:163} INFO - Started process (PID=10329) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:55:36,985] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:55:36,986] {logging_mixin.py:109} INFO - [2021-11-03 12:55:36,986] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:55:36,998] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:55:37,001] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.018 seconds
+[2021-11-03 12:56:07,498] {processor.py:163} INFO - Started process (PID=10671) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:56:07,499] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:56:07,500] {logging_mixin.py:109} INFO - [2021-11-03 12:56:07,500] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:56:07,677] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:56:07,689] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.194 seconds
+[2021-11-03 12:56:38,114] {processor.py:163} INFO - Started process (PID=11023) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:56:38,115] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:56:38,115] {logging_mixin.py:109} INFO - [2021-11-03 12:56:38,115] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:56:38,137] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:56:38,140] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.030 seconds
+[2021-11-03 12:57:08,247] {processor.py:163} INFO - Started process (PID=11508) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:57:08,248] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:57:08,248] {logging_mixin.py:109} INFO - [2021-11-03 12:57:08,248] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:57:08,260] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:57:08,263] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.019 seconds
+[2021-11-03 12:57:38,339] {processor.py:163} INFO - Started process (PID=12039) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:57:38,340] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:57:38,341] {logging_mixin.py:109} INFO - [2021-11-03 12:57:38,340] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:57:38,352] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:57:38,355] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.020 seconds
+[2021-11-03 12:58:08,411] {processor.py:163} INFO - Started process (PID=12512) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:58:08,411] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:58:08,412] {logging_mixin.py:109} INFO - [2021-11-03 12:58:08,412] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:58:08,423] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:58:08,425] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.018 seconds
+[2021-11-03 12:58:39,060] {processor.py:163} INFO - Started process (PID=12935) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:58:39,063] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:58:39,064] {logging_mixin.py:109} INFO - [2021-11-03 12:58:39,064] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:58:39,104] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:58:39,108] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.052 seconds
+[2021-11-03 12:59:09,304] {processor.py:163} INFO - Started process (PID=13455) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:59:09,304] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:59:09,305] {logging_mixin.py:109} INFO - [2021-11-03 12:59:09,305] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:59:09,317] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:59:09,319] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.018 seconds
+[2021-11-03 12:59:40,248] {processor.py:163} INFO - Started process (PID=13943) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:59:40,250] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 12:59:40,251] {logging_mixin.py:109} INFO - [2021-11-03 12:59:40,251] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:59:40,281] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 12:59:40,284] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.046 seconds
+[2021-11-03 13:00:10,522] {processor.py:163} INFO - Started process (PID=14267) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:00:10,523] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 13:00:10,523] {logging_mixin.py:109} INFO - [2021-11-03 13:00:10,523] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:00:10,536] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:00:10,538] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.019 seconds
+[2021-11-03 13:00:40,563] {processor.py:163} INFO - Started process (PID=14775) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:00:40,563] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 13:00:40,564] {logging_mixin.py:109} INFO - [2021-11-03 13:00:40,564] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:00:40,576] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:00:40,578] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.017 seconds
+[2021-11-03 13:01:10,735] {processor.py:163} INFO - Started process (PID=15339) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:01:10,736] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 13:01:10,736] {logging_mixin.py:109} INFO - [2021-11-03 13:01:10,736] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:01:10,747] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:01:10,750] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.017 seconds
+[2021-11-03 13:01:40,872] {processor.py:163} INFO - Started process (PID=15900) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:01:40,873] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 13:01:40,873] {logging_mixin.py:109} INFO - [2021-11-03 13:01:40,873] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:01:40,886] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:01:40,888] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.018 seconds
+[2021-11-03 13:02:10,979] {processor.py:163} INFO - Started process (PID=16471) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:02:10,980] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 13:02:10,980] {logging_mixin.py:109} INFO - [2021-11-03 13:02:10,980] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:02:10,992] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:02:10,995] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.018 seconds
+[2021-11-03 13:02:41,338] {processor.py:163} INFO - Started process (PID=17004) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:02:41,339] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 13:02:41,339] {logging_mixin.py:109} INFO - [2021-11-03 13:02:41,339] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:02:41,350] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:02:41,353] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.017 seconds
+[2021-11-03 13:03:11,564] {processor.py:163} INFO - Started process (PID=17564) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:03:11,565] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 13:03:11,566] {logging_mixin.py:109} INFO - [2021-11-03 13:03:11,566] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:03:11,577] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:03:11,579] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.017 seconds
+[2021-11-03 13:03:41,663] {processor.py:163} INFO - Started process (PID=18145) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:03:41,663] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 13:03:41,664] {logging_mixin.py:109} INFO - [2021-11-03 13:03:41,664] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:03:41,676] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:03:41,679] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.018 seconds
+[2021-11-03 13:04:11,914] {processor.py:163} INFO - Started process (PID=18686) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:04:11,915] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 13:04:11,915] {logging_mixin.py:109} INFO - [2021-11-03 13:04:11,915] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:04:11,928] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:04:11,932] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.020 seconds
+[2021-11-03 13:04:42,153] {processor.py:163} INFO - Started process (PID=19243) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:04:42,154] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 13:04:42,154] {logging_mixin.py:109} INFO - [2021-11-03 13:04:42,154] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:04:42,185] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:04:42,188] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.038 seconds
+[2021-11-03 13:05:13,035] {processor.py:163} INFO - Started process (PID=19720) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:05:13,036] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 13:05:13,037] {logging_mixin.py:109} INFO - [2021-11-03 13:05:13,037] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:05:13,050] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:05:13,053] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.020 seconds
+[2021-11-03 13:05:43,935] {processor.py:163} INFO - Started process (PID=20086) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:05:43,937] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 13:05:43,939] {logging_mixin.py:109} INFO - [2021-11-03 13:05:43,939] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:05:43,963] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:05:43,968] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.038 seconds
+[2021-11-03 13:06:14,381] {processor.py:163} INFO - Started process (PID=20493) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:06:14,383] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 13:06:14,387] {logging_mixin.py:109} INFO - [2021-11-03 13:06:14,384] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:06:14,422] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:06:14,431] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.053 seconds
+[2021-11-03 13:06:44,576] {processor.py:163} INFO - Started process (PID=20998) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:06:44,577] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 13:06:44,577] {logging_mixin.py:109} INFO - [2021-11-03 13:06:44,577] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:06:44,588] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:06:44,590] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.017 seconds
+[2021-11-03 13:07:15,017] {processor.py:163} INFO - Started process (PID=21586) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:07:15,018] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 13:07:15,019] {logging_mixin.py:109} INFO - [2021-11-03 13:07:15,019] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:07:15,031] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:07:15,033] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.019 seconds
+[2021-11-03 13:07:45,459] {processor.py:163} INFO - Started process (PID=22169) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:07:45,459] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 13:07:45,460] {logging_mixin.py:109} INFO - [2021-11-03 13:07:45,460] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:07:45,471] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:07:45,473] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.017 seconds
+[2021-11-03 13:08:17,120] {processor.py:163} INFO - Started process (PID=22538) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:08:17,124] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 13:08:17,125] {logging_mixin.py:109} INFO - [2021-11-03 13:08:17,124] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:08:17,237] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:08:17,269] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.172 seconds
+[2021-11-03 13:08:48,834] {processor.py:163} INFO - Started process (PID=22756) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:08:48,848] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 13:08:48,849] {logging_mixin.py:109} INFO - [2021-11-03 13:08:48,849] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:08:48,941] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:08:48,950] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.143 seconds
+[2021-11-03 13:09:19,518] {processor.py:163} INFO - Started process (PID=23025) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:09:19,525] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 13:09:19,527] {logging_mixin.py:109} INFO - [2021-11-03 13:09:19,527] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:09:19,563] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:09:19,573] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.058 seconds
+[2021-11-03 13:09:50,056] {processor.py:163} INFO - Started process (PID=23549) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:09:50,057] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 13:09:50,058] {logging_mixin.py:109} INFO - [2021-11-03 13:09:50,057] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:09:50,079] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:09:50,081] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.027 seconds
+[2021-11-03 13:10:20,336] {processor.py:163} INFO - Started process (PID=24034) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:10:20,337] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 13:10:20,338] {logging_mixin.py:109} INFO - [2021-11-03 13:10:20,338] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:10:20,359] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 13:10:20,362] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.028 seconds
+[2021-11-03 14:41:12,629] {processor.py:163} INFO - Started process (PID=24753) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:41:12,640] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 14:41:12,641] {logging_mixin.py:109} INFO - [2021-11-03 14:41:12,641] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:41:12,673] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:41:12,681] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.057 seconds
+[2021-11-03 14:41:13,480] {processor.py:163} INFO - Started process (PID=24790) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:41:13,481] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 14:41:13,481] {logging_mixin.py:109} INFO - [2021-11-03 14:41:13,481] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:41:13,542] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:41:13,563] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.094 seconds
+[2021-11-03 14:41:44,070] {processor.py:163} INFO - Started process (PID=25362) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:41:44,071] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 14:41:44,072] {logging_mixin.py:109} INFO - [2021-11-03 14:41:44,072] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:41:44,088] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:41:44,092] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.026 seconds
+[2021-11-03 14:42:14,339] {processor.py:163} INFO - Started process (PID=25767) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:42:14,340] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 14:42:14,340] {logging_mixin.py:109} INFO - [2021-11-03 14:42:14,340] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:42:14,353] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:42:14,356] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.021 seconds
+[2021-11-03 14:42:44,866] {processor.py:163} INFO - Started process (PID=26182) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:42:44,866] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 14:42:44,867] {logging_mixin.py:109} INFO - [2021-11-03 14:42:44,867] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:42:44,882] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:42:44,885] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.023 seconds
+[2021-11-03 14:43:15,104] {processor.py:163} INFO - Started process (PID=26653) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:43:15,105] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 14:43:15,106] {logging_mixin.py:109} INFO - [2021-11-03 14:43:15,106] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:43:15,120] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:43:15,123] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.022 seconds
+[2021-11-03 14:43:45,594] {processor.py:163} INFO - Started process (PID=27059) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:43:45,595] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 14:43:45,596] {logging_mixin.py:109} INFO - [2021-11-03 14:43:45,596] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:43:45,613] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:43:45,616] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.026 seconds
+[2021-11-03 14:44:15,949] {processor.py:163} INFO - Started process (PID=27463) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:44:15,950] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 14:44:15,951] {logging_mixin.py:109} INFO - [2021-11-03 14:44:15,951] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:44:15,965] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:44:15,967] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.021 seconds
+[2021-11-03 14:44:46,369] {processor.py:163} INFO - Started process (PID=27865) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:44:46,370] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 14:44:46,371] {logging_mixin.py:109} INFO - [2021-11-03 14:44:46,370] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:44:46,385] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:44:46,388] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.023 seconds
+[2021-11-03 14:45:16,628] {processor.py:163} INFO - Started process (PID=28273) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:45:16,629] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 14:45:16,630] {logging_mixin.py:109} INFO - [2021-11-03 14:45:16,630] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:45:16,645] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:45:16,650] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.027 seconds
+[2021-11-03 14:45:47,167] {processor.py:163} INFO - Started process (PID=28666) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:45:47,168] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 14:45:47,168] {logging_mixin.py:109} INFO - [2021-11-03 14:45:47,168] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:45:47,186] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:45:47,190] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.026 seconds
+[2021-11-03 14:46:17,505] {processor.py:163} INFO - Started process (PID=29080) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:46:17,506] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 14:46:17,506] {logging_mixin.py:109} INFO - [2021-11-03 14:46:17,506] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:46:17,523] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:46:17,526] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.024 seconds
+[2021-11-03 14:46:48,025] {processor.py:163} INFO - Started process (PID=29487) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:46:48,025] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 14:46:48,026] {logging_mixin.py:109} INFO - [2021-11-03 14:46:48,026] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:46:48,042] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:46:48,045] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.024 seconds
+[2021-11-03 14:47:18,521] {processor.py:163} INFO - Started process (PID=29908) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:47:18,522] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 14:47:18,523] {logging_mixin.py:109} INFO - [2021-11-03 14:47:18,523] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:47:18,539] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:47:18,542] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.024 seconds
+[2021-11-03 14:47:49,025] {processor.py:163} INFO - Started process (PID=30405) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:47:49,025] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 14:47:49,026] {logging_mixin.py:109} INFO - [2021-11-03 14:47:49,026] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:47:49,042] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:47:49,046] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.024 seconds
+[2021-11-03 14:48:19,187] {processor.py:163} INFO - Started process (PID=30857) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:48:19,188] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 14:48:19,188] {logging_mixin.py:109} INFO - [2021-11-03 14:48:19,188] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:48:19,205] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:48:19,208] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.024 seconds
+[2021-11-03 14:48:49,315] {processor.py:163} INFO - Started process (PID=31262) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:48:49,316] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 14:48:49,317] {logging_mixin.py:109} INFO - [2021-11-03 14:48:49,316] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:48:49,331] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:48:49,334] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.022 seconds
+[2021-11-03 14:49:19,468] {processor.py:163} INFO - Started process (PID=31744) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:49:19,470] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 14:49:19,470] {logging_mixin.py:109} INFO - [2021-11-03 14:49:19,470] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:49:19,487] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:49:19,491] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.028 seconds
+[2021-11-03 14:49:50,045] {processor.py:163} INFO - Started process (PID=32190) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:49:50,046] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 14:49:50,046] {logging_mixin.py:109} INFO - [2021-11-03 14:49:50,046] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:49:50,063] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:49:50,067] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.025 seconds
+[2021-11-03 14:50:20,317] {processor.py:163} INFO - Started process (PID=32596) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:50:20,320] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 14:50:20,321] {logging_mixin.py:109} INFO - [2021-11-03 14:50:20,321] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:50:20,352] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:50:20,359] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.052 seconds
+[2021-11-03 14:50:50,665] {processor.py:163} INFO - Started process (PID=530) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:50:50,666] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 14:50:50,666] {logging_mixin.py:109} INFO - [2021-11-03 14:50:50,666] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:50:50,682] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:50:50,687] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.025 seconds
+[2021-11-03 14:51:21,100] {processor.py:163} INFO - Started process (PID=957) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:51:21,101] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 14:51:21,102] {logging_mixin.py:109} INFO - [2021-11-03 14:51:21,102] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:51:21,115] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:51:21,118] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.021 seconds
+[2021-11-03 14:51:51,503] {processor.py:163} INFO - Started process (PID=1481) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:51:51,504] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 14:51:51,505] {logging_mixin.py:109} INFO - [2021-11-03 14:51:51,505] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:51:51,521] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:51:51,525] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.025 seconds
+[2021-11-03 14:52:21,549] {processor.py:163} INFO - Started process (PID=2121) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:52:21,550] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 14:52:21,551] {logging_mixin.py:109} INFO - [2021-11-03 14:52:21,551] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:52:21,564] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:52:21,567] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.021 seconds
+[2021-11-03 14:52:52,070] {processor.py:163} INFO - Started process (PID=2626) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:52:52,071] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 14:52:52,072] {logging_mixin.py:109} INFO - [2021-11-03 14:52:52,071] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:52:52,085] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:52:52,089] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.023 seconds
+[2021-11-03 14:53:22,375] {processor.py:163} INFO - Started process (PID=3462) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:53:22,376] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 14:53:22,377] {logging_mixin.py:109} INFO - [2021-11-03 14:53:22,376] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:53:22,394] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:53:22,398] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.026 seconds
+[2021-11-03 14:53:52,488] {processor.py:163} INFO - Started process (PID=3973) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:53:52,489] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 14:53:52,490] {logging_mixin.py:109} INFO - [2021-11-03 14:53:52,490] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:53:52,503] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:53:52,506] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.021 seconds
+[2021-11-03 14:54:22,906] {processor.py:163} INFO - Started process (PID=4443) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:54:22,907] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 14:54:22,907] {logging_mixin.py:109} INFO - [2021-11-03 14:54:22,907] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:54:22,923] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:54:22,926] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.023 seconds
+[2021-11-03 14:54:53,088] {processor.py:163} INFO - Started process (PID=4985) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:54:53,089] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 14:54:53,090] {logging_mixin.py:109} INFO - [2021-11-03 14:54:53,090] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:54:53,103] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:54:53,106] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.020 seconds
+[2021-11-03 14:55:23,166] {processor.py:163} INFO - Started process (PID=5433) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:55:23,167] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 14:55:23,167] {logging_mixin.py:109} INFO - [2021-11-03 14:55:23,167] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:55:23,182] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:55:23,186] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.023 seconds
+[2021-11-03 14:55:53,345] {processor.py:163} INFO - Started process (PID=5821) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:55:53,346] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 14:55:53,346] {logging_mixin.py:109} INFO - [2021-11-03 14:55:53,346] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:55:53,362] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:55:53,366] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.024 seconds
+[2021-11-03 14:56:23,598] {processor.py:163} INFO - Started process (PID=6257) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:56:23,599] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 14:56:23,600] {logging_mixin.py:109} INFO - [2021-11-03 14:56:23,600] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:56:23,613] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:56:23,616] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.020 seconds
+[2021-11-03 14:56:53,760] {processor.py:163} INFO - Started process (PID=6677) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:56:53,761] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 14:56:53,762] {logging_mixin.py:109} INFO - [2021-11-03 14:56:53,762] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:56:53,776] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:56:53,779] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.022 seconds
+[2021-11-03 14:57:24,010] {processor.py:163} INFO - Started process (PID=7074) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:57:24,010] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 14:57:24,011] {logging_mixin.py:109} INFO - [2021-11-03 14:57:24,011] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:57:24,026] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:57:24,029] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.023 seconds
+[2021-11-03 14:57:54,481] {processor.py:163} INFO - Started process (PID=7516) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:57:54,482] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 14:57:54,483] {logging_mixin.py:109} INFO - [2021-11-03 14:57:54,483] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:57:54,496] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:57:54,499] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.021 seconds
+[2021-11-03 14:58:24,571] {processor.py:163} INFO - Started process (PID=7917) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:58:24,572] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 14:58:24,573] {logging_mixin.py:109} INFO - [2021-11-03 14:58:24,572] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:58:24,604] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:58:24,609] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.042 seconds
+[2021-11-03 14:58:54,749] {processor.py:163} INFO - Started process (PID=8295) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:58:54,755] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 14:58:54,756] {logging_mixin.py:109} INFO - [2021-11-03 14:58:54,756] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:58:54,779] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:58:54,784] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.038 seconds
+[2021-11-03 14:59:25,719] {processor.py:163} INFO - Started process (PID=8736) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:59:25,720] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 14:59:25,720] {logging_mixin.py:109} INFO - [2021-11-03 14:59:25,720] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:59:25,737] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:59:25,741] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.025 seconds
+[2021-11-03 14:59:56,219] {processor.py:163} INFO - Started process (PID=9136) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:59:56,220] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 14:59:56,221] {logging_mixin.py:109} INFO - [2021-11-03 14:59:56,221] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:59:56,264] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 14:59:56,268] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.053 seconds
+[2021-11-03 15:00:26,379] {processor.py:163} INFO - Started process (PID=9547) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:00:26,380] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 15:00:26,381] {logging_mixin.py:109} INFO - [2021-11-03 15:00:26,381] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:00:26,395] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:00:26,398] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.022 seconds
+[2021-11-03 15:00:56,934] {processor.py:163} INFO - Started process (PID=9970) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:00:56,934] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 15:00:56,935] {logging_mixin.py:109} INFO - [2021-11-03 15:00:56,935] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:00:56,948] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:00:56,951] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.020 seconds
+[2021-11-03 15:01:27,120] {processor.py:163} INFO - Started process (PID=10378) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:01:27,121] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 15:01:27,122] {logging_mixin.py:109} INFO - [2021-11-03 15:01:27,122] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:01:27,139] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:01:27,143] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.026 seconds
+[2021-11-03 15:01:57,528] {processor.py:163} INFO - Started process (PID=10772) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:01:57,529] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 15:01:57,530] {logging_mixin.py:109} INFO - [2021-11-03 15:01:57,530] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:01:57,546] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:01:57,550] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.025 seconds
+[2021-11-03 15:02:27,909] {processor.py:163} INFO - Started process (PID=11167) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:02:27,909] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 15:02:27,910] {logging_mixin.py:109} INFO - [2021-11-03 15:02:27,910] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:02:27,925] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:02:27,929] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.024 seconds
+[2021-11-03 15:02:58,662] {processor.py:163} INFO - Started process (PID=11653) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:02:58,663] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 15:02:58,664] {logging_mixin.py:109} INFO - [2021-11-03 15:02:58,664] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:02:58,700] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:02:58,703] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.044 seconds
+[2021-11-03 15:03:28,811] {processor.py:163} INFO - Started process (PID=12048) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:03:28,812] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 15:03:28,813] {logging_mixin.py:109} INFO - [2021-11-03 15:03:28,813] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:03:28,826] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:03:28,830] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.021 seconds
+[2021-11-03 15:03:59,178] {processor.py:163} INFO - Started process (PID=12461) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:03:59,183] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 15:03:59,184] {logging_mixin.py:109} INFO - [2021-11-03 15:03:59,184] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:03:59,210] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:03:59,216] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.045 seconds
+[2021-11-03 15:04:29,613] {processor.py:163} INFO - Started process (PID=12865) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:04:29,613] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 15:04:29,614] {logging_mixin.py:109} INFO - [2021-11-03 15:04:29,614] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:04:29,627] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:04:29,630] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.020 seconds
+[2021-11-03 15:05:00,056] {processor.py:163} INFO - Started process (PID=13266) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:05:00,057] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 15:05:00,057] {logging_mixin.py:109} INFO - [2021-11-03 15:05:00,057] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:05:00,071] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:05:00,075] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.022 seconds
+[2021-11-03 15:05:30,575] {processor.py:163} INFO - Started process (PID=13696) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:05:30,576] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 15:05:30,576] {logging_mixin.py:109} INFO - [2021-11-03 15:05:30,576] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:05:30,592] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:05:30,595] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.023 seconds
+[2021-11-03 15:06:00,838] {processor.py:163} INFO - Started process (PID=14105) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:06:00,839] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 15:06:00,840] {logging_mixin.py:109} INFO - [2021-11-03 15:06:00,840] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:06:00,855] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:06:00,858] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.023 seconds
+[2021-11-03 15:06:31,083] {processor.py:163} INFO - Started process (PID=14521) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:06:31,084] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 15:06:31,085] {logging_mixin.py:109} INFO - [2021-11-03 15:06:31,084] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:06:31,098] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:06:31,102] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.022 seconds
+[2021-11-03 15:07:01,224] {processor.py:163} INFO - Started process (PID=14962) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:07:01,225] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 15:07:01,225] {logging_mixin.py:109} INFO - [2021-11-03 15:07:01,225] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:07:01,240] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:07:01,243] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.022 seconds
+[2021-11-03 15:07:31,390] {processor.py:163} INFO - Started process (PID=15377) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:07:31,390] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 15:07:31,391] {logging_mixin.py:109} INFO - [2021-11-03 15:07:31,391] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:07:31,406] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:07:31,409] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.022 seconds
+[2021-11-03 15:08:01,827] {processor.py:163} INFO - Started process (PID=15791) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:08:01,828] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 15:08:01,828] {logging_mixin.py:109} INFO - [2021-11-03 15:08:01,828] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:08:01,844] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:08:01,847] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.023 seconds
+[2021-11-03 15:08:32,259] {processor.py:163} INFO - Started process (PID=16205) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:08:32,260] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 15:08:32,260] {logging_mixin.py:109} INFO - [2021-11-03 15:08:32,260] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:08:32,273] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:08:32,276] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.020 seconds
+[2021-11-03 15:09:02,551] {processor.py:163} INFO - Started process (PID=16600) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:09:02,552] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 15:09:02,552] {logging_mixin.py:109} INFO - [2021-11-03 15:09:02,552] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:09:02,567] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:09:02,571] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.023 seconds
+[2021-11-03 15:09:32,638] {processor.py:163} INFO - Started process (PID=16997) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:09:32,639] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 15:09:32,639] {logging_mixin.py:109} INFO - [2021-11-03 15:09:32,639] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:09:32,653] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:09:32,657] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.021 seconds
+[2021-11-03 15:10:02,781] {processor.py:163} INFO - Started process (PID=17408) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:10:02,782] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 15:10:02,783] {logging_mixin.py:109} INFO - [2021-11-03 15:10:02,783] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:10:02,796] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:10:02,800] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.021 seconds
+[2021-11-03 15:10:32,908] {processor.py:163} INFO - Started process (PID=17836) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:10:32,909] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 15:10:32,910] {logging_mixin.py:109} INFO - [2021-11-03 15:10:32,910] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:10:32,923] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 15:10:32,926] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.021 seconds
+[2021-11-03 16:29:26,110] {processor.py:163} INFO - Started process (PID=18317) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 16:29:26,124] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 16:29:26,125] {logging_mixin.py:109} INFO - [2021-11-03 16:29:26,124] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 16:29:26,183] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 16:29:26,189] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.084 seconds
+[2021-11-03 16:29:56,286] {processor.py:163} INFO - Started process (PID=18784) to work on /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 16:29:56,300] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls for tasks to queue
+[2021-11-03 16:29:56,300] {logging_mixin.py:109} INFO - [2021-11-03 16:29:56,300] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 16:29:56,332] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls
+[2021-11-03 16:29:56,339] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/Sales Discount Remove_30072020_30248.xls took 0.058 seconds
