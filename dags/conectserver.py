@@ -438,4 +438,3 @@ with DAG('connectserver',default_args=default_args,start_date=datetime(2021,10,1
     )
 
 
-    get_excel >> put_excel

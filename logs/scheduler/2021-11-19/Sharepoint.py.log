@@ -1,0 +1,679 @@
+[2021-11-19 10:39:20,031] {processor.py:163} INFO - Started process (PID=9252) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:39:20,033] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 10:39:20,034] {logging_mixin.py:109} INFO - [2021-11-19 10:39:20,034] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:39:20,881] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:39:20,895] {logging_mixin.py:109} INFO - [2021-11-19 10:39:20,894] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 10:39:20,923] {logging_mixin.py:109} INFO - [2021-11-19 10:39:20,922] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 10:39:20,932] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.905 seconds
+[2021-11-19 10:39:59,946] {processor.py:163} INFO - Started process (PID=10418) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:39:59,947] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 10:39:59,950] {logging_mixin.py:109} INFO - [2021-11-19 10:39:59,949] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:40:02,688] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:40:02,794] {logging_mixin.py:109} INFO - [2021-11-19 10:40:02,794] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 10:40:02,891] {logging_mixin.py:109} INFO - [2021-11-19 10:40:02,890] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 10:40:02,934] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 2.992 seconds
+[2021-11-19 10:40:38,741] {processor.py:163} INFO - Started process (PID=11091) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:40:38,748] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 10:40:38,753] {logging_mixin.py:109} INFO - [2021-11-19 10:40:38,753] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:40:41,953] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:40:42,035] {logging_mixin.py:109} INFO - [2021-11-19 10:40:42,034] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 10:40:42,180] {logging_mixin.py:109} INFO - [2021-11-19 10:40:42,180] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 10:40:42,276] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 3.548 seconds
+[2021-11-19 10:41:13,006] {processor.py:163} INFO - Started process (PID=11912) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:41:13,007] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 10:41:13,008] {logging_mixin.py:109} INFO - [2021-11-19 10:41:13,008] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:41:13,820] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:41:13,833] {logging_mixin.py:109} INFO - [2021-11-19 10:41:13,833] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 10:41:13,857] {logging_mixin.py:109} INFO - [2021-11-19 10:41:13,857] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 10:41:13,871] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.869 seconds
+[2021-11-19 10:41:45,279] {processor.py:163} INFO - Started process (PID=12865) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:41:45,292] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 10:41:45,297] {logging_mixin.py:109} INFO - [2021-11-19 10:41:45,297] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:41:46,534] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:41:46,552] {logging_mixin.py:109} INFO - [2021-11-19 10:41:46,552] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 10:41:46,587] {logging_mixin.py:109} INFO - [2021-11-19 10:41:46,587] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 10:41:46,603] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 1.364 seconds
+[2021-11-19 10:42:20,777] {processor.py:163} INFO - Started process (PID=13707) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:42:20,781] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 10:42:20,790] {logging_mixin.py:109} INFO - [2021-11-19 10:42:20,788] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:42:23,092] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:42:23,140] {logging_mixin.py:109} INFO - [2021-11-19 10:42:23,140] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 10:42:23,190] {logging_mixin.py:109} INFO - [2021-11-19 10:42:23,190] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 10:42:23,223] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 2.471 seconds
+[2021-11-19 10:42:54,806] {processor.py:163} INFO - Started process (PID=14552) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:42:54,807] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 10:42:54,808] {logging_mixin.py:109} INFO - [2021-11-19 10:42:54,808] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:42:55,473] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:42:55,484] {logging_mixin.py:109} INFO - [2021-11-19 10:42:55,484] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 10:42:55,501] {logging_mixin.py:109} INFO - [2021-11-19 10:42:55,501] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 10:42:55,514] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.712 seconds
+[2021-11-19 10:43:26,774] {processor.py:163} INFO - Started process (PID=15156) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:43:26,775] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 10:43:26,776] {logging_mixin.py:109} INFO - [2021-11-19 10:43:26,776] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:43:27,932] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:43:27,955] {logging_mixin.py:109} INFO - [2021-11-19 10:43:27,954] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 10:43:27,986] {logging_mixin.py:109} INFO - [2021-11-19 10:43:27,986] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 10:43:28,001] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 1.230 seconds
+[2021-11-19 10:43:58,789] {processor.py:163} INFO - Started process (PID=15751) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:43:58,790] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 10:43:58,791] {logging_mixin.py:109} INFO - [2021-11-19 10:43:58,791] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:43:59,392] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:43:59,407] {logging_mixin.py:109} INFO - [2021-11-19 10:43:59,407] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 10:43:59,434] {logging_mixin.py:109} INFO - [2021-11-19 10:43:59,434] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 10:43:59,447] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.661 seconds
+[2021-11-19 10:44:30,742] {processor.py:163} INFO - Started process (PID=16341) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:44:30,743] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 10:44:30,744] {logging_mixin.py:109} INFO - [2021-11-19 10:44:30,744] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:44:31,642] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:44:31,680] {logging_mixin.py:109} INFO - [2021-11-19 10:44:31,679] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 10:44:31,699] {logging_mixin.py:109} INFO - [2021-11-19 10:44:31,699] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 10:44:31,718] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.979 seconds
+[2021-11-19 10:45:02,291] {processor.py:163} INFO - Started process (PID=17025) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:45:02,292] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 10:45:02,293] {logging_mixin.py:109} INFO - [2021-11-19 10:45:02,293] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:45:02,947] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:45:02,958] {logging_mixin.py:109} INFO - [2021-11-19 10:45:02,958] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 10:45:02,981] {logging_mixin.py:109} INFO - [2021-11-19 10:45:02,981] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 10:45:02,991] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.703 seconds
+[2021-11-19 10:45:34,628] {processor.py:163} INFO - Started process (PID=17575) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:45:34,636] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 10:45:34,637] {logging_mixin.py:109} INFO - [2021-11-19 10:45:34,636] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:45:35,764] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:45:35,780] {logging_mixin.py:109} INFO - [2021-11-19 10:45:35,780] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 10:45:35,799] {logging_mixin.py:109} INFO - [2021-11-19 10:45:35,799] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 10:45:35,808] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 1.185 seconds
+[2021-11-19 10:46:07,498] {processor.py:163} INFO - Started process (PID=18059) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:46:07,499] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 10:46:07,501] {logging_mixin.py:109} INFO - [2021-11-19 10:46:07,500] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:46:08,340] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:46:08,361] {logging_mixin.py:109} INFO - [2021-11-19 10:46:08,361] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 10:46:08,387] {logging_mixin.py:109} INFO - [2021-11-19 10:46:08,387] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 10:46:08,398] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.903 seconds
+[2021-11-19 10:46:39,003] {processor.py:163} INFO - Started process (PID=18606) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:46:39,006] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 10:46:39,007] {logging_mixin.py:109} INFO - [2021-11-19 10:46:39,007] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:46:39,973] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:46:39,983] {logging_mixin.py:109} INFO - [2021-11-19 10:46:39,983] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 10:46:40,015] {logging_mixin.py:109} INFO - [2021-11-19 10:46:40,015] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 10:46:40,036] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 1.037 seconds
+[2021-11-19 10:47:10,461] {processor.py:163} INFO - Started process (PID=19589) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:47:10,462] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 10:47:10,463] {logging_mixin.py:109} INFO - [2021-11-19 10:47:10,463] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:47:11,473] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:47:11,500] {logging_mixin.py:109} INFO - [2021-11-19 10:47:11,500] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 10:47:11,551] {logging_mixin.py:109} INFO - [2021-11-19 10:47:11,551] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 10:47:11,574] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 1.118 seconds
+[2021-11-19 10:47:43,041] {processor.py:163} INFO - Started process (PID=20321) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:47:43,042] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 10:47:43,043] {logging_mixin.py:109} INFO - [2021-11-19 10:47:43,043] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:47:43,800] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:47:43,810] {logging_mixin.py:109} INFO - [2021-11-19 10:47:43,810] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 10:47:43,831] {logging_mixin.py:109} INFO - [2021-11-19 10:47:43,831] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 10:47:43,840] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.803 seconds
+[2021-11-19 10:48:15,057] {processor.py:163} INFO - Started process (PID=21399) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:48:15,058] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 10:48:15,059] {logging_mixin.py:109} INFO - [2021-11-19 10:48:15,059] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:48:16,123] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:48:16,141] {logging_mixin.py:109} INFO - [2021-11-19 10:48:16,141] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 10:48:16,177] {logging_mixin.py:109} INFO - [2021-11-19 10:48:16,177] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 10:48:16,193] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 1.141 seconds
+[2021-11-19 10:48:48,032] {processor.py:163} INFO - Started process (PID=21925) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:48:48,033] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 10:48:48,034] {logging_mixin.py:109} INFO - [2021-11-19 10:48:48,033] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:48:48,841] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:48:48,872] {logging_mixin.py:109} INFO - [2021-11-19 10:48:48,872] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 10:48:48,916] {logging_mixin.py:109} INFO - [2021-11-19 10:48:48,916] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 10:48:48,957] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.928 seconds
+[2021-11-19 10:49:20,596] {processor.py:163} INFO - Started process (PID=22493) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:49:20,597] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 10:49:20,598] {logging_mixin.py:109} INFO - [2021-11-19 10:49:20,598] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:49:21,470] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:49:21,482] {logging_mixin.py:109} INFO - [2021-11-19 10:49:21,482] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 10:49:21,501] {logging_mixin.py:109} INFO - [2021-11-19 10:49:21,501] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 10:49:21,516] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.924 seconds
+[2021-11-19 10:49:53,124] {processor.py:163} INFO - Started process (PID=23031) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:49:53,132] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 10:49:53,133] {logging_mixin.py:109} INFO - [2021-11-19 10:49:53,132] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:49:53,884] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:49:53,896] {logging_mixin.py:109} INFO - [2021-11-19 10:49:53,896] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 10:49:53,922] {logging_mixin.py:109} INFO - [2021-11-19 10:49:53,922] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 10:49:53,933] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.812 seconds
+[2021-11-19 10:50:25,181] {processor.py:163} INFO - Started process (PID=23657) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:50:25,182] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 10:50:25,183] {logging_mixin.py:109} INFO - [2021-11-19 10:50:25,183] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:50:26,102] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:50:26,120] {logging_mixin.py:109} INFO - [2021-11-19 10:50:26,120] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 10:50:26,144] {logging_mixin.py:109} INFO - [2021-11-19 10:50:26,144] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 10:50:26,169] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.992 seconds
+[2021-11-19 10:51:00,220] {processor.py:163} INFO - Started process (PID=24378) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:51:00,221] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 10:51:00,222] {logging_mixin.py:109} INFO - [2021-11-19 10:51:00,222] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:51:04,084] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:51:04,139] {logging_mixin.py:109} INFO - [2021-11-19 10:51:04,139] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 10:51:04,267] {logging_mixin.py:109} INFO - [2021-11-19 10:51:04,267] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 10:51:04,355] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 4.169 seconds
+[2021-11-19 10:51:35,033] {processor.py:163} INFO - Started process (PID=25006) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:51:35,035] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 10:51:35,036] {logging_mixin.py:109} INFO - [2021-11-19 10:51:35,035] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:51:35,741] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:51:35,753] {logging_mixin.py:109} INFO - [2021-11-19 10:51:35,753] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 10:51:35,776] {logging_mixin.py:109} INFO - [2021-11-19 10:51:35,776] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 10:51:35,788] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.758 seconds
+[2021-11-19 10:52:06,509] {processor.py:163} INFO - Started process (PID=25637) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:52:06,510] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 10:52:06,511] {logging_mixin.py:109} INFO - [2021-11-19 10:52:06,511] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:52:07,226] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:52:07,242] {logging_mixin.py:109} INFO - [2021-11-19 10:52:07,241] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 10:52:07,262] {logging_mixin.py:109} INFO - [2021-11-19 10:52:07,262] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 10:52:07,273] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.768 seconds
+[2021-11-19 10:52:37,825] {processor.py:163} INFO - Started process (PID=26271) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:52:37,827] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 10:52:37,828] {logging_mixin.py:109} INFO - [2021-11-19 10:52:37,828] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:52:38,522] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:52:38,535] {logging_mixin.py:109} INFO - [2021-11-19 10:52:38,534] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 10:52:38,554] {logging_mixin.py:109} INFO - [2021-11-19 10:52:38,554] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 10:52:38,568] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.750 seconds
+[2021-11-19 10:53:10,210] {processor.py:163} INFO - Started process (PID=26908) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:53:10,211] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 10:53:10,212] {logging_mixin.py:109} INFO - [2021-11-19 10:53:10,212] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:53:10,878] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:53:10,890] {logging_mixin.py:109} INFO - [2021-11-19 10:53:10,890] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 10:53:10,917] {logging_mixin.py:109} INFO - [2021-11-19 10:53:10,917] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 10:53:10,928] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.722 seconds
+[2021-11-19 10:53:41,835] {processor.py:163} INFO - Started process (PID=27528) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:53:41,836] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 10:53:41,837] {logging_mixin.py:109} INFO - [2021-11-19 10:53:41,837] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:53:42,542] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:53:42,554] {logging_mixin.py:109} INFO - [2021-11-19 10:53:42,554] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 10:53:42,579] {logging_mixin.py:109} INFO - [2021-11-19 10:53:42,578] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 10:53:42,588] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.756 seconds
+[2021-11-19 10:54:13,574] {processor.py:163} INFO - Started process (PID=28156) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:54:13,575] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 10:54:13,576] {logging_mixin.py:109} INFO - [2021-11-19 10:54:13,575] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:54:14,331] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:54:14,345] {logging_mixin.py:109} INFO - [2021-11-19 10:54:14,345] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 10:54:14,376] {logging_mixin.py:109} INFO - [2021-11-19 10:54:14,376] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 10:54:14,387] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.820 seconds
+[2021-11-19 10:54:45,298] {processor.py:163} INFO - Started process (PID=28802) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:54:45,299] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 10:54:45,300] {logging_mixin.py:109} INFO - [2021-11-19 10:54:45,300] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:54:46,080] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:54:46,095] {logging_mixin.py:109} INFO - [2021-11-19 10:54:46,095] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 10:54:46,115] {logging_mixin.py:109} INFO - [2021-11-19 10:54:46,115] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 10:54:46,131] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.836 seconds
+[2021-11-19 10:55:16,866] {processor.py:163} INFO - Started process (PID=29429) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:55:16,867] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 10:55:16,868] {logging_mixin.py:109} INFO - [2021-11-19 10:55:16,868] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:55:17,601] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:55:17,613] {logging_mixin.py:109} INFO - [2021-11-19 10:55:17,613] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 10:55:17,637] {logging_mixin.py:109} INFO - [2021-11-19 10:55:17,637] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 10:55:17,647] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.786 seconds
+[2021-11-19 10:55:48,494] {processor.py:163} INFO - Started process (PID=30066) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:55:48,495] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 10:55:48,496] {logging_mixin.py:109} INFO - [2021-11-19 10:55:48,496] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:55:49,224] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:55:49,235] {logging_mixin.py:109} INFO - [2021-11-19 10:55:49,235] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 10:55:49,268] {logging_mixin.py:109} INFO - [2021-11-19 10:55:49,268] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 10:55:49,282] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.793 seconds
+[2021-11-19 10:56:19,406] {processor.py:163} INFO - Started process (PID=30700) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:56:19,407] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 10:56:19,408] {logging_mixin.py:109} INFO - [2021-11-19 10:56:19,408] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:56:20,078] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:56:20,091] {logging_mixin.py:109} INFO - [2021-11-19 10:56:20,091] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 10:56:20,111] {logging_mixin.py:109} INFO - [2021-11-19 10:56:20,111] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 10:56:20,124] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.724 seconds
+[2021-11-19 10:56:54,753] {processor.py:163} INFO - Started process (PID=31326) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:56:54,757] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 10:56:54,758] {logging_mixin.py:109} INFO - [2021-11-19 10:56:54,758] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:56:56,305] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:56:56,318] {logging_mixin.py:109} INFO - [2021-11-19 10:56:56,318] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 10:56:56,342] {logging_mixin.py:109} INFO - [2021-11-19 10:56:56,342] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 10:56:56,354] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 1.612 seconds
+[2021-11-19 10:57:27,570] {processor.py:163} INFO - Started process (PID=32334) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:57:27,571] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 10:57:27,572] {logging_mixin.py:109} INFO - [2021-11-19 10:57:27,571] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:57:29,723] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:57:29,746] {logging_mixin.py:109} INFO - [2021-11-19 10:57:29,746] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 10:57:29,798] {logging_mixin.py:109} INFO - [2021-11-19 10:57:29,798] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 10:57:29,905] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 2.339 seconds
+[2021-11-19 10:58:00,479] {processor.py:163} INFO - Started process (PID=474) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:58:00,480] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 10:58:00,481] {logging_mixin.py:109} INFO - [2021-11-19 10:58:00,481] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:58:01,306] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 10:58:01,326] {logging_mixin.py:109} INFO - [2021-11-19 10:58:01,325] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 10:58:01,355] {logging_mixin.py:109} INFO - [2021-11-19 10:58:01,355] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 10:58:01,372] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.900 seconds
+[2021-11-19 11:00:15,467] {processor.py:163} INFO - Started process (PID=1647) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:00:15,469] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:00:15,470] {logging_mixin.py:109} INFO - [2021-11-19 11:00:15,470] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:00:16,084] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:00:16,098] {logging_mixin.py:109} INFO - [2021-11-19 11:00:16,098] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:00:16,128] {logging_mixin.py:109} INFO - [2021-11-19 11:00:16,127] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:00:16,139] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.678 seconds
+[2021-11-19 11:00:48,617] {processor.py:163} INFO - Started process (PID=2800) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:00:48,618] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:00:48,618] {logging_mixin.py:109} INFO - [2021-11-19 11:00:48,618] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:00:49,242] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:00:49,253] {logging_mixin.py:109} INFO - [2021-11-19 11:00:49,253] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:00:49,275] {logging_mixin.py:109} INFO - [2021-11-19 11:00:49,274] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:00:49,291] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.677 seconds
+[2021-11-19 11:01:21,797] {processor.py:163} INFO - Started process (PID=4102) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:01:21,799] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:01:21,800] {logging_mixin.py:109} INFO - [2021-11-19 11:01:21,800] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:01:22,807] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:01:22,829] {logging_mixin.py:109} INFO - [2021-11-19 11:01:22,828] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:01:22,854] {logging_mixin.py:109} INFO - [2021-11-19 11:01:22,854] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:01:22,873] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 1.081 seconds
+[2021-11-19 11:01:55,806] {processor.py:163} INFO - Started process (PID=4667) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:01:55,808] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:01:55,808] {logging_mixin.py:109} INFO - [2021-11-19 11:01:55,808] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:01:56,729] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:01:56,741] {logging_mixin.py:109} INFO - [2021-11-19 11:01:56,741] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:01:56,780] {logging_mixin.py:109} INFO - [2021-11-19 11:01:56,779] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:01:56,794] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.992 seconds
+[2021-11-19 11:02:29,185] {processor.py:163} INFO - Started process (PID=5383) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:02:29,188] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:02:29,190] {logging_mixin.py:109} INFO - [2021-11-19 11:02:29,190] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:02:30,140] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:02:30,153] {logging_mixin.py:109} INFO - [2021-11-19 11:02:30,153] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:02:30,185] {logging_mixin.py:109} INFO - [2021-11-19 11:02:30,185] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:02:30,199] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 1.019 seconds
+[2021-11-19 11:03:01,485] {processor.py:163} INFO - Started process (PID=6160) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:03:01,486] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:03:01,487] {logging_mixin.py:109} INFO - [2021-11-19 11:03:01,487] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:03:02,157] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:03:02,176] {logging_mixin.py:109} INFO - [2021-11-19 11:03:02,176] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:03:02,201] {logging_mixin.py:109} INFO - [2021-11-19 11:03:02,201] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:03:02,214] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.733 seconds
+[2021-11-19 11:03:33,577] {processor.py:163} INFO - Started process (PID=6858) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:03:33,578] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:03:33,578] {logging_mixin.py:109} INFO - [2021-11-19 11:03:33,578] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:03:34,161] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:03:34,172] {logging_mixin.py:109} INFO - [2021-11-19 11:03:34,172] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:03:34,189] {logging_mixin.py:109} INFO - [2021-11-19 11:03:34,189] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:03:34,201] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.628 seconds
+[2021-11-19 11:04:05,608] {processor.py:163} INFO - Started process (PID=7607) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:04:05,609] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:04:05,610] {logging_mixin.py:109} INFO - [2021-11-19 11:04:05,610] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:04:06,266] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:04:06,282] {logging_mixin.py:109} INFO - [2021-11-19 11:04:06,282] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:04:06,308] {logging_mixin.py:109} INFO - [2021-11-19 11:04:06,308] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:04:06,319] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.717 seconds
+[2021-11-19 11:04:39,120] {processor.py:163} INFO - Started process (PID=8190) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:04:39,121] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:04:39,122] {logging_mixin.py:109} INFO - [2021-11-19 11:04:39,122] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:04:40,408] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:04:40,421] {logging_mixin.py:109} INFO - [2021-11-19 11:04:40,421] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:04:40,447] {logging_mixin.py:109} INFO - [2021-11-19 11:04:40,446] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:04:40,464] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 1.347 seconds
+[2021-11-19 11:05:11,627] {processor.py:163} INFO - Started process (PID=8749) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:05:11,630] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:05:11,631] {logging_mixin.py:109} INFO - [2021-11-19 11:05:11,631] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:05:12,529] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:05:12,546] {logging_mixin.py:109} INFO - [2021-11-19 11:05:12,546] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:05:12,582] {logging_mixin.py:109} INFO - [2021-11-19 11:05:12,582] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:05:12,598] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.975 seconds
+[2021-11-19 11:05:44,500] {processor.py:163} INFO - Started process (PID=9307) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:05:44,501] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:05:44,501] {logging_mixin.py:109} INFO - [2021-11-19 11:05:44,501] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:05:45,074] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:05:45,084] {logging_mixin.py:109} INFO - [2021-11-19 11:05:45,084] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:05:45,101] {logging_mixin.py:109} INFO - [2021-11-19 11:05:45,101] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:05:45,115] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.618 seconds
+[2021-11-19 11:06:17,195] {processor.py:163} INFO - Started process (PID=9839) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:06:17,208] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:06:17,210] {logging_mixin.py:109} INFO - [2021-11-19 11:06:17,210] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:06:18,268] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:06:18,279] {logging_mixin.py:109} INFO - [2021-11-19 11:06:18,279] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:06:18,302] {logging_mixin.py:109} INFO - [2021-11-19 11:06:18,302] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:06:18,320] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 1.129 seconds
+[2021-11-19 11:06:49,402] {processor.py:163} INFO - Started process (PID=10372) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:06:49,403] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:06:49,404] {logging_mixin.py:109} INFO - [2021-11-19 11:06:49,404] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:06:50,233] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:06:50,244] {logging_mixin.py:109} INFO - [2021-11-19 11:06:50,244] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:06:50,269] {logging_mixin.py:109} INFO - [2021-11-19 11:06:50,269] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:06:50,280] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.882 seconds
+[2021-11-19 11:07:22,591] {processor.py:163} INFO - Started process (PID=11014) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:07:22,592] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:07:22,593] {logging_mixin.py:109} INFO - [2021-11-19 11:07:22,592] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:07:23,342] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:07:23,351] {logging_mixin.py:109} INFO - [2021-11-19 11:07:23,351] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:07:23,377] {logging_mixin.py:109} INFO - [2021-11-19 11:07:23,377] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:07:23,387] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.799 seconds
+[2021-11-19 11:07:54,997] {processor.py:163} INFO - Started process (PID=11624) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:07:54,998] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:07:54,999] {logging_mixin.py:109} INFO - [2021-11-19 11:07:54,999] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:07:55,604] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:07:55,618] {logging_mixin.py:109} INFO - [2021-11-19 11:07:55,618] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:07:55,639] {logging_mixin.py:109} INFO - [2021-11-19 11:07:55,639] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:07:55,648] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.654 seconds
+[2021-11-19 11:08:27,506] {processor.py:163} INFO - Started process (PID=12314) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:08:27,507] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:08:27,510] {logging_mixin.py:109} INFO - [2021-11-19 11:08:27,509] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:08:28,282] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:08:28,290] {logging_mixin.py:109} INFO - [2021-11-19 11:08:28,290] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:08:28,307] {logging_mixin.py:109} INFO - [2021-11-19 11:08:28,306] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:08:28,319] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.817 seconds
+[2021-11-19 11:08:59,476] {processor.py:163} INFO - Started process (PID=12955) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:08:59,477] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:08:59,478] {logging_mixin.py:109} INFO - [2021-11-19 11:08:59,478] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:09:00,127] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:09:00,140] {logging_mixin.py:109} INFO - [2021-11-19 11:09:00,140] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:09:00,161] {logging_mixin.py:109} INFO - [2021-11-19 11:09:00,161] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:09:00,172] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.699 seconds
+[2021-11-19 11:09:31,459] {processor.py:163} INFO - Started process (PID=13627) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:09:31,460] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:09:31,461] {logging_mixin.py:109} INFO - [2021-11-19 11:09:31,461] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:09:32,115] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:09:32,132] {logging_mixin.py:109} INFO - [2021-11-19 11:09:32,132] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:09:32,156] {logging_mixin.py:109} INFO - [2021-11-19 11:09:32,156] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:09:32,169] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.714 seconds
+[2021-11-19 11:10:03,320] {processor.py:163} INFO - Started process (PID=14301) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:10:03,321] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:10:03,322] {logging_mixin.py:109} INFO - [2021-11-19 11:10:03,322] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:10:04,009] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:10:04,027] {logging_mixin.py:109} INFO - [2021-11-19 11:10:04,027] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:10:04,049] {logging_mixin.py:109} INFO - [2021-11-19 11:10:04,049] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:10:04,065] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.748 seconds
+[2021-11-19 11:10:35,123] {processor.py:163} INFO - Started process (PID=14955) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:10:35,124] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:10:35,124] {logging_mixin.py:109} INFO - [2021-11-19 11:10:35,124] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:10:35,727] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:10:35,738] {logging_mixin.py:109} INFO - [2021-11-19 11:10:35,738] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:10:35,756] {logging_mixin.py:109} INFO - [2021-11-19 11:10:35,756] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:10:35,768] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.648 seconds
+[2021-11-19 11:11:07,488] {processor.py:163} INFO - Started process (PID=15615) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:11:07,489] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:11:07,490] {logging_mixin.py:109} INFO - [2021-11-19 11:11:07,490] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:11:08,368] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:11:08,389] {logging_mixin.py:109} INFO - [2021-11-19 11:11:08,389] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:11:08,419] {logging_mixin.py:109} INFO - [2021-11-19 11:11:08,419] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:11:08,437] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.953 seconds
+[2021-11-19 11:11:40,875] {processor.py:163} INFO - Started process (PID=16112) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:11:40,877] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:11:40,878] {logging_mixin.py:109} INFO - [2021-11-19 11:11:40,878] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:11:41,795] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:11:41,812] {logging_mixin.py:109} INFO - [2021-11-19 11:11:41,812] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:11:41,831] {logging_mixin.py:109} INFO - [2021-11-19 11:11:41,831] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:11:41,843] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.975 seconds
+[2021-11-19 11:12:13,061] {processor.py:163} INFO - Started process (PID=16656) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:12:13,062] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:12:13,064] {logging_mixin.py:109} INFO - [2021-11-19 11:12:13,063] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:12:13,780] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:12:13,791] {logging_mixin.py:109} INFO - [2021-11-19 11:12:13,791] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:12:13,810] {logging_mixin.py:109} INFO - [2021-11-19 11:12:13,810] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:12:13,823] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.766 seconds
+[2021-11-19 11:12:46,290] {processor.py:163} INFO - Started process (PID=17173) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:12:46,291] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:12:46,292] {logging_mixin.py:109} INFO - [2021-11-19 11:12:46,292] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:12:47,233] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:12:47,244] {logging_mixin.py:109} INFO - [2021-11-19 11:12:47,244] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:12:47,263] {logging_mixin.py:109} INFO - [2021-11-19 11:12:47,263] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:12:47,297] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 1.011 seconds
+[2021-11-19 11:13:19,786] {processor.py:163} INFO - Started process (PID=17827) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:13:19,787] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:13:19,787] {logging_mixin.py:109} INFO - [2021-11-19 11:13:19,787] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:13:20,399] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:13:20,409] {logging_mixin.py:109} INFO - [2021-11-19 11:13:20,409] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:13:20,430] {logging_mixin.py:109} INFO - [2021-11-19 11:13:20,430] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:13:20,439] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.656 seconds
+[2021-11-19 11:13:52,707] {processor.py:163} INFO - Started process (PID=18434) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:13:52,709] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:13:52,722] {logging_mixin.py:109} INFO - [2021-11-19 11:13:52,722] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:13:53,676] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:13:53,689] {logging_mixin.py:109} INFO - [2021-11-19 11:13:53,688] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:13:53,715] {logging_mixin.py:109} INFO - [2021-11-19 11:13:53,715] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:13:53,724] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 1.038 seconds
+[2021-11-19 11:14:25,406] {processor.py:163} INFO - Started process (PID=19003) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:14:25,407] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:14:25,408] {logging_mixin.py:109} INFO - [2021-11-19 11:14:25,408] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:14:26,064] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:14:26,074] {logging_mixin.py:109} INFO - [2021-11-19 11:14:26,074] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:14:26,090] {logging_mixin.py:109} INFO - [2021-11-19 11:14:26,089] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:14:26,098] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.696 seconds
+[2021-11-19 11:14:57,635] {processor.py:163} INFO - Started process (PID=19734) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:14:57,652] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:14:57,653] {logging_mixin.py:109} INFO - [2021-11-19 11:14:57,653] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:14:58,992] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:14:59,012] {logging_mixin.py:109} INFO - [2021-11-19 11:14:59,012] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:14:59,055] {logging_mixin.py:109} INFO - [2021-11-19 11:14:59,055] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:14:59,087] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 1.456 seconds
+[2021-11-19 11:15:31,452] {processor.py:163} INFO - Started process (PID=20365) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:15:31,456] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:15:31,463] {logging_mixin.py:109} INFO - [2021-11-19 11:15:31,463] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:15:34,030] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:15:34,136] {logging_mixin.py:109} INFO - [2021-11-19 11:15:34,135] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:15:34,251] {logging_mixin.py:109} INFO - [2021-11-19 11:15:34,251] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:15:34,307] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 2.863 seconds
+[2021-11-19 11:16:05,806] {processor.py:163} INFO - Started process (PID=20898) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:16:05,808] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:16:05,809] {logging_mixin.py:109} INFO - [2021-11-19 11:16:05,808] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:16:06,893] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:16:06,906] {logging_mixin.py:109} INFO - [2021-11-19 11:16:06,905] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:16:06,933] {logging_mixin.py:109} INFO - [2021-11-19 11:16:06,932] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:16:06,943] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 1.141 seconds
+[2021-11-19 11:16:37,870] {processor.py:163} INFO - Started process (PID=21543) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:16:37,871] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:16:37,872] {logging_mixin.py:109} INFO - [2021-11-19 11:16:37,872] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:16:38,525] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:16:38,534] {logging_mixin.py:109} INFO - [2021-11-19 11:16:38,534] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:16:38,553] {logging_mixin.py:109} INFO - [2021-11-19 11:16:38,553] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:16:38,565] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.699 seconds
+[2021-11-19 11:17:09,451] {processor.py:163} INFO - Started process (PID=22132) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:17:09,452] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:17:09,453] {logging_mixin.py:109} INFO - [2021-11-19 11:17:09,453] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:17:10,095] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:17:10,114] {logging_mixin.py:109} INFO - [2021-11-19 11:17:10,114] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:17:10,157] {logging_mixin.py:109} INFO - [2021-11-19 11:17:10,157] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:17:10,174] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.726 seconds
+[2021-11-19 11:17:41,486] {processor.py:163} INFO - Started process (PID=22756) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:17:41,488] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:17:41,489] {logging_mixin.py:109} INFO - [2021-11-19 11:17:41,489] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:17:42,274] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:17:42,288] {logging_mixin.py:109} INFO - [2021-11-19 11:17:42,288] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:17:42,313] {logging_mixin.py:109} INFO - [2021-11-19 11:17:42,313] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:17:42,327] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.845 seconds
+[2021-11-19 11:18:14,438] {processor.py:163} INFO - Started process (PID=23392) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:18:14,439] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:18:14,439] {logging_mixin.py:109} INFO - [2021-11-19 11:18:14,439] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:18:15,315] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:18:15,335] {logging_mixin.py:109} INFO - [2021-11-19 11:18:15,335] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:18:15,361] {logging_mixin.py:109} INFO - [2021-11-19 11:18:15,361] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:18:15,376] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.942 seconds
+[2021-11-19 11:18:53,606] {processor.py:163} INFO - Started process (PID=24093) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:18:53,614] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:18:53,621] {logging_mixin.py:109} INFO - [2021-11-19 11:18:53,619] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:18:56,922] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:18:57,011] {logging_mixin.py:109} INFO - [2021-11-19 11:18:57,010] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:18:57,224] {logging_mixin.py:109} INFO - [2021-11-19 11:18:57,224] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:18:57,316] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 3.747 seconds
+[2021-11-19 11:19:29,316] {processor.py:163} INFO - Started process (PID=24427) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:19:29,317] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:19:29,317] {logging_mixin.py:109} INFO - [2021-11-19 11:19:29,317] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:19:30,173] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:19:30,187] {logging_mixin.py:109} INFO - [2021-11-19 11:19:30,187] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:19:30,218] {logging_mixin.py:109} INFO - [2021-11-19 11:19:30,218] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:19:30,230] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.918 seconds
+[2021-11-19 11:20:04,791] {processor.py:163} INFO - Started process (PID=25149) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:20:04,798] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:20:04,800] {logging_mixin.py:109} INFO - [2021-11-19 11:20:04,800] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:20:05,632] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:20:05,647] {logging_mixin.py:109} INFO - [2021-11-19 11:20:05,647] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:20:05,675] {logging_mixin.py:109} INFO - [2021-11-19 11:20:05,675] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:20:05,686] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.901 seconds
+[2021-11-19 11:20:38,790] {processor.py:163} INFO - Started process (PID=25930) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:20:38,791] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:20:38,791] {logging_mixin.py:109} INFO - [2021-11-19 11:20:38,791] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:20:39,533] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:20:39,545] {logging_mixin.py:109} INFO - [2021-11-19 11:20:39,545] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:20:39,573] {logging_mixin.py:109} INFO - [2021-11-19 11:20:39,573] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:20:39,583] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.797 seconds
+[2021-11-19 11:21:11,799] {processor.py:163} INFO - Started process (PID=26615) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:21:11,800] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:21:11,801] {logging_mixin.py:109} INFO - [2021-11-19 11:21:11,801] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:21:12,792] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:21:12,828] {logging_mixin.py:109} INFO - [2021-11-19 11:21:12,828] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:21:12,860] {logging_mixin.py:109} INFO - [2021-11-19 11:21:12,860] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:21:12,879] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 1.095 seconds
+[2021-11-19 11:21:45,785] {processor.py:163} INFO - Started process (PID=27311) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:21:45,786] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:21:45,788] {logging_mixin.py:109} INFO - [2021-11-19 11:21:45,787] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:21:46,546] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:21:46,556] {logging_mixin.py:109} INFO - [2021-11-19 11:21:46,556] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:21:46,593] {logging_mixin.py:109} INFO - [2021-11-19 11:21:46,593] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:21:46,606] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.826 seconds
+[2021-11-19 11:22:17,918] {processor.py:163} INFO - Started process (PID=27971) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:22:17,919] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:22:17,920] {logging_mixin.py:109} INFO - [2021-11-19 11:22:17,920] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:22:18,562] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:22:18,574] {logging_mixin.py:109} INFO - [2021-11-19 11:22:18,574] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:22:18,598] {logging_mixin.py:109} INFO - [2021-11-19 11:22:18,598] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:22:18,609] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.695 seconds
+[2021-11-19 11:22:50,141] {processor.py:163} INFO - Started process (PID=28686) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:22:50,142] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:22:50,143] {logging_mixin.py:109} INFO - [2021-11-19 11:22:50,143] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:22:50,733] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:22:50,748] {logging_mixin.py:109} INFO - [2021-11-19 11:22:50,747] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:22:50,767] {logging_mixin.py:109} INFO - [2021-11-19 11:22:50,767] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:22:50,776] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.638 seconds
+[2021-11-19 11:23:22,742] {processor.py:163} INFO - Started process (PID=29408) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:23:22,743] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:23:22,744] {logging_mixin.py:109} INFO - [2021-11-19 11:23:22,744] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:23:23,357] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:23:23,369] {logging_mixin.py:109} INFO - [2021-11-19 11:23:23,369] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:23:23,385] {logging_mixin.py:109} INFO - [2021-11-19 11:23:23,384] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:23:23,396] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.657 seconds
+[2021-11-19 11:23:54,441] {processor.py:163} INFO - Started process (PID=30111) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:23:54,442] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:23:54,443] {logging_mixin.py:109} INFO - [2021-11-19 11:23:54,443] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:23:55,085] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:23:55,093] {logging_mixin.py:109} INFO - [2021-11-19 11:23:55,093] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:23:55,110] {logging_mixin.py:109} INFO - [2021-11-19 11:23:55,110] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:23:55,122] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.685 seconds
+[2021-11-19 11:24:26,037] {processor.py:163} INFO - Started process (PID=30826) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:24:26,038] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:24:26,038] {logging_mixin.py:109} INFO - [2021-11-19 11:24:26,038] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:24:26,676] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:24:26,686] {logging_mixin.py:109} INFO - [2021-11-19 11:24:26,685] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:24:26,701] {logging_mixin.py:109} INFO - [2021-11-19 11:24:26,701] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:24:26,710] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.676 seconds
+[2021-11-19 11:25:00,305] {processor.py:163} INFO - Started process (PID=31370) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:25:00,307] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:25:00,307] {logging_mixin.py:109} INFO - [2021-11-19 11:25:00,307] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:25:01,196] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:25:01,224] {logging_mixin.py:109} INFO - [2021-11-19 11:25:01,224] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:25:01,265] {logging_mixin.py:109} INFO - [2021-11-19 11:25:01,265] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:25:01,284] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.984 seconds
+[2021-11-19 11:25:35,302] {processor.py:163} INFO - Started process (PID=31976) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:25:35,304] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:25:35,304] {logging_mixin.py:109} INFO - [2021-11-19 11:25:35,304] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:25:35,927] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:25:35,936] {logging_mixin.py:109} INFO - [2021-11-19 11:25:35,936] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:25:35,959] {logging_mixin.py:109} INFO - [2021-11-19 11:25:35,959] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:25:35,973] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.676 seconds
+[2021-11-19 11:26:09,372] {processor.py:163} INFO - Started process (PID=32591) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:26:09,373] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:26:09,374] {logging_mixin.py:109} INFO - [2021-11-19 11:26:09,374] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:26:10,180] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:26:10,190] {logging_mixin.py:109} INFO - [2021-11-19 11:26:10,190] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:26:10,212] {logging_mixin.py:109} INFO - [2021-11-19 11:26:10,212] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:26:10,223] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.856 seconds
+[2021-11-19 11:26:41,860] {processor.py:163} INFO - Started process (PID=591) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:26:41,861] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:26:41,862] {logging_mixin.py:109} INFO - [2021-11-19 11:26:41,862] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:26:42,448] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:26:42,461] {logging_mixin.py:109} INFO - [2021-11-19 11:26:42,461] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:26:42,482] {logging_mixin.py:109} INFO - [2021-11-19 11:26:42,481] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:26:42,491] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.635 seconds
+[2021-11-19 11:27:15,152] {processor.py:163} INFO - Started process (PID=1607) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:27:15,153] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:27:15,154] {logging_mixin.py:109} INFO - [2021-11-19 11:27:15,154] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:27:15,786] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:27:15,797] {logging_mixin.py:109} INFO - [2021-11-19 11:27:15,797] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:27:15,817] {logging_mixin.py:109} INFO - [2021-11-19 11:27:15,817] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:27:15,829] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.679 seconds
+[2021-11-19 11:27:47,743] {processor.py:163} INFO - Started process (PID=2410) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:27:47,745] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:27:47,745] {logging_mixin.py:109} INFO - [2021-11-19 11:27:47,745] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:27:48,432] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:27:48,441] {logging_mixin.py:109} INFO - [2021-11-19 11:27:48,441] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:27:48,468] {logging_mixin.py:109} INFO - [2021-11-19 11:27:48,468] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:27:48,482] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.742 seconds
+[2021-11-19 11:28:20,830] {processor.py:163} INFO - Started process (PID=3344) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:28:20,831] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:28:20,841] {logging_mixin.py:109} INFO - [2021-11-19 11:28:20,841] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:28:21,796] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:28:21,809] {logging_mixin.py:109} INFO - [2021-11-19 11:28:21,808] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:28:21,826] {logging_mixin.py:109} INFO - [2021-11-19 11:28:21,826] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:28:21,835] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 1.010 seconds
+[2021-11-19 11:28:53,526] {processor.py:163} INFO - Started process (PID=4127) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:28:53,527] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:28:53,528] {logging_mixin.py:109} INFO - [2021-11-19 11:28:53,528] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:28:54,178] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:28:54,203] {logging_mixin.py:109} INFO - [2021-11-19 11:28:54,202] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:28:54,243] {logging_mixin.py:109} INFO - [2021-11-19 11:28:54,243] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:28:54,251] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.728 seconds
+[2021-11-19 11:29:33,842] {processor.py:163} INFO - Started process (PID=4866) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:29:33,844] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:29:33,845] {logging_mixin.py:109} INFO - [2021-11-19 11:29:33,845] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:29:37,849] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:29:37,912] {logging_mixin.py:109} INFO - [2021-11-19 11:29:37,912] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:29:38,004] {logging_mixin.py:109} INFO - [2021-11-19 11:29:38,003] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:29:38,066] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 4.238 seconds
+[2021-11-19 11:30:15,291] {processor.py:163} INFO - Started process (PID=5314) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:30:15,292] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:30:15,292] {logging_mixin.py:109} INFO - [2021-11-19 11:30:15,292] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:30:16,096] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:30:16,113] {logging_mixin.py:109} INFO - [2021-11-19 11:30:16,112] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:30:16,147] {logging_mixin.py:109} INFO - [2021-11-19 11:30:16,147] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:30:16,163] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.875 seconds
+[2021-11-19 11:30:49,696] {processor.py:163} INFO - Started process (PID=5920) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:30:49,699] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:30:49,701] {logging_mixin.py:109} INFO - [2021-11-19 11:30:49,700] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:30:51,065] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:30:51,084] {logging_mixin.py:109} INFO - [2021-11-19 11:30:51,083] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:30:51,111] {logging_mixin.py:109} INFO - [2021-11-19 11:30:51,111] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:30:51,122] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 1.432 seconds
+[2021-11-19 11:31:24,173] {processor.py:163} INFO - Started process (PID=6629) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:31:24,175] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:31:24,175] {logging_mixin.py:109} INFO - [2021-11-19 11:31:24,175] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:31:25,169] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:31:25,184] {logging_mixin.py:109} INFO - [2021-11-19 11:31:25,184] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:31:25,208] {logging_mixin.py:109} INFO - [2021-11-19 11:31:25,208] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:31:25,223] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 1.055 seconds
+[2021-11-19 11:31:57,343] {processor.py:163} INFO - Started process (PID=7386) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:31:57,344] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:31:57,345] {logging_mixin.py:109} INFO - [2021-11-19 11:31:57,345] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:31:58,002] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:31:58,015] {logging_mixin.py:109} INFO - [2021-11-19 11:31:58,015] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:31:58,032] {logging_mixin.py:109} INFO - [2021-11-19 11:31:58,032] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:31:58,043] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.704 seconds
+[2021-11-19 11:32:29,749] {processor.py:163} INFO - Started process (PID=8094) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:32:29,751] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:32:29,752] {logging_mixin.py:109} INFO - [2021-11-19 11:32:29,752] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:32:30,608] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:32:30,628] {logging_mixin.py:109} INFO - [2021-11-19 11:32:30,627] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:32:30,647] {logging_mixin.py:109} INFO - [2021-11-19 11:32:30,647] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:32:30,660] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.914 seconds
+[2021-11-19 11:33:04,362] {processor.py:163} INFO - Started process (PID=8760) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:33:04,364] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:33:04,365] {logging_mixin.py:109} INFO - [2021-11-19 11:33:04,364] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:33:05,766] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:33:05,783] {logging_mixin.py:109} INFO - [2021-11-19 11:33:05,783] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:33:05,804] {logging_mixin.py:109} INFO - [2021-11-19 11:33:05,803] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:33:05,832] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 1.475 seconds
+[2021-11-19 11:33:37,537] {processor.py:163} INFO - Started process (PID=9428) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:33:37,538] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:33:37,538] {logging_mixin.py:109} INFO - [2021-11-19 11:33:37,538] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:33:38,120] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:33:38,130] {logging_mixin.py:109} INFO - [2021-11-19 11:33:38,130] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:33:38,147] {logging_mixin.py:109} INFO - [2021-11-19 11:33:38,147] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:33:38,160] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.626 seconds
+[2021-11-19 11:34:09,318] {processor.py:163} INFO - Started process (PID=10088) to work on /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:34:09,319] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/Sharepoint.py for tasks to queue
+[2021-11-19 11:34:09,320] {logging_mixin.py:109} INFO - [2021-11-19 11:34:09,320] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:34:09,947] {processor.py:632} INFO - DAG(s) dict_keys(['sharepoint']) retrieved from /home/user/workspace/airflow/dags/Sharepoint.py
+[2021-11-19 11:34:09,961] {logging_mixin.py:109} INFO - [2021-11-19 11:34:09,961] {dag.py:2389} INFO - Sync 1 DAGs
+[2021-11-19 11:34:09,987] {logging_mixin.py:109} INFO - [2021-11-19 11:34:09,987] {dag.py:2914} INFO - Setting next_dagrun for sharepoint to 2021-11-18 00:00:00+00:00
+[2021-11-19 11:34:10,002] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/Sharepoint.py took 0.689 seconds

@@ -1,0 +1,61 @@
+[2021-11-19 11:32:49,927] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: Sales_Invoice.put_excel scheduled__2021-11-18T00:00:00+00:00 [queued]>
+[2021-11-19 11:32:50,008] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: Sales_Invoice.put_excel scheduled__2021-11-18T00:00:00+00:00 [queued]>
+[2021-11-19 11:32:50,008] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-11-19 11:32:50,008] {taskinstance.py:1242} INFO - Starting attempt 1 of 2
+[2021-11-19 11:32:50,008] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-11-19 11:32:50,126] {taskinstance.py:1262} INFO - Executing <Task(PythonOperator): put_excel> on 2021-11-18 00:00:00+00:00
+[2021-11-19 11:32:50,147] {standard_task_runner.py:52} INFO - Started process 8477 to run task
+[2021-11-19 11:32:50,186] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'Sales_Invoice', 'put_excel', 'scheduled__2021-11-18T00:00:00+00:00', '--job-id', '85', '--raw', '--subdir', 'DAGS_FOLDER/sales_invoice.py', '--cfg-path', '/tmp/tmpy2zc66af', '--error-file', '/tmp/tmpbicn1fxo']
+[2021-11-19 11:32:50,199] {standard_task_runner.py:77} INFO - Job 85: Subtask put_excel
+[2021-11-19 11:32:50,348] {logging_mixin.py:109} INFO - Running <TaskInstance: Sales_Invoice.put_excel scheduled__2021-11-18T00:00:00+00:00 [running]> on host user-Latitude-3410
+[2021-11-19 11:32:50,582] {taskinstance.py:1414} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=shindesushant818@gmail.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=Sales_Invoice
+AIRFLOW_CTX_TASK_ID=put_excel
+AIRFLOW_CTX_EXECUTION_DATE=2021-11-18T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-11-18T00:00:00+00:00
+[2021-11-19 11:32:50,619] {transport.py:1819} INFO - Connected (version 2.0, client OpenSSH_7.4)
+[2021-11-19 11:32:51,015] {transport.py:1819} INFO - Auth banner: b'Authorized uses only. All activity may be monitored and reported.\n'
+[2021-11-19 11:32:51,016] {transport.py:1819} INFO - Authentication (publickey) failed.
+[2021-11-19 11:32:51,126] {transport.py:1819} INFO - Authentication (publickey) failed.
+[2021-11-19 11:32:51,208] {transport.py:1819} INFO - Authentication (password) successful!
+[2021-11-19 11:33:01,232] {sftp.py:158} INFO - [chan 0] Opened sftp connection (server version 3)
+[2021-11-19 11:33:01,276] {transport.py:1819} ERROR - Socket exception: Connection reset by peer (104)
+[2021-11-19 11:33:01,277] {logging_mixin.py:109} INFO - 
+[2021-11-19 11:33:01,278] {python.py:152} INFO - Done. Returned value was: None
+[2021-11-19 11:33:01,295] {taskinstance.py:1280} INFO - Marking task as SUCCESS. dag_id=Sales_Invoice, task_id=put_excel, execution_date=20211118T000000, start_date=20211119T060249, end_date=20211119T060301
+[2021-11-19 11:33:01,350] {local_task_job.py:154} INFO - Task exited with return code 0
+[2021-11-19 11:33:01,400] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2021-11-19 11:33:09,324] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: Sales_Invoice.put_excel manual__2021-11-19T06:00:17.584731+00:00 [queued]>
+[2021-11-19 11:33:09,366] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: Sales_Invoice.put_excel manual__2021-11-19T06:00:17.584731+00:00 [queued]>
+[2021-11-19 11:33:09,366] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-11-19 11:33:09,366] {taskinstance.py:1242} INFO - Starting attempt 1 of 2
+[2021-11-19 11:33:09,366] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-11-19 11:33:09,393] {taskinstance.py:1262} INFO - Executing <Task(PythonOperator): put_excel> on 2021-11-19 06:00:17.584731+00:00
+[2021-11-19 11:33:09,399] {standard_task_runner.py:52} INFO - Started process 8845 to run task
+[2021-11-19 11:33:09,404] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'Sales_Invoice', 'put_excel', 'manual__2021-11-19T06:00:17.584731+00:00', '--job-id', '86', '--raw', '--subdir', 'DAGS_FOLDER/sales_invoice.py', '--cfg-path', '/tmp/tmp8ny51sxw', '--error-file', '/tmp/tmpfhoadd71']
+[2021-11-19 11:33:09,411] {standard_task_runner.py:77} INFO - Job 86: Subtask put_excel
+[2021-11-19 11:33:09,483] {logging_mixin.py:109} INFO - Running <TaskInstance: Sales_Invoice.put_excel manual__2021-11-19T06:00:17.584731+00:00 [running]> on host user-Latitude-3410
+[2021-11-19 11:33:09,568] {taskinstance.py:1414} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=shindesushant818@gmail.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=Sales_Invoice
+AIRFLOW_CTX_TASK_ID=put_excel
+AIRFLOW_CTX_EXECUTION_DATE=2021-11-19T06:00:17.584731+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2021-11-19T06:00:17.584731+00:00
+[2021-11-19 11:33:10,638] {transport.py:1819} INFO - Connected (version 2.0, client OpenSSH_7.4)
+[2021-11-19 11:33:10,846] {transport.py:1819} INFO - Auth banner: b'Authorized uses only. All activity may be monitored and reported.\n'
+[2021-11-19 11:33:10,847] {transport.py:1819} INFO - Authentication (publickey) failed.
+[2021-11-19 11:33:11,054] {transport.py:1819} INFO - Authentication (publickey) failed.
+[2021-11-19 11:33:11,360] {transport.py:1819} INFO - Authentication (password) successful!
+[2021-11-19 11:33:19,269] {sftp.py:158} INFO - [chan 0] Opened sftp connection (server version 3)
+[2021-11-19 11:33:19,319] {logging_mixin.py:109} INFO - 
+[2021-11-19 11:33:19,319] {python.py:152} INFO - Done. Returned value was: None
+[2021-11-19 11:33:19,336] {taskinstance.py:1280} INFO - Marking task as SUCCESS. dag_id=Sales_Invoice, task_id=put_excel, execution_date=20211119T060017, start_date=20211119T060309, end_date=20211119T060319
+[2021-11-19 11:33:19,400] {local_task_job.py:154} INFO - Task exited with return code 0
+[2021-11-19 11:33:19,450] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check

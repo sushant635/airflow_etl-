@@ -1,0 +1,64 @@
+[2021-11-19 10:39:30,107] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: file_upload.get_file scheduled__2021-11-04T00:00:00+00:00 [queued]>
+[2021-11-19 10:39:30,127] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: file_upload.get_file scheduled__2021-11-04T00:00:00+00:00 [queued]>
+[2021-11-19 10:39:30,127] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-11-19 10:39:30,127] {taskinstance.py:1242} INFO - Starting attempt 1 of 2
+[2021-11-19 10:39:30,127] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-11-19 10:39:30,147] {taskinstance.py:1262} INFO - Executing <Task(PythonOperator): get_file> on 2021-11-04 00:00:00+00:00
+[2021-11-19 10:39:30,152] {standard_task_runner.py:52} INFO - Started process 9581 to run task
+[2021-11-19 10:39:30,158] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'file_upload', 'get_file', 'scheduled__2021-11-04T00:00:00+00:00', '--job-id', '62', '--raw', '--subdir', 'DAGS_FOLDER/file_loadin.py', '--cfg-path', '/tmp/tmp8nlp3i_6', '--error-file', '/tmp/tmplyw1027i']
+[2021-11-19 10:39:30,163] {standard_task_runner.py:77} INFO - Job 62: Subtask get_file
+[2021-11-19 10:39:30,205] {logging_mixin.py:109} INFO - Running <TaskInstance: file_upload.get_file scheduled__2021-11-04T00:00:00+00:00 [running]> on host user-Latitude-3410
+[2021-11-19 10:39:30,296] {taskinstance.py:1414} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=airflow@example.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=file_upload
+AIRFLOW_CTX_TASK_ID=get_file
+AIRFLOW_CTX_EXECUTION_DATE=2021-11-04T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-11-04T00:00:00+00:00
+[2021-11-19 10:39:30,403] {transport.py:1819} INFO - Connected (version 2.0, client OpenSSH_for_Windows_7.7)
+[2021-11-19 10:39:30,855] {transport.py:1819} INFO - Authentication (publickey) failed.
+[2021-11-19 10:39:30,963] {transport.py:1819} INFO - Authentication (publickey) failed.
+[2021-11-19 10:39:31,349] {transport.py:1819} INFO - Authentication (password) successful!
+[2021-11-19 10:39:31,521] {sftp.py:158} INFO - [chan 0] Opened sftp connection (server version 3)
+[2021-11-19 10:39:32,997] {logging_mixin.py:109} INFO -     Unnamed: 0 SALESDISCOUNT Sales Line Discount  ...  Unnamed: 10 Unnamed: 12               timestamp
+0          0.0           NaN                 NaN  ...          NaN         NaN 2021-11-19 10:39:24.229
+1          1.0          Type                Code  ...  Ending Date         NaN 2021-11-19 10:39:24.229
+2          2.0          Item       FG-0000000001  ...   30/07/2020         NaN 2021-11-19 10:39:24.229
+3          3.0          Item       FG-0000000002  ...   30/07/2020         NaN 2021-11-19 10:39:24.229
+4          4.0          Item       FG-0000000003  ...   30/07/2020         NaN 2021-11-19 10:39:24.229
+5          5.0           NaN           MG-111111  ...          NaN         NaN 2021-11-19 10:39:24.229
+6          6.0           NaN           MG-222222  ...          NaN         NaN 2021-11-19 10:39:24.229
+7          7.0           NaN           MG-333333  ...          NaN         NaN 2021-11-19 10:39:24.229
+8          8.0           NaN           MG-444444  ...          NaN         NaN 2021-11-19 10:39:24.229
+9          9.0           NaN           MG-555555  ...          NaN         NaN 2021-11-19 10:39:24.229
+10        10.0           NaN           MG-666666  ...          NaN         NaN 2021-11-19 10:39:24.229
+11        11.0           NaN           MG-777777  ...          NaN         NaN 2021-11-19 10:39:24.229
+12        12.0           NaN           MG-888888  ...          NaN         NaN 2021-11-19 10:39:24.229
+13        13.0           NaN           MG-999999  ...          NaN         NaN 2021-11-19 10:39:24.229
+14        14.0           NaN           MG-111112  ...          NaN         NaN 2021-11-19 10:39:24.229
+15        15.0           NaN           MG-111113  ...          NaN         NaN 2021-11-19 10:39:24.229
+16        16.0           NaN           MG-111114  ...          NaN         NaN 2021-11-19 10:39:24.229
+17        17.0           NaN           MG-111115  ...          NaN         NaN 2021-11-19 10:39:24.229
+18        18.0           NaN           MG-111116  ...          NaN         NaN 2021-11-19 10:39:24.229
+19        19.0           NaN           MG-111117  ...          NaN         NaN 2021-11-19 10:39:24.229
+20        20.0           NaN           MG-111118  ...          NaN         NaN 2021-11-19 10:39:24.229
+21        21.0           NaN           MG-111119  ...          NaN         NaN 2021-11-19 10:39:24.229
+22        22.0           NaN           MG-111120  ...          NaN         NaN 2021-11-19 10:39:24.229
+23        23.0           NaN           MG-111121  ...          NaN         NaN 2021-11-19 10:39:24.229
+24        24.0           NaN           MG-111122  ...          NaN         NaN 2021-11-19 10:39:24.229
+25        25.0           NaN           MG-111123  ...          NaN         NaN 2021-11-19 10:39:24.229
+26        26.0           NaN           MG-111124  ...          NaN         NaN 2021-11-19 10:39:24.229
+27        27.0           NaN           MG-111125  ...          NaN         NaN 2021-11-19 10:39:24.229
+28        28.0           NaN           MG-111126  ...          NaN         NaN 2021-11-19 10:39:24.229
+29        29.0           NaN           MG-111127  ...          NaN         NaN 2021-11-19 10:39:24.229
+30         NaN          Item           MG-111130  ...          NaN         NaN 2021-11-19 10:39:24.229
+31         NaN          data           MG-111130  ...          NaN         NaN 2021-11-19 10:39:24.229
+
+[32 rows x 14 columns] <class 'pandas.core.frame.DataFrame'>
+[2021-11-19 10:39:33,053] {sftp.py:158} INFO - [chan 0] sftp session closed.
+[2021-11-19 10:39:33,054] {python.py:152} INFO - Done. Returned value was: None
+[2021-11-19 10:39:33,073] {taskinstance.py:1280} INFO - Marking task as SUCCESS. dag_id=file_upload, task_id=get_file, execution_date=20211104T000000, start_date=20211119T050930, end_date=20211119T050933
+[2021-11-19 10:39:33,136] {local_task_job.py:154} INFO - Task exited with return code 0
+[2021-11-19 10:39:33,180] {local_task_job.py:264} INFO - 1 downstream tasks scheduled from follow-on schedule check

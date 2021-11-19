@@ -1,0 +1,32 @@
+[2021-11-19 10:39:22,446] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: file_upload.get_file scheduled__2021-11-03T00:00:00+00:00 [queued]>
+[2021-11-19 10:39:22,458] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: file_upload.get_file scheduled__2021-11-03T00:00:00+00:00 [queued]>
+[2021-11-19 10:39:22,458] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-11-19 10:39:22,458] {taskinstance.py:1242} INFO - Starting attempt 1 of 2
+[2021-11-19 10:39:22,458] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-11-19 10:39:22,481] {taskinstance.py:1262} INFO - Executing <Task(PythonOperator): get_file> on 2021-11-03 00:00:00+00:00
+[2021-11-19 10:39:22,489] {standard_task_runner.py:52} INFO - Started process 9350 to run task
+[2021-11-19 10:39:22,496] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'file_upload', 'get_file', 'scheduled__2021-11-03T00:00:00+00:00', '--job-id', '61', '--raw', '--subdir', 'DAGS_FOLDER/file_loadin.py', '--cfg-path', '/tmp/tmpnqcdw817', '--error-file', '/tmp/tmpyr3ss9n1']
+[2021-11-19 10:39:22,500] {standard_task_runner.py:77} INFO - Job 61: Subtask get_file
+[2021-11-19 10:39:22,557] {logging_mixin.py:109} INFO - Running <TaskInstance: file_upload.get_file scheduled__2021-11-03T00:00:00+00:00 [running]> on host user-Latitude-3410
+[2021-11-19 10:39:22,630] {taskinstance.py:1414} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=airflow@example.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=file_upload
+AIRFLOW_CTX_TASK_ID=get_file
+AIRFLOW_CTX_EXECUTION_DATE=2021-11-03T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-11-03T00:00:00+00:00
+[2021-11-19 10:39:23,008] {transport.py:1819} INFO - Connected (version 2.0, client OpenSSH_for_Windows_7.7)
+[2021-11-19 10:39:23,233] {transport.py:1819} INFO - Authentication (publickey) failed.
+[2021-11-19 10:39:23,300] {transport.py:1819} INFO - Authentication (publickey) failed.
+[2021-11-19 10:39:23,376] {transport.py:1819} INFO - Authentication (password) successful!
+[2021-11-19 10:39:23,598] {sftp.py:158} INFO - [chan 0] Opened sftp connection (server version 3)
+[2021-11-19 10:39:24,228] {logging_mixin.py:109} INFO - Empty DataFrame
+Columns: [Unnamed: 0, Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 6, Unnamed: 7, Unnamed: 8, Unnamed: 9, Unnamed: 10, Unnamed: 11, Unnamed: 12, Unnamed: 13]
+Index: [] <class 'pandas.core.frame.DataFrame'>
+[2021-11-19 10:39:24,323] {sftp.py:158} INFO - [chan 0] sftp session closed.
+[2021-11-19 10:39:24,324] {python.py:152} INFO - Done. Returned value was: None
+[2021-11-19 10:39:24,337] {taskinstance.py:1280} INFO - Marking task as SUCCESS. dag_id=file_upload, task_id=get_file, execution_date=20211103T000000, start_date=20211119T050922, end_date=20211119T050924
+[2021-11-19 10:39:24,392] {local_task_job.py:154} INFO - Task exited with return code 0
+[2021-11-19 10:39:24,438] {local_task_job.py:264} INFO - 1 downstream tasks scheduled from follow-on schedule check

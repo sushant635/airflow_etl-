@@ -1,0 +1,58 @@
+[2021-11-19 11:30:27,257] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: Sales_Invoice.get_excel scheduled__2021-11-18T00:00:00+00:00 [queued]>
+[2021-11-19 11:30:27,293] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: Sales_Invoice.get_excel scheduled__2021-11-18T00:00:00+00:00 [queued]>
+[2021-11-19 11:30:27,294] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-11-19 11:30:27,294] {taskinstance.py:1242} INFO - Starting attempt 1 of 2
+[2021-11-19 11:30:27,294] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-11-19 11:30:27,314] {taskinstance.py:1262} INFO - Executing <Task(PythonOperator): get_excel> on 2021-11-18 00:00:00+00:00
+[2021-11-19 11:30:27,323] {standard_task_runner.py:52} INFO - Started process 5529 to run task
+[2021-11-19 11:30:27,330] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'Sales_Invoice', 'get_excel', 'scheduled__2021-11-18T00:00:00+00:00', '--job-id', '83', '--raw', '--subdir', 'DAGS_FOLDER/sales_invoice.py', '--cfg-path', '/tmp/tmp70gu4eds', '--error-file', '/tmp/tmpdm3x_bnt']
+[2021-11-19 11:30:27,345] {standard_task_runner.py:77} INFO - Job 83: Subtask get_excel
+[2021-11-19 11:30:27,451] {logging_mixin.py:109} INFO - Running <TaskInstance: Sales_Invoice.get_excel scheduled__2021-11-18T00:00:00+00:00 [running]> on host user-Latitude-3410
+[2021-11-19 11:30:27,571] {taskinstance.py:1414} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=shindesushant818@gmail.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=Sales_Invoice
+AIRFLOW_CTX_TASK_ID=get_excel
+AIRFLOW_CTX_EXECUTION_DATE=2021-11-18T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-11-18T00:00:00+00:00
+[2021-11-19 11:30:27,657] {transport.py:1819} INFO - Connected (version 2.0, client OpenSSH_for_Windows_7.7)
+[2021-11-19 11:30:28,011] {transport.py:1819} INFO - Authentication (publickey) failed.
+[2021-11-19 11:30:28,080] {transport.py:1819} INFO - Authentication (publickey) failed.
+[2021-11-19 11:30:28,141] {transport.py:1819} INFO - Authentication (password) successful!
+[2021-11-19 11:30:28,283] {sftp.py:158} INFO - [chan 0] Opened sftp connection (server version 3)
+[2021-11-19 11:31:25,417] {sftp.py:158} INFO - [chan 0] sftp session closed.
+[2021-11-19 11:31:25,418] {python.py:152} INFO - Done. Returned value was: None
+[2021-11-19 11:31:25,437] {taskinstance.py:1280} INFO - Marking task as SUCCESS. dag_id=Sales_Invoice, task_id=get_excel, execution_date=20211118T000000, start_date=20211119T060027, end_date=20211119T060125
+[2021-11-19 11:31:25,489] {local_task_job.py:154} INFO - Task exited with return code 0
+[2021-11-19 11:31:25,542] {local_task_job.py:264} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2021-11-19 11:31:31,334] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: Sales_Invoice.get_excel manual__2021-11-19T06:00:17.584731+00:00 [queued]>
+[2021-11-19 11:31:31,359] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: Sales_Invoice.get_excel manual__2021-11-19T06:00:17.584731+00:00 [queued]>
+[2021-11-19 11:31:31,360] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-11-19 11:31:31,360] {taskinstance.py:1242} INFO - Starting attempt 1 of 2
+[2021-11-19 11:31:31,360] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-11-19 11:31:31,399] {taskinstance.py:1262} INFO - Executing <Task(PythonOperator): get_excel> on 2021-11-19 06:00:17.584731+00:00
+[2021-11-19 11:31:31,406] {standard_task_runner.py:52} INFO - Started process 6803 to run task
+[2021-11-19 11:31:31,415] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'Sales_Invoice', 'get_excel', 'manual__2021-11-19T06:00:17.584731+00:00', '--job-id', '84', '--raw', '--subdir', 'DAGS_FOLDER/sales_invoice.py', '--cfg-path', '/tmp/tmp6w3oz5fx', '--error-file', '/tmp/tmpdxt3ev85']
+[2021-11-19 11:31:31,423] {standard_task_runner.py:77} INFO - Job 84: Subtask get_excel
+[2021-11-19 11:31:31,482] {logging_mixin.py:109} INFO - Running <TaskInstance: Sales_Invoice.get_excel manual__2021-11-19T06:00:17.584731+00:00 [running]> on host user-Latitude-3410
+[2021-11-19 11:31:31,552] {taskinstance.py:1414} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=shindesushant818@gmail.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=Sales_Invoice
+AIRFLOW_CTX_TASK_ID=get_excel
+AIRFLOW_CTX_EXECUTION_DATE=2021-11-19T06:00:17.584731+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2021-11-19T06:00:17.584731+00:00
+[2021-11-19 11:31:31,652] {transport.py:1819} INFO - Connected (version 2.0, client OpenSSH_for_Windows_7.7)
+[2021-11-19 11:31:31,934] {transport.py:1819} INFO - Authentication (publickey) failed.
+[2021-11-19 11:31:32,327] {transport.py:1819} INFO - Authentication (publickey) failed.
+[2021-11-19 11:31:32,443] {transport.py:1819} INFO - Authentication (password) successful!
+[2021-11-19 11:31:32,615] {sftp.py:158} INFO - [chan 0] Opened sftp connection (server version 3)
+[2021-11-19 11:32:41,819] {sftp.py:158} INFO - [chan 0] sftp session closed.
+[2021-11-19 11:32:41,821] {python.py:152} INFO - Done. Returned value was: None
+[2021-11-19 11:32:41,838] {taskinstance.py:1280} INFO - Marking task as SUCCESS. dag_id=Sales_Invoice, task_id=get_excel, execution_date=20211119T060017, start_date=20211119T060131, end_date=20211119T060241
+[2021-11-19 11:32:41,905] {local_task_job.py:154} INFO - Task exited with return code 0
+[2021-11-19 11:32:41,951] {local_task_job.py:264} INFO - 1 downstream tasks scheduled from follow-on schedule check

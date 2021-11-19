@@ -1,0 +1,495 @@
+[2021-11-19 10:39:19,833] {processor.py:163} INFO - Started process (PID=9244) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:39:19,835] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 10:39:19,835] {logging_mixin.py:109} INFO - [2021-11-19 10:39:19,835] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:39:19,852] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:39:19,856] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.026 seconds
+[2021-11-19 10:39:56,700] {processor.py:163} INFO - Started process (PID=10344) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:39:56,702] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 10:39:56,704] {logging_mixin.py:109} INFO - [2021-11-19 10:39:56,703] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:39:56,745] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:39:56,758] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.067 seconds
+[2021-11-19 10:40:34,012] {processor.py:163} INFO - Started process (PID=11001) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:40:34,013] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 10:40:34,015] {logging_mixin.py:109} INFO - [2021-11-19 10:40:34,014] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:40:34,104] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:40:34,113] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.131 seconds
+[2021-11-19 10:41:05,765] {processor.py:163} INFO - Started process (PID=11711) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:41:05,774] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 10:41:05,777] {logging_mixin.py:109} INFO - [2021-11-19 10:41:05,776] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:41:05,837] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:41:05,850] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.110 seconds
+[2021-11-19 10:41:37,986] {processor.py:163} INFO - Started process (PID=12646) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:41:37,987] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 10:41:37,988] {logging_mixin.py:109} INFO - [2021-11-19 10:41:37,988] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:41:38,002] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:41:38,006] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.023 seconds
+[2021-11-19 10:42:16,163] {processor.py:163} INFO - Started process (PID=13622) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:42:16,168] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 10:42:16,170] {logging_mixin.py:109} INFO - [2021-11-19 10:42:16,169] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:42:16,271] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:42:16,305] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.163 seconds
+[2021-11-19 10:42:47,411] {processor.py:163} INFO - Started process (PID=14356) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:42:47,412] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 10:42:47,413] {logging_mixin.py:109} INFO - [2021-11-19 10:42:47,413] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:42:47,433] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:42:47,436] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.029 seconds
+[2021-11-19 10:43:18,577] {processor.py:163} INFO - Started process (PID=15009) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:43:18,578] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 10:43:18,579] {logging_mixin.py:109} INFO - [2021-11-19 10:43:18,579] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:43:18,596] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:43:18,600] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.026 seconds
+[2021-11-19 10:43:49,072] {processor.py:163} INFO - Started process (PID=15527) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:43:49,073] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 10:43:49,074] {logging_mixin.py:109} INFO - [2021-11-19 10:43:49,073] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:43:49,091] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:43:49,095] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.026 seconds
+[2021-11-19 10:44:19,909] {processor.py:163} INFO - Started process (PID=16140) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:44:19,911] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 10:44:19,912] {logging_mixin.py:109} INFO - [2021-11-19 10:44:19,911] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:44:19,930] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:44:19,933] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.028 seconds
+[2021-11-19 10:44:50,702] {processor.py:163} INFO - Started process (PID=16715) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:44:50,703] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 10:44:50,705] {logging_mixin.py:109} INFO - [2021-11-19 10:44:50,705] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:44:50,718] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:44:50,721] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.022 seconds
+[2021-11-19 10:45:22,163] {processor.py:163} INFO - Started process (PID=17369) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:45:22,164] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 10:45:22,165] {logging_mixin.py:109} INFO - [2021-11-19 10:45:22,165] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:45:22,189] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:45:22,194] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.043 seconds
+[2021-11-19 10:45:55,628] {processor.py:163} INFO - Started process (PID=17903) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:45:55,631] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 10:45:55,636] {logging_mixin.py:109} INFO - [2021-11-19 10:45:55,636] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:45:55,677] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:45:55,683] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.059 seconds
+[2021-11-19 10:46:27,777] {processor.py:163} INFO - Started process (PID=18396) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:46:27,778] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 10:46:27,779] {logging_mixin.py:109} INFO - [2021-11-19 10:46:27,778] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:46:27,801] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:46:27,808] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.035 seconds
+[2021-11-19 10:46:58,404] {processor.py:163} INFO - Started process (PID=19162) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:46:58,405] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 10:46:58,405] {logging_mixin.py:109} INFO - [2021-11-19 10:46:58,405] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:46:58,427] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:46:58,430] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.029 seconds
+[2021-11-19 10:47:29,133] {processor.py:163} INFO - Started process (PID=19944) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:47:29,134] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 10:47:29,135] {logging_mixin.py:109} INFO - [2021-11-19 10:47:29,135] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:47:29,160] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:47:29,166] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.036 seconds
+[2021-11-19 10:47:59,568] {processor.py:163} INFO - Started process (PID=20878) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:47:59,569] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 10:47:59,571] {logging_mixin.py:109} INFO - [2021-11-19 10:47:59,570] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:47:59,589] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:47:59,592] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.027 seconds
+[2021-11-19 10:48:31,618] {processor.py:163} INFO - Started process (PID=21649) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:48:31,619] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 10:48:31,620] {logging_mixin.py:109} INFO - [2021-11-19 10:48:31,620] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:48:31,637] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:48:31,640] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.026 seconds
+[2021-11-19 10:49:02,904] {processor.py:163} INFO - Started process (PID=22183) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:49:02,905] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 10:49:02,928] {logging_mixin.py:109} INFO - [2021-11-19 10:49:02,927] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:49:02,989] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:49:02,992] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.092 seconds
+[2021-11-19 10:49:34,838] {processor.py:163} INFO - Started process (PID=22753) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:49:34,839] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 10:49:34,840] {logging_mixin.py:109} INFO - [2021-11-19 10:49:34,840] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:49:34,862] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:49:34,866] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.031 seconds
+[2021-11-19 10:50:06,754] {processor.py:163} INFO - Started process (PID=23237) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:50:06,756] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 10:50:06,757] {logging_mixin.py:109} INFO - [2021-11-19 10:50:06,756] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:50:06,773] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:50:06,775] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.026 seconds
+[2021-11-19 10:50:38,738] {processor.py:163} INFO - Started process (PID=23962) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:50:38,740] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 10:50:38,741] {logging_mixin.py:109} INFO - [2021-11-19 10:50:38,740] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:50:38,763] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:50:38,770] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.036 seconds
+[2021-11-19 10:51:11,455] {processor.py:163} INFO - Started process (PID=24502) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:51:11,456] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 10:51:11,457] {logging_mixin.py:109} INFO - [2021-11-19 10:51:11,457] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:51:11,477] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:51:11,484] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.032 seconds
+[2021-11-19 10:51:44,301] {processor.py:163} INFO - Started process (PID=25176) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:51:44,302] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 10:51:44,303] {logging_mixin.py:109} INFO - [2021-11-19 10:51:44,302] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:51:44,324] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:51:44,329] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.033 seconds
+[2021-11-19 10:52:15,997] {processor.py:163} INFO - Started process (PID=25819) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:52:15,999] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 10:52:15,999] {logging_mixin.py:109} INFO - [2021-11-19 10:52:15,999] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:52:16,021] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:52:16,029] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.034 seconds
+[2021-11-19 10:52:47,886] {processor.py:163} INFO - Started process (PID=26461) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:52:47,888] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 10:52:47,889] {logging_mixin.py:109} INFO - [2021-11-19 10:52:47,889] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:52:47,917] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:52:47,920] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.043 seconds
+[2021-11-19 10:53:19,564] {processor.py:163} INFO - Started process (PID=27082) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:53:19,565] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 10:53:19,566] {logging_mixin.py:109} INFO - [2021-11-19 10:53:19,566] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:53:19,588] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:53:19,592] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.032 seconds
+[2021-11-19 10:53:52,187] {processor.py:163} INFO - Started process (PID=27704) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:53:52,188] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 10:53:52,189] {logging_mixin.py:109} INFO - [2021-11-19 10:53:52,189] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:53:52,212] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:53:52,216] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.033 seconds
+[2021-11-19 10:54:23,981] {processor.py:163} INFO - Started process (PID=28373) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:54:23,982] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 10:54:23,983] {logging_mixin.py:109} INFO - [2021-11-19 10:54:23,983] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:54:24,020] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:54:24,026] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.051 seconds
+[2021-11-19 10:54:55,886] {processor.py:163} INFO - Started process (PID=29006) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:54:55,887] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 10:54:55,888] {logging_mixin.py:109} INFO - [2021-11-19 10:54:55,888] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:54:55,914] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:54:55,922] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.042 seconds
+[2021-11-19 10:55:27,302] {processor.py:163} INFO - Started process (PID=29622) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:55:27,303] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 10:55:27,304] {logging_mixin.py:109} INFO - [2021-11-19 10:55:27,304] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:55:27,329] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:55:27,334] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.034 seconds
+[2021-11-19 10:55:59,052] {processor.py:163} INFO - Started process (PID=30275) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:55:59,054] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 10:55:59,055] {logging_mixin.py:109} INFO - [2021-11-19 10:55:59,054] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:55:59,079] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:55:59,087] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.039 seconds
+[2021-11-19 10:56:31,130] {processor.py:163} INFO - Started process (PID=30913) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:56:31,131] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 10:56:31,132] {logging_mixin.py:109} INFO - [2021-11-19 10:56:31,132] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:56:31,148] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:56:31,153] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.026 seconds
+[2021-11-19 10:57:05,616] {processor.py:163} INFO - Started process (PID=31667) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:57:05,625] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 10:57:05,626] {logging_mixin.py:109} INFO - [2021-11-19 10:57:05,625] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:57:05,646] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:57:05,649] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.039 seconds
+[2021-11-19 10:57:36,864] {processor.py:163} INFO - Started process (PID=32523) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:57:36,865] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 10:57:36,865] {logging_mixin.py:109} INFO - [2021-11-19 10:57:36,865] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:57:36,886] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:57:36,890] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.030 seconds
+[2021-11-19 10:58:08,520] {processor.py:163} INFO - Started process (PID=630) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:58:08,521] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 10:58:08,522] {logging_mixin.py:109} INFO - [2021-11-19 10:58:08,522] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:58:08,536] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 10:58:08,539] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.023 seconds
+[2021-11-19 11:00:15,289] {processor.py:163} INFO - Started process (PID=1635) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:00:15,290] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:00:15,291] {logging_mixin.py:109} INFO - [2021-11-19 11:00:15,291] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:00:15,307] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:00:15,311] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.025 seconds
+[2021-11-19 11:00:47,589] {processor.py:163} INFO - Started process (PID=2759) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:00:47,589] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:00:47,590] {logging_mixin.py:109} INFO - [2021-11-19 11:00:47,590] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:00:47,613] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:00:47,616] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.031 seconds
+[2021-11-19 11:01:20,231] {processor.py:163} INFO - Started process (PID=4063) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:01:20,232] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:01:20,232] {logging_mixin.py:109} INFO - [2021-11-19 11:01:20,232] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:01:20,250] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:01:20,256] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.029 seconds
+[2021-11-19 11:01:53,186] {processor.py:163} INFO - Started process (PID=4607) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:01:53,192] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:01:53,195] {logging_mixin.py:109} INFO - [2021-11-19 11:01:53,194] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:01:53,268] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:01:53,276] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.105 seconds
+[2021-11-19 11:02:26,894] {processor.py:163} INFO - Started process (PID=5322) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:02:26,895] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:02:26,896] {logging_mixin.py:109} INFO - [2021-11-19 11:02:26,896] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:02:26,920] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:02:26,932] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.043 seconds
+[2021-11-19 11:02:58,230] {processor.py:163} INFO - Started process (PID=6083) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:02:58,230] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:02:58,231] {logging_mixin.py:109} INFO - [2021-11-19 11:02:58,231] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:02:58,246] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:02:58,249] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.024 seconds
+[2021-11-19 11:03:29,796] {processor.py:163} INFO - Started process (PID=6763) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:03:29,797] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:03:29,798] {logging_mixin.py:109} INFO - [2021-11-19 11:03:29,798] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:03:29,816] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:03:29,819] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.026 seconds
+[2021-11-19 11:04:01,367] {processor.py:163} INFO - Started process (PID=7491) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:04:01,368] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:04:01,370] {logging_mixin.py:109} INFO - [2021-11-19 11:04:01,369] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:04:01,391] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:04:01,394] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.030 seconds
+[2021-11-19 11:04:33,753] {processor.py:163} INFO - Started process (PID=8081) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:04:33,755] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:04:33,756] {logging_mixin.py:109} INFO - [2021-11-19 11:04:33,756] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:04:33,786] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:04:33,791] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.043 seconds
+[2021-11-19 11:05:06,457] {processor.py:163} INFO - Started process (PID=8656) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:05:06,459] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:05:06,460] {logging_mixin.py:109} INFO - [2021-11-19 11:05:06,459] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:05:06,490] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:05:06,494] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.041 seconds
+[2021-11-19 11:05:40,025] {processor.py:163} INFO - Started process (PID=9217) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:05:40,026] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:05:40,026] {logging_mixin.py:109} INFO - [2021-11-19 11:05:40,026] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:05:40,041] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:05:40,046] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.024 seconds
+[2021-11-19 11:06:12,228] {processor.py:163} INFO - Started process (PID=9775) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:06:12,229] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:06:12,230] {logging_mixin.py:109} INFO - [2021-11-19 11:06:12,230] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:06:12,247] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:06:12,251] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.027 seconds
+[2021-11-19 11:06:43,308] {processor.py:163} INFO - Started process (PID=10256) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:06:43,309] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:06:43,310] {logging_mixin.py:109} INFO - [2021-11-19 11:06:43,310] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:06:43,333] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:06:43,337] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.033 seconds
+[2021-11-19 11:07:15,658] {processor.py:163} INFO - Started process (PID=10889) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:07:15,659] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:07:15,661] {logging_mixin.py:109} INFO - [2021-11-19 11:07:15,661] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:07:15,689] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:07:15,693] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.040 seconds
+[2021-11-19 11:07:47,452] {processor.py:163} INFO - Started process (PID=11464) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:07:47,454] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:07:47,454] {logging_mixin.py:109} INFO - [2021-11-19 11:07:47,454] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:07:47,480] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:07:47,486] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.038 seconds
+[2021-11-19 11:08:19,214] {processor.py:163} INFO - Started process (PID=12144) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:08:19,215] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:08:19,215] {logging_mixin.py:109} INFO - [2021-11-19 11:08:19,215] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:08:19,232] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:08:19,235] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.026 seconds
+[2021-11-19 11:08:51,288] {processor.py:163} INFO - Started process (PID=12763) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:08:51,289] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:08:51,290] {logging_mixin.py:109} INFO - [2021-11-19 11:08:51,290] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:08:51,310] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:08:51,314] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.029 seconds
+[2021-11-19 11:09:23,354] {processor.py:163} INFO - Started process (PID=13455) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:09:23,355] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:09:23,356] {logging_mixin.py:109} INFO - [2021-11-19 11:09:23,356] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:09:23,378] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:09:23,382] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.032 seconds
+[2021-11-19 11:09:55,632] {processor.py:163} INFO - Started process (PID=14155) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:09:55,633] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:09:55,633] {logging_mixin.py:109} INFO - [2021-11-19 11:09:55,633] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:09:55,650] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:09:55,654] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.025 seconds
+[2021-11-19 11:10:26,964] {processor.py:163} INFO - Started process (PID=14797) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:10:26,966] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:10:26,967] {logging_mixin.py:109} INFO - [2021-11-19 11:10:26,967] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:10:26,984] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:10:26,988] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.028 seconds
+[2021-11-19 11:10:58,466] {processor.py:163} INFO - Started process (PID=15441) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:10:58,467] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:10:58,468] {logging_mixin.py:109} INFO - [2021-11-19 11:10:58,468] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:10:58,486] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:10:58,489] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.026 seconds
+[2021-11-19 11:11:30,798] {processor.py:163} INFO - Started process (PID=15965) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:11:30,799] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:11:30,799] {logging_mixin.py:109} INFO - [2021-11-19 11:11:30,799] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:11:30,820] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:11:30,824] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.029 seconds
+[2021-11-19 11:12:02,740] {processor.py:163} INFO - Started process (PID=16472) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:12:02,741] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:12:02,741] {logging_mixin.py:109} INFO - [2021-11-19 11:12:02,741] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:12:02,756] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:12:02,760] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.022 seconds
+[2021-11-19 11:12:35,994] {processor.py:163} INFO - Started process (PID=17026) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:12:35,995] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:12:35,996] {logging_mixin.py:109} INFO - [2021-11-19 11:12:35,996] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:12:36,017] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:12:36,021] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.031 seconds
+[2021-11-19 11:13:07,774] {processor.py:163} INFO - Started process (PID=17584) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:13:07,774] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:13:07,775] {logging_mixin.py:109} INFO - [2021-11-19 11:13:07,775] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:13:07,790] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:13:07,792] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.022 seconds
+[2021-11-19 11:13:39,835] {processor.py:163} INFO - Started process (PID=18238) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:13:39,836] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:13:39,837] {logging_mixin.py:109} INFO - [2021-11-19 11:13:39,837] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:13:39,855] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:13:39,860] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.029 seconds
+[2021-11-19 11:14:11,342] {processor.py:163} INFO - Started process (PID=18741) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:14:11,343] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:14:11,344] {logging_mixin.py:109} INFO - [2021-11-19 11:14:11,344] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:14:11,367] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:14:11,374] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.035 seconds
+[2021-11-19 11:14:42,908] {processor.py:163} INFO - Started process (PID=19387) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:14:42,913] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:14:42,915] {logging_mixin.py:109} INFO - [2021-11-19 11:14:42,915] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:14:42,935] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:14:42,940] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.036 seconds
+[2021-11-19 11:15:14,185] {processor.py:163} INFO - Started process (PID=20031) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:15:14,186] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:15:14,186] {logging_mixin.py:109} INFO - [2021-11-19 11:15:14,186] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:15:14,203] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:15:14,207] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.025 seconds
+[2021-11-19 11:15:47,646] {processor.py:163} INFO - Started process (PID=20581) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:15:47,647] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:15:47,648] {logging_mixin.py:109} INFO - [2021-11-19 11:15:47,648] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:15:47,669] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:15:47,674] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.031 seconds
+[2021-11-19 11:16:20,630] {processor.py:163} INFO - Started process (PID=21170) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:16:20,631] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:16:20,632] {logging_mixin.py:109} INFO - [2021-11-19 11:16:20,632] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:16:20,650] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:16:20,655] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.029 seconds
+[2021-11-19 11:16:55,074] {processor.py:163} INFO - Started process (PID=21840) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:16:55,077] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:16:55,077] {logging_mixin.py:109} INFO - [2021-11-19 11:16:55,077] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:16:55,096] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:16:55,099] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.029 seconds
+[2021-11-19 11:17:28,070] {processor.py:163} INFO - Started process (PID=22439) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:17:28,071] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:17:28,080] {logging_mixin.py:109} INFO - [2021-11-19 11:17:28,079] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:17:28,106] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:17:28,110] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.055 seconds
+[2021-11-19 11:18:02,422] {processor.py:163} INFO - Started process (PID=23172) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:18:02,423] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:18:02,424] {logging_mixin.py:109} INFO - [2021-11-19 11:18:02,424] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:18:02,444] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:18:02,453] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.038 seconds
+[2021-11-19 11:18:35,373] {processor.py:163} INFO - Started process (PID=23857) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:18:35,375] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:18:35,376] {logging_mixin.py:109} INFO - [2021-11-19 11:18:35,376] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:18:35,408] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:18:35,412] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.048 seconds
+[2021-11-19 11:19:14,844] {processor.py:163} INFO - Started process (PID=24247) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:19:14,848] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:19:14,851] {logging_mixin.py:109} INFO - [2021-11-19 11:19:14,850] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:19:14,955] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:19:14,972] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.151 seconds
+[2021-11-19 11:19:48,945] {processor.py:163} INFO - Started process (PID=24766) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:19:48,947] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:19:48,950] {logging_mixin.py:109} INFO - [2021-11-19 11:19:48,949] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:19:49,052] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:19:49,060] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.141 seconds
+[2021-11-19 11:20:22,834] {processor.py:163} INFO - Started process (PID=25546) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:20:22,835] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:20:22,837] {logging_mixin.py:109} INFO - [2021-11-19 11:20:22,837] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:20:22,860] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:20:22,865] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.035 seconds
+[2021-11-19 11:20:54,770] {processor.py:163} INFO - Started process (PID=26291) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:20:54,772] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:20:54,772] {logging_mixin.py:109} INFO - [2021-11-19 11:20:54,772] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:20:54,791] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:20:54,794] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.028 seconds
+[2021-11-19 11:21:26,425] {processor.py:163} INFO - Started process (PID=26899) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:21:26,426] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:21:26,426] {logging_mixin.py:109} INFO - [2021-11-19 11:21:26,426] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:21:26,444] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:21:26,448] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.027 seconds
+[2021-11-19 11:21:59,223] {processor.py:163} INFO - Started process (PID=27552) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:21:59,224] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:21:59,225] {logging_mixin.py:109} INFO - [2021-11-19 11:21:59,224] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:21:59,245] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:21:59,248] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.029 seconds
+[2021-11-19 11:22:30,927] {processor.py:163} INFO - Started process (PID=28257) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:22:30,928] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:22:30,928] {logging_mixin.py:109} INFO - [2021-11-19 11:22:30,928] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:22:30,945] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:22:30,948] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.027 seconds
+[2021-11-19 11:23:03,299] {processor.py:163} INFO - Started process (PID=28986) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:23:03,300] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:23:03,301] {logging_mixin.py:109} INFO - [2021-11-19 11:23:03,301] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:23:03,325] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:23:03,329] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.034 seconds
+[2021-11-19 11:23:34,939] {processor.py:163} INFO - Started process (PID=29674) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:23:34,941] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:23:34,941] {logging_mixin.py:109} INFO - [2021-11-19 11:23:34,941] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:23:34,963] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:23:34,967] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.031 seconds
+[2021-11-19 11:24:06,497] {processor.py:163} INFO - Started process (PID=30383) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:24:06,498] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:24:06,498] {logging_mixin.py:109} INFO - [2021-11-19 11:24:06,498] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:24:06,518] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:24:06,522] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.027 seconds
+[2021-11-19 11:24:38,805] {processor.py:163} INFO - Started process (PID=31057) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:24:38,809] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:24:38,812] {logging_mixin.py:109} INFO - [2021-11-19 11:24:38,811] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:24:38,840] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:24:38,843] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.042 seconds
+[2021-11-19 11:25:10,779] {processor.py:163} INFO - Started process (PID=31554) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:25:10,780] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:25:10,781] {logging_mixin.py:109} INFO - [2021-11-19 11:25:10,780] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:25:10,799] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:25:10,803] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.027 seconds
+[2021-11-19 11:25:43,523] {processor.py:163} INFO - Started process (PID=32127) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:25:43,524] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:25:43,526] {logging_mixin.py:109} INFO - [2021-11-19 11:25:43,525] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:25:43,588] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:25:43,606] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.092 seconds
+[2021-11-19 11:26:17,279] {processor.py:163} INFO - Started process (PID=32702) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:26:17,280] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:26:17,281] {logging_mixin.py:109} INFO - [2021-11-19 11:26:17,281] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:26:17,299] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:26:17,305] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.030 seconds
+[2021-11-19 11:26:49,838] {processor.py:163} INFO - Started process (PID=752) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:26:49,840] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:26:49,841] {logging_mixin.py:109} INFO - [2021-11-19 11:26:49,841] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:26:49,893] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:26:49,901] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.068 seconds
+[2021-11-19 11:27:22,732] {processor.py:163} INFO - Started process (PID=1841) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:27:22,733] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:27:22,733] {logging_mixin.py:109} INFO - [2021-11-19 11:27:22,733] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:27:22,750] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:27:22,753] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.025 seconds
+[2021-11-19 11:27:56,134] {processor.py:163} INFO - Started process (PID=2577) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:27:56,136] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:27:56,137] {logging_mixin.py:109} INFO - [2021-11-19 11:27:56,137] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:27:56,157] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:27:56,171] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.042 seconds
+[2021-11-19 11:28:30,521] {processor.py:163} INFO - Started process (PID=3541) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:28:30,523] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:28:30,523] {logging_mixin.py:109} INFO - [2021-11-19 11:28:30,523] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:28:30,544] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:28:30,548] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.030 seconds
+[2021-11-19 11:29:02,889] {processor.py:163} INFO - Started process (PID=4330) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:29:02,891] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:29:02,891] {logging_mixin.py:109} INFO - [2021-11-19 11:29:02,891] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:29:02,918] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:29:02,924] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.038 seconds
+[2021-11-19 11:29:48,641] {processor.py:163} INFO - Started process (PID=4948) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:29:48,643] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:29:48,644] {logging_mixin.py:109} INFO - [2021-11-19 11:29:48,644] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:29:48,705] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:29:48,719] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.087 seconds
+[2021-11-19 11:30:24,675] {processor.py:163} INFO - Started process (PID=5449) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:30:24,677] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:30:24,679] {logging_mixin.py:109} INFO - [2021-11-19 11:30:24,679] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:30:24,722] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:30:24,732] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.065 seconds
+[2021-11-19 11:30:58,795] {processor.py:163} INFO - Started process (PID=6077) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:30:58,796] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:30:58,797] {logging_mixin.py:109} INFO - [2021-11-19 11:30:58,797] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:30:58,826] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:30:58,830] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.039 seconds
+[2021-11-19 11:31:31,204] {processor.py:163} INFO - Started process (PID=6784) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:31:31,206] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:31:31,209] {logging_mixin.py:109} INFO - [2021-11-19 11:31:31,209] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:31:31,233] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:31:31,236] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.036 seconds
+[2021-11-19 11:32:03,775] {processor.py:163} INFO - Started process (PID=7560) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:32:03,776] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:32:03,776] {logging_mixin.py:109} INFO - [2021-11-19 11:32:03,776] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:32:03,794] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:32:03,798] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.026 seconds
+[2021-11-19 11:32:36,119] {processor.py:163} INFO - Started process (PID=8220) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:32:36,121] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:32:36,121] {logging_mixin.py:109} INFO - [2021-11-19 11:32:36,121] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:32:36,137] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:32:36,141] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.027 seconds
+[2021-11-19 11:33:10,099] {processor.py:163} INFO - Started process (PID=8879) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:33:10,100] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:33:10,101] {logging_mixin.py:109} INFO - [2021-11-19 11:33:10,101] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:33:10,128] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:33:10,133] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.037 seconds
+[2021-11-19 11:33:42,601] {processor.py:163} INFO - Started process (PID=9526) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:33:42,602] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:33:42,603] {logging_mixin.py:109} INFO - [2021-11-19 11:33:42,603] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:33:42,623] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:33:42,627] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.028 seconds
+[2021-11-19 11:34:14,445] {processor.py:163} INFO - Started process (PID=10182) to work on /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:34:14,446] {processor.py:620} INFO - Processing file /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx for tasks to queue
+[2021-11-19 11:34:14,447] {logging_mixin.py:109} INFO - [2021-11-19 11:34:14,447] {dagbag.py:500} INFO - Filling up the DagBag from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:34:14,468] {processor.py:634} WARNING - No viable dags retrieved from /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx
+[2021-11-19 11:34:14,473] {processor.py:171} INFO - Processing /home/user/workspace/airflow/dags/data/sqlremoveduplicate.xlsx took 0.032 seconds

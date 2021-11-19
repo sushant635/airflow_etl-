@@ -1,0 +1,61 @@
+[2021-11-19 11:20:16,886] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: Outstanding_resport.put_excel scheduled__2021-11-18T00:00:00+00:00 [queued]>
+[2021-11-19 11:20:16,917] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: Outstanding_resport.put_excel scheduled__2021-11-18T00:00:00+00:00 [queued]>
+[2021-11-19 11:20:16,917] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-11-19 11:20:16,918] {taskinstance.py:1242} INFO - Starting attempt 1 of 2
+[2021-11-19 11:20:16,918] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-11-19 11:20:16,943] {taskinstance.py:1262} INFO - Executing <Task(PythonOperator): put_excel> on 2021-11-18 00:00:00+00:00
+[2021-11-19 11:20:16,949] {standard_task_runner.py:52} INFO - Started process 25407 to run task
+[2021-11-19 11:20:16,953] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'Outstanding_resport', 'put_excel', 'scheduled__2021-11-18T00:00:00+00:00', '--job-id', '81', '--raw', '--subdir', 'DAGS_FOLDER/outstanding_report.py', '--cfg-path', '/tmp/tmphk56cf6a', '--error-file', '/tmp/tmpqn32vuoz']
+[2021-11-19 11:20:16,958] {standard_task_runner.py:77} INFO - Job 81: Subtask put_excel
+[2021-11-19 11:20:17,038] {logging_mixin.py:109} INFO - Running <TaskInstance: Outstanding_resport.put_excel scheduled__2021-11-18T00:00:00+00:00 [running]> on host user-Latitude-3410
+[2021-11-19 11:20:17,130] {taskinstance.py:1414} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=shindesushant818@gmail.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=Outstanding_resport
+AIRFLOW_CTX_TASK_ID=put_excel
+AIRFLOW_CTX_EXECUTION_DATE=2021-11-18T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-11-18T00:00:00+00:00
+[2021-11-19 11:20:17,154] {transport.py:1819} INFO - Connected (version 2.0, client OpenSSH_7.4)
+[2021-11-19 11:20:17,479] {transport.py:1819} INFO - Auth banner: b'Authorized uses only. All activity may be monitored and reported.\n'
+[2021-11-19 11:20:17,481] {transport.py:1819} INFO - Authentication (publickey) failed.
+[2021-11-19 11:20:17,587] {transport.py:1819} INFO - Authentication (publickey) failed.
+[2021-11-19 11:20:17,699] {transport.py:1819} INFO - Authentication (password) successful!
+[2021-11-19 11:20:26,001] {sftp.py:158} INFO - [chan 0] Opened sftp connection (server version 3)
+[2021-11-19 11:20:26,031] {logging_mixin.py:109} INFO - 
+[2021-11-19 11:20:26,031] {python.py:152} INFO - Done. Returned value was: None
+[2021-11-19 11:20:26,048] {taskinstance.py:1280} INFO - Marking task as SUCCESS. dag_id=Outstanding_resport, task_id=put_excel, execution_date=20211118T000000, start_date=20211119T055016, end_date=20211119T055026
+[2021-11-19 11:20:26,096] {local_task_job.py:154} INFO - Task exited with return code 0
+[2021-11-19 11:20:26,146] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2021-11-19 11:20:34,189] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: Outstanding_resport.put_excel manual__2021-11-19T05:49:42.522615+00:00 [queued]>
+[2021-11-19 11:20:34,230] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: Outstanding_resport.put_excel manual__2021-11-19T05:49:42.522615+00:00 [queued]>
+[2021-11-19 11:20:34,240] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-11-19 11:20:34,242] {taskinstance.py:1242} INFO - Starting attempt 1 of 2
+[2021-11-19 11:20:34,246] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-11-19 11:20:34,356] {taskinstance.py:1262} INFO - Executing <Task(PythonOperator): put_excel> on 2021-11-19 05:49:42.522615+00:00
+[2021-11-19 11:20:34,379] {standard_task_runner.py:52} INFO - Started process 25814 to run task
+[2021-11-19 11:20:34,397] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'Outstanding_resport', 'put_excel', 'manual__2021-11-19T05:49:42.522615+00:00', '--job-id', '82', '--raw', '--subdir', 'DAGS_FOLDER/outstanding_report.py', '--cfg-path', '/tmp/tmp0m2xowov', '--error-file', '/tmp/tmpcxlwlffb']
+[2021-11-19 11:20:34,411] {standard_task_runner.py:77} INFO - Job 82: Subtask put_excel
+[2021-11-19 11:20:34,492] {logging_mixin.py:109} INFO - Running <TaskInstance: Outstanding_resport.put_excel manual__2021-11-19T05:49:42.522615+00:00 [running]> on host user-Latitude-3410
+[2021-11-19 11:20:34,577] {taskinstance.py:1414} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=shindesushant818@gmail.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=Outstanding_resport
+AIRFLOW_CTX_TASK_ID=put_excel
+AIRFLOW_CTX_EXECUTION_DATE=2021-11-19T05:49:42.522615+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2021-11-19T05:49:42.522615+00:00
+[2021-11-19 11:20:34,619] {transport.py:1819} INFO - Connected (version 2.0, client OpenSSH_7.4)
+[2021-11-19 11:20:34,974] {transport.py:1819} INFO - Auth banner: b'Authorized uses only. All activity may be monitored and reported.\n'
+[2021-11-19 11:20:34,975] {transport.py:1819} INFO - Authentication (publickey) failed.
+[2021-11-19 11:20:35,059] {transport.py:1819} INFO - Authentication (publickey) failed.
+[2021-11-19 11:20:35,116] {transport.py:1819} INFO - Authentication (password) successful!
+[2021-11-19 11:20:44,865] {sftp.py:158} INFO - [chan 0] Opened sftp connection (server version 3)
+[2021-11-19 11:20:44,989] {transport.py:1819} ERROR - Socket exception: Connection reset by peer (104)
+[2021-11-19 11:20:44,990] {logging_mixin.py:109} INFO - 
+[2021-11-19 11:20:44,991] {python.py:152} INFO - Done. Returned value was: None
+[2021-11-19 11:20:45,009] {taskinstance.py:1280} INFO - Marking task as SUCCESS. dag_id=Outstanding_resport, task_id=put_excel, execution_date=20211119T054942, start_date=20211119T055034, end_date=20211119T055045
+[2021-11-19 11:20:45,049] {local_task_job.py:154} INFO - Task exited with return code 0
+[2021-11-19 11:20:45,095] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check

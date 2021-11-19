@@ -1,0 +1,31 @@
+[2021-11-19 10:42:32,293] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: file_upload.put_excel scheduled__2021-11-07T00:00:00+00:00 [queued]>
+[2021-11-19 10:42:32,360] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: file_upload.put_excel scheduled__2021-11-07T00:00:00+00:00 [queued]>
+[2021-11-19 10:42:32,360] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-11-19 10:42:32,360] {taskinstance.py:1242} INFO - Starting attempt 1 of 2
+[2021-11-19 10:42:32,360] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-11-19 10:42:32,413] {taskinstance.py:1262} INFO - Executing <Task(PythonOperator): put_excel> on 2021-11-07 00:00:00+00:00
+[2021-11-19 10:42:32,443] {standard_task_runner.py:52} INFO - Started process 13936 to run task
+[2021-11-19 10:42:32,465] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'file_upload', 'put_excel', 'scheduled__2021-11-07T00:00:00+00:00', '--job-id', '73', '--raw', '--subdir', 'DAGS_FOLDER/file_loadin.py', '--cfg-path', '/tmp/tmpftd6jcp5', '--error-file', '/tmp/tmp16auhhri']
+[2021-11-19 10:42:32,488] {standard_task_runner.py:77} INFO - Job 73: Subtask put_excel
+[2021-11-19 10:42:32,603] {logging_mixin.py:109} INFO - Running <TaskInstance: file_upload.put_excel scheduled__2021-11-07T00:00:00+00:00 [running]> on host user-Latitude-3410
+[2021-11-19 10:42:32,713] {taskinstance.py:1414} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=airflow@example.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=file_upload
+AIRFLOW_CTX_TASK_ID=put_excel
+AIRFLOW_CTX_EXECUTION_DATE=2021-11-07T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-11-07T00:00:00+00:00
+[2021-11-19 10:42:32,763] {transport.py:1819} INFO - Connected (version 2.0, client OpenSSH_7.4)
+[2021-11-19 10:42:33,183] {transport.py:1819} INFO - Auth banner: b'Authorized uses only. All activity may be monitored and reported.\n'
+[2021-11-19 10:42:33,187] {transport.py:1819} INFO - Authentication (publickey) failed.
+[2021-11-19 10:42:33,380] {transport.py:1819} INFO - Authentication (publickey) failed.
+[2021-11-19 10:42:33,441] {transport.py:1819} INFO - Authentication (password) successful!
+[2021-11-19 10:42:40,734] {sftp.py:158} INFO - [chan 0] Opened sftp connection (server version 3)
+[2021-11-19 10:42:40,750] {logging_mixin.py:109} INFO - [Errno 2] No such file
+[2021-11-19 10:42:40,751] {python.py:152} INFO - Done. Returned value was: None
+[2021-11-19 10:42:40,767] {taskinstance.py:1280} INFO - Marking task as SUCCESS. dag_id=file_upload, task_id=put_excel, execution_date=20211107T000000, start_date=20211119T051232, end_date=20211119T051240
+[2021-11-19 10:42:40,804] {local_task_job.py:154} INFO - Task exited with return code 0
+[2021-11-19 10:42:40,847] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2021-11-19 10:42:40,880] {dagrun.py:491} INFO - Marking run <DagRun file_upload @ 2021-11-07 00:00:00+00:00: scheduled__2021-11-07T00:00:00+00:00, externally triggered: False> successful
